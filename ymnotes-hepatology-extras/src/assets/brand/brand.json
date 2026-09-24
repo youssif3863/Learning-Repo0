@@ -1,0 +1,66 @@
+{
+  "_note": [
+    "The single place the brand is configured. Nothing about YMnotes identity",
+    "may be written into a page template, a stylesheet or a script: change a URL",
+    "here and the header link, the QR artwork, the social page and the closing",
+    "page must all follow from this file, then be re-verified.",
+    "",
+    "`destinations` is the authority for every link and every QR. The strings",
+    "were decoded from the supplied brand artwork and are reproduced EXACTLY as",
+    "encoded - they must never be tidied, re-cased or 'corrected'.",
+    "",
+    "`brand_home_url` is where the header mark points. YMnotes has no separate",
+    "homepage today, so it falls back to the primary destination; when a site",
+    "exists, set it here and nothing else changes."
+  ],
+  "brand_name": "YMnotes",
+  "brand_line": "YMnotes Medical",
+  "brand_home_url": null,
+  "assets": {
+    "logo": "ymnotes-logo.svg",
+    "mark_horizontal": "ymnotes-mark-h.svg",
+    "symbol": "ymnotes-symbol.svg",
+    "wordmark": "ymnotes-wordmark.svg",
+    "wordmark_name": "ymnotes-wordmark-name.svg",
+    "watermark_wordmark": "ymnotes-mark-h.svg",
+    "watermark_emblem": "ymnotes-symbol.svg",
+    "final_page": "ymnotes-closing-page.pdf"
+  },
+  "header": {
+    "mark": "mark_horizontal",
+    "qr": "youtube",
+    "qr_asset": "qr-youtube-compact.svg"
+  },
+  "destinations": {
+    "youtube": {
+      "role": "primary",
+      "label": "YMnotes on YouTube",
+      "cta": "Subscribe",
+      "url": "https://youtube.com/@ymnotes?si=lJu1kuQj5x9LcjmA",
+      "qr_asset": "qr-youtube.svg",
+      "qr_asset_compact": "qr-youtube-compact.svg"
+    },
+    "telegram": {
+      "role": "secondary",
+      "label": "YMnotes on Telegram",
+      "cta": "Join",
+      "url": "https://t.me/ymnotesoffcial",
+      "qr_asset": "qr-telegram.svg"
+    },
+    "facebook": {
+      "role": "secondary",
+      "label": "YMnotes on Facebook",
+      "cta": "Follow",
+      "url": "https://www.facebook.com/share/1LtJoDhetP/",
+      "qr_asset": "qr-facebook.svg"
+    }
+  },
+  "publication": {
+    "_note": "PUBLIC BOOK IS NOT A BUILD REPORT. A reader-facing page may never disclose how the book was made - no tools, paths, hashes, scripts, gates or measurements. That belongs in the manifest, the QA reports and the ledger, where it can actually be checked.",
+    "imprint": "none",
+    "imprint_options": [
+      "none",
+      "minimal"
+    ]
+  }
+}

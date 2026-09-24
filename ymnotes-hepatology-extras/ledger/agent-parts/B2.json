@@ -1,0 +1,610 @@
+[
+ {
+  "id": "B2-01",
+  "hap_pages": [
+   34
+  ],
+  "source_excerpt": "In the severe form, the fibrous septa extend inside the lobule to form rosette formation and bridging fibrosis.",
+  "topic": "Chronic hepatitis pathology (severe form)",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   263
+  ],
+  "book_has": "Advanced disease: extensive interface hepatitis, confluent necrosis, bridging fibrosis, regenerative nodules, cirrhosis (p263); no mention of rosettes (searched: rosette)",
+  "new_contribution": "In severe chronic hepatitis, fibrous septa extend into the lobule producing rosette formation along with bridging fibrosis.",
+  "decision": "include",
+  "reason": "Rosette formation is a histological descriptor absent from the book; minor addition.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-02",
+  "hap_pages": [
+   34
+  ],
+  "source_excerpt": "The Metavir Score helps interpretation of the liver biopsy... Activity score scales from A0 (no activity) to A3... F0 (no fibrosis) to F4 (cirrhosis).",
+  "topic": "Chronic hepatitis definition, etiology, pathology, METAVIR",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   262,
+   263
+  ],
+  "book_has": "Definition >6 months, etiology list incl. methyldopa/isoniazid/methotrexate/nitrofurantoin, interface (piecemeal) hepatitis, METAVIR A0–A3/F0–F4 fully covered (p262–263)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered (book is more detailed).",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-03",
+  "hap_pages": [
+   35
+  ],
+  "source_excerpt": "Its overall prevalence in Egypt is 5%, mainly genotype D.",
+  "topic": "HBV prevalence in Egypt",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   265
+  ],
+  "book_has": "'In Egypt ... currently estimated to be below 2% in the general population. HBV genotype D is the predominant genotype' (p265)",
+  "new_contribution": "Source gives Egyptian HBV prevalence as 5%; book gives <2%.",
+  "decision": "discrepancy",
+  "reason": "Different prevalence figures for the same point (book notes decline after 1992 vaccination).",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-04",
+  "hap_pages": [
+   35
+  ],
+  "source_excerpt": "This occurs more readily with neonates (90%) or children (20-50% below the age of 5 years) than when HBV is acquired in adult life (<10%).",
+  "topic": "Age-dependent chronicity of HBV",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   265,
+   248
+  ],
+  "book_has": "Neonates ~90%, children <5 y 20–30%, adults <5% (p265); acute hepatitis chapter says chronic hepatitis in 5–10% (p248)",
+  "new_contribution": "Source: children <5 y 20–50%, adults <10%; book: children 20–30%, adults <5%.",
+  "decision": "discrepancy",
+  "reason": "Numeric mismatch for children and adult chronicity rates.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-05",
+  "hap_pages": [
+   35
+  ],
+  "source_excerpt": "More common in males.",
+  "topic": "Sex distribution of chronic HBV",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   265
+  ],
+  "book_has": "not found (searched: males, male, sex in Ch 20)",
+  "new_contribution": "Chronic hepatitis B is more common in males.",
+  "decision": "include",
+  "reason": "Epidemiological fact absent from book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-06",
+  "hap_pages": [
+   35
+  ],
+  "source_excerpt": "About 50% of HBsAg carriers have evidence of viral replication (HBeAg+/HBV DNA+).",
+  "topic": "Proportion of carriers with replication",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   265,
+   266
+  ],
+  "book_has": "not found (searched: 50%, replication, carriers)",
+  "new_contribution": "About 50% of HBsAg carriers have evidence of viral replication (HBeAg positive / HBV DNA positive).",
+  "decision": "include",
+  "reason": "Specific proportion absent from book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-07",
+  "hap_pages": [
+   35
+  ],
+  "source_excerpt": "About 20% of HBV carriers develop cirrhosis within 5 years of disease onset.",
+  "topic": "Rate of progression to cirrhosis in HBV",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   265
+  ],
+  "book_has": "Book lists cirrhosis complications as presentations but gives no progression rate (searched: within 5 years, 20%, cirrhosis)",
+  "new_contribution": "About 20% of HBV carriers develop cirrhosis within 5 years of disease onset.",
+  "decision": "include",
+  "reason": "Natural-history figure absent from book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-08",
+  "hap_pages": [
+   35
+  ],
+  "source_excerpt": "often in the third to fifth decade in life there is a change in host immunity, so that acute hepatitis develops",
+  "topic": "Immune-tolerant phase evolution",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   266
+  ],
+  "book_has": "Immune-tolerant (HBeAg+ chronic infection) described; common in those infected at birth; mostly monitored (p266). No timing of loss of tolerance (searched: decade, third)",
+  "new_contribution": "Patients in the immune-tolerant phase (mostly infected perinatally) often lose tolerance in the third to fifth decade, when acute hepatitis develops and chronic hepatitis can follow.",
+  "decision": "include",
+  "reason": "Adds timing/transition of immune-tolerant phase.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-09",
+  "hap_pages": [
+   35
+  ],
+  "source_excerpt": "Usually discovered when they are screened before donating blood for transfusion.",
+  "topic": "Inactive carrier detection",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   267
+  ],
+  "book_has": "Inactive carrier (HBeAg-negative chronic infection) features described (p267); mode of discovery not given (searched: donat, screen)",
+  "new_contribution": "Inactive HBV carriers are usually discovered on screening before blood donation.",
+  "decision": "include",
+  "reason": "Small clinical-context addition.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-10",
+  "hap_pages": [
+   35
+  ],
+  "source_excerpt": "with levels of HBV DNA, which are below 400 IU/L in their serum.",
+  "topic": "Inactive carrier HBV DNA threshold",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   266,
+   267
+  ],
+  "book_has": "HBV DNA usually <2,000 IU/mL (p266 table, p267)",
+  "new_contribution": "Source gives inactive-carrier HBV DNA as below 400 IU/L; book gives <2,000 IU/mL.",
+  "decision": "discrepancy",
+  "reason": "Different threshold (and unit IU/L in source looks unusual).",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-11",
+  "hap_pages": [
+   35
+  ],
+  "source_excerpt": "some patients may rarely have episodes of reactive hepatitis such as during chemotherapy for cancer or with bone marrow transplantation, so antiviral prophylaxis is indicated.",
+  "topic": "HBV reactivation and prophylaxis",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   267,
+   268,
+   269
+  ],
+  "book_has": "Reactivation may occur during chemotherapy/immunosuppressive therapy (p267, p268); 'Planned immunosuppressive therapy' listed as a factor in treatment decisions (p269); no explicit statement that prophylaxis is indicated (searched: prophyla, bone marrow)",
+  "new_contribution": "Inactive carriers may reactivate during cancer chemotherapy or bone marrow transplantation, so antiviral prophylaxis is indicated in these settings.",
+  "decision": "include",
+  "reason": "Book implies but does not state antiviral prophylaxis; bone marrow transplantation not named.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-12",
+  "hap_pages": [
+   35
+  ],
+  "source_excerpt": "There is an annual spontaneous clearance rate of HBsAg of 1-2%.",
+  "topic": "Spontaneous HBsAg clearance",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   267
+  ],
+  "book_has": "'Spontaneous HBsAg clearance occurs in approximately 1% per year' (p267)",
+  "new_contribution": "Source: 1–2% per year; book: ~1% per year.",
+  "decision": "discrepancy",
+  "reason": "Minor numeric difference on same point.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-13",
+  "hap_pages": [
+   36
+  ],
+  "source_excerpt": "Diagnosis of HBV infection depends on the detection of HBsAg... Hepatocytes with groundglass appearance represent the production of HBsAg",
+  "topic": "HBV investigations, treatment indications, aims",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   268,
+   269
+  ],
+  "book_has": "HBsAg >6 months, investigations list, ground-glass hepatocytes, treatment indications (DNA >2000, ALT, fibrosis, cirrhosis regardless of ALT), goals, HBeAg seroconversion, HBsAg loss (p268–269)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-14",
+  "hap_pages": [
+   36
+  ],
+  "source_excerpt": "If HBeAg disappears, remission is usually sustained for many years.",
+  "topic": "Durability of HBeAg loss",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   269
+  ],
+  "book_has": "HBeAg seroconversion described as an important treatment milestone (p269); durability not stated (searched: sustained, remission)",
+  "new_contribution": "When HBeAg disappears (seroconversion), remission is usually sustained for many years, although most patients remain HBsAg positive.",
+  "decision": "include",
+  "reason": "Adds prognostic meaning of HBeAg loss.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-15",
+  "hap_pages": [
+   36
+  ],
+  "source_excerpt": "Younger patients with higher serum aminotransferase values (3x the upper limit of normal), with viral loads <10 IU/ml respond best.",
+  "topic": "Predictors of interferon response in HBV",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   271
+  ],
+  "book_has": "Best candidates: younger patients, elevated ALT, lower HBV DNA, genotypes A/B (p271)",
+  "new_contribution": "Best interferon response is seen in younger patients with ALT about 3x the upper limit of normal.",
+  "decision": "include",
+  "reason": "Adds the 3x ULN ALT threshold; the viral-load figure '<10 IU/ml' is omitted because it appears garbled.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-16",
+  "hap_pages": [
+   36
+  ],
+  "source_excerpt": "Pegylated α 2a interferon (180 μg once a week subcutaneously) gives response rates of 25-45% after 48 weeks",
+  "topic": "Peg-IFN response rate in HBV",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   270,
+   271
+  ],
+  "book_has": "Dose 180 μg weekly for 48 weeks, advantages, adverse effects covered (p270–271); no response rate (searched: 25, 40%, 45)",
+  "new_contribution": "Pegylated interferon α-2a for 48 weeks gives response rates (HBeAg disappearance) of about 25–45%.",
+  "decision": "include",
+  "reason": "Response-rate figure absent. Source itself gives two slightly different ranges (25–45% and 25–40%).",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-17",
+  "hap_pages": [
+   37
+  ],
+  "source_excerpt": "It can also be used in patients with lamivudine mutations, but not on its own for adefovir mutations.",
+  "topic": "Tenofovir in resistant HBV",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   270
+  ],
+  "book_has": "Tenofovir 300 mg, TAF 25 mg, monitoring renal/phosphate/BMD covered; entecavir 1 mg for lamivudine resistance (p270); tenofovir use in resistance not stated (searched: mutation, resistance)",
+  "new_contribution": "Tenofovir can be used in patients with lamivudine-resistant mutations, but not on its own for adefovir-resistant mutations.",
+  "decision": "include",
+  "reason": "Resistance-specific use absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-18",
+  "hap_pages": [
+   37
+  ],
+  "source_excerpt": "Serum HBV DNA becomes negative in 67% (HBeAg-positive patients) and 90% (HBeAg-negative patients) by 48 weeks.",
+  "topic": "Entecavir efficacy",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   270
+  ],
+  "book_has": "Entecavir 0.5 mg/1 mg, highly effective, very low resistance (p270); no efficacy figures (searched: 67, 48 weeks)",
+  "new_contribution": "With entecavir, serum HBV DNA becomes negative by 48 weeks in 67% of HBeAg-positive and 90% of HBeAg-negative patients.",
+  "decision": "include",
+  "reason": "Quantitative efficacy absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-19",
+  "hap_pages": [
+   37
+  ],
+  "source_excerpt": "Lamivudine, 100 mg/day given orally, is well tolerated. However there is the problem of viral resistance due to YMDD mutant.",
+  "topic": "Lamivudine resistance mechanism",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   270
+  ],
+  "book_has": "Lamivudine listed among drugs no longer first-line because of high resistance (p270); YMDD not named (searched: YMDD, mutant)",
+  "new_contribution": "Lamivudine (100 mg/day) is well tolerated but limited by viral resistance due to the YMDD mutant.",
+  "decision": "include",
+  "reason": "Names the resistance mutation; dose absent. Lamivudine is outdated as first-line (book).",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-20",
+  "hap_pages": [
+   37
+  ],
+  "source_excerpt": "Hepatitis Delta could be treated by Pegylated interferon alpha or by a new oral antiviral Bulevirtide",
+  "topic": "HDV treatment",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   271
+  ],
+  "book_has": "Peg-IFN-α and bulevirtide listed (p271)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-21",
+  "hap_pages": [
+   37
+  ],
+  "source_excerpt": "HCV Infection has the propensity to become a chronic hepatitis in 80%of cases... Hepatocellular carcinoma occurs in about 15% of cirrhotic patients.",
+  "topic": "Chronic HCV clinical features and extrahepatic manifestations",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   271,
+   272
+  ],
+  "book_has": "Chronic HCV section is inside Ch 20 (p271–273); clinical features reproduced verbatim; extrahepatic list (cryoglobulinemia, MPGN, PCT, NHL, vasculitis, DM) (p272)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-22",
+  "hap_pages": [
+   38
+  ],
+  "source_excerpt": "HCV Ab by ELISA to indicate infection or exposure. HCV RNA by PCR to indicate viral replication.",
+  "topic": "Chronic HCV diagnosis",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   272
+  ],
+  "book_has": "Anti-HCV, HCV RNA PCR, biopsy findings, ALT pattern reproduced (p272)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-23",
+  "hap_pages": [
+   38
+  ],
+  "source_excerpt": "DAAs target specific non-structural (NS) proteins that are vital to the replication of HCV and result in disruption of viral replication and infection.",
+  "topic": "Mechanism of DAAs",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   272,
+   256
+  ],
+  "book_has": "DAAs revolutionized treatment, SVR >95% (p272); HCV genome encodes non-structural proteins (p256); DAA mechanism not stated (searched: non-structural, NS protein, mechanism)",
+  "new_contribution": "DAAs act by targeting specific HCV non-structural (NS) proteins that are vital for viral replication, thereby disrupting replication and infection.",
+  "decision": "include",
+  "reason": "Mechanism absent from book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-24",
+  "hap_pages": [
+   38
+  ],
+  "source_excerpt": "400mg tablet once daily with or without food ... Adverse effects in 10% of cases: fatigue, headache, anorexia & insomnia.",
+  "topic": "Sofosbuvir details",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   272
+  ],
+  "book_has": "Sofosbuvir/Velpatasvir 12 weeks named as first-line (p272); no dose or adverse effects (searched: sofosbuvir, 400 mg)",
+  "new_contribution": "Sofosbuvir is pangenotypic and the backbone of most regimens: 400 mg once daily with or without food; used with care in advanced liver disease; adverse effects (~10%) include fatigue, headache, anorexia and insomnia.",
+  "decision": "include",
+  "reason": "Drug dose/adverse effects absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-25",
+  "hap_pages": [
+   38
+  ],
+  "source_excerpt": "Daclatasvir: 1 tablets, 60mg each, are given once daily ... Sofosbuvir-Ledipasvir (Harvoni): One tablet (400 mg Sofosbuvir-90 mg Ledipasvir), once daily.",
+  "topic": "Daclatasvir / ledipasvir doses",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   272
+  ],
+  "book_has": "Book mentions Sofosbuvir/Daclatasvir and Sofosbuvir/Ledipasvir as earlier combinations largely replaced (p272); no doses",
+  "new_contribution": "Daclatasvir is given as 60 mg once daily; ledipasvir is available only as a fixed-dose tablet with sofosbuvir (400 mg/90 mg, Harvoni) once daily.",
+  "decision": "include",
+  "reason": "Doses absent; mark program-specific/older regimen (book states these have largely been replaced).",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-26",
+  "hap_pages": [
+   38
+  ],
+  "source_excerpt": "Ribavirin ... 600 to 1200mg/day orally according to weight. AE: hemolytic anemia, teratogenesis & causes sperm abnormalities.",
+  "topic": "Ribavirin dose and adverse effects",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   273
+  ],
+  "book_has": "Ribavirin used only in selected difficult-to-treat patients (p273); no dose or AEs (searched: hemolytic, teratogen, sperm)",
+  "new_contribution": "Ribavirin (adjuvant) is dosed at 600–1200 mg/day orally according to weight; adverse effects are hemolytic anemia, teratogenicity and sperm abnormalities.",
+  "decision": "include",
+  "reason": "Clinically important toxicity absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-27",
+  "hap_pages": [
+   38
+  ],
+  "source_excerpt": "Pegylated interferon: α 2a (Pegasys) 180 μg/week SC, or α 2b (Pegintron) 1.5 μg/Kg/ week SC... The new treatment trend is for IFN free regimens",
+  "topic": "Peg-IFN in HCV",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   273
+  ],
+  "book_has": "Peg-IFN no longer recommended for routine HCV treatment (p273)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Outdated for HCV; book already states IFN-free approach.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-28",
+  "hap_pages": [
+   39
+  ],
+  "source_excerpt": "nosocomial infection due to medical procedures performed without appropriate cleaning or disinfection ... such as in circumcision, dentistry practices",
+  "topic": "Egypt HCV transmission factors",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   273
+  ],
+  "book_has": "Book attributes epidemic to inadequately sterilized needles in antischistosomal campaigns (p273); other nosocomial routes not given (searched: circumcision, dentist, nosocomial)",
+  "new_contribution": "Besides the parenteral antischistosomal campaigns, Egypt's high HCV prevalence is partly due to nosocomial infection from inadequately disinfected equipment (e.g., circumcision, dental practice) and prevailing social/cultural behaviour.",
+  "decision": "include",
+  "reason": "Additional transmission factors absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-29",
+  "hap_pages": [
+   39
+  ],
+  "source_excerpt": "creation of the national Committee for control of viral hepatitis (2007) ... national network of treatment centers (NNTC) through the internet",
+  "topic": "Egyptian national HCV response (history)",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   273
+  ],
+  "book_has": "Book mentions elimination program from 2014 and 100 Million Healthy Lives (p273); not found (searched: committee, 2007, network)",
+  "new_contribution": "Egypt created the National Committee for Control of Viral Hepatitis (2007) and an internet-based national network of treatment centres allowing nationwide patient registration; >350,000 patients were treated with pegylated IFN–ribavirin.",
+  "decision": "include",
+  "reason": "Program-specific historical detail.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-30",
+  "hap_pages": [
+   39
+  ],
+  "source_excerpt": "Screening was done for more than 49 million of the population, the prevalence of HCV was 4.4 % all over the country.",
+  "topic": "Egypt screening campaign results",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   273
+  ],
+  "book_has": "'approximately 60 million people have been screened' (p273); prevalence figure not given",
+  "new_contribution": "Source: during Oct 2018–May 2019 >49 million were screened with HCV prevalence 4.4%; book: ~60 million screened to date.",
+  "decision": "discrepancy",
+  "reason": "Screening numbers differ (possibly different time frames); 4.4% prevalence figure is absent from book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-31",
+  "hap_pages": [
+   39
+  ],
+  "source_excerpt": "The screening also aimed for detection of non-communicable diseases among population (hypertension, DM, Obesity).",
+  "topic": "Egypt screening campaign scope",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   273
+  ],
+  "book_has": "not found (searched: non-communicable, hypertension, obesity near HCV)",
+  "new_contribution": "The 2018–2019 Egyptian HCV screening campaign also screened for non-communicable diseases (hypertension, diabetes, obesity).",
+  "decision": "include",
+  "reason": "Program-specific detail absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-32",
+  "hap_pages": [
+   40
+  ],
+  "source_excerpt": "Easy to treat group: Treatment Naive S bilirubin ≤1.2 mg/dl- Serum Albumin ≥3.5 g/dl – INR 1.2, Platelet count ≥150 000/mm3.",
+  "topic": "Egyptian HCV treatment program criteria and regimens",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   272,
+   273
+  ],
+  "book_has": "Book gives Sofosbuvir/Velpatasvir 12 weeks, ribavirin for difficult-to-treat/previous DAA failure (p272–273); no easy/difficult-to-treat criteria (searched: easy to treat, 24 weeks)",
+  "new_contribution": "In the Egyptian program, 'easy-to-treat' patients (naive, bilirubin ≤1.2 mg/dl, albumin ≥3.5 g/dl, INR 1.2, platelets ≥150,000) receive sofosbuvir + daclatasvir for 12 weeks; 'not-easy-to-treat' (Peg-IFN experienced, bilirubin ≥1.5, albumin ≤3.2, INR ≥1.5, platelets ≤100,000) add ribavirin for 12 weeks; relapse after sofosbuvir-based therapy is retreated with sofosbuvir + daclatasvir + ribavirin for 24 weeks; CKD patients receive the usual regimen.",
+  "decision": "include",
+  "reason": "Program-specific national protocol.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-33",
+  "hap_pages": [
+   40
+  ],
+  "source_excerpt": "The patient is cured when HCV RNA is negative 3 months after the end of treatment",
+  "topic": "SVR definition and HBV vaccination",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   273
+  ],
+  "book_has": "SVR12 = undetectable HCV RNA 12 weeks after therapy; vaccinate against HAV and HBV (p273)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-34",
+  "hap_pages": [
+   41
+  ],
+  "source_excerpt": "Type 1: ... (ANA), anti-smooth muscle antibody (ASMA). Type 2: ... (LKM-1), anti-liver cytosole antibody-1 (LC I)",
+  "topic": "AIH definition, types, clinical picture, diagnosis",
+  "book_chapter": "21 Autoimmune Hepatitis",
+  "book_pages": [
+   275,
+   276
+  ],
+  "book_has": "Reproduced nearly verbatim (p275–276)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B2-35",
+  "hap_pages": [
+   42
+  ],
+  "source_excerpt": "AST ≥10 x ULN; AST ≥5 x ULN + GG ≥2 x ULN ... prednisone 0.5-1 mg/Kg ... azathioprine (1-2 mg/Kg",
+  "topic": "AIH treatment indications, drugs, remission, prognosis",
+  "book_chapter": "21 Autoimmune Hepatitis",
+  "book_pages": [
+   276,
+   277
+  ],
+  "book_has": "Indications, prednisone/azathioprine doses, remission criteria, 65%/80% remission, 10-year survival 90%, transplantation covered (p276–277)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ }
+]

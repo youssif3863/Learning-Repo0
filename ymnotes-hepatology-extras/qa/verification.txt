@@ -1,0 +1,17 @@
+contents GOTO links: 12 chapters: 12
+PASS 17 -> page label 2
+PASS 18 -> page label 2
+PASS 19 -> page label 5
+PASS 20 -> page label 6
+PASS 21 -> page label 7
+PASS 22 -> page label 7
+PASS 23 -> page label 8
+PASS 27 -> page label 9
+PASS 28 -> page label 11
+PASS 29 -> page label 11
+PASS 30 -> page label 12
+PASS 31 -> page label 13
+bookmarks: 15
+font types: {'Type0'}
+pages 15 labels ['Cover', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', 'YMnotes']
+OVERALL PASS

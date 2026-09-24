@@ -1,0 +1,783 @@
+[
+ {
+  "id": "D-01",
+  "hap_pages": [
+   57
+  ],
+  "source_excerpt": "Increased blood flow: Idiopathic tropical splenomegaly, Arteriovenous fistula",
+  "topic": "Causes of portal hypertension: increased portal inflow",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   309,
+   310
+  ],
+  "book_has": "Classification only by site of obstruction (prehepatic/intrahepatic/posthepatic), p309-310; no increased-flow category. not found (searched: increased flow, arteriovenous fistula, tropical splenomegaly)",
+  "new_contribution": "Besides obstruction, portal hypertension can result from increased portal blood flow, e.g. idiopathic tropical splenomegaly and arteriovenous fistula.",
+  "decision": "include",
+  "reason": "Mechanistic category absent from book classification",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "D-02",
+  "hap_pages": [
+   57
+  ],
+  "source_excerpt": "Splenic vein: Thrombosis, Invasion or compression by tumour",
+  "topic": "Prehepatic causes: splenic vein and tumour compression",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   309,
+   310
+  ],
+  "book_has": "Prehepatic causes limited to portal vein thrombosis causes (idiopathic, umbilical sepsis, infection, viscosity, HCC, congenital), p309-310. not found (searched: splenic vein thromb, compression by tumour)",
+  "new_contribution": "Prehepatic obstruction also includes splenic vein thrombosis and invasion or compression of the portal or splenic vein by tumour.",
+  "decision": "include",
+  "reason": "Additional prehepatic causes shown only in source figure",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "D-03",
+  "hap_pages": [
+   57
+  ],
+  "source_excerpt": "'Pre-sinusoidal' ... Early primary biliary cirrhosis, Chronic active hepatitis ... Toxins: vinyl chloride arsenic, copper, Idiopathic portal hypertension",
+  "topic": "Presinusoidal causes (extra items)",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   310
+  ],
+  "book_has": "Presinusoidal: schistosomiasis, Hodgkin's, leukemia, sarcoidosis, congenital hepatic fibrosis, arsenic (p310). Vinyl chloride appears only in cholestasis list (Ch 29). not found (searched: idiopathic portal, vinyl, copper, chronic active hepatitis in Ch 23)",
+  "new_contribution": "Other presinusoidal causes: early primary biliary cirrhosis, chronic active hepatitis, toxins (vinyl chloride, arsenic, copper) and idiopathic portal hypertension.",
+  "decision": "include",
+  "reason": "Figure lists presinusoidal causes not in book list",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "D-04",
+  "hap_pages": [
+   57
+  ],
+  "source_excerpt": "'Sinusoidal' Cirrhosis Non-cirrhotic: Acute alcoholic hepatitis, Cytotoxic drugs, Vitamin A intoxication; 'Post-sinusoidal' Venocclusive disease, Alcoholic central hyaline sclerosis",
+  "topic": "Sinusoidal/postsinusoidal causes (extra items)",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   310
+  ],
+  "book_has": "Sinusoidal/postsinusoidal: cirrhosis, alcoholic hepatitis, veno-occlusive disease (p310). not found (searched: vitamin A, cytotoxic, hyaline, non-cirrhotic)",
+  "new_contribution": "Non-cirrhotic sinusoidal causes include cytotoxic drugs and vitamin A intoxication; alcoholic central hyaline sclerosis is a post-sinusoidal cause.",
+  "decision": "include",
+  "reason": "Figure-only causes absent from book",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "D-05",
+  "hap_pages": [
+   59
+  ],
+  "source_excerpt": "The spleen is enlarged due to portal hypertension and also due to reticulo-endothelial hyperplasia.",
+  "topic": "Mechanism of splenomegaly",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   311,
+   312
+  ],
+  "book_has": "Splenomegaly and hypersplenism with thrombocytopenia listed (p311-312); mechanism not given. not found (searched: reticulo, hyperplasia)",
+  "new_contribution": "Splenomegaly in portal hypertension results both from congestion (raised portal pressure) and from reticulo-endothelial hyperplasia.",
+  "decision": "include",
+  "reason": "Mechanism absent",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-06",
+  "hap_pages": [
+   60
+  ],
+  "source_excerpt": "liver stiffness measurement value by transient elastography of > 25 kPa is sufficient to diagnose CSPH ... treated with carvedilol",
+  "topic": "Elastography threshold for CSPH",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   285,
+   313
+  ],
+  "book_has": "cACLD/CSPH concept and FibroScan to identify CSPH risk, treat with NSBB like carvedilol (p285); Baveno VII mentioned. No numeric cut-off. not found (searched: kPa, 25, liver stiffness)",
+  "new_contribution": "A liver stiffness value >25 kPa on transient elastography is sufficient to diagnose CSPH, and such patients are treated with carvedilol to reduce the risk of decompensation.",
+  "decision": "include",
+  "reason": "Specific numeric threshold absent",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-07",
+  "hap_pages": [
+   60
+  ],
+  "source_excerpt": "Esophageal variceal hemorrhage accounts for about 1/3 of deaths in patients with cirrhosis &portal hypertension.",
+  "topic": "Mortality burden of variceal bleeding",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   313
+  ],
+  "book_has": "'accounts for a significant proportion of deaths' (p313)",
+  "new_contribution": "Variceal hemorrhage accounts for about one-third of deaths in patients with cirrhosis and portal hypertension.",
+  "decision": "include",
+  "reason": "Source is more specific (quantified)",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-08",
+  "hap_pages": [
+   61
+  ],
+  "source_excerpt": "Oral Propranolal, in a dose sufficient to reduce the resting pulse t by 25% (80-160 mg/day) for life.",
+  "topic": "Propranolol for primary prophylaxis",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   313
+  ],
+  "book_has": "Only carvedilol 6.25 mg twice daily named (p313). not found (searched: propranolol, propanol, resting pulse, 25%)",
+  "new_contribution": "Oral propranolol (80-160 mg/day) is an alternative, titrated to reduce resting pulse by 25%, and continued for life.",
+  "decision": "include",
+  "reason": "Drug, dose and titration target absent",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-09",
+  "hap_pages": [
+   61
+  ],
+  "source_excerpt": "the portal inflow is reduced by decrease in cardiac output ( β1 ) and by blockade of β2 vasodilator receptor on the splanchnic arteries.",
+  "topic": "Mechanism of non-selective beta-blockers",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   313
+  ],
+  "book_has": "NSBB reduce risk of variceal bleeding and gastropathy bleeding (p313); mechanism not given. not found (searched: cardiac output, β2, beta 2, vasodilator receptor)",
+  "new_contribution": "Non-selective beta-blockers reduce portal inflow by lowering cardiac output (β1 blockade) and by blocking β2 vasodilator receptors on splanchnic arteries.",
+  "decision": "include",
+  "reason": "Mechanism absent",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-10",
+  "hap_pages": [
+   61
+  ],
+  "source_excerpt": "It is as effective as banding.",
+  "topic": "NSBB vs band ligation (primary prophylaxis)",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   313,
+   314
+  ],
+  "book_has": "Band ligation used when β-blockers contraindicated/not tolerated (p314); no efficacy comparison. not found (searched: as effective as, effective)",
+  "new_contribution": "For primary prophylaxis, non-selective beta-blockers are as effective as band ligation.",
+  "decision": "include",
+  "reason": "Comparative statement absent",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-11",
+  "hap_pages": [
+   61
+  ],
+  "source_excerpt": "Restore blood volume ... the aim is to maintain systolic blood pressure at 100mmHg.",
+  "topic": "Resuscitation haemodynamic target",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   314,
+   315
+  ],
+  "book_has": "Monitor pulse/BP; restrictive transfusion target Hb 7-8 g/dL (p315); no BP target. not found (searched: systolic, 100)",
+  "new_contribution": "During resuscitation of variceal bleeding, aim to maintain systolic blood pressure at about 100 mmHg.",
+  "decision": "include",
+  "reason": "Target absent (note transfusion-target discrepancy in separate row)",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-12",
+  "hap_pages": [
+   62
+  ],
+  "source_excerpt": "Gastric varices and big esophageal varices are injected with an adhesive substance (Histoacryl blue)",
+  "topic": "Tissue adhesive indications",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   315
+  ],
+  "book_has": "'Large gastric varices may require injection of tissue adhesives (Histoacryl)' (p315)",
+  "new_contribution": "Tissue adhesive (Histoacryl blue) injection is used for gastric varices and also for big oesophageal varices.",
+  "decision": "include",
+  "reason": "Source extends indication to large oesophageal varices",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-13",
+  "hap_pages": [
+   62
+  ],
+  "source_excerpt": "Terlipressin: 2 mg/ 6 hours IV then 1mg/4hours for 2-5 days.",
+  "topic": "Terlipressin dose in variceal bleeding",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   315
+  ],
+  "book_has": "Terlipressin 'usually continued for 2-5 days' (p315); no dose. Dose (1 mg/4-6 h) only given for HRS in Ch 28 (p347). not found in Ch 23 (searched: terlipressin, 2 mg, mg)",
+  "new_contribution": "Terlipressin for variceal bleeding: 2 mg IV every 6 hours, then 1 mg every 4 hours, for 2-5 days.",
+  "decision": "include",
+  "reason": "Dosing regimen absent in Ch 23",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-14",
+  "hap_pages": [
+   62
+  ],
+  "source_excerpt": "Patients should have nil by mouth until bleeding has stopped.",
+  "topic": "Oral intake during variceal bleeding",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   316
+  ],
+  "book_has": "Ch 23 additional measures list omits it (p316); Ch 03 UGIB says 'keep NPO until endoscopy' (book1 printed 50). searched: nil by mouth, NPO, oral intake",
+  "new_contribution": "In acute variceal bleeding, keep the patient nil by mouth until bleeding has stopped.",
+  "decision": "include",
+  "reason": "Absent from variceal section; general UGIB statement differs in endpoint",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-15",
+  "hap_pages": [
+   62
+  ],
+  "source_excerpt": "can be used if endoscopic therapy or vasoconstrictive therapy has failed or not available.",
+  "topic": "Indication for balloon tamponade",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   316
+  ],
+  "book_has": "'Balloon tamponade is now rarely used because of serious complications, particularly aspiration and esophageal injury' (p316); no indication. searched: tamponade, Sengstaken, Minnesota",
+  "new_contribution": "Balloon tamponade can still be used when endoscopic or vasoconstrictor therapy has failed or is not available.",
+  "decision": "include",
+  "reason": "Indication absent",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-16",
+  "hap_pages": [
+   62
+  ],
+  "source_excerpt": "TIPS is used when bleeding cannot be stopped or early rebleeding occurs after endoscopic therapy within 5 days.",
+  "topic": "TIPS timing criterion",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   316
+  ],
+  "book_has": "Heading 'Management of Failure or Early Rebleeding' and TIPS for refractory bleeding (p316); no time window. not found (searched: 5 days, within 5)",
+  "new_contribution": "TIPS is indicated when bleeding cannot be stopped or when early rebleeding occurs within 5 days of endoscopic therapy.",
+  "decision": "include",
+  "reason": "Specific time window absent",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-17",
+  "hap_pages": [
+   63
+  ],
+  "source_excerpt": "The shunts are usually end-to- side portocaval anastomosis or splenorenal shunts (Warren)",
+  "topic": "Types of surgical portosystemic shunt",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   317
+  ],
+  "book_has": "'Surgical shunts decompress the portal circulation and reduce rebleeding but may produce significant hepatic encephalopathy' (p317); types not named. not found (searched: portocaval, splenorenal, Warren, end-to-side)",
+  "new_contribution": "Surgical shunts are usually an end-to-side portocaval anastomosis or a (Warren) splenorenal shunt.",
+  "decision": "include",
+  "reason": "Shunt types absent",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-18",
+  "hap_pages": [
+   64
+  ],
+  "source_excerpt": "The syndrome does not complicate portal venous occlusion alone. It may be terminal in chronic cholestasis, such as primary biliary cirrhosis.",
+  "topic": "Liver cell failure: scope",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   237,
+   238
+  ],
+  "book_has": "Features of hepato-cellular failure listed (p237-238); no statement on which diseases it complicates. not found (searched: portal venous occlusion, does not complicate, terminal)",
+  "new_contribution": "Hepatocellular failure complicates almost all liver diseases but not portal venous occlusion alone; it may be the terminal event in chronic cholestasis such as primary biliary cirrhosis, and its picture and treatment are similar whatever the cause.",
+  "decision": "include",
+  "reason": "Clinical distinction absent",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-19",
+  "hap_pages": [
+   64
+  ],
+  "source_excerpt": "Principal Functions Of The Liver ... Detoxification of ammonia through urea cycle ... Steroid and hormone binding proteins ... Kupffer cells.",
+  "topic": "Principal functions of the liver",
+  "book_chapter": "17 Hepatology and Hepatic Surgery",
+  "book_pages": [
+   233,
+   235
+  ],
+  "book_has": "Anatomy, blood supply, lobule/acinus, Kupffer cells, space of Disse (p233-235); no list of liver functions. not found (searched: functions of the liver, principal function, acute phase, binding protein, urea cycle)",
+  "new_contribution": "Principal liver functions: bile formation and secretion; metabolism of carbohydrates, amino acids, lipids and vitamins; inactivation of ammonia (urea cycle), toxins, steroids and hormones; synthesis of acute-phase proteins, albumin, clotting factors and binding proteins; immune function (Kupffer cells).",
+  "decision": "include",
+  "reason": "Framework explaining features of liver failure absent",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-20",
+  "hap_pages": [
+   64
+  ],
+  "source_excerpt": "Pericentral zone: Glycolysis; Glutamine & Bile acid biosynthesis ... Periportal zone: Gluconeogenesis, Cholesterol & Urea biosynthesis",
+  "topic": "Metabolic zonation of the lobule",
+  "book_chapter": "17 Hepatology and Hepatic Surgery",
+  "book_pages": [
+   235
+  ],
+  "book_has": "Zones 1-3 described only by oxygenation (zone 1 best oxygenated, zone 3 more vulnerable), p235. not found (searched: gluconeogen, glycolysis, glutamine)",
+  "new_contribution": "The periportal zone is the site of gluconeogenesis and cholesterol and urea synthesis, whereas the pericentral zone performs glycolysis and glutamine and bile acid synthesis.",
+  "decision": "include",
+  "reason": "Figure content absent from book",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "D-21",
+  "hap_pages": [
+   65
+  ],
+  "source_excerpt": "8) Cryptogenic cirrhosis",
+  "topic": "Cryptogenic cirrhosis",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   281
+  ],
+  "book_has": "Etiology list: viral, ALD, MASH, metabolic, PBC, venous outflow, AIH, toxins/drugs (p281). not found (searched: cryptogenic)",
+  "new_contribution": "Some cirrhosis is cryptogenic (no identifiable cause).",
+  "decision": "include",
+  "reason": "Category absent",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-22",
+  "hap_pages": [
+   65
+  ],
+  "source_excerpt": "Reduction in functional cell mass: - Decreased detoxification: bilirubin, ammonia, drugs. - Decreased synthesis of: albumin, coagulation proteins",
+  "topic": "Consequences of cirrhosis: two mechanisms",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   281,
+   282
+  ],
+  "book_has": "Decompensation features listed (p282) and features of hepatic failure (p237-238); no framing of the two pathways. not found (searched: functional cell mass, consequences of cirrhosis, liver insufficiency)",
+  "new_contribution": "Cirrhosis causes disease by two routes: altered hepatic blood flow (portal hypertension: variceal bleeding, ascites, encephalopathy; ascites leads to SBP and HRS) and reduced functional cell mass (less detoxification of bilirubin, ammonia and drugs; less synthesis of albumin and clotting proteins: jaundice, encephalopathy).",
+  "decision": "include",
+  "reason": "Organising framework absent; includes flow-chart content",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "D-23",
+  "hap_pages": [
+   65
+  ],
+  "source_excerpt": "7) Changes in nitrogen metabolism.",
+  "topic": "Hepatic failure feature list",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   237,
+   238
+  ],
+  "book_has": "List: general failure of health, jaundice, hyperdynamic circulation, fever/septicaemia, encephalopathy, ascites, skin/endocrine changes, disordered coagulation (p237-238). Missing nitrogen metabolism and cyanosis. searched: nitrogen, cyanosis (cyanosis only as chest sign in cirrhosis p283)",
+  "new_contribution": "Features of hepatic failure also include changes in nitrogen metabolism, and hyperdynamic circulation may be accompanied by cyanosis.",
+  "decision": "include",
+  "reason": "List items absent; low priority",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-24",
+  "hap_pages": [
+   61
+  ],
+  "source_excerpt": "Over transfusion may cause rebleeding. Patient should be kept with a hematocrit value around 30.",
+  "topic": "Transfusion target",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   315
+  ],
+  "book_has": "'Blood transfusion should be restrictive, with a target hemoglobin generally around 7-8 g/dL' (p315)",
+  "new_contribution": "Source targets haematocrit around 30; book targets Hb 7-8 g/dL (restrictive). Both warn against over-transfusion.",
+  "decision": "discrepancy",
+  "reason": "Different numeric targets on the same point",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-25",
+  "hap_pages": [
+   61
+  ],
+  "source_excerpt": "Ryle's tube insertion for aspiration and lavage.",
+  "topic": "Nasogastric tube in variceal bleeding",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   315
+  ],
+  "book_has": "'A nasogastric tube may be considered selectively ... but it is not routinely required in every patient' (p315)",
+  "new_contribution": "Source lists Ryle's tube insertion as part of routine resuscitation; book says it is selective, not routine.",
+  "decision": "discrepancy",
+  "reason": "Routine vs selective use",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-26",
+  "hap_pages": [
+   61
+  ],
+  "source_excerpt": "Every patient diagnosed with cirrhosis should have an upper GI endoscopy to assess the possibility of presence of esophageal or gastric varices.",
+  "topic": "Screening endoscopy in cirrhosis",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   285,
+   313
+  ],
+  "book_has": "'assessment ... using appropriate non-invasive criteria and/or upper GI endoscopy' (p313); 'guided by Baveno VII criteria, and some patients can safely avoid endoscopy' (p285)",
+  "new_contribution": "Source: endoscopy for every cirrhotic; book: non-invasive criteria may spare some patients endoscopy (source p60 itself introduces elastography).",
+  "decision": "discrepancy",
+  "reason": "Universal vs selective screening endoscopy",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-27",
+  "hap_pages": [
+   57
+  ],
+  "source_excerpt": "portal hypertension is considered when the pressure is more than 12 mmHg.",
+  "topic": "Definition/normal portal pressure",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   309,
+   310
+  ],
+  "book_has": "Normal 5-10 mmHg; CSPH when >~10-12 mmHg (p309); HVPG>12 for varices (p317)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Covered; source itself uses 10-12 mmHg on p59, so not a firm discrepancy",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-28",
+  "hap_pages": [
+   57,
+   58
+  ],
+  "source_excerpt": "The portal vein is formed by the union of the superior mesenteric and the splenic vein",
+  "topic": "Anatomy and main causes by site",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   309,
+   310
+  ],
+  "book_has": "Anatomy and full prehepatic/intrahepatic/posthepatic text lists match (p309-310); IVC obstruction/Budd-Chiari covered in Ch 22",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered (figure-only extras recorded separately)",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-29",
+  "hap_pages": [
+   59
+  ],
+  "source_excerpt": "They develop into anastomosis between left and short gastric veins (portal) and azygous vein (systemic).",
+  "topic": "Portosystemic collaterals, clinical picture, investigations",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   310,
+   311,
+   312,
+   313
+  ],
+  "book_has": "All four collateral sites, clinical features, endoscopy/Doppler/LFT/biopsy covered (p310-313)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-30",
+  "hap_pages": [
+   59
+  ],
+  "source_excerpt": "Ascites due to associated chronic liver disease.",
+  "topic": "Ascites in portal hypertension",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   312
+  ],
+  "book_has": "'Ascites' listed (p312)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Trivial",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-31",
+  "hap_pages": [
+   60
+  ],
+  "source_excerpt": "About 90 % of patients with cirrhosis will develop gastro-esophageal varices over 10 years, but only 1/3 of these will bleed.",
+  "topic": "Natural history; cACLD/CSPH concept",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   285,
+   313
+  ],
+  "book_has": "Same figures p313; cACLD/CSPH p285",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-32",
+  "hap_pages": [
+   61
+  ],
+  "source_excerpt": "Carvedilol: a non selective beta and alpha1 receptor blocker is used in dose of 6.25 mg twice daily",
+  "topic": "Carvedilol; banding when NSBB contraindicated; banding mechanism",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   313,
+   314
+  ],
+  "book_has": "Carvedilol 6.25 mg bd, band ligation if asthma/heart block/hypotension, varix suctioned and banded (p313-314)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-33",
+  "hap_pages": [
+   61
+  ],
+  "source_excerpt": "It prevents bleeding from congestive gastropathy and decreases the frequency of rebleeding.",
+  "topic": "NSBB in gastropathy/rebleeding",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   313,
+   317
+  ],
+  "book_has": "Reduce bleeding from gastropathy (p313); NSBB for secondary prophylaxis (p317)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-34",
+  "hap_pages": [
+   61
+  ],
+  "source_excerpt": "fresh blood transfusion or fresh frozen plasma or plasma expanders",
+  "topic": "Blood products for volume restoration",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   314,
+   315
+  ],
+  "book_has": "Restrictive transfusion; avoid over-transfusion (p315)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Superseded by book's restrictive approach; transfusion target logged as discrepancy",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-35",
+  "hap_pages": [
+   61,
+   62
+  ],
+  "source_excerpt": "Urgent endoscopy: only after resuscitation",
+  "topic": "Urgent endoscopy aims; band ligation/sclerotherapy (ethanolamine oleate); 80% success",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   315
+  ],
+  "book_has": "All covered p315 (plus within 12 h)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-36",
+  "hap_pages": [
+   62
+  ],
+  "source_excerpt": "Their main use is for control of emergency bleeding while waiting for endoscopy",
+  "topic": "Vasoactive therapy role, octreotide when terlipressin contraindicated",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   315,
+   316
+  ],
+  "book_has": "Start before endoscopy, reduce splanchnic flow; octreotide when terlipressin unsuitable (p315-316)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-37",
+  "hap_pages": [
+   62
+  ],
+  "source_excerpt": "It should be given to patients with ischemic heart disease.",
+  "topic": "Terlipressin and ischaemic heart disease",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   315
+  ],
+  "book_has": "'Particular caution is required in patients with ischemic heart disease' (p315)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "source unclear (likely missing 'not'); book already cautions",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-38",
+  "hap_pages": [
+   62
+  ],
+  "source_excerpt": "Prophylactic antibiotics : oral or IV.",
+  "topic": "Additional measures; rebleed within 10 days; TIPS technique and encephalopathy risk",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   316
+  ],
+  "book_has": "Identical list and TIPS technique p316",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-39",
+  "hap_pages": [
+   63
+  ],
+  "source_excerpt": "Banding is superior to sclerotherapy",
+  "topic": "Secondary prophylaxis (EVL every 2 weeks, NSBB, shunts, transplant; 60-80% recurrence)",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   315,
+   316,
+   317
+  ],
+  "book_has": "EVL preferred (p315); 2-weekly EVL to obliteration, 60-80%/2 y, NSBB, TIPS, shunts, transplant (p316-317)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-40",
+  "hap_pages": [
+   63
+  ],
+  "source_excerpt": "Hepatic vein catheterization: Cannulation of the hepatic vein, balloon occlusion",
+  "topic": "Portal pressure measurement (WHVP, PVPG, HVPG)",
+  "book_chapter": "23 Portal Hypertension",
+  "book_pages": [
+   317
+  ],
+  "book_has": "Reproduced near-verbatim p317",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-41",
+  "hap_pages": [
+   64
+  ],
+  "source_excerpt": "Microscopic Anatomy Of The Liver",
+  "topic": "Liver microanatomy (sinusoid, Disse, stellate, Kupffer, acinus zones)",
+  "book_chapter": "17 Hepatology and Hepatic Surgery",
+  "book_pages": [
+   235
+  ],
+  "book_has": "Lobule, acinus zones, Kupffer, Disse, stellate cells (p235)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered (metabolic zonation logged separately)",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "D-42",
+  "hap_pages": [
+   65
+  ],
+  "source_excerpt": "Viral hepatitis types B ± delta; C. ... methotrexate, amiodarone.",
+  "topic": "Causes of cirrhosis",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   281,
+   307
+  ],
+  "book_has": "Viral, alcohol, metabolic, PBC/secondary biliary, venous outflow, AIH, methotrexate (p281); amiodarone chronic injury (p307)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered (cryptogenic logged separately)",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-43",
+  "hap_pages": [
+   65
+  ],
+  "source_excerpt": "General failure of health. 2) Jaundice. 3) Hyperdynamic circulation",
+  "topic": "Features of hepatic failure",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   237,
+   238
+  ],
+  "book_has": "Same list p237-238",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "Already covered (missing items logged separately)",
+  "evidence_type": "text"
+ },
+ {
+  "id": "D-44",
+  "hap_pages": [
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63
+  ],
+  "source_excerpt": "Esophageal varices are superficial in position and tend to rupture.",
+  "topic": "Ch 02 Esophagus check for varices",
+  "book_chapter": "02 Esophagus",
+  "book_pages": [
+   16
+  ],
+  "book_has": "Book1 Ch 02 has no varices section; only 'after sclerosis of varices' as a stricture cause (printed 16). Varices in UGIB section Ch 03 (printed 50-51: band ligation, NPO until endoscopy)",
+  "new_contribution": "",
+  "decision": "exclude",
+  "reason": "No earlier-chapter home; all variceal content belongs to Ch 23",
+  "evidence_type": "text"
+ }
+]

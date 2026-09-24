@@ -1,0 +1,645 @@
+[
+ {
+  "id": "E-01",
+  "hap_pages": [
+   66
+  ],
+  "source_excerpt": "Cirrhosis is the commonest cause, with malignancy, and less frequently cardiac failure and tuberculous peritonitis, being responsible for most other cases.",
+  "topic": "Ascites - relative frequency of causes",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   338
+  ],
+  "book_has": "p338: 'Cirrhosis is responsible for 80% of causes of ascites'; no ranking of the remaining causes.",
+  "new_contribution": "After cirrhosis, malignancy is the next commonest cause of ascites, followed less frequently by cardiac failure and tuberculous peritonitis.",
+  "decision": "include",
+  "reason": "Book gives only the 80% cirrhosis figure; source ranks the other causes.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-02",
+  "hap_pages": [
+   66
+  ],
+  "source_excerpt": "Common causes of ascites by the presence or absence of portal hypertension",
+  "topic": "Ascites - causes classified by portal hypertension",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   338
+  ],
+  "book_has": "p338 classifies causes only by mechanism (hydrostatic, oncotic, permeability, leakage, misc). Not found (searched: pseudomyxoma, mesothelioma, Familial Mediterranean, amyloid, sarcoidosis, veno-occlusive in Ch27).",
+  "new_contribution": "Causes can also be grouped by portal hypertension. With portal hypertension: intrahepatic (cirrhosis, alcoholic hepatitis, active chronic hepatitis, liver failure, veno-occlusive disease, liver tumour, schistosomiasis, sarcoidosis, Budd-Chiari, focal nodular hyperplasia) and extrahepatic (heart failure, pericarditis, portal vein thrombosis). Without portal hypertension: peritoneal (carcinomatosis, mesothelioma, pseudomyxoma, infectious), hypoalbuminaemia (nephrotic syndrome, malnutrition, bowel disease) and mixed (myxoedema, pancreatic/biliary ascites, amyloidosis, familial Mediterranean fever, granulomatous disease).",
+  "decision": "include",
+  "reason": "Alternative clinically useful classification absent from book; complements SAAG table.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-03",
+  "hap_pages": [
+   66,
+   67
+  ],
+  "source_excerpt": "A) Increased hydrostatic pressure: 1. Cirrhosis. 2. Hepatic vein occlusion(Budd-Chiari syndrome).",
+  "topic": "Ascites - mechanistic causes A-E",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   338
+  ],
+  "book_has": "p338 reproduces the full A-E list.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered verbatim.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-04",
+  "hap_pages": [
+   67,
+   68
+  ],
+  "source_excerpt": "Renin acts on the basic substrate angiotensinogen made in the liver to form the decapeptide angiotensin I.",
+  "topic": "Renin-angiotensin physiology (background to ascites pathogenesis)",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   338,
+   339
+  ],
+  "book_has": "Not found (searched: juxtaglomerular, macula densa, angiotensinogen, ACE in book1/book2). Book names RAAS activation only (p339, p346).",
+  "new_contribution": "Renin (from juxtaglomerular cells of the afferent arteriole) converts liver-made angiotensinogen to angiotensin I; ACE (mainly pulmonary endothelium) converts it to angiotensin II, a potent pressor that also stimulates aldosterone from the zona glomerulosa. Renin release is governed by juxtaglomerular cells (pressure transducers sensing renal perfusion), macula densa cells (chemoreceptors sensing distal Na/Cl load) and sympathetic beta-receptors (upright posture).",
+  "decision": "include",
+  "reason": "Physiology basis for underfill theory/HRS; absent from book. Reviewer may judge it out of scope for a clinical GI book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-05",
+  "hap_pages": [
+   68
+  ],
+  "source_excerpt": "Portal hypertension / Splanchnic vasodilation / Decreased effective circulatory volume / Activation of renin-angiotensin-aldosterone system / Renal sodium avidity / Renal vasoconstriction",
+  "topic": "Pathogenesis flow diagrams - common pathway ascites and HRS",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   339,
+   346
+  ],
+  "book_has": "p339 gives underfill/overfill text chain; no figure. p346 gives HRS chain separately. Book does not link the two outcomes.",
+  "new_contribution": "The same RAAS activation that follows splanchnic vasodilatation and reduced effective circulating volume causes renal sodium avidity (leading to ascites) and renal vasoconstriction (leading to hepatorenal syndrome); increased splanchnic pressure also increases lymph formation.",
+  "decision": "include",
+  "reason": "Source diagram links ascites and HRS as two arms of one pathway; book lacks the diagram.",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "E-06",
+  "hap_pages": [
+   68,
+   69
+  ],
+  "source_excerpt": "The mechanism involve inappropriate renal sodium and water retention either secondary to vascular changes",
+  "topic": "Ascites pathogenesis - underfill/overfill theories; mechanisms list",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   338,
+   339
+  ],
+  "book_has": "p338-339 cover mechanisms list, underfill and overfill theories verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-07",
+  "hap_pages": [
+   69
+  ],
+  "source_excerpt": "Ascites may be graded as follow: Grade 1: Mild ascites: only detectable by ultrasound examination.",
+  "topic": "Ascites - grading and examination signs",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   339
+  ],
+  "book_has": "p339 has grades 1-3 and full examination signs (incl. pleural effusion 5-10%).",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-08",
+  "hap_pages": [
+   70
+  ],
+  "source_excerpt": "Ultrasonography can detect as little as 30 mL of ascitic fluid with the patient in the right lateral decubitus position",
+  "topic": "Ascites - imaging sensitivity (US, CT)",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   340
+  ],
+  "book_has": "p340: 'Ultrasonography: to diagnose ascites, whether fluid is free or localized, to detect liver cirrhosis'. Not found: 30 mL, decubitus, CT for ascites.",
+  "new_contribution": "Ultrasound can detect as little as 30 mL of ascitic fluid (right lateral decubitus position). CT may detect small amounts of ascites while also assessing liver and spleen size/state and the presence of varices and tumours.",
+  "decision": "include",
+  "reason": "Specific detection threshold and CT role absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-09",
+  "hap_pages": [
+   70
+  ],
+  "source_excerpt": "A diagnostic paracentesis should be performed for new onset ascites or when a complication is suspected.",
+  "topic": "Diagnostic paracentesis - indications and technique",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   340
+  ],
+  "book_has": "p340 lists paracentesis and analysis but no indications or technique. Not found (searched: gauge, angiocatheter, new onset).",
+  "new_contribution": "Diagnostic paracentesis is indicated for new-onset ascites or when a complication is suspected; it is done under sterile conditions with a 20- to 23-gauge angiocatheter.",
+  "decision": "include",
+  "reason": "Indications/technique absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-10",
+  "hap_pages": [
+   70
+  ],
+  "source_excerpt": "Triglyceride levels (elevated in Chylous ascites). Bilirubin level (may be elevated in bowel perforation).",
+  "topic": "Ascitic fluid analysis - additional tests",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   340
+  ],
+  "book_has": "p340 lists only cells, culture, protein, albumin/SAAG. Not found in Ch27 (searched: Gram stain, triglyceride, bilirubin, glucose, amylase, LDH, cytology); LDH mentioned only for malignant ascites p340.",
+  "new_contribution": "Other ascitic fluid tests: Gram stain; triglycerides (raised in chylous ascites); bilirubin (may be raised in bowel perforation); glucose; amylase (raised suggests pancreatic source); LDH; cytology. Ascitic albumin must be paired with serum albumin taken the same day to calculate SAAG.",
+  "decision": "include",
+  "reason": "Book list is materially shorter; interpretive clues are useful.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-11",
+  "hap_pages": [
+   71
+  ],
+  "source_excerpt": "The gradient correlates directly with portal pressure.",
+  "topic": "SAAG - interpretation and accuracy",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   340
+  ],
+  "book_has": "p340: SAAG formula, >1.1 in cirrhosis, and low/high gradient table. Not found: correlation with portal pressure, 97% accuracy.",
+  "new_contribution": "SAAG correlates directly with portal pressure; a gradient >1.1 g/dL identifies portal-hypertensive ascites, and <1.1 g/dL excludes it, each with >97% accuracy. A low gradient mandates a search for other causes.",
+  "decision": "include",
+  "reason": "Accuracy and physiological meaning of SAAG absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-12",
+  "hap_pages": [
+   71
+  ],
+  "source_excerpt": "High Gradient >= 1.1 g/dL (11 g/L) ... Fatty liver of pregnancy ... Massive liver metastases ... Myxedema ... Portal vein thrombosis ... Sinusoidal obstruction syndrome",
+  "topic": "SAAG - extended differential (image table)",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   340
+  ],
+  "book_has": "p340 table lists 5 high (cirrhosis, fulminant failure, alcoholic hepatitis, cardiac, Budd-Chiari) and 5 low causes. Not found in Ch27: fatty liver of pregnancy, metastases, myxedema, PVT, SOS, mixed ascites, bowel obstruction, lymphatic leak, serositis.",
+  "new_contribution": "SAAG cut-off 1.1 g/dL = 11 g/L. Additional high-gradient causes: fatty liver of pregnancy, massive liver metastases, 'mixed' ascites, myxoedema, portal vein thrombosis, sinusoidal obstruction syndrome (text adds constrictive pericarditis). Additional low-gradient causes: bowel obstruction or infarction, postoperative lymphatic leak, serositis in connective tissue diseases (text adds pyogenic peritonitis).",
+  "decision": "include",
+  "reason": "Image table in source extends book's SAAG table.",
+  "evidence_type": "image-table"
+ },
+ {
+  "id": "E-13",
+  "hap_pages": [
+   71,
+   72
+  ],
+  "source_excerpt": "Tuberculous ascites: History of TB toxemia. Matted intestinal loops.",
+  "topic": "Differential diagnosis of ascites (TB, malignant, chylous, pericarditis, Budd-Chiari, ovarian)",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   340,
+   341
+  ],
+  "book_has": "p340-341 reproduce the DDx list verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-14",
+  "hap_pages": [
+   72
+  ],
+  "source_excerpt": "Bed rest. 70-90 mmol sodium diet. ... After 4 days consider adding frusemide (furosemide) 40 mg daily.",
+  "topic": "Management of cirrhotic ascites - stepwise protocol box (image)",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   341
+  ],
+  "book_has": "p341: salt restriction 'main stay', spironolactone alone or combination; no sodium target, no timing for adding furosemide, no stop criteria. Not found (searched: mmol sodium, 70-90, flap, 4 days).",
+  "new_contribution": "Stepwise regimen: bed rest and a 70-90 mmol sodium diet; spironolactone 100-200 mg daily; consider paracentesis if tense; after 4 days consider adding furosemide 40 mg daily; stop diuretics if pre-coma ('flap'), hypokalaemia, azotaemia or alkalosis; continue to monitor weight.",
+  "decision": "include",
+  "reason": "Quantified salt restriction and escalation timing absent from book.",
+  "evidence_type": "image-table"
+ },
+ {
+  "id": "E-15",
+  "hap_pages": [
+   73
+  ],
+  "source_excerpt": "Combination therapy Spironolactone 100 mg and Furosemide 40 mg.",
+  "topic": "Diuretics, response targets, complications limiting diuretics",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   341,
+   342
+  ],
+  "book_has": "p341-342 cover drugs, doses, max doses, response 0.5/1 kg/day, albumin+furosemide, small-volume paracentesis, and complications limiting diuretic therapy verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-16",
+  "hap_pages": [
+   74
+  ],
+  "source_excerpt": "It is divided into diuretic - resistant (ascites is not mobilized despite maximal diuretic dosage) and diuretic - intractable ascites",
+  "topic": "Refractory ascites - definition and subtypes",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   342
+  ],
+  "book_has": "p342: 'An ascites is said to be resistant, if there is lack of response after dietary salt restriction& intensive diuretic therapy'. Not found: intractable, 10-20%.",
+  "new_contribution": "Refractory ascites cannot be mobilised or prevented from recurring by medical therapy. It is subdivided into diuretic-resistant (not mobilised despite maximal diuretic dosage) and diuretic-intractable (diuretic-induced complications preclude an effective dose). It occurs in 10-20% of patients with ascites.",
+  "decision": "include",
+  "reason": "Subtype distinction and frequency absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-17",
+  "hap_pages": [
+   74
+  ],
+  "source_excerpt": "The conditions that may contribute to refractory ascites include worsening of the primary liver disease",
+  "topic": "Refractory ascites - contributing conditions",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   342
+  ],
+  "book_has": "Not found in Ch27 (searched: refractory, portal vein thrombosis, hepatotoxic near ascites).",
+  "new_contribution": "Look for factors contributing to refractory ascites: worsening liver disease (active inflammation), portal or hepatic vein thrombosis, GI bleeding, infection/SBP, malnutrition, HCC, superimposed cardiac or renal disease, and hepatotoxic (alcohol, acetaminophen) or nephrotoxic substances.",
+  "decision": "include",
+  "reason": "Absent; practical checklist.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-18",
+  "hap_pages": [
+   74
+  ],
+  "source_excerpt": "The procedure involves the daily removal of 4 to 6 L of ascitic fluid until the abdomen is completely evacuated",
+  "topic": "Large-volume paracentesis - protocol",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   342
+  ],
+  "book_has": "p342: 'removal of > 5 L ... with IV albumin (8gm/L removed) ... safe & effective'. Not found: 4-6 L daily, 2-4 weeks, continuation of diuretics, reserved for tense/refractory.",
+  "new_contribution": "Large-volume paracentesis removes 4-6 L daily until the abdomen is emptied, may be repeated every 2-4 weeks, and should be reserved for tense or diuretic-refractory ascites; diuretics and sodium restriction must continue afterwards to prevent rapid reaccumulation. Albumin also prevents post-paracentesis circulatory dysfunction.",
+  "decision": "include",
+  "reason": "Book gives volume/albumin only; source adds schedule, indication and post-procedure measures. Note book '>5 L' vs source 'daily 4 to 6 L' are compatible framings, not flagged as discrepancy.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-19",
+  "hap_pages": [
+   74
+  ],
+  "source_excerpt": "Peritoneovenous shunts",
+  "topic": "Refractory ascites - peritoneovenous shunt",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   342
+  ],
+  "book_has": "Not found (searched: peritoneovenous, LeVeen, Denver).",
+  "new_contribution": "Peritoneovenous shunting is listed as an option for refractory ascites (source gives no further detail; illustrated on p74).",
+  "decision": "include",
+  "reason": "Option absent from book; source provides only the name and a figure.",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "E-20",
+  "hap_pages": [
+   74
+  ],
+  "source_excerpt": "Early experience with TIPS showed a reduction in diuretic requirements, and a fall in plasma renin and aldosterone activities.",
+  "topic": "TIPS in refractory ascites - effects and indications",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   342,
+   316
+  ],
+  "book_has": "p342: TIPS bridges hepatic and portal vein branches, may increase HE. p316 (Ch23): TIPS technique, variceal bleeding. Not found: renin/aldosterone fall, liver failure risk, hepatic hydrothorax/HRS/Budd-Chiari indications.",
+  "new_contribution": "In refractory ascites, TIPS reduces diuretic requirements and lowers plasma renin and aldosterone, but may precipitate hepatic encephalopathy and/or liver failure. Its indications include variceal bleeding, refractory ascites, Budd-Chiari syndrome, hepatic hydrothorax and hepatorenal syndrome.",
+  "decision": "include",
+  "reason": "Additional effects/indications absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-21",
+  "hap_pages": [
+   75
+  ],
+  "source_excerpt": "The spontaneous type develops in about 8% of cirrhotic patients with ascites. It is particularly frequent if the cirrhosis is severely decompensated.",
+  "topic": "SBP - epidemiology",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   343
+  ],
+  "book_has": "p343: 'affects 10% of cirrhotic patients'. Not found: 8% of those with ascites, post-paracentesis infection, decompensation.",
+  "new_contribution": "Ascitic fluid infection may be spontaneous or follow a previous paracentesis; the spontaneous type develops in about 8% of cirrhotic patients with ascites and is particularly frequent in severely decompensated cirrhosis.",
+  "decision": "include",
+  "reason": "Absent detail.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-22",
+  "hap_pages": [
+   75
+  ],
+  "source_excerpt": "The infection is blood-borne and in 90% monomicrobial. In cirrhotic patients, bacterial overgrowth and small intestinal dysmotility may contribute.",
+  "topic": "SBP - microbiology and host factors",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   343
+  ],
+  "book_has": "p343: 'monomicrobial (single organism), E-coli, pneumococci, Klebsiella and gram-positive'; decreased opsonins, abnormal neutrophils. Not found in Ch27: 90%, overgrowth, dysmotility, mesenteric lymph nodes, reticulo-endothelial, anaerobic, polymicrobial.",
+  "new_contribution": "SBP is monomicrobial in 90%; small-bowel bacterial overgrowth and dysmotility promote translocation of gut bacteria to mesenteric lymph nodes, and reticulo-endothelial function is impaired. Infection with more than one organism suggests paracentesis-related infection; anaerobic infection is rare.",
+  "decision": "include",
+  "reason": "Materially more specific than book; polymicrobial/anaerobic clues are practically useful.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-23",
+  "hap_pages": [
+   76
+  ],
+  "source_excerpt": "Bacterascites ... Good opsonic activity -> Resolution ... Intermediate-poor opsonic activity -> SBP",
+  "topic": "SBP - pathogenesis flow diagram",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   343
+  ],
+  "book_has": "No figure in book (p343 viewed). Not found: bacterascites, opsonic activity, portosystemic shunt/RES pathway.",
+  "new_contribution": "Gut bacteria (overgrowth, altered permeability, translocation) reach the systemic circulation via mesenteric lymph nodes or the portal vein (bypassing liver RES through portosystemic shunts); reduced RES and complement activity allow bacteraemia and bacterascites, which resolves if ascitic opsonic activity is good but progresses to SBP if opsonic activity is intermediate-poor.",
+  "decision": "include",
+  "reason": "Figure-only content absent from book.",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "E-24",
+  "hap_pages": [
+   76
+  ],
+  "source_excerpt": "Patients with variceal bleeding or with previous spontaneous bacterial peritonitis are at particular risk. ... These features, however, may be absent",
+  "topic": "SBP - risk groups and silent presentation",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   343
+  ],
+  "book_has": "p343: suspect in any deteriorating cirrhotic; lists symptoms. Not found: variceal bleeding/previous SBP as risk, features may be absent.",
+  "new_contribution": "Patients with variceal bleeding or previous SBP are at particular risk; classic features (fever, pain, leucocytosis) may be absent, so diagnosis relies on a high index of suspicion and ascitic fluid examination, especially in a cirrhotic who deteriorates with encephalopathy.",
+  "decision": "include",
+  "reason": "Absent practical points.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-25",
+  "hap_pages": [
+   76
+  ],
+  "source_excerpt": "The risk of spontaneous bacterial peritonitis is particularly high in cirrhotic patients with upper gastrointestinal haemorrhage or doing sclerotherapy. ... 400mg/12h for a minimum of 7 days",
+  "topic": "SBP prophylaxis in GI bleeding",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   344
+  ],
+  "book_has": "p344: 'Patients doing sclerotherapy should receive norfloxacin 400mg/12 hours days.' (duration missing, GI haemorrhage not mentioned). Primary/secondary prophylaxis covered.",
+  "new_contribution": "Cirrhotic patients with upper GI haemorrhage (as well as those undergoing sclerotherapy) should receive norfloxacin 400 mg every 12 h for a minimum of 7 days; the same is recommended for recurrent peritonitis.",
+  "decision": "include",
+  "reason": "Book sentence is truncated (no duration) and omits GI haemorrhage group.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-26",
+  "hap_pages": [
+   77
+  ],
+  "source_excerpt": "Five days of parenteral, third-generation cephalosporin such as cefotaxime is usually effective. A minimal duration of 5 days of treatment is recommended.",
+  "topic": "SBP treatment - duration and alternatives",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   343
+  ],
+  "book_has": "p343: third-generation cephalosporins first line; examples of doses. Not found: duration 5 days, amoxicillin-clavulanate equivalence, renal complication risk.",
+  "new_contribution": "Treat SBP empirically for a minimum of 5 days (e.g. parenteral cefotaxime); amoxicillin-clavulanic acid is as effective as third-generation cephalosporins. SBP patients are at particular risk of renal complications (related to systemic vascular changes), which is why albumin is added.",
+  "decision": "include",
+  "reason": "Duration and alternative absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-27",
+  "hap_pages": [
+   77
+  ],
+  "source_excerpt": "Because of reduced survival, spontaneous bacterial peritonitis is an indication to consider hepatic transplantation, particularly if recurrent.",
+  "topic": "SBP - transplant indication and prognosis",
+  "book_chapter": "27 Ascites",
+  "book_pages": [
+   343
+  ],
+  "book_has": "p343: 'SBP is an indication to list the patient for liver transplantation'; prognosis 25% die, 70% recur; mortality ~20%.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered (only 'particularly if recurrent' extra, trivial). Note: source and book both carry the internal 20% vs 25% mortality figures; not a source-book discrepancy.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-28",
+  "hap_pages": [
+   78
+  ],
+  "source_excerpt": "The kidneys are anatomically and histologically normal and capable of normal function. ... The primary abnormality in the kidneys is altered blood flow.",
+  "topic": "HRS - definition details",
+  "book_chapter": "28 Renal Impairment in Cirrhosis",
+  "book_pages": [
+   346
+  ],
+  "book_has": "p346: 'functional liver failure ... histology of the kidney is normal'. Not found: progressive, capable of normal function, tense ascites, sympathetic tone.",
+  "new_contribution": "HRS is progressive; the kidneys are anatomically and histologically normal and capable of normal function (the defect is altered renal blood flow). Most patients have decompensated cirrhosis with tense ascites, and the haemodynamic changes result from decreased effective blood volume and increased sympathetic tone.",
+  "decision": "include",
+  "reason": "Adds reversibility concept and sympathetic tone.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-29",
+  "hap_pages": [
+   78
+  ],
+  "source_excerpt": "Pathogenesis of hepatorenal syndrome: Arterial vasodilatation in the splanchnic and systemic circulation, Renal vasoconstriction, Cardiac dysfunction.",
+  "topic": "HRS - pathogenesis components and flow figure",
+  "book_chapter": "28 Renal Impairment in Cirrhosis",
+  "book_pages": [
+   346
+  ],
+  "book_has": "p346: vasodilatation theory chain (RAAS, ADH, sympathetic; vasoconstrictors up, PGE2/NO down). Not found: cardiac dysfunction.",
+  "new_contribution": "Three components drive HRS: splanchnic/systemic arterial vasodilatation, renal vasoconstriction and cardiac dysfunction. Figure chain: portal hypertension -> splanchnic vasodilatation -> central arterial hypovolaemia -> sympathetic/RAAS/ADH activation -> intrarenal vasoconstrictors up and vasodilators down -> progressive renal vasoconstriction -> HRS.",
+  "decision": "include",
+  "reason": "Cardiac dysfunction component and figure absent.",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "E-30",
+  "hap_pages": [
+   78,
+   79
+  ],
+  "source_excerpt": "AKI in cirrhosis is now defined by an increase in serum creatinine >=0.3 mg/dL within 48 hours",
+  "topic": "AKI definition, AKI types, HRS-AKI/NAKI classification, HRS-AKI criteria",
+  "book_chapter": "28 Renal Impairment in Cirrhosis",
+  "book_pages": [
+   346,
+   347
+  ],
+  "book_has": "p346-347 reproduce definition, types, classification, criteria verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-31",
+  "hap_pages": [
+   79
+  ],
+  "source_excerpt": "AKI is then categorized into 3 stages of increasing severity:",
+  "topic": "AKI staging",
+  "book_chapter": "28 Renal Impairment in Cirrhosis",
+  "book_pages": [
+   346
+  ],
+  "book_has": "p346 has the same dangling sentence without stages.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Source itself does not list the 3 stages (truncated); nothing to add. Reviewer may wish to note both source and book leave this sentence incomplete.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-32",
+  "hap_pages": [
+   79
+  ],
+  "source_excerpt": "Serum creatinine level >= 1.5 mg/dL (133 umol/L) ... remains >= 1.5 mg/dL) 48 hr after diuretic withdrawal and adequate volume expansion with IV albumin",
+  "topic": "HRS - classic criteria with creatinine threshold (image table)",
+  "book_chapter": "28 Renal Impairment in Cirrhosis",
+  "book_pages": [
+   346,
+   347
+  ],
+  "book_has": "Book criteria (p346-347) have no creatinine threshold. Not found (searched: 1.5 mg, 133 umol).",
+  "new_contribution": "The older (classic) HRS criteria use a serum creatinine >=1.5 mg/dL (133 umol/L) that remains >=1.5 mg/dL 48 h after diuretic withdrawal and IV albumin volume expansion, plus absence of shock, nephrotoxins and intrinsic renal disease.",
+  "decision": "include",
+  "reason": "Threshold absent from book; label as classic criteria to avoid confusion with ICA HRS-AKI definition.",
+  "evidence_type": "image-table"
+ },
+ {
+  "id": "E-33",
+  "hap_pages": [
+   79
+  ],
+  "source_excerpt": "These include renal failure from exposure to toxins such as acetaminophen, NSAIDs, and carbon tetrachloride; infections; acute tubular necrosis due to hypotension",
+  "topic": "HRS - differential diagnosis",
+  "book_chapter": "28 Renal Impairment in Cirrhosis",
+  "book_pages": [
+   346,
+   347
+  ],
+  "book_has": "p346: lists AKI types (pre-renal, HRS, ATN, post-renal). Not found: carbon tetrachloride, acetaminophen, angiographic dyes, obstructive uropathy in this context.",
+  "new_contribution": "HRS must be distinguished from renal failure due to toxins (acetaminophen, NSAIDs, carbon tetrachloride), infections, ATN from hypotension or aminoglycosides/angiographic dyes, and obstructive uropathy.",
+  "decision": "include",
+  "reason": "More specific DDx than book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-34",
+  "hap_pages": [
+   80
+  ],
+  "source_excerpt": "Terlipressin can be administered by IV boluses (1 mg every 4-6 hours) or by continuous IV infusion (2 mg/day).",
+  "topic": "HRS treatment - terlipressin, albumin, noradrenaline, midodrine+octreotide, NGAL (text)",
+  "book_chapter": "28 Renal Impairment in Cirrhosis",
+  "book_pages": [
+   347
+  ],
+  "book_has": "p347 reproduces all text bullets verbatim; ICA algorithm figure at p348.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "E-35",
+  "hap_pages": [
+   80
+  ],
+  "source_excerpt": "Prevention of HRS: Avoid intravascular volume depletion (diuretics, lactulose, GI bleeding, large-volume paracentesis without adequate volume repletion)",
+  "topic": "HRS prevention (image table)",
+  "book_chapter": "28 Renal Impairment in Cirrhosis",
+  "book_pages": [
+   347
+  ],
+  "book_has": "Not found (searched: prevention of HRS, pentoxifylline, SBP prophylaxis in Ch28).",
+  "new_contribution": "HRS prevention: avoid intravascular volume depletion (diuretics, lactulose, GI bleeding, large-volume paracentesis without volume repletion); use nephrotoxins (ACEIs, ARBs, NSAIDs, antibiotics) judiciously; diagnose and treat infections promptly with SBP prophylaxis; pentoxifylline for severe alcoholic hepatitis; prevent variceal bleeding.",
+  "decision": "include",
+  "reason": "Prevention section absent from book.",
+  "evidence_type": "image-table"
+ },
+ {
+  "id": "E-36",
+  "hap_pages": [
+   80
+  ],
+  "source_excerpt": "IV albumin - bolus of 1 g/kg/day on presentation (maximum dose, 100 g daily). Continue at dose of 20-60 g daily ... central venous pressure between 10 and 15 cm H2O",
+  "topic": "HRS treatment - detailed dosing (image table)",
+  "book_chapter": "28 Renal Impairment in Cirrhosis",
+  "book_pages": [
+   347
+  ],
+  "book_has": "p347: albumin 20% at 20-40 g/day; midodrine+octreotide named without doses; noradrenaline named without dose; no treatment duration. Not found: 100 g, 10-15 cm H2O, midodrine/octreotide/norepinephrine doses, 2 weeks.",
+  "new_contribution": "Treatment of HRS: stop nephrotoxic agents (incl. diuretics), treat infection; IV albumin 1 g/kg/day bolus (max 100 g) then 20-60 g/day to keep CVP 10-15 cmH2O; midodrine 2.5-5 mg orally tds up to 15 mg tds (target MAP rise >=15 mmHg) with octreotide 100 ug SC tds up to 200 ug tds (or 25 ug IV bolus then 25 ug/h); or norepinephrine 0.1-0.7 ug/kg/min IV, increased by 0.05 every 4 h to MAP rise >=10 mmHg. Vasopressor treatment is generally continued for up to 2 weeks until HRS reversal or transplant; evaluate for liver transplantation.",
+  "decision": "include",
+  "reason": "Dosing detail absent. Albumin maintenance range differs from book text (see discrepancy row).",
+  "evidence_type": "image-table"
+ },
+ {
+  "id": "E-37",
+  "hap_pages": [
+   80
+  ],
+  "source_excerpt": "Terlipressin - start at 1 mg IV every 4 hr and increase up to 2 mg IV every 4 hr if baseline serum creatinine level does not improve by 25% at day 3 of therapy",
+  "topic": "HRS treatment - terlipressin escalation and albumin dose",
+  "book_chapter": "28 Renal Impairment in Cirrhosis",
+  "book_pages": [
+   347
+  ],
+  "book_has": "p347: terlipressin 1 mg q4-6h or 2 mg/day infusion; escalate if SCr decrease <25% 'after 2 days', to max 12 mg/day; albumin 20% at 20-40 g/day.",
+  "new_contribution": "Source image table (a different reference) gives escalation to 2 mg q4h if creatinine has not improved by 25% at day 3, and maintenance albumin 20-60 g/day; book (and source text) give escalation after 2 days (max 12 mg/day) and albumin 20-40 g/day.",
+  "decision": "discrepancy",
+  "reason": "Same point, different numbers: day 3 vs 2 days for terlipressin escalation; albumin 20-60 vs 20-40 g/day. Both appear in the source (text vs image); book carries only the text version.",
+  "evidence_type": "image-table"
+ }
+]

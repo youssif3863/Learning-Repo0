@@ -1,0 +1,1418 @@
+{
+ "cover_lede": "Only what the Hepatology source adds to your book: missing mechanisms, investigation details, distinctions and management points, keyed to the book page they extend. Nothing here repeats the book.",
+ "how_to_use": "<p>Read this alongside the book. Each point sits under the book chapter and topic it extends; <b>Book p.</b> is the printed page it adds to and <b>Src p.</b> is the page in the Hepatology source. Chapters with nothing new (24–26, 32–40) are omitted.</p><p>Where the source and the book disagree, the point is not printed here; it is flagged for review in the comparison ledger.</p>",
+ "chapters": [
+  {
+   "id": "ch17",
+   "no": "17",
+   "title": "Hepatology and Hepatic Surgery",
+   "book_pages": "Book pp. 231–235",
+   "subjects": "Surgery",
+   "subline": "<b>Adds to book pp. 231–235</b> · Surgery",
+   "topics": [
+    {
+     "title": "Liver functions and lobular zonation",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "Principal liver functions: bile formation and secretion; metabolism of carbohydrates, amino acids, lipids and water- and fat-soluble vitamins; inactivation of ammonia (urea cycle), toxins, steroids and other hormones; synthesis of acute-phase proteins, albumin, clotting factors and steroid/hormone-binding proteins; immune function (Kupffer cells).",
+       "book": "p. 233",
+       "src": "p. 64",
+       "ledger": [
+        "D-19"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "Metabolic zonation: the <b>periportal</b> zone carries out gluconeogenesis and cholesterol and urea synthesis; the <b>pericentral</b> zone carries out glycolysis and glutamine and bile-acid synthesis.",
+       "book": "p. 235",
+       "src": "p. 64 (figure)",
+       "ledger": [
+        "D-20"
+       ]
+      }
+     ],
+     "book": "pp. 233–235"
+    }
+   ],
+   "nav": "Hepatology and Hepatic Surgery"
+  },
+  {
+   "id": "ch18",
+   "no": "18",
+   "title": "Liver Disease Assessment",
+   "book_pages": "Book pp. 236–250",
+   "subjects": "Radiology / Investigation · Internal Medicine",
+   "subline": "<b>Adds to book pp. 236–250</b> · Radiology / Investigation · Internal Medicine",
+   "topics": [
+    {
+     "title": "Symptoms and signs of chronic liver disease",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "Palmar erythema is persistent redness of the palms; spider naevi are small red skin marks caused by dilated capillaries near the skin surface.",
+       "book": "p. 238",
+       "src": "p. 1",
+       "ledger": [
+        "A-02"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "The bleeding tendency reflects failed hepatic synthesis of fibrinogen and factors II, V, VII, IX, XI, XII and XIII.",
+       "book": "p. 238",
+       "src": "p. 1",
+       "ledger": [
+        "A-03"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "Hyperdynamic circulation: flushed extremities, bounding pulses and capillary pulsations, with increased portal blood flow, low blood pressure and reduced systemic vascular resistance.",
+       "book": "p. 237",
+       "src": "p. 2",
+       "ledger": [
+        "A-04"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "The vasodilators are probably multiple: formed by the sick hepatocyte, not inactivated by it, or bypassing it through intra- or extra-hepatic portosystemic shunts. They activate the sympathetic and renin–angiotensin systems, promoting sodium and water retention and ascites.",
+       "book": "p. 237",
+       "src": "p. 2",
+       "ledger": [
+        "A-05"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "<b>Nitric oxide</b> (endothelium-derived, potent vasodilator) is implicated in the hyperdynamic circulation and is important in ascites, hepatorenal syndrome and portal hypertension. Prostanoids released into the portal vein and endocannabinoids are also shown as splanchnic vasodilators; cardiac output rises.",
+       "book": "p. 237",
+       "src": "p. 2 (text + figure)",
+       "ledger": [
+        "A-06",
+        "A-07"
+       ]
+      },
+      {
+       "kind": "fact",
+       "text": "Hepatocellular failure complicates almost all liver diseases but <b>not portal venous occlusion alone</b>; it may be the terminal event in chronic cholestasis such as primary biliary cirrhosis. Its picture and treatment are similar whatever the cause.",
+       "book": "pp. 237–238",
+       "src": "p. 64",
+       "ledger": [
+        "D-18"
+       ]
+      }
+     ],
+     "book": "pp. 237–238"
+    },
+    {
+     "title": "Liver function tests",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "The liver synthesises albumin, <b>all clotting factors except factor VIII</b>, carrier proteins (ceruloplasmin, transferrin), cholesterol, bile salts and urea.",
+       "book": "p. 244",
+       "src": "p. 5",
+       "ledger": [
+        "A-11"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "Tests grouped by what they reflect: excretory/detoxification (serum and urine bilirubin, serum ammonia); liver-cell injury (AST, ALT); cholestasis (ALP, GGT, 5′-nucleotidase); synthetic function (albumin, coagulation factors). 5′-nucleotidase is more specific for cholestasis than ALP but is not widely used.",
+       "book": "p. 245",
+       "src": "pp. 6, 87 (table)",
+       "ledger": [
+        "F-08",
+        "A-16"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "A falling serum albumin is an excellent indicator of severity and prognosis in chronic liver disease. PT depends on factors I, II, V, VII and X; because these have a shorter half-life than albumin, PT is an <b>earlier</b> indicator of severe liver injury.",
+       "book": "pp. 244, 246",
+       "src": "pp. 5, 10",
+       "ledger": [
+        "A-12",
+        "A-30",
+        "A-31"
+       ]
+      },
+      {
+       "kind": "distinction",
+       "text": "ALP and GGT are markedly raised (&gt;3-fold) not only in cholestasis but also with <b>space-occupying lesions</b> such as cancer; non-hepatic ALP rises occur in bone disease (rickets, osteomalacia).",
+       "book": "p. 245",
+       "src": "p. 6",
+       "ledger": [
+        "A-14",
+        "A-15"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "Causes of an <b>isolated</b> ALP rise: primary or metastatic hepatic tumours, granulomatous liver disease, primary biliary cirrhosis, non-Hodgkin lymphoma, hyperthyroidism, bone disease with rapid turnover, sclerosing cholangitis.",
+       "book": "p. 245",
+       "src": "p. 87 (table)",
+       "ledger": [
+        "F-07"
+       ]
+      },
+      {
+       "kind": "distinction",
+       "text": "<b>Hepatic infiltration</b> (tumours, cysts, lymph nodes): ALP and GGT markedly raised while bilirubin may be normal — partial obstruction lets bilirubin pass yet stimulates ALP/GGT synthesis; AST/ALT normal or slightly raised (AST &gt; ALT); AFP rises in HCC and CEA with GIT-cancer secondaries.",
+       "book": "p. 245",
+       "src": "p. 20",
+       "ledger": [
+        "B1-19"
+       ]
+      }
+     ],
+     "book": "pp. 238, 244–246"
+    },
+    {
+     "title": "Bilirubin and bile-acid metabolism",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "About 250–300 mg of bilirubin is produced daily; 70–80% comes from haemoglobin of senescent red cells, the rest from prematurely destroyed erythroid cells in the marrow and turnover of haemoproteins such as myoglobin. It is formed in reticuloendothelial cells, mainly in the spleen and liver.",
+       "book": "p. 245",
+       "src": "p. 81",
+       "ledger": [
+        "F-01"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "Hepatocyte handling has four steps — uptake, cytosolic binding, conjugation, secretion: albumin-bound bilirubin is taken up (albumin is not), binds <b>ligandin (Z protein)</b>, is conjugated to glucuronic acid by UDP-glucuronosyl transferase in the endoplasmic reticulum, and mono- and diglucuronides are actively transported into bile.",
+       "book": "p. 245",
+       "src": "pp. 7, 81–82",
+       "ledger": [
+        "F-02",
+        "A-19",
+        "A-17"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "Conjugated bilirubin is not absorbed by the intestinal mucosa; only in the distal ileum and colon is it hydrolysed (bacterial β-glucuronidases) to unconjugated bilirubin, then reduced to colourless urobilinogens.",
+       "book": "p. 245",
+       "src": "pp. 7, 82",
+       "ledger": [
+        "F-03",
+        "A-17"
+       ]
+      },
+      {
+       "kind": "fact",
+       "text": "The primary bile acids, cholic and chenodeoxycholic acid, are made from cholesterol, secreted in bile, and mostly reabsorbed in the ileum for re-secretion (enterohepatic circulation).",
+       "book": "p. 245",
+       "src": "p. 7",
+       "ledger": [
+        "A-18"
+       ]
+      }
+     ],
+     "book": "p. 245"
+    },
+    {
+     "title": "Types of jaundice",
+     "items": [
+      {
+       "kind": "distinction",
+       "text": "Side-by-side comparison of the three types:",
+       "book": "pp. 245–246",
+       "src": "pp. 9–10 (table)",
+       "ledger": [
+        "A-29"
+       ],
+       "table": {
+        "head": [
+         "",
+         "Haemolytic",
+         "Obstructive",
+         "Hepatic"
+        ],
+        "rows": [
+         [
+          "Serum bilirubin",
+          "Indirect ↑",
+          "Direct ↑",
+          "Both ↑"
+         ],
+         [
+          "Urine urobilinogen",
+          "↑",
+          "↓",
+          "↑ early, then ↓"
+         ],
+         [
+          "Urine bilirubin / bile salts",
+          "Absent",
+          "Present",
+          "Present"
+         ],
+         [
+          "Urine colour",
+          "Normal",
+          "Dark",
+          "Dark"
+         ],
+         [
+          "Stool colour",
+          "Dark",
+          "Clay",
+          "Clay"
+         ]
+        ]
+       }
+      },
+      {
+       "kind": "investigation",
+       "text": "In haemolytic jaundice, evidence of haemolysis includes raised reticulocytes <b>and raised LDH</b>. Obstructive jaundice raises serum cholesterol and <b>β-lipoproteins</b>.",
+       "book": "p. 246",
+       "src": "p. 9",
+       "ledger": [
+        "A-26",
+        "A-28"
+       ]
+      },
+      {
+       "kind": "distinction",
+       "text": "Crigler-Najjar <b>type II</b> = partial UGT deficiency, bilirubin &lt;20 mg/dL (type I: complete absence, &gt;20 mg/dL). Dubin-Johnson (defect of bilirubin secretion) has a <b>darkly pigmented</b> liver; Rotor syndrome is usually asymptomatic with a non-pigmented liver.",
+       "book": "p. 245–246",
+       "src": "p. 8",
+       "ledger": [
+        "A-21",
+        "A-22"
+       ]
+      }
+     ],
+     "book": "pp. 245–246"
+    },
+    {
+     "title": "Viral hepatitis markers",
+     "items": [
+      {
+       "kind": "investigation",
+       "text": "HBV serology panels:",
+       "book": "p. 248",
+       "src": "p. 17 (tables)",
+       "ledger": [
+        "B1-08",
+        "B1-09"
+       ],
+       "table": {
+        "head": [
+         "HBsAg",
+         "Anti-HBc",
+         "IgM anti-HBc",
+         "Anti-HBs",
+         "Interpretation"
+        ],
+        "rows": [
+         [
+          "−",
+          "−",
+          "",
+          "−",
+          "Susceptible"
+         ],
+         [
+          "+",
+          "+",
+          "+",
+          "−",
+          "Acutely infected"
+         ],
+         [
+          "+",
+          "+",
+          "−",
+          "−",
+          "Chronically infected"
+         ],
+         [
+          "−",
+          "+",
+          "",
+          "+",
+          "Immune — natural infection"
+         ],
+         [
+          "−",
+          "−",
+          "",
+          "+",
+          "Immune — vaccination"
+         ]
+        ]
+       }
+      },
+      {
+       "kind": "distinction",
+       "text": "Acute vs chronic vs past HBV: HBeAg and HBV DNA are + early then − in acute infection, ± in chronic, − in past; anti-HBe is − early then + (acute), ± (chronic), + (past); ALT is markedly raised (acute), mildly–moderately raised (chronic), normal (past).",
+       "book": "p. 248",
+       "src": "p. 17 (table)",
+       "ledger": [
+        "B1-09"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "An isolated anti-HBc in the window period usually means a resolving acute infection that is <b>not yet completely resolved</b>, because anti-HBs has not yet appeared.",
+       "book": "p. 248",
+       "src": "p. 17",
+       "ledger": [
+        "B1-07"
+       ]
+      },
+      {
+       "kind": "caution",
+       "text": "In hepatitis B and C, normal ALT/AST does not prove recovery — replication may persist, so clearance must be shown serologically.",
+       "book": "p. 247",
+       "src": "p. 14",
+       "ledger": [
+        "B1-03"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "HAV can be detected by <b>PCR on faeces</b>, earlier than serology, but this is very rarely performed.",
+       "book": "p. 247",
+       "src": "p. 15",
+       "ledger": [
+        "B1-04"
+       ]
+      },
+      {
+       "kind": "caution",
+       "text": "Anti-HCV: a positive result may be false (cross-reactivity with another infection) and must be confirmed by PCR; a negative result does not exclude HCV (immunodeficiency; very early infection before seroconversion — do PCR). <b>Anti-HCV IgM is not a marker of acute infection</b>.",
+       "book": "pp. 248–249",
+       "src": "p. 18",
+       "ledger": [
+        "B1-12",
+        "B1-13"
+       ]
+      },
+      {
+       "kind": "distinction",
+       "text": "Chronic hepatitis at a glance:",
+       "book": "p. 250",
+       "src": "p. 21 (table)",
+       "ledger": [
+        "B1-22"
+       ],
+       "table": {
+        "head": [
+         "",
+         "Autoimmune",
+         "HBV",
+         "HCV"
+        ],
+        "rows": [
+         [
+          "Sex",
+          "Female",
+          "Male",
+          "Equal"
+         ],
+         [
+          "Age",
+          "15–25 y",
+          "Older",
+          "All ages"
+         ],
+         [
+          "Associated autoimmune disease",
+          "Frequent",
+          "Rare",
+          "Occasional"
+         ],
+         [
+          "Autoantibodies",
+          "High titre (ANA, ASMA, LKM)",
+          "Low / absent",
+          "Low / absent"
+         ],
+         [
+          "Cancer risk",
+          "Low",
+          "High",
+          "High"
+         ]
+        ]
+       }
+      }
+     ],
+     "book": "pp. 247–250"
+    }
+   ]
+  },
+  {
+   "id": "ch19",
+   "no": "19",
+   "title": "Acute Hepatitis",
+   "book_pages": "Book pp. 251–263",
+   "subjects": "Internal Medicine",
+   "subline": "<b>Adds to book pp. 251–263</b> · Internal Medicine",
+   "topics": [
+    {
+     "title": "Course and prognosis",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "Acute viral hepatitis usually resolves 4–8 weeks after symptom onset.",
+       "book": "p. 257",
+       "src": "p. 14",
+       "ledger": [
+        "B1-01"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "Severity is judged by impaired synthetic function rather than ALT/AST levels: <b>PT</b> is the key prognostic indicator, and a PT more than 3 seconds above normal carries a poor prognosis.",
+       "book": "p. 252",
+       "src": "p. 14",
+       "ledger": [
+        "B1-02"
+       ]
+      }
+     ],
+     "book": "pp. 252, 257"
+    },
+    {
+     "title": "Virology and transmission",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "HBV is present in all body fluids <b>except stool</b>, so spread is by blood or body-fluid contact.",
+       "book": "p. 255",
+       "src": "p. 16",
+       "ledger": [
+        "B1-06"
+       ]
+      },
+      {
+       "kind": "fact",
+       "text": "HCV (enveloped ssRNA flavivirus) is the most common cause of transfusion-associated hepatitis; sexual transmission is low.",
+       "book": "p. 256",
+       "src": "p. 18",
+       "ledger": [
+        "B1-11"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "HDV causes infection only when it is <b>encapsulated with HBsAg</b> — the basis of its dependence on HBV.",
+       "book": "p. 255",
+       "src": "p. 19",
+       "ledger": [
+        "B1-14"
+       ]
+      },
+      {
+       "kind": "fact",
+       "text": "HEV: genotypes 1 and 2 cause waterborne outbreaks; genotypes 3 and 4 cause sporadic cases, including via undercooked meat such as pork. It affects mainly adults and is rare in children. Chronic (genotype 3) hepatitis E occurs only in the immunocompromised — organ-transplant recipients, cancer chemotherapy, HIV.",
+       "book": "pp. 254, 258",
+       "src": "p. 19",
+       "ledger": [
+        "B1-15",
+        "B1-16",
+        "B1-17"
+       ]
+      },
+      {
+       "kind": "fact",
+       "text": "Hepatitis G is spread by contaminated blood or blood products; prevalence in blood donors is about 1%.",
+       "book": "p. 249",
+       "src": "p. 20",
+       "ledger": [
+        "B1-18"
+       ]
+      }
+     ],
+     "book": "pp. 254–256"
+    },
+    {
+     "title": "Chronic hepatitis",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "In severe chronic hepatitis, fibrous septa extend into the lobule, producing <b>rosette formation</b> as well as bridging fibrosis.",
+       "book": "p. 263",
+       "src": "p. 34",
+       "ledger": [
+        "B2-01"
+       ]
+      }
+     ],
+     "book": "p. 263"
+    }
+   ]
+  },
+  {
+   "id": "ch20",
+   "no": "20",
+   "title": "Chronic Hepatitis B",
+   "book_pages": "Book pp. 264–273",
+   "subjects": "Internal Medicine · Pharmacology",
+   "subline": "<b>Adds to book pp. 264–273</b> · Internal Medicine · Pharmacology",
+   "topics": [
+    {
+     "title": "Natural history of HBV",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "Chronic HBV is more common in males. About 50% of HBsAg carriers have evidence of replication (HBeAg / HBV DNA positive), and about 20% of carriers develop cirrhosis within 5 years of disease onset.",
+       "book": "p. 265",
+       "src": "p. 35",
+       "ledger": [
+        "B2-05",
+        "B2-06",
+        "B2-07"
+       ]
+      },
+      {
+       "kind": "fact",
+       "text": "Immune-tolerant patients (mostly infected perinatally) often lose tolerance in the 3rd–5th decade, when acute hepatitis develops and chronic hepatitis may follow.",
+       "book": "p. 266",
+       "src": "p. 35",
+       "ledger": [
+        "B2-08"
+       ]
+      },
+      {
+       "kind": "management",
+       "text": "Inactive carriers are usually discovered on screening before blood donation. Reactivation can occur with cancer chemotherapy or bone-marrow transplantation, so <b>antiviral prophylaxis is indicated</b> in these settings.",
+       "book": "p. 267",
+       "src": "p. 35",
+       "ledger": [
+        "B2-09",
+        "B2-11"
+       ]
+      }
+     ],
+     "book": "pp. 265–267"
+    },
+    {
+     "title": "Treatment of HBV",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "When HBeAg disappears, remission is usually sustained for many years.",
+       "book": "p. 269",
+       "src": "p. 36",
+       "ledger": [
+        "B2-14"
+       ]
+      },
+      {
+       "kind": "management",
+       "text": "Pegylated interferon α-2a for 48 weeks gives response rates of about 25–45%; response is best in younger patients with ALT about 3× the upper limit of normal.",
+       "book": "pp. 270–271",
+       "src": "p. 36",
+       "ledger": [
+        "B2-15",
+        "B2-16"
+       ]
+      },
+      {
+       "kind": "management",
+       "text": "Entecavir: HBV DNA becomes negative by 48 weeks in 67% (HBeAg-positive) and 90% (HBeAg-negative). Tenofovir can be used for lamivudine mutations but not alone for adefovir mutations. Lamivudine (100 mg/day) is well tolerated but limited by resistance from the <b>YMDD mutant</b>.",
+       "book": "p. 270",
+       "src": "p. 37",
+       "ledger": [
+        "B2-17",
+        "B2-18",
+        "B2-19"
+       ]
+      }
+     ],
+     "book": "pp. 269–271"
+    },
+    {
+     "title": "Hepatitis C (within this chapter)",
+     "items": [
+      {
+       "kind": "mechanism",
+       "text": "DAAs target specific HCV <b>non-structural (NS) proteins</b> vital for viral replication, disrupting replication and infection.",
+       "book": "p. 272",
+       "src": "p. 38",
+       "ledger": [
+        "B2-23"
+       ]
+      },
+      {
+       "kind": "management",
+       "text": "Sofosbuvir: 400 mg once daily with or without food; adverse effects (~10%) fatigue, headache, anorexia, insomnia. Ribavirin (adjuvant): 600–1200 mg/day by weight; adverse effects haemolytic anaemia, teratogenicity, sperm abnormalities.",
+       "book": "pp. 272–273",
+       "src": "p. 38",
+       "ledger": [
+        "B2-24",
+        "B2-26"
+       ]
+      },
+      {
+       "kind": "fact",
+       "text": "Egypt's HCV burden also reflects nosocomial spread through inadequately disinfected equipment (e.g. circumcision, dental practice), besides the antischistosomal injection campaigns.",
+       "book": "p. 273",
+       "src": "p. 39",
+       "ledger": [
+        "B2-28"
+       ]
+      }
+     ],
+     "book": "pp. 271–273"
+    }
+   ],
+   "nav": "Chronic Hepatitis B (and C)"
+  },
+  {
+   "id": "ch21",
+   "no": "21",
+   "title": "Autoimmune Hepatitis",
+   "book_pages": "Book pp. 274–279",
+   "subjects": "Internal Medicine",
+   "subline": "<b>Adds to book pp. 274–279</b> · Internal Medicine",
+   "topics": [
+    {
+     "title": "AIH subtypes",
+     "items": [
+      {
+       "kind": "distinction",
+       "text": "Autoantibody pattern and outcome by type:",
+       "book": "p. 275",
+       "src": "p. 22 (table)",
+       "ledger": [
+        "B1-23"
+       ],
+       "table": {
+        "head": [
+         "",
+         "Type 1",
+         "Type 2"
+        ],
+        "rows": [
+         [
+          "Autoantibodies",
+          "ANA alone 10% · ASMA alone 35% · both 50% · neither 5%",
+          "LKM-1, LC-1"
+         ],
+         [
+          "Serum IgG",
+          "+++",
+          "+"
+         ],
+         [
+          "Usual age",
+          "10 years to elderly",
+          "2–18 years"
+         ],
+         [
+          "Progression to cirrhosis",
+          "≈45%",
+          "≈80%"
+         ]
+        ]
+       }
+      }
+     ],
+     "book": "p. 275"
+    },
+    {
+     "title": "Fatty liver (MASLD) management",
+     "items": [
+      {
+       "kind": "management",
+       "text": "Weight loss should be gradual — <b>not more than 1.6 kg per week</b> — because rapid weight loss increases fibrosis.",
+       "book": "p. 279",
+       "src": "p. 44",
+       "ledger": [
+        "C-01"
+       ]
+      }
+     ],
+     "book": "p. 279"
+    }
+   ]
+  },
+  {
+   "id": "ch22",
+   "no": "22",
+   "title": "Liver Cirrhosis",
+   "book_pages": "Book pp. 280–307",
+   "subjects": "Internal Medicine · Pathology",
+   "subline": "<b>Adds to book pp. 280–307</b> · Internal Medicine · Pathology",
+   "topics": [
+    {
+     "title": "Aetiology and consequences",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "Some cirrhosis is <b>cryptogenic</b> (no identifiable cause).",
+       "book": "p. 281",
+       "src": "p. 65",
+       "ledger": [
+        "D-21"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "Cirrhosis causes disease by two routes: <b>altered hepatic blood flow</b> (portal hypertension → variceal bleeding, ascites, encephalopathy; ascites → SBP, HRS) and <b>reduced functional cell mass</b> (less detoxification of bilirubin, ammonia and drugs; less albumin and clotting-protein synthesis).",
+       "book": "p. 282",
+       "src": "p. 65 (figure)",
+       "ledger": [
+        "D-22"
+       ]
+      }
+     ],
+     "book": "pp. 281–282"
+    },
+    {
+     "title": "Clinical picture and investigations",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "Recurrent pancreatitis (especially in alcoholics) is among the associated conditions. Fever may be due to portal bacteraemia or liver-cell necrosis, not only infection. Feminization in males is seen in long-standing cases and usually indicates <b>decompensation</b>.",
+       "book": "p. 282",
+       "src": "p. 45",
+       "ledger": [
+        "C-05",
+        "C-06",
+        "C-07"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "Urine urobilinogen is increased in cirrhosis.",
+       "book": "p. 284",
+       "src": "p. 47",
+       "ledger": [
+        "C-10"
+       ]
+      }
+     ],
+     "book": "pp. 282–284"
+    },
+    {
+     "title": "Varices screening without endoscopy",
+     "items": [
+      {
+       "kind": "investigation",
+       "text": "Liver stiffness <b>≤20 kPa with platelets &gt;150 × 10⁹/L</b>: screening endoscopy not needed (large varices &lt;5%). Liver stiffness <b>&gt;25 kPa</b> is sufficient to diagnose CSPH — no endoscopy needed; treat with carvedilol to reduce the risk of decompensation.",
+       "book": "p. 285",
+       "src": "pp. 48, 60",
+       "ledger": [
+        "C-11",
+        "C-12",
+        "D-06"
+       ]
+      }
+     ],
+     "book": "p. 285"
+    },
+    {
+     "title": "Cholestatic and metabolic cirrhosis",
+     "items": [
+      {
+       "kind": "management",
+       "text": "PBC: supplement fat-soluble vitamins and calcium. Biopsy shows loss of small bile ducts with <b>ductular proliferation</b>.",
+       "book": "pp. 287–288",
+       "src": "p. 51",
+       "ledger": [
+        "C-17",
+        "C-18"
+       ]
+      },
+      {
+       "kind": "fact",
+       "text": "Haemochromatosis: bronze skin is due to <b>melanin</b> deposition; about 30% may develop HCC as a complication of cirrhosis.",
+       "book": "p. 292",
+       "src": "p. 53",
+       "ledger": [
+        "C-21",
+        "C-23"
+       ]
+      },
+      {
+       "kind": "distinction",
+       "text": "MRI showing iron in the <b>pancreas</b> distinguishes hereditary haemochromatosis from secondary iron overload (haemosiderosis), where only the liver is affected.",
+       "book": "p. 293",
+       "src": "p. 53",
+       "ledger": [
+        "C-22"
+       ]
+      },
+      {
+       "kind": "fact",
+       "text": "Wilson disease: ceruloplasmin is an α2-globulin carrying six copper atoms (loaded by ATP7B); 50–75% of intestinal copper is absorbed; normal serum ceruloplasmin is 20–35 mg/dL. Haemolysis is due to the toxic effect of copper on red cells; psychiatric disease can extend to psychosis (schizophrenia-like or manic-depressive).",
+       "book": "pp. 294–296",
+       "src": "pp. 12–13",
+       "ledger": [
+        "A-36",
+        "A-37",
+        "A-39",
+        "A-42",
+        "A-43"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "Kayser-Fleischer rings are gold or greenish-gold rings at the corneoscleral junction; in a few people they are the <b>first sign</b> of Wilson disease.",
+       "book": "p. 295",
+       "src": "p. 13",
+       "ledger": [
+        "A-41"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "α1-antitrypsin deficiency: gene analysis identifies M, Z and S phenotypes.",
+       "book": "p. 300",
+       "src": "p. 56",
+       "ledger": [
+        "C-28"
+       ]
+      }
+     ],
+     "book": "pp. 287–300"
+    }
+   ]
+  },
+  {
+   "id": "ch23",
+   "no": "23",
+   "title": "Portal Hypertension",
+   "book_pages": "Book pp. 308–317",
+   "subjects": "Internal Medicine · Surgery",
+   "subline": "<b>Adds to book pp. 308–317</b> · Internal Medicine · Surgery",
+   "topics": [
+    {
+     "title": "Causes the book does not list",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "Additional causes by site:",
+       "book": "pp. 309–310",
+       "src": "p. 57 (figure)",
+       "ledger": [
+        "D-01",
+        "D-02",
+        "D-03",
+        "D-04"
+       ],
+       "table": {
+        "head": [
+         "Site",
+         "Additional causes in the source"
+        ],
+        "rows": [
+         [
+          "Increased flow",
+          "Idiopathic tropical splenomegaly; arteriovenous fistula"
+         ],
+         [
+          "Prehepatic",
+          "Splenic-vein thrombosis; invasion or compression of portal/splenic vein by tumour"
+         ],
+         [
+          "Presinusoidal",
+          "Early PBC; chronic active hepatitis; vinyl chloride, copper; idiopathic portal hypertension"
+         ],
+         [
+          "Sinusoidal (non-cirrhotic)",
+          "Cytotoxic drugs; vitamin A intoxication"
+         ],
+         [
+          "Post-sinusoidal",
+          "Alcoholic central hyaline sclerosis"
+         ],
+         [
+          "Posthepatic",
+          "IVC webs, tumour invasion or thrombosis"
+         ]
+        ]
+       }
+      },
+      {
+       "kind": "mechanism",
+       "text": "Splenomegaly results from congestion <b>and</b> reticulo-endothelial hyperplasia.",
+       "book": "p. 311",
+       "src": "p. 59",
+       "ledger": [
+        "D-05"
+       ]
+      }
+     ],
+     "book": "pp. 309–310"
+    },
+    {
+     "title": "Primary prophylaxis",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "Variceal haemorrhage accounts for about <b>one-third</b> of deaths in cirrhosis with portal hypertension.",
+       "book": "p. 313",
+       "src": "p. 60",
+       "ledger": [
+        "D-07"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "Non-selective β-blockers reduce portal inflow by lowering cardiac output (β1) and blocking β2 vasodilator receptors on splanchnic arteries; they are <b>as effective as banding</b>. Propranolol alternative: 80–160 mg/day, titrated to cut resting pulse by 25%, for life.",
+       "book": "p. 313",
+       "src": "p. 61",
+       "ledger": [
+        "D-08",
+        "D-09",
+        "D-10"
+       ]
+      }
+     ],
+     "book": "p. 313"
+    },
+    {
+     "title": "Acute variceal bleeding",
+     "items": [
+      {
+       "kind": "management",
+       "text": "Resuscitate to a systolic BP of about 100 mmHg. Terlipressin: 2 mg IV every 6 h, then 1 mg every 4 h, for 2–5 days.",
+       "book": "p. 315",
+       "src": "pp. 61–62",
+       "ledger": [
+        "D-11",
+        "D-13"
+       ]
+      },
+      {
+       "kind": "management",
+       "text": "Histoacryl (tissue adhesive) is used for gastric varices <b>and big oesophageal varices</b>. Balloon tamponade still has a place when endoscopic or vasoconstrictor therapy has failed or is unavailable.",
+       "book": "pp. 315–316",
+       "src": "p. 62",
+       "ledger": [
+        "D-12",
+        "D-15"
+       ]
+      },
+      {
+       "kind": "management",
+       "text": "TIPS is indicated when bleeding cannot be stopped or rebleeding occurs <b>within 5 days</b> of endoscopic therapy. Surgical shunts are usually end-to-side portocaval or Warren (splenorenal).",
+       "book": "pp. 316–317",
+       "src": "pp. 62–63",
+       "ledger": [
+        "D-16",
+        "D-17"
+       ]
+      }
+     ],
+     "book": "pp. 314–317"
+    }
+   ]
+  },
+  {
+   "id": "ch27",
+   "no": "27",
+   "title": "Ascites",
+   "book_pages": "Book pp. 337–344",
+   "subjects": "Internal Medicine",
+   "subline": "<b>Adds to book pp. 337–344</b> · Internal Medicine",
+   "topics": [
+    {
+     "title": "Causes and mechanism",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "After cirrhosis, malignancy is the next commonest cause; cardiac failure and tuberculous peritonitis are less frequent.",
+       "book": "p. 338",
+       "src": "p. 66",
+       "ledger": [
+        "E-01"
+       ]
+      },
+      {
+       "kind": "distinction",
+       "text": "Causes grouped by portal hypertension:",
+       "book": "p. 338",
+       "src": "p. 66",
+       "ledger": [
+        "E-02"
+       ],
+       "table": {
+        "head": [
+         "",
+         "Causes"
+        ],
+        "rows": [
+         [
+          "With PHT — intrahepatic",
+          "Cirrhosis, alcoholic hepatitis, active chronic hepatitis, liver failure, veno-occlusive disease, liver tumour, schistosomiasis, sarcoidosis, Budd-Chiari, focal nodular hyperplasia"
+         ],
+         [
+          "With PHT — extrahepatic",
+          "Heart failure, pericarditis, portal-vein thrombosis"
+         ],
+         [
+          "No PHT — peritoneal",
+          "Carcinomatosis, mesothelioma, pseudomyxoma, infection"
+         ],
+         [
+          "No PHT — hypoalbuminaemia",
+          "Nephrotic syndrome, malnutrition, bowel disease"
+         ],
+         [
+          "No PHT — mixed",
+          "Myxoedema, pancreatic/biliary ascites, amyloidosis, familial Mediterranean fever, granulomatous disease"
+         ]
+        ]
+       }
+      },
+      {
+       "kind": "mechanism",
+       "text": "Renin (juxtaglomerular cells) converts liver-made angiotensinogen to angiotensin I; ACE (mainly pulmonary endothelium) forms angiotensin II, a pressor that also releases aldosterone. Release is driven by renal perfusion (JG cells), distal Na/Cl load (macula densa) and sympathetic β-receptors. The same RAAS activation causes <b>renal sodium avidity (ascites)</b> and <b>renal vasoconstriction (HRS)</b>.",
+       "book": "p. 339",
+       "src": "pp. 67–68",
+       "ledger": [
+        "E-04",
+        "E-05"
+       ]
+      }
+     ],
+     "book": "pp. 338–339"
+    },
+    {
+     "title": "Investigations",
+     "items": [
+      {
+       "kind": "investigation",
+       "text": "Ultrasound detects as little as 30 mL (right lateral decubitus). Diagnostic paracentesis is indicated for new-onset ascites or suspected complication (sterile, 20–23-gauge angiocatheter).",
+       "book": "p. 340",
+       "src": "p. 70",
+       "ledger": [
+        "E-08",
+        "E-09"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "Extra fluid tests: Gram stain, triglycerides (chylous), bilirubin (bowel perforation), glucose, amylase, LDH, cytology. Pair ascitic with same-day serum albumin for SAAG.",
+       "book": "p. 340",
+       "src": "p. 70",
+       "ledger": [
+        "E-10"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "SAAG correlates directly with portal pressure; ≥1.1 g/dL (11 g/L) vs &lt;1.1 separates portal-hypertensive ascites with &gt;97% accuracy. Extra high-gradient causes: fatty liver of pregnancy, massive metastases, mixed ascites, myxoedema, portal-vein thrombosis, sinusoidal obstruction syndrome. Extra low-gradient causes: bowel obstruction/infarction, postoperative lymphatic leak, serositis in connective-tissue disease.",
+       "book": "p. 340",
+       "src": "p. 71 (text + table)",
+       "ledger": [
+        "E-11",
+        "E-12"
+       ]
+      }
+     ],
+     "book": "p. 340"
+    },
+    {
+     "title": "Management",
+     "items": [
+      {
+       "kind": "management",
+       "text": "Stepwise regimen: bed rest, 70–90 mmol sodium diet, daily weight; spironolactone 100–200 mg daily; after 4 days consider furosemide 40 mg daily. <b>Stop diuretics</b> if pre-coma (flap), hypokalaemia, azotaemia or alkalosis.",
+       "book": "p. 341",
+       "src": "p. 72 (box)",
+       "ledger": [
+        "E-14"
+       ]
+      },
+      {
+       "kind": "distinction",
+       "text": "Refractory ascites (10–20% of patients) = diuretic-<b>resistant</b> (no response to maximal doses) or diuretic-<b>intractable</b> (complications prevent an effective dose). Look for contributors: worsening liver disease, portal/hepatic-vein thrombosis, GI bleeding, infection/SBP, malnutrition, HCC, cardiac or renal disease, hepatotoxic or nephrotoxic substances.",
+       "book": "p. 342",
+       "src": "p. 74",
+       "ledger": [
+        "E-16",
+        "E-17"
+       ]
+      },
+      {
+       "kind": "management",
+       "text": "Large-volume paracentesis: 4–6 L daily until the abdomen is emptied, repeat every 2–4 weeks; continue diuretics and sodium restriction afterwards. TIPS lowers diuretic needs, renin and aldosterone but may precipitate encephalopathy or liver failure. Peritoneovenous shunting is another option.",
+       "book": "p. 342",
+       "src": "p. 74",
+       "ledger": [
+        "E-18",
+        "E-19",
+        "E-20"
+       ]
+      }
+     ],
+     "book": "pp. 341–342"
+    },
+    {
+     "title": "Spontaneous bacterial peritonitis",
+     "items": [
+      {
+       "kind": "fact",
+       "text": "SBP develops in about 8% of cirrhotics with ascites, especially when severely decompensated; 90% monomicrobial. More than one organism suggests paracentesis-related infection; anaerobes are rare. Variceal bleeding and previous SBP carry particular risk.",
+       "book": "p. 343",
+       "src": "pp. 75–76",
+       "ledger": [
+        "E-21",
+        "E-22",
+        "E-24"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "Gut bacteria translocate (overgrowth, dysmotility) to mesenteric nodes or bypass liver RES via portosystemic shunts → bacteraemia → <b>bacterascites</b>, which resolves if ascitic opsonic activity is good and becomes SBP if it is poor.",
+       "book": "p. 343",
+       "src": "p. 76 (figure)",
+       "ledger": [
+        "E-23"
+       ]
+      },
+      {
+       "kind": "caution",
+       "text": "Classic features (fever, pain, leucocytosis) may be absent — tap any cirrhotic who deteriorates, e.g. with encephalopathy.",
+       "book": "p. 343",
+       "src": "p. 76",
+       "ledger": [
+        "E-24"
+       ]
+      },
+      {
+       "kind": "management",
+       "text": "Treat ≥5 days; amoxicillin-clavulanate is as effective as third-generation cephalosporins. After upper GI haemorrhage (or sclerotherapy) give norfloxacin 400 mg 12-hourly for <b>at least 7 days</b>.",
+       "book": "pp. 343–344",
+       "src": "pp. 76–77",
+       "ledger": [
+        "E-25",
+        "E-26"
+       ]
+      }
+     ],
+     "book": "pp. 343–344"
+    }
+   ]
+  },
+  {
+   "id": "ch28",
+   "no": "28",
+   "title": "Renal Impairment in Cirrhosis",
+   "book_pages": "Book pp. 345–348",
+   "subjects": "Internal Medicine",
+   "subline": "<b>Adds to book pp. 345–348</b> · Internal Medicine",
+   "topics": [
+    {
+     "title": "Hepatorenal syndrome",
+     "items": [
+      {
+       "kind": "mechanism",
+       "text": "HRS is progressive; the kidneys are histologically normal and <b>capable of normal function</b> — the defect is renal blood flow. Three components: splanchnic/systemic vasodilatation, renal vasoconstriction and <b>cardiac dysfunction</b>, with raised sympathetic tone; most patients have tense ascites.",
+       "book": "p. 346",
+       "src": "p. 78 (text + figure)",
+       "ledger": [
+        "E-28",
+        "E-29"
+       ]
+      },
+      {
+       "kind": "investigation",
+       "text": "Classic criteria used serum creatinine ≥1.5 mg/dL (133 µmol/L) persisting 48 h after diuretic withdrawal and albumin expansion. Exclude toxins (paracetamol, NSAIDs, carbon tetrachloride), infection, ATN (hypotension, aminoglycosides, contrast) and obstructive uropathy.",
+       "book": "pp. 346–347",
+       "src": "p. 79",
+       "ledger": [
+        "E-32",
+        "E-33"
+       ]
+      },
+      {
+       "kind": "management",
+       "text": "Prevent HRS: avoid volume depletion (diuretics, lactulose, GI bleeding, LVP without albumin); use ACEI/ARB/NSAIDs/antibiotics judiciously; treat infection early and give SBP prophylaxis; pentoxifylline in severe alcoholic hepatitis; prevent variceal bleeding.",
+       "book": "p. 347",
+       "src": "p. 80 (table)",
+       "ledger": [
+        "E-35"
+       ]
+      },
+      {
+       "kind": "management",
+       "text": "Albumin loading 1 g/kg/day (max 100 g) to a CVP of 10–15 cmH₂O. Alternatives to terlipressin: midodrine 2.5–5 mg tds (to 15 mg tds) + octreotide 100 µg SC tds (to 200 µg), or noradrenaline 0.1–0.7 µg/kg/min, titrated to MAP. Vasopressors generally for up to 2 weeks; evaluate for transplantation.",
+       "book": "p. 347",
+       "src": "p. 80 (table)",
+       "ledger": [
+        "E-36"
+       ]
+      }
+     ],
+     "book": "pp. 346–347"
+    }
+   ]
+  },
+  {
+   "id": "ch29",
+   "no": "29",
+   "title": "Jaundice",
+   "book_pages": "Book pp. 349–354",
+   "subjects": "Internal Medicine",
+   "subline": "<b>Adds to book pp. 349–354</b> · Internal Medicine",
+   "topics": [
+    {
+     "title": "Approach",
+     "items": [
+      {
+       "kind": "investigation",
+       "text": "Isolated indirect hyperbilirubinaemia: first exclude recent trauma, haematoma or transfusion; then LDH, haptoglobin and reticulocyte count — abnormal → haemolysis/dyserythropoiesis; normal → Gilbert or Crigler-Najjar I/II.",
+       "book": "p. 354",
+       "src": "p. 10 (algorithm)",
+       "ledger": [
+        "A-27"
+       ]
+      },
+      {
+       "kind": "fact",
+       "text": "Halothane (like paracetamol) causes toxic hepatitis with mixed (hepatic) hyperbilirubinaemia.",
+       "book": "p. 351",
+       "src": "p. 9",
+       "ledger": [
+        "A-25"
+       ]
+      },
+      {
+       "kind": "distinction",
+       "text": "Biliary obstruction vs liver disease:",
+       "book": "pp. 353–354",
+       "src": "p. 87 (table)",
+       "ledger": [
+        "F-06"
+       ],
+       "table": {
+        "head": [
+         "",
+         "Favours biliary obstruction",
+         "Favours liver disease"
+        ],
+        "rows": [
+         [
+          "History",
+          "Abdominal pain, fever/rigors, prior biliary surgery, older age",
+          "Viral prodrome, known viral exposure, blood products or IV drug use, hepatotoxin, family history"
+         ],
+         [
+          "Examination",
+          "Fever, tenderness, palpable mass, surgical scar",
+          "Spider telangiectasias, stigmata of portal hypertension, asterixis"
+         ],
+         [
+          "Laboratory",
+          "ALP ↑ out of proportion; PT normal or corrects with vitamin K; leucocytosis; amylase/lipase ↑",
+          "Aminotransferases ↑ out of proportion; PT does not correct with vitamin K; thrombocytopenia; positive serology"
+         ]
+        ]
+       }
+      },
+      {
+       "kind": "fact",
+       "text": "Intrahepatic cholestasis by level: hepatocyte (viral, drug, alcoholic hepatitis; post-necrotic cirrhosis; endotoxin); canaliculus (benign recurrent cholestasis; hormones, pregnancy, drugs); ductules (PBC, allograft rejection, <b>graft-versus-host</b>, biliary atresia, idiopathic adult ductopenia); larger ducts (primary/secondary sclerosing cholangitis).",
+       "book": "p. 352",
+       "src": "p. 85 (figure)",
+       "ledger": [
+        "F-10"
+       ]
+      }
+     ],
+     "book": "pp. 351–354"
+    }
+   ]
+  },
+  {
+   "id": "ch30",
+   "no": "30",
+   "title": "Hepatic Encephalopathy",
+   "book_pages": "Book pp. 355–360",
+   "subjects": "Internal Medicine",
+   "subline": "<b>Adds to book pp. 355–360</b> · Internal Medicine",
+   "topics": [
+    {
+     "title": "Pathogenesis",
+     "items": [
+      {
+       "kind": "mechanism",
+       "text": "About half of gut ammonia is made by bacteria, the rest from dietary protein and glutamine; it is cleared as urea and glutamine. Blood ammonia is raised in <b>90%</b> of HE; ammonia damages the blood–brain barrier and astrocytes and shifts neural activity toward inhibition. Reduced muscle metabolism also raises it.",
+       "book": "p. 358",
+       "src": "p. 90 (text + figure)",
+       "ledger": [
+        "F-12",
+        "F-15"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "Aromatic amino acids rise (failed hepatic deamination) while branched-chain amino acids fall (muscle/renal uptake driven by <b>hyperinsulinaemia</b>); more aromatic amino acids enter the brain, phenylalanine inhibits dopa synthesis → false neurotransmitters.",
+       "book": "pp. 358, 360",
+       "src": "p. 90",
+       "ledger": [
+        "F-13"
+       ]
+      },
+      {
+       "kind": "mechanism",
+       "text": "GABA is made by gut bacteria and normally cleared by the liver; in liver failure or shunting it reaches the systemic circulation.",
+       "book": "p. 358",
+       "src": "p. 90",
+       "ledger": [
+        "F-14"
+       ]
+      }
+     ],
+     "book": "p. 358"
+    },
+    {
+     "title": "Treatment framework",
+     "items": [
+      {
+       "kind": "management",
+       "text": "Three strategies: treat the <b>precipitating cause</b>; reduce production and absorption of gut-derived ammonia and toxins; modify neurotransmitter balance.",
+       "book": "p. 359",
+       "src": "p. 91",
+       "ledger": [
+        "F-16"
+       ]
+      }
+     ],
+     "book": "p. 359"
+    }
+   ]
+  },
+  {
+   "id": "ch31",
+   "no": "31",
+   "title": "Acute Hepatic Failure",
+   "book_pages": "Book pp. 361–366",
+   "subjects": "Internal Medicine · Emergency / Acute Care",
+   "subline": "<b>Adds to book pp. 361–366</b> · Internal Medicine · Emergency / Acute Care",
+   "topics": [
+    {
+     "title": "Cerebral oedema",
+     "items": [
+      {
+       "kind": "mechanism",
+       "text": "Cerebral blood flow is generally increased: persistent vasodilatation and loss of autoregulation cause hyperaemia, and the rise in cerebral blood volume can worsen brain oedema.",
+       "book": "p. 363",
+       "src": "p. 94",
+       "ledger": [
+        "F-18"
+       ]
+      }
+     ],
+     "book": "p. 363"
+    }
+   ]
+  }
+ ],
+ "appendices": []
+}

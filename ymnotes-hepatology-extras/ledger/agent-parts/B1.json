@@ -1,0 +1,698 @@
+[
+ {
+  "id": "B1-01",
+  "hap_pages": [
+   14
+  ],
+  "source_excerpt": "Acute viral hepatitis usually resolve 4 to 8 weeks after symptom onset.",
+  "topic": "Acute viral hepatitis - expected time to resolution",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   246,
+   247,
+   257
+  ],
+  "book_has": "p257: icteric stage 2-4 weeks; 'Clinical & biochemical recovery is usual within 6 months'. Not found: 4-8 weeks (searched: '4 to 8 weeks', 'resolve', 'resolution', convalescen)",
+  "new_contribution": "In the convalescent stage symptoms and icterus resolve and liver enzymes decline to normal; acute viral hepatitis usually resolves 4-8 weeks after symptom onset.",
+  "decision": "include",
+  "reason": "Specific time frame absent; complements book's 6-month upper limit.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-02",
+  "hap_pages": [
+   14
+  ],
+  "source_excerpt": "The most important indicator of prognosis in acute viral hepatitis is impairment in synthetic function, with PT a widely accepted indicator.",
+  "topic": "Follow-up / prognostic markers in acute hepatitis",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   246,
+   247,
+   252
+  ],
+  "book_has": "p247/p252: 'PT is prolonged in severe cases'. Not found: PT as main prognostic indicator or 3-second threshold (searched: prognosis, synthetic, prothrombin, INR, '3 seconds', cytosolic); Ch 31 (361-366) has no PT threshold",
+  "new_contribution": "In acute viral hepatitis the extent of injury is judged by impaired liver function rather than the level of cytosolic enzymes (ALT/AST); PT is the key prognostic indicator, and a PT more than 3 seconds above normal is associated with a poor prognosis.",
+  "decision": "include",
+  "reason": "Prognostic principle and numeric PT threshold absent from book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-03",
+  "hap_pages": [
+   14
+  ],
+  "source_excerpt": "With hepatitis B and C, cytosolic enzyme activities may return to normal even if viral replication persists; Serologic tests are the only reliable means",
+  "topic": "Documenting recovery of HBV/HCV",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   247,
+   248,
+   259
+  ],
+  "book_has": "not found (searched: resolution, 'return to normal', persist, cytosolic). p253 says for HAV liver biochemistry must be followed to normal.",
+  "new_contribution": "In hepatitis B and C, normalisation of ALT/AST does not prove recovery because viral replication may persist; clearance of infection must be documented serologically (virological markers).",
+  "decision": "include",
+  "reason": "Clinically important interpretive caveat absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-04",
+  "hap_pages": [
+   15,
+   24
+  ],
+  "source_excerpt": "PCR of feces to detect HAV. Can detect illness earlier than serology but is very rarely performed.",
+  "topic": "HAV direct detection",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   247,
+   253
+  ],
+  "book_has": "p247 and p253: HAV diagnosis only by IgM/IgG/total antibody; Fig 19.1 shows HAV in stool. Not found: HAV PCR (searched: 'PCR', 'feces', 'stool', HAV RNA)",
+  "new_contribution": "HAV can be detected directly by PCR on faeces; this detects infection earlier than serology but is very rarely performed.",
+  "decision": "include",
+  "reason": "Diagnostic modality not mentioned for HAV in book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-05",
+  "hap_pages": [
+   15
+  ],
+  "source_excerpt": "IgG provides long-term immunity (protection), whether due to a prior infection by the virus or due to vaccination.",
+  "topic": "HAV IgG - vaccine vs natural immunity",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   247,
+   259
+  ],
+  "book_has": "p247: IgG present for rest of life; p259: 'HAV IgG: indicates old infection and immunity'. Vaccine-induced IgG not stated (searched: immunity, vaccination, long-term)",
+  "new_contribution": "HAV IgG gives long-term protection whether it follows natural infection or vaccination, so a positive total anti-HAV can be used to confirm long-term immunity and decide whether vaccination is needed.",
+  "decision": "include",
+  "reason": "Minor increment: vaccine-derived IgG and use of total Ab to confirm immunity. Low priority.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-06",
+  "hap_pages": [
+   16
+  ],
+  "source_excerpt": "Present in all body fluids except stool, so spread is by blood or body fluid contact.",
+  "topic": "HBV - infectious body fluids",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   247,
+   255
+  ],
+  "book_has": "p247/p255: parenteral, sexual, perinatal/vertical, household articles. Not found (searched: 'body fluid', saliva, semen, stool)",
+  "new_contribution": "HBV is present in all body fluids except stool, so spread is by contact with blood or body fluids (it is not faeco-orally transmitted).",
+  "decision": "include",
+  "reason": "Transmission rationale absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-07",
+  "hap_pages": [
+   17
+  ],
+  "source_excerpt": "Usually denotes resolving acute infection, but the infection is not completely resolved because HBsAb has not yet detected.",
+  "topic": "HBV window period - interpretation",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   248
+  ],
+  "book_has": "p248: defines window period and that anti-HBc is the only positive marker. Interpretation not found (searched: window, resolving)",
+  "new_contribution": "An isolated anti-HBc (HBsAg negative, anti-HBs negative) in the window period usually indicates a resolving acute infection that is not yet completely resolved, because anti-HBs has not yet appeared.",
+  "decision": "include",
+  "reason": "Adds clinical meaning of window-period serology.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-08",
+  "hap_pages": [
+   17
+  ],
+  "source_excerpt": "HBsAg negative ... Susceptible; ... Immune due to natural infection; ... Immune due to hepatitis B vaccination; ... Acutely infected; ... Chronically infected",
+  "topic": "HBV serology interpretation table",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   247,
+   248,
+   259
+  ],
+  "book_has": "p248 text: natural immunity = anti-HBs + anti-HBc; vaccine = anti-HBs only; p259: HBc IgM in acute phase & severe chronic hepatitis. No tabulated panel for susceptible/acute/chronic (checked bookimg p247-249, p255, p259)",
+  "new_contribution": "HBV panel interpretation: all negative = susceptible; HBsAg+, anti-HBc+, IgM anti-HBc+, anti-HBs- = acute infection; HBsAg+, anti-HBc+, IgM anti-HBc-, anti-HBs- = chronic infection; HBsAg-, anti-HBc+, anti-HBs+ = immune after natural infection; only anti-HBs+ = vaccine immunity.",
+  "decision": "include",
+  "reason": "Source image table gives a ready decision panel; book has only parts in prose (susceptible and acute/chronic patterns absent).",
+  "evidence_type": "image-table"
+ },
+ {
+  "id": "B1-09",
+  "hap_pages": [
+   17
+  ],
+  "source_excerpt": "Table 1. Interpretation of hepatitis B markers ... Acute infection ... Chronic infection ... Past infection ... ALT increased (marked) increased (mild-moderate) normal",
+  "topic": "HBV markers: acute vs chronic vs past",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   248,
+   259
+  ],
+  "book_has": "Not found as a comparison (searched: past infection, anti-HBc IgG, ALT). p250 lists chronic HBV markers.",
+  "new_contribution": "Acute HBV: HBsAg+, HBeAg+ early then -, IgM anti-HBc+, anti-HBe - early then +, HBV DNA + early then -, marked ALT rise; chronic: HBsAg+, IgG anti-HBc+, HBeAg/anti-HBe/HBV DNA +/-, mild-moderate ALT rise; past infection: anti-HBs+, IgG anti-HBc+, anti-HBe+, HBsAg-, HBV DNA-, normal ALT.",
+  "decision": "include",
+  "reason": "Image table (small, low-res but legible at 110 dpi) adds a side-by-side comparison absent from book; verify cell values on the render before use.",
+  "evidence_type": "image-table"
+ },
+ {
+  "id": "B1-10",
+  "hap_pages": [
+   17
+  ],
+  "source_excerpt": "It can: ... 2- Distinguish active from inactive HBV infection. 3- Monitor a patient's response to anti-HBV therapy.",
+  "topic": "HBV DNA PCR uses",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   248,
+   266,
+   267
+  ],
+  "book_has": "p248: PCR monitors replication and response to treatment, detects early infection; Ch 20 p266-267 uses HBV DNA thresholds to separate phases.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered (p248 + Ch 20 phase table).",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-11",
+  "hap_pages": [
+   18
+  ],
+  "source_excerpt": "It is an Enveloped, single stranded-RNA flavivirus. ... Most common cause of transfusion associated hepatitis; sexual transmission is low.",
+  "topic": "HCV - transfusion-associated hepatitis",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   248,
+   256
+  ],
+  "book_has": "p256: flaviviridae, mainly parenteral, low sexual/vertical. Not found: 'transfusion associated', enveloped (searched: transfusion, envelop)",
+  "new_contribution": "HCV (an enveloped single-stranded RNA flavivirus) is the most common cause of transfusion-associated hepatitis; sexual transmission is low.",
+  "decision": "include",
+  "reason": "Epidemiological fact absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-12",
+  "hap_pages": [
+   18
+  ],
+  "source_excerpt": "False positive results could be present due to for example: cross reactivity ... False negative results are seen in those with immunodeficiency.",
+  "topic": "HCV antibody - false positive/negative",
+  "book_chapter": "20 Chronic Hepatitis B",
+  "book_pages": [
+   248,
+   272
+  ],
+  "book_has": "p272: 'HCV antibody alone is NOT diagnostic of active infection'; p249 PCR for early diagnosis. Not found: false positive cross-reactivity, false negative in immunodeficiency (searched: false, cross, immunodeficien, seroconversion, confirm)",
+  "new_contribution": "A positive anti-HCV may be a false positive (e.g. cross-reactivity from another infection) and must be confirmed by HCV RNA PCR; a negative anti-HCV does not exclude HCV, since false negatives occur in immunodeficiency and in very early infection before seroconversion, when PCR is needed.",
+  "decision": "include",
+  "reason": "Specific causes of false results absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-13",
+  "hap_pages": [
+   18
+  ],
+  "source_excerpt": "Anti HCV IgM can not therefore serve as a diagnostic marker of acute HCV infection.",
+  "topic": "HCV IgM - not diagnostic",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   248,
+   249
+  ],
+  "book_has": "not found (searched: 'IgM' with HCV, anti-HCV IgM)",
+  "new_contribution": "Unlike HAV and HBV, anti-HCV IgM is not a marker of acute infection: it rarely precedes IgG and may be absent, late or persistent (seen in both acute and chronic phases); acute HCV is diagnosed by HCV RNA PCR.",
+  "decision": "include",
+  "reason": "Useful contrast with other viruses; absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-14",
+  "hap_pages": [
+   19
+  ],
+  "source_excerpt": "Cause infection only when it is encapsulated with HBsAg.",
+  "topic": "HDV - dependence on HBsAg",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   249,
+   255
+  ],
+  "book_has": "p249/p255: 'defective', 'unable to replicate on its own but is activated in the presence of HBV'. Mechanism (HBsAg coat) not found (searched: encapsulat, coat, envelope)",
+  "new_contribution": "HDV causes infection only when it is encapsulated with HBsAg, which is why it depends on HBV.",
+  "decision": "include",
+  "reason": "Mechanism behind HBV dependence absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-15",
+  "hap_pages": [
+   19
+  ],
+  "source_excerpt": "Genotypes 1 and 2 usually cause waterborne outbreaks ... Genotypes 3 and 4 typically cause sporadic cases rather than outbreaks.",
+  "topic": "HEV genotypes and transmission",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   249,
+   254
+  ],
+  "book_has": "p254: enteric, contaminated water, epidemics in developing countries, sporadic in developed countries with farm-animal contact. Not found: genotypes, pork/meat, unenveloped (searched: genotype, pork, meat, enveloped)",
+  "new_contribution": "HEV (unenveloped ssRNA) has 4 genotypes: genotypes 1 and 2 cause waterborne outbreaks from faecal contamination of water, genotypes 3 and 4 cause sporadic cases; transmission can also be by eating uncooked or undercooked meat such as pork.",
+  "decision": "include",
+  "reason": "Genotype-epidemiology link and food-borne route absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-16",
+  "hap_pages": [
+   19
+  ],
+  "source_excerpt": "few reports document chronic genotype 3 hepatitis E exclusively in immunocompromised patients (including organ-transplant recipients, patients receiving cancer chemotherapy, and HIV-infected patients).",
+  "topic": "HEV chronicity in immunocompromised",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   249,
+   254,
+   258
+  ],
+  "book_has": "p249: 'It never causes chronicity'; p254/p258: except some immunosuppressed solid-organ transplant recipients.",
+  "new_contribution": "Chronic hepatitis E is due to genotype 3 and occurs only in immunocompromised patients: organ-transplant recipients, patients on cancer chemotherapy and HIV-infected patients.",
+  "decision": "include",
+  "reason": "More specific (genotype, chemotherapy, HIV) than book's transplant-only statement.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-17",
+  "hap_pages": [
+   19
+  ],
+  "source_excerpt": "Primarily in adults,, rare in children",
+  "topic": "HEV age distribution",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   249,
+   254
+  ],
+  "book_has": "not found (searched: adults, children with HEV)",
+  "new_contribution": "Hepatitis E affects primarily adults and is rare in children.",
+  "decision": "include",
+  "reason": "Small epidemiological contrast with HAV (children/young adults, p252).",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-18",
+  "hap_pages": [
+   20
+  ],
+  "source_excerpt": "Mode of transmission is parenteral by contaminated blood or blood products. Its prevalence in blood donors is rare (1%).",
+  "topic": "Hepatitis G",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   249
+  ],
+  "book_has": "p249: ssRNA, parenteral, recovery, chronicity very rare. Not found: blood products, 1% donors (searched: 'Hepatitis G', HGV, blood donor)",
+  "new_contribution": "Hepatitis G is transmitted by contaminated blood or blood products; its prevalence in blood donors is about 1%.",
+  "decision": "include",
+  "reason": "Minor detail; low priority.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-19",
+  "hap_pages": [
+   20
+  ],
+  "source_excerpt": "Marked elevation of GGT and ALP. Bilirubin may be normal (partial obstruction allows passage of bilirubin and stimulates synthesis of ALP and GGT).",
+  "topic": "Hepatic infiltration / space-occupying lesions - lab pattern",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245,
+   246,
+   249
+  ],
+  "book_has": "not found (searched: infiltrat, 'space occupying', secondar, metasta, CEA; checked Ch 26 HCC 332-336 for ALP/GGT pattern)",
+  "new_contribution": "In hepatic infiltration by space-occupying lesions (primary or secondary tumours, cysts, lymph nodes) ALP and GGT are markedly raised while bilirubin may be normal, because partial obstruction lets bilirubin pass yet stimulates ALP/GGT synthesis; AST/ALT are normal or slightly raised (AST>ALT); AFP rises in HCC and CEA in GIT cancer with liver secondaries.",
+  "decision": "include",
+  "reason": "Whole lab pattern absent from book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-20",
+  "hap_pages": [
+   20
+  ],
+  "source_excerpt": "Laboratory findings of liver cirrhosis: Albumin is low and gamma globulin is high with reversed A/G ratio",
+  "topic": "Lab findings of cirrhosis",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   249
+  ],
+  "book_has": "p249: reproduced essentially verbatim (albumin, AST>ALT, ALP, GGT, PT, platelets/thrombopoietin, SPE beta-gamma bridge, AFP).",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-21",
+  "hap_pages": [
+   21
+  ],
+  "source_excerpt": "Laboratory findings of chronic hepatitis • Albumin is low and gamma globulin is high (IgG mainly).",
+  "topic": "Chronic hepatitis definition and labs",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   249,
+   250
+  ],
+  "book_has": "p249-250: definition (>=6 months), causes, lab findings, AIH type 1/2 autoantibodies reproduced verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-22",
+  "hap_pages": [
+   21
+  ],
+  "source_excerpt": "Differentiation between most common types of chronic hepatitis ... Sex Female Male Equal ... Risk of cancer Low High High",
+  "topic": "AIH vs HBV vs HCV chronic hepatitis table",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   250,
+   275
+  ],
+  "book_has": "p250: autoantibodies low titre in viral; p275: AIH females 70%, 15-25 years. Comparison table not found (checked bookimg p250; searched: 'Risk of cancer', 'Autoimmune diseases', Male)",
+  "new_contribution": "Chronic hepatitis comparison: AIH - female, 15-25 years, frequent associated autoimmune disease, high-titre ANA/ASMA/LKM, low cancer risk; HBV - male, older, HBsAg+, autoimmune disease rare, low/absent autoantibodies, high cancer risk; HCV - both sexes equally, all ages, anti-HCV+, autoimmune disease occasional, low/absent autoantibodies, high cancer risk.",
+  "decision": "include",
+  "reason": "Comparative table absent; sex/age/cancer-risk contrasts are new.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-23",
+  "hap_pages": [
+   22
+  ],
+  "source_excerpt": "TABLE 10.2 Autoimmune Hepatitis Subtypes ... ANA alone, 10% ASMA alone, 35% Both positive, 50% Both negative, 5% ... Progression to cirrhosis (approximate %) 45 80",
+  "topic": "AIH subtypes - antibody profile, IgG, cirrhosis",
+  "book_chapter": "21 Autoimmune Hepatitis",
+  "book_pages": [
+   275
+  ],
+  "book_has": "p275: type 1 ANA/ASMA, type 2 LKM-1/LC-1; IgG >1.5x ULN; plasma-cell-rich interface hepatitis. Not found: antibody-combination percentages, IgG by type, progression to cirrhosis 45%/80% (searched: 45, 80%, cirrhosis in Ch 21)",
+  "new_contribution": "Type 1 AIH: ANA alone 10%, ASMA alone 35%, both 50%, both negative 5%; IgG markedly raised (+++); approximate progression to cirrhosis 45%. Type 2 AIH: LKM-1 and LC-1, IgG less raised (+), paediatric (2-18 years), progression to cirrhosis about 80%; both show hepatitis with prominent plasma cells.",
+  "decision": "include",
+  "reason": "Image table content absent from book.",
+  "evidence_type": "image-table"
+ },
+ {
+  "id": "B1-24",
+  "hap_pages": [
+   22
+  ],
+  "source_excerpt": "Approximate frequency 95% 5%",
+  "topic": "AIH type 1 frequency",
+  "book_chapter": "21 Autoimmune Hepatitis",
+  "book_pages": [
+   275
+  ],
+  "book_has": "p275: Type 1 'accounts for approximately 80-90% of cases'.",
+  "new_contribution": "Source image table gives type 1 AIH approximate frequency 95% (type 2 5%); book p275 gives 80-90%.",
+  "decision": "discrepancy",
+  "reason": "Different figures for the same point; not adjudicated.",
+  "evidence_type": "image-table"
+ },
+ {
+  "id": "B1-25",
+  "hap_pages": [
+   22
+  ],
+  "source_excerpt": "Serum Protein Electrophoresis--Normal Pattern ... CIRRHOSIS",
+  "topic": "SPE figures",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   249
+  ],
+  "book_has": "p249: SPE polyclonal gamma rise with beta-gamma bridge described in text.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Figure illustrates text already in book; optional figure only.",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "B1-26",
+  "hap_pages": [
+   22
+  ],
+  "source_excerpt": "QUIZ exam 1- Which of the following is associated with conjugated hyperbilirubinemia?",
+  "topic": "Quiz items",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245,
+   246
+  ],
+  "book_has": "p245-246: Gilbert, Crigler-Najjar, Dubin-Johnson, cholestasis covered.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Quiz questions; no unique fact.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-27",
+  "hap_pages": [
+   14
+  ],
+  "source_excerpt": "Marked elevation(10-100 times) of ALT and AST and ALT/AST ratio>1 due to slower clearance of ALT.",
+  "topic": "Pre-icteric/icteric stage labs of acute viral hepatitis",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   244,
+   246,
+   247
+  ],
+  "book_has": "p244 (ALT half-life, slower clearance), p246-247 (pre-icteric and icteric findings) verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-28",
+  "hap_pages": [
+   15,
+   16,
+   17
+  ],
+  "source_excerpt": "Hepatitis B core antibody (HBcAb or anti-HBc): Appears at the onset of symptoms in acute hepatitis B and persists for life.",
+  "topic": "HAV/HBV serological markers (general)",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   247,
+   248
+  ],
+  "book_has": "p247-248: HAV IgM/IgG/total, HBsAg, anti-HBs, anti-HBc total/IgM, HBeAg, anti-HBe, HBV DNA verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-29",
+  "hap_pages": [
+   23
+  ],
+  "source_excerpt": "Acute damage of the liver cells can be caused by several agents",
+  "topic": "Causes of acute hepatitis / etiology",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   252
+  ],
+  "book_has": "p252 verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-30",
+  "hap_pages": [
+   23,
+   24,
+   25
+  ],
+  "source_excerpt": "The disease is maximally infectious just before the onset of jaundice.",
+  "topic": "Hepatitis A (epidemiology, labs, course, prevention, vaccine)",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   252,
+   253,
+   254
+  ],
+  "book_has": "p252-254 verbatim incl. Fig 19.1.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-31",
+  "hap_pages": [
+   25
+  ],
+  "source_excerpt": "It has mortality from fulminant hepatic failure of 1-2%, which rises to 20% in pregnant women",
+  "topic": "Hepatitis E (Ch 19 section)",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   254
+  ],
+  "book_has": "p254 verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-32",
+  "hap_pages": [
+   26,
+   27
+  ],
+  "source_excerpt": "HCV has at least 8 major genotypes. Genotype 4 is the most prevalent in Egypt .",
+  "topic": "HBV/HDV/HCV virology and course (Ch 19 section)",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   254,
+   255,
+   256,
+   257
+  ],
+  "book_has": "p254-257 verbatim incl. Fig 19.2-19.5 (HBV structure, HBV serology, HCV genome, HCV serology).",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-33",
+  "hap_pages": [
+   28
+  ],
+  "source_excerpt": "HDV super-infection causes chronic hepatitis in about 70%.",
+  "topic": "Clinical picture and sequelae of viral hepatitis",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   257
+  ],
+  "book_has": "p257 verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-34",
+  "hap_pages": [
+   29,
+   30,
+   31
+  ],
+  "source_excerpt": "Centrizonal necrosis & cholestasis are most marked in zone 3.",
+  "topic": "Characteristics table, pathology, investigations, viral markers",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   258,
+   259
+  ],
+  "book_has": "p258-259 verbatim (book table adds a transmission row).",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-35",
+  "hap_pages": [
+   31
+  ],
+  "source_excerpt": "Rest: Bed rest is mandatory until the patient is free of jaundice & free of symptoms and the bilirubin is less than 1.5mg/dl.",
+  "topic": "Rest in acute viral hepatitis",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   253,
+   259
+  ],
+  "book_has": "p259 Treatment (acute attack): 'Normal activity as tolerated, patient should be adequately hydrated...'; p253 (HAV): 'rest and dietary measures are unhelpful'.",
+  "new_contribution": "Source (HAP 31) states bed rest is mandatory until jaundice and symptoms clear and bilirubin <1.5 mg/dl; book p259 advises normal activity as tolerated.",
+  "decision": "discrepancy",
+  "reason": "Same point, opposing advice; the source itself also says rest is unhelpful for HAV (HAP 24). Not adjudicated.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-36",
+  "hap_pages": [
+   31
+  ],
+  "source_excerpt": "HBV: Pre-exposure HBV recombinant vaccines (or Plasma derived ) are both effective & safe.",
+  "topic": "Prevention (HAV/HEV/HBV vaccine, HBIG, HCV)",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   259,
+   260
+  ],
+  "book_has": "p259-260 verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-37",
+  "hap_pages": [
+   32,
+   33
+  ],
+  "source_excerpt": "Unlike hepatitis viruses A, B, C, D and E, herpes viruses are not hepatotropic",
+  "topic": "Herpes/EBV/CMV/HSV hepatitis",
+  "book_chapter": "19 Acute Hepatitis",
+  "book_pages": [
+   260,
+   261
+  ],
+  "book_has": "p260-261 verbatim.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Already covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "B1-38",
+  "hap_pages": [
+   18,
+   31
+  ],
+  "source_excerpt": "HCV-Ab test is usually positive within 2-5 months after infection.",
+  "topic": "HCV antibody timing (internal inconsistency)",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   249,
+   259
+  ],
+  "book_has": "Book repeats both source values: p248-249 '2-5 months' and p259 '6-8 weeks'.",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Source-internal inconsistency (HAP 18 vs HAP 31) mirrored in book; not a source-vs-book discrepancy. Flag for editor.",
+  "evidence_type": "text"
+ }
+]

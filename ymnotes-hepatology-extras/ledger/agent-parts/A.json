@@ -1,0 +1,816 @@
+[
+ {
+  "id": "A-01",
+  "hap_pages": [
+   1
+  ],
+  "source_excerpt": "Yellowish discoloration of the skin, sclera & mucous membrane, bilirubin >3mg.",
+  "topic": "Jaundice threshold",
+  "book_chapter": "29 Jaundice",
+  "book_pages": [
+   237,
+   350
+  ],
+  "book_has": "p350: jaundice evident at plasma bilirubin 3 to 4 mg/dL",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered (book gives 3-4 mg/dL; consistent).",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-02",
+  "hap_pages": [
+   1
+  ],
+  "source_excerpt": "Palmar erythema: a persistent redness of the palms. Spider naevi: a small red marks on the skin caused by dilated blood vessels (capillaries)",
+  "topic": "Skin signs of chronic liver disease: definitions",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   237,
+   238,
+   282
+  ],
+  "book_has": "p282 lists spider naevi and palmar erythema; p238 'Skin and endocrine changes' without definitions; no definition found (searched: palmar, palmer, spider, erythema)",
+  "new_contribution": "Palmar erythema is persistent redness of the palms; spider naevi are small red skin marks caused by dilated capillaries near the skin surface.",
+  "decision": "include",
+  "reason": "Book names the signs but never defines them; low priority.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-03",
+  "hap_pages": [
+   1
+  ],
+  "source_excerpt": "Liver is the site of synthesis of fibrinogen, factors II, V, VII, IX, XI, XII, and XIII.",
+  "topic": "Coagulation factors made by the liver",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   238,
+   246
+  ],
+  "book_has": "p246: 'PT is dependent on normal hepatic synthesis of coagulation factors'; vitamin K-dependent II, VII, IX, X listed; no list of liver-synthesised factors (searched: fibrinogen, XIII, factor VIII, clotting factors)",
+  "new_contribution": "The bleeding tendency of chronic liver disease reflects failed hepatic synthesis of fibrinogen and factors II, V, VII, IX, XI, XII and XIII.",
+  "decision": "include",
+  "reason": "Specific factor list absent from book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-04",
+  "hap_pages": [
+   2
+  ],
+  "source_excerpt": "It is shown by flushed extremities, bounding pulses and capillary pulsations - Portal blood flow is increased. - The blood pressure is low.",
+  "topic": "Hyperdynamic circulation: signs and haemodynamics",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   237,
+   282
+  ],
+  "book_has": "p237: heading 'Vasodilation and hyperdynamic circulation' with only CV alterations listed; p282: warm hands, high volume pulse, tachycardia; p363 reduced SVR (only for acute liver failure) (searched: flushed, bounding, capillary, portal blood flow, blood pressure, vascular resistance)",
+  "new_contribution": "Hyperdynamic circulation in chronic liver disease shows flushed extremities, bounding pulses and capillary pulsations, with increased portal blood flow, low blood pressure and reduced systemic peripheral vascular resistance.",
+  "decision": "include",
+  "reason": "Capillary pulsations, raised portal flow, low BP and reduced SVR in chronic liver disease not stated in Ch 18/22.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-05",
+  "hap_pages": [
+   2
+  ],
+  "source_excerpt": "The substances might be 1) Formed by the sick hepatocyte. 2) Fail to be inactivated by it. 3) Bypass it through intra or extra-hepatic portal-systemic shunts.",
+  "topic": "Origin of vasodilators in chronic liver disease",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   237,
+   282,
+   338
+  ],
+  "book_has": "p282: 'excess vasodilator materials (VDM)' without origin; p339 peripheral vasodilatation -> RAAS (searched: vasodilat, shunt, VDM)",
+  "new_contribution": "The vasodilators are probably multiple and may be formed by the sick hepatocyte, escape inactivation by it, or bypass it through intra- or extra-hepatic portosystemic shunts; they activate the sympathetic and renin-angiotensin systems, promoting sodium/water retention and ascites.",
+  "decision": "include",
+  "reason": "Mechanism of VDM excess not given in book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-06",
+  "hap_pages": [
+   2
+  ],
+  "source_excerpt": "One of the implicated substances in that respect is Nitric Oxide ( NO)... NO is important in ascites formation and the hepato-renal syndrome and in portal hypertension.",
+  "topic": "Nitric oxide and prostanoids as vasodilators",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   237,
+   282,
+   339,
+   346
+  ],
+  "book_has": "p346 mentions only decreased renal vasodilators (PGE2, NO) in HRS; NO as the systemic/splanchnic vasodilator of hyperdynamic circulation not found (searched: nitric, NO), prostanoid/prostaglandin not found",
+  "new_contribution": "Nitric oxide, an endothelium-derived potent vasodilator, is implicated in the hyperdynamic circulation and is important in ascites formation, hepatorenal syndrome and portal hypertension; prostanoids released into the portal vein in chronic liver disease may also contribute to vasodilatation.",
+  "decision": "include",
+  "reason": "Book gives NO only as a reduced renal vasodilator in HRS, not as the driver of systemic vasodilatation. Source lists 'Prostaglandins (E1, E2 and E12)' - 'E12' looks garbled, so the specific subtype list is left out.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-07",
+  "hap_pages": [
+   2
+  ],
+  "source_excerpt": "[figure] Nitric oxide / Prostaglandin / Endocannabinoids -> Splanchnic vasodilation ... Increased cardiac output",
+  "topic": "Vasodilator cycle figure: endocannabinoids, raised cardiac output",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   237,
+   339
+  ],
+  "book_has": "not found (searched: endocannab, cardiac output [only ALF p363], intrahepatic resistance); book Fig 18.1 p237 is a pictorial of signs only",
+  "new_contribution": "The figure lists endocannabinoids alongside nitric oxide and prostaglandins as splanchnic vasodilators, and shows raised cardiac output with raised intrahepatic resistance and portal blood flow in the cycle leading to ascites and hepatorenal syndrome.",
+  "decision": "include",
+  "reason": "Image-only content; endocannabinoids and raised cardiac output in cirrhosis absent from book.",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "A-08",
+  "hap_pages": [
+   2
+  ],
+  "source_excerpt": "Is a condition of acute kidney injury seen in patient with advanced liver disease with normal kidney histology.",
+  "topic": "Hepatorenal syndrome definition",
+  "book_chapter": "28 Renal Impairment in Cirrhosis",
+  "book_pages": [
+   237,
+   346
+  ],
+  "book_has": "p346: HRS in cirrhosis, histology of kidney normal, full pathogenesis",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered in more detail in Ch 28.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-09",
+  "hap_pages": [
+   3
+  ],
+  "source_excerpt": "Triphasic CT is the investigation of choice for the diagnosis of hepatocellular carcinoma.",
+  "topic": "Imaging (US, Doppler, CT, MRI, MRCP, X-ray, Fibroscan, upper endoscopy)",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   239,
+   240,
+   241,
+   242
+  ],
+  "book_has": "pp239-242 reproduce all statements incl. Fibroscan 80-95%",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered verbatim.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-10",
+  "hap_pages": [
+   4
+  ],
+  "source_excerpt": "Contrast is injected into both systems and the patient is screened Radilogically.",
+  "topic": "ERCP, EUS, PTC, liver biopsy",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   242,
+   243,
+   394,
+   395
+  ],
+  "book_has": "pp242-243 reproduce all; ERCP/PTC also Ch 35 pp394-395",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered verbatim.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-11",
+  "hap_pages": [
+   5
+  ],
+  "source_excerpt": "Liver is the site of synthesis of albumin, all clotting factors (except factor VIII), carrier proteins (As ceruloplasmin, transferrin), cholesterol, bile salts and urea.",
+  "topic": "Synthetic and detoxification functions of the liver",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   238,
+   244
+  ],
+  "book_has": "not found (searched: factor VIII, transferrin [only haemochromatosis], urea [only HE treatment], ammonia [HE only], synthesis)",
+  "new_contribution": "The liver synthesises albumin, all clotting factors except factor VIII, carrier proteins such as ceruloplasmin and transferrin, cholesterol, bile salts and urea, and detoxifies ammonia and other toxic substances.",
+  "decision": "include",
+  "reason": "Framing statement for LFTs absent; 'all except factor VIII' is a useful exam point.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-12",
+  "hap_pages": [
+   5
+  ],
+  "source_excerpt": "Reduction of serum albumin provide an excellent indicator of severity and prognosis of chronic liver disease.",
+  "topic": "Albumin as prognostic marker",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   238,
+   244,
+   286
+  ],
+  "book_has": "p244 albumin half-life, decreased only in chronic disease with severe cell destruction; albumin is in Child-Pugh table p286 but prognostic statement not found (searched: albumin, prognosis)",
+  "new_contribution": "A falling serum albumin is an excellent indicator of the severity and prognosis of chronic liver disease.",
+  "decision": "include",
+  "reason": "Explicit prognostic role not stated in Ch 18.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-13",
+  "hap_pages": [
+   5,
+   6
+  ],
+  "source_excerpt": "In liver cirrhosis, there is mild to moderate elevation of ALT and AST (2-5 folds). The rise of AST is more than ALT",
+  "topic": "Aminotransferases, ALT/AST ratio, immunoglobulins",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   238,
+   244
+  ],
+  "book_has": "p244 reproduces verbatim incl. half-lives 17 h/47 h and polyclonal gammaglobulin",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered verbatim.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-14",
+  "hap_pages": [
+   6
+  ],
+  "source_excerpt": "In cholestasis (obstructive jaundice) and space occupying lesions in liver (As in cancer), there is marked elevation of these enzymes (more than 3 folds).",
+  "topic": "ALP/GGT in space-occupying lesions",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245
+  ],
+  "book_has": "p245: marked (>3-fold) elevation in cholestasis only; no mention of SOL (searched: space occupying, ALP, cancer)",
+  "new_contribution": "ALP and GGT are also markedly raised (>3-fold) with space-occupying lesions of the liver such as cancer, not only in cholestasis.",
+  "decision": "include",
+  "reason": "SOL cause omitted in book's copy of same paragraph.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-15",
+  "hap_pages": [
+   6
+  ],
+  "source_excerpt": "The latter (ALP) is also elevated in non-hepatic disorders as bone diseases (rickets ,osteomalacia).",
+  "topic": "ALP in bone disease: examples",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245
+  ],
+  "book_has": "p245: 'elevated in non-hepatic disorders as bone diseases' (no examples)",
+  "new_contribution": "Non-hepatic ALP rises occur in bone diseases such as rickets and osteomalacia.",
+  "decision": "include",
+  "reason": "Minor specificity; examples omitted in book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-16",
+  "hap_pages": [
+   6
+  ],
+  "source_excerpt": "Another enzyme called 5'nucleotidase is more specific for cholestasis than ALP but its use is not popular.",
+  "topic": "5'-nucleotidase",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245
+  ],
+  "book_has": "not found (searched: nucleotidase)",
+  "new_contribution": "5'-nucleotidase is more specific for cholestasis than ALP but is not widely used.",
+  "decision": "include",
+  "reason": "Absent from book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-17",
+  "hap_pages": [
+   7
+  ],
+  "source_excerpt": "Due to deconjugate most of bilirubin by gut bacteria B-glucuronidases.",
+  "topic": "Bilirubin processing enzymes",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245
+  ],
+  "book_has": "p245: gut bacteria deconjugate bilirubin (enzyme not named); UDGT named only under Crigler-Najjar (searched: glucuronidase, glucuronosyl)",
+  "new_contribution": "Conjugation of bilirubin to glucuronic acid is by UDP-glucuronosyl transferase, and gut bacterial beta-glucuronidases deconjugate it before conversion to urobilinogen.",
+  "decision": "include",
+  "reason": "Small mechanistic detail absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-18",
+  "hap_pages": [
+   7
+  ],
+  "source_excerpt": "Bile acids (cholic&chenodeoxy cholic acids) are derived from cholesterol and secreted in bile. Most of them are reabsorbed, especially in the ileum",
+  "topic": "Bile acids and enterohepatic circulation",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245
+  ],
+  "book_has": "not found (searched: cholic, chenodeoxy, bile acid, enterohepatic [only urobilinogen p245])",
+  "new_contribution": "The primary bile acids, cholic and chenodeoxycholic acid, are made from cholesterol, secreted in bile, and mostly reabsorbed in the ileum and returned to the liver for re-secretion (enterohepatic circulation).",
+  "decision": "include",
+  "reason": "Absent from Ch 18 and Ch 34 search.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-19",
+  "hap_pages": [
+   7
+  ],
+  "source_excerpt": "[figure] Unconjugated bilirubin transported with ligandin or Z protein; conjugated to glucuronic acid",
+  "topic": "Intrahepatic bilirubin carrier proteins",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245,
+   392
+  ],
+  "book_has": "not found (searched: ligandin, Z protein); Fig 35.3 p392 omits carriers",
+  "new_contribution": "Within the hepatocyte, unconjugated bilirubin is carried by ligandin or Z protein before conjugation.",
+  "decision": "include",
+  "reason": "Image-only detail from the source's bilirubin-metabolism diagram.",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "A-20",
+  "hap_pages": [
+   7
+  ],
+  "source_excerpt": "Conjugated = direct bilirubin: water soluble, non toxic, and only loosely bound to albumin",
+  "topic": "Conjugated bilirubin non-toxic",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245
+  ],
+  "book_has": "p245: water soluble, loosely bound, excreted in urine ('non toxic' absent)",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Trivial addition.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-21",
+  "hap_pages": [
+   8
+  ],
+  "source_excerpt": "Crigler-Najjar syndrome type 11: Partial deficiency of UGT. Bilirubin less than 20 mg/dl.",
+  "topic": "Crigler-Najjar type II",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245,
+   350,
+   354
+  ],
+  "book_has": "p245 describes only severe form (type 1, >20 mg/dl); p350/354 name 'Crigler-Najjar syndromes' without types (searched: Crigler, type II, type 2)",
+  "new_contribution": "Crigler-Najjar type II is due to partial UGT deficiency, with bilirubin below 20 mg/dL (unlike type I, complete absence, >20 mg/dL).",
+  "decision": "include",
+  "reason": "Type II absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-22",
+  "hap_pages": [
+   8
+  ],
+  "source_excerpt": "Dobin Jonson syndrome: hereditary disorder of bilirubin secretion, Liver is darkly pigmented. Rotor Syndrome: usually asymptomatic, Liver is not pigmented.",
+  "topic": "Dubin-Johnson vs Rotor",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   246,
+   350,
+   354
+  ],
+  "book_has": "p246/p350 name Dubin-Johnson; Rotor only in Fig 29.1 p354; no pigmentation distinction (searched: Rotor, pigmented, Dubin)",
+  "new_contribution": "Dubin-Johnson syndrome (hereditary defect of bilirubin secretion) has a darkly pigmented liver, whereas Rotor syndrome is usually asymptomatic with a non-pigmented liver.",
+  "decision": "include",
+  "reason": "Distinguishing feature absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-23",
+  "hap_pages": [
+   8
+  ],
+  "source_excerpt": "Intrahepatic due to: hepatic malignancy or infiltration, primary biliary cirrhosis , biliary atresia, cholangitis and drugs (chlorpromazine and some steroids)",
+  "topic": "Causes of intra/extrahepatic cholestasis",
+  "book_chapter": "29 Jaundice",
+  "book_pages": [
+   246,
+   352,
+   390
+  ],
+  "book_has": "p352 lists PBC, PSC, drugs incl. chlorpromazine, steroids; p390 biliary atresia, cancer head of pancreas, LN compression",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered across Ch 29/35.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-24",
+  "hap_pages": [
+   8
+  ],
+  "source_excerpt": "Gilbert syndrome... Bilirubin level is increased but rarely exceeds 5 mg/dl.",
+  "topic": "Gilbert syndrome",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245,
+   351
+  ],
+  "book_has": "p245 verbatim; p351 more detail",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-25",
+  "hap_pages": [
+   9
+  ],
+  "source_excerpt": "toxic hepatitis due to some drugs (halothan and paracetamol).",
+  "topic": "Drug causes of hepatic jaundice: halothane",
+  "book_chapter": "29 Jaundice",
+  "book_pages": [
+   246,
+   351
+  ],
+  "book_has": "p351 'Drug toxicity'; paracetamol covered in Ch 31; halothane not found (searched: halothan)",
+  "new_contribution": "Toxic hepatitis from drugs such as halothane and paracetamol causes mixed (hepatic) hyperbilirubinaemia.",
+  "decision": "include",
+  "reason": "Halothane not named anywhere in book; small addition.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-26",
+  "hap_pages": [
+   9
+  ],
+  "source_excerpt": "Hemolysis:↑reticulocytes, increased LDH.",
+  "topic": "Hemolytic jaundice: LDH",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245,
+   246
+  ],
+  "book_has": "p246: evidence of hemolysis '↑reticulocytes' only; LDH only in pancreatitis (searched: LDH, lactate dehydrogenase)",
+  "new_contribution": "In haemolytic jaundice, evidence of haemolysis includes raised reticulocytes and raised LDH.",
+  "decision": "include",
+  "reason": "LDH omitted.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-27",
+  "hap_pages": [
+   10
+  ],
+  "source_excerpt": "[algorithm] Measure LDH, haptoglobin, reticulocyte count -> Abnormal: consider hemolysis, dyserythropoiesis; Normal: Gilbert's syndrome, Crigler-Najjar type I or II",
+  "topic": "Work-up of isolated indirect hyperbilirubinaemia",
+  "book_chapter": "29 Jaundice",
+  "book_pages": [
+   354
+  ],
+  "book_has": "Fig 29.1 p354: indirect branch lists drugs, inherited (Gilbert, Crigler-Najjar), hemolytic disorders, but no steps (searched: haptoglobin, hematoma, transfusion)",
+  "new_contribution": "For isolated indirect hyperbilirubinaemia: fractionate bilirubin, check for recent trauma, haematoma or blood transfusion, then measure LDH, haptoglobin and reticulocyte count; abnormal results point to haemolysis/dyserythropoiesis, normal results to Gilbert or Crigler-Najjar I/II.",
+  "decision": "include",
+  "reason": "Stepwise tests are image-only in source and absent from book algorithm.",
+  "evidence_type": "image-figure"
+ },
+ {
+  "id": "A-28",
+  "hap_pages": [
+   9
+  ],
+  "source_excerpt": "Increase cholesterol and B lipoproteins. Pruritus, itching and skin xanthoma are common",
+  "topic": "Obstructive jaundice: lipids",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   246,
+   353
+  ],
+  "book_has": "p246 'Increase cholesterol'; p353 itching, xanthomas; beta-lipoproteins not found (searched: lipoprotein)",
+  "new_contribution": "Obstructive jaundice raises serum cholesterol and beta-lipoproteins.",
+  "decision": "include",
+  "reason": "Beta-lipoprotein detail only; rest covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-29",
+  "hap_pages": [
+   9,
+   10
+  ],
+  "source_excerpt": "Urine bile salts: absent / Present / Present ... Stool color: Dark / Clay / Clay",
+  "topic": "Three-way comparison of jaundice types",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   245,
+   246
+  ],
+  "book_has": "pp245-246 describe each type in prose; no comparison table; hepatic-jaundice stool colour and urine bile salts in hemolytic/hepatic not stated (searched: clay, bile salts)",
+  "new_contribution": "Comparison table: haemolytic jaundice - raised indirect bilirubin, raised urobilinogen, no urine bilirubin or bile salts, normal urine, dark stool; obstructive - raised direct, low urobilinogen, urine bilirubin and bile salts present, dark urine, clay stool; hepatic - both raised, urobilinogen up early then down, urine bilirubin and bile salts present, dark urine, clay stool.",
+  "decision": "include",
+  "reason": "Book has no side-by-side table; the hepatic-jaundice stool and bile-salt cells are new.",
+  "evidence_type": "image-table"
+ },
+ {
+  "id": "A-30",
+  "hap_pages": [
+   10
+  ],
+  "source_excerpt": "PT is dependent on normal hepatic synthesis of coagulation factors (I, II,V,VII and X).",
+  "topic": "Factors measured by PT",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   246
+  ],
+  "book_has": "p246: 'coagulation factors' (unspecified) plus vit K-dependent II, VII, IX, X",
+  "new_contribution": "PT depends on hepatic synthesis of factors I, II, V, VII and X.",
+  "decision": "include",
+  "reason": "Specific list absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-31",
+  "hap_pages": [
+   10
+  ],
+  "source_excerpt": "Because these factors have a shorter half life than albumin PT may be an earlier indicator of severe liver injury than albumin",
+  "topic": "PT vs albumin as marker",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   244,
+   246
+  ],
+  "book_has": "not found (searched: shorter half, earlier indicator, PT prognosis)",
+  "new_contribution": "Because clotting factors have a shorter half-life than albumin, PT is an earlier indicator of severe liver injury than albumin and helps assess severity and prognosis of chronic liver disease.",
+  "decision": "include",
+  "reason": "Absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-32",
+  "hap_pages": [
+   10
+  ],
+  "source_excerpt": "re-assay of PT after parenteral injection of Vit K, if it is normalize this indicate cholestasis and not decrease liver synthesis",
+  "topic": "Vitamin K correction test",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   246,
+   249,
+   392
+  ],
+  "book_has": "p246 PT normalises after parenteral vit K; p249 cirrhosis PT not corrected",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-33",
+  "hap_pages": [
+   10
+  ],
+  "source_excerpt": "[Table 17.4] Dilated ducts/mechanical obstruction (extrahepatic): Gallstones, Pancreatic carcinoma, Pancreatic duct stricture, Cholangiocarcinoma, Parasite infections",
+  "topic": "Dilated vs undilated duct causes",
+  "book_chapter": "29 Jaundice",
+  "book_pages": [
+   352,
+   390,
+   391
+  ],
+  "book_has": "p352 extra/intrahepatic lists; p390-391 causes incl. parasites, cholangiocarcinoma, cancer pancreas",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered in substance (image table).",
+  "evidence_type": "image-table"
+ },
+ {
+  "id": "A-34",
+  "hap_pages": [
+   11
+  ],
+  "source_excerpt": "In primary biliary cirrhosis, raised AMA.",
+  "topic": "Serum immunoglobulins in PBC",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   239
+  ],
+  "book_has": "p239: under 'Serum immunoglobulins': 'In primary biliary cirrhosis, raised IgM.'",
+  "new_contribution": "In the same immunoglobulin list, the source says PBC shows 'raised AMA' whereas the book says 'raised IgM'.",
+  "decision": "discrepancy",
+  "reason": "Same slot, different entity (source HAP 11 vs book p239). Both texts give AMA 95% under autoantibodies.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-35",
+  "hap_pages": [
+   11
+  ],
+  "source_excerpt": "α-Fetoprotein: increased in hepatocellular carcinoma , slightly raised in patients with hepatitis and chronic liver disease.",
+  "topic": "Additional blood tests (viral markers, AFP, A1AT, autoantibodies, HFE)",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   239
+  ],
+  "book_has": "p239 reproduces verbatim",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-36",
+  "hap_pages": [
+   12
+  ],
+  "source_excerpt": "ATP7B mediates the transfer of copper to apoceruloplasmin to form a six-copper binding protein known as ceruloplasmin, which is an α2-globulin.",
+  "topic": "Ceruloplasmin structure",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   294,
+   295
+  ],
+  "book_has": "p294: copper incorporated into ceruloplasmin (structure not given) (searched: α2, globulin, six)",
+  "new_contribution": "Ceruloplasmin is an alpha2-globulin formed when ATP7B transfers six copper atoms to apoceruloplasmin; ATP7B also mediates biliary copper excretion.",
+  "decision": "include",
+  "reason": "Six-copper/alpha2-globulin detail absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-37",
+  "hap_pages": [
+   12
+  ],
+  "source_excerpt": "Around 50%-75% of intestinal copper is absorbed and then transported to the hepatocytes.",
+  "topic": "Copper absorption fraction",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   294
+  ],
+  "book_has": "p294: absorbed mainly from stomach and proximal small intestine, transported bound to albumin (no fraction)",
+  "new_contribution": "Around 50-75% of intestinal copper is absorbed and transported to the hepatocytes.",
+  "decision": "include",
+  "reason": "Quantitative detail absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-38",
+  "hap_pages": [
+   12
+  ],
+  "source_excerpt": "The genetic defect, localized to chromosome 13, has been shown to affect the copper-transporting adenosine triphosphatase (ATPase) gene (ATP7B)",
+  "topic": "Wilson disease genetics/pathophysiology",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   294,
+   295
+  ],
+  "book_has": "p294-295: AR, ATP7B chr 13, impaired incorporation and biliary excretion, spread to other organs",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-39",
+  "hap_pages": [
+   12
+  ],
+  "source_excerpt": "They include tremors, difficulty speaking and swallowing, in-coordination, involuntary jerky movements (chorea), personality changes, and even psychosis (such as schizophrenia or manic-depressive illness).",
+  "topic": "Wilson psychiatric features: psychosis",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   295
+  ],
+  "book_has": "p295 psychiatric: personality changes, depression, anxiety, behavioural disturbances, cognitive impairment; psychosis not found (searched: psychosis, schizophren, manic)",
+  "new_contribution": "Psychiatric involvement in Wilson disease can extend to psychosis resembling schizophrenia or manic-depressive illness.",
+  "decision": "include",
+  "reason": "Psychosis absent from book list.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-40",
+  "hap_pages": [
+   12
+  ],
+  "source_excerpt": "The first symptoms result from brain damage.",
+  "topic": "Wilson: first symptoms neurological",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   295
+  ],
+  "book_has": "p295: presents 5-35 y; hepatic, neurological, psychiatric manifestations listed without order",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Source unclear: stated as universal, conflicts with the common hepatic presentation that the book also lists; not added.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-41",
+  "hap_pages": [
+   13
+  ],
+  "source_excerpt": "Gold or greenish gold rings (Kayser-Fleischer rings) may appear around the irises... or the corneo-scleral junction... In a few people, these rings are the first sign",
+  "topic": "Kayser-Fleischer ring appearance",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   295,
+   296
+  ],
+  "book_has": "p295: copper in Descemet's membrane, slit-lamp, present in nearly all with neurological disease; colour/site/first-sign not found (searched: golden, greenish, first sign)",
+  "new_contribution": "Kayser-Fleischer rings are gold or greenish-gold (also golden-brown/brownish-green) rings at the corneoscleral junction around the iris; in a few people they are the first sign of Wilson disease.",
+  "decision": "include",
+  "reason": "Descriptive details absent.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-42",
+  "hap_pages": [
+   13
+  ],
+  "source_excerpt": "Hemolytic anemia due to the toxic effect of copper on red blood cells.",
+  "topic": "Wilson haemolysis mechanism",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   295
+  ],
+  "book_has": "p295: 'Coombs-negative hemolytic anemia' (mechanism not given)",
+  "new_contribution": "The haemolytic anaemia of Wilson disease is due to the toxic effect of copper on red cells.",
+  "decision": "include",
+  "reason": "Mechanism absent; small.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-43",
+  "hap_pages": [
+   13
+  ],
+  "source_excerpt": "Serum ceruloplasmin (normally 20 to 35 mg/dL is usually low in Wilson disease.",
+  "topic": "Ceruloplasmin normal range",
+  "book_chapter": "22 Liver Cirrhosis",
+  "book_pages": [
+   250,
+   296
+  ],
+  "book_has": "p250: usually low; p296: low (usually <20 mg/dL); normal range not given",
+  "new_contribution": "Normal serum ceruloplasmin is 20-35 mg/dL.",
+  "decision": "include",
+  "reason": "Reference range absent (consistent with book cut-off <20).",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-44",
+  "hap_pages": [
+   13
+  ],
+  "source_excerpt": "A diagnosis of Wilson disease is established if the hepatic copper concentration is ≥250 mcg/g dry weight.",
+  "topic": "Wilson diagnostic tests (slit lamp, urinary copper, biopsy, serum copper)",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   250,
+   296,
+   297
+  ],
+  "book_has": "p250 reproduces verbatim (≥250); p297 states '>250 μg/g' (book internally uses both ≥ and >)",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered; the only difference is book-internal (≥ vs >), not source vs book.",
+  "evidence_type": "text"
+ },
+ {
+  "id": "A-45",
+  "hap_pages": [
+   1
+  ],
+  "source_excerpt": "Patients with decompensated cirrhosis show a continuous low-grade fever which rarely exceeds 38°C.",
+  "topic": "General symptoms: fatigability, fever, encephalopathy, endocrine",
+  "book_chapter": "18 Liver Disease Assessment",
+  "book_pages": [
+   237,
+   238,
+   282
+  ],
+  "book_has": "p237-238 reproduce; p282 gynecomastia/hypogonadism",
+  "new_contribution": "-",
+  "decision": "exclude",
+  "reason": "Covered.",
+  "evidence_type": "text"
+ }
+]
