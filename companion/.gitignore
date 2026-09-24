@@ -1,0 +1,6 @@
+work/renders/
+build/out/*
+!build/out/verification.json
+!build/out/handout.html
+!build/out/cover.html
+build/__pycache__/

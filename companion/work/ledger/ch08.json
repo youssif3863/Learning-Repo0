@@ -1,0 +1,537 @@
+[
+ {
+  "id": "C8-01",
+  "chapter": 8,
+  "main_section": "Definition / Epidemiology",
+  "main_pages_printed": "116",
+  "im_pages": "76",
+  "topic": "Definition and epidemiology of IBD",
+  "candidate": "Chronic inflammatory GI diseases diagnosed by clinical, endoscopic and histologic characteristics; no single finding absolutely diagnostic; indeterminate colitis; incidence ~5/100,000, prevalence ~50/100,000; peak onset 15-25 y, second peak 55-65 y.",
+  "main_coverage": "MAIN p116 reproduces this text verbatim.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical text in MAIN.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-02",
+  "chapter": 8,
+  "main_section": "Crohn's disease and ulcerative colitis: comparison (Fig 8.1)",
+  "main_pages_printed": "117",
+  "im_pages": "76",
+  "topic": "IM pathology/radiology/endoscopy comparison table: UC rectal involvement and collar-button ulcers",
+  "candidate": "IM p76 table: rectal involvement in UC 'Always' (CD 'Common'); radiology: 'collar button' ulcers Common in UC, Occasional in CD; UC never has skip lesions, perianal disease, fistulas, aphthous ulcers, rectal sparing, linear/serpiginous ulcers or terminal-ileal ulcers; strictures occasional in UC; cobblestone rare in UC.",
+  "main_coverage": "MAIN Fig 8.1 (image, p117) covers distribution, rectal sparing, ileum, depth, perianal, strictures, fistulas, aphthous/linear/serpiginous ulcers and cobblestoning; UC rectum 'Typically involved'. 'Collar button' absent after search for: collar, collar button.",
+  "decision": "include",
+  "reason": "Only the incremental items: UC rectum 'always' (MAIN says 'typically') and collar-button ulcers on radiology are not in MAIN; the rest duplicates Fig 8.1.",
+  "handout_kind": "addition",
+  "handout_heading": "UC vs Crohn's: extra radiological and pathological clues",
+  "handout_text": "In IM's comparison table the rectum is 'always' involved in UC (only 'common' in Crohn's disease).\nOn radiology, 'collar button' ulcers are common in UC and only occasional in Crohn's disease.",
+  "handout_table": null
+ },
+ {
+  "id": "C8-03",
+  "chapter": 8,
+  "main_section": "Crohn's disease and ulcerative colitis: comparison (Fig 8.1)",
+  "main_pages_printed": "117",
+  "im_pages": "76",
+  "topic": "Granulomas in UC",
+  "candidate": "IM p76 table lists granulomas in UC as 'Occasional' (CD 'Common').",
+  "main_coverage": "MAIN Fig 8.1 (histopathology row): UC 'Granulomas should not be present (microgranulomas may be associated with ruptured crypt abscess)'. (IM p77 table says the same as MAIN.)",
+  "decision": "discrepancy/needs review",
+  "reason": "IM p76 table ('occasional') and MAIN p117 Fig 8.1 ('should not be present') word this differently; IM p77 table agrees with MAIN. Not blended.",
+  "handout_kind": "discrepancy",
+  "handout_heading": "Granulomas in UC: wording differs",
+  "handout_text": "IM p76 pathology table lists granulomas in UC as 'occasional', whereas MAIN Fig 8.1 (p117; also IM p77) says granulomas should not be present in UC (microgranulomas may be seen with ruptured crypt abscesses). Check with the teacher.",
+  "handout_table": null
+ },
+ {
+  "id": "C8-04",
+  "chapter": 8,
+  "main_section": "Crohn's disease and ulcerative colitis: comparison (Fig 8.1)",
+  "main_pages_printed": "117",
+  "im_pages": "76",
+  "topic": "Diagram: distribution of CD vs UC",
+  "candidate": "IM p76 diagrams: CD skip lesions, transmural inflammation, ulcerations, fissures; UC continuous colonic involvement beginning in rectum, pseudopolyps and ulcer.",
+  "main_coverage": "MAIN Fig 8.1: skipped segments, transmural, fissures; UC continuous, pseudopolyps, rectum involved.",
+  "decision": "duplicate/exclude",
+  "reason": "Same content as MAIN table.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-05",
+  "chapter": 8,
+  "main_section": "Clinical features",
+  "main_pages_printed": "116-117",
+  "im_pages": "77",
+  "topic": "Clinical features UC and CD; CD vs UC colitis table",
+  "candidate": "UC bloody diarrhea, fever, pain, fulminant vs indolent onset; CD patterns 40/30/25%, symptoms, urgency/tenesmus, rigid rectum incontinence, small-bowel stool volume, bile salt diarrhea/steatorrhea; comparison table (mucosal lesions, distribution, rectum, ileum ~75%, depth, serosal creeping fat, perianal, strictures, fistulas, histopathology, serology pANCA/ASCA %).",
+  "main_coverage": "MAIN p116-117 text verbatim and Fig 8.1 is the same table.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-06",
+  "chapter": 8,
+  "main_section": "Extra-intestinal Manifestations (Fig 8.2)",
+  "main_pages_printed": "118",
+  "im_pages": "78",
+  "topic": "Extra-intestinal manifestations table",
+  "candidate": "Ocular, arthropathy, oral ulcers (CD only), skin, nephrolithiasis, PSC, bone disorders (CD only), thromboembolic, B12 deficiency (CD only).",
+  "main_coverage": "MAIN Fig 8.2 is the identical table.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-07",
+  "chapter": 8,
+  "main_section": "Diagnosis - Laboratory Studies",
+  "main_pages_printed": "118",
+  "im_pages": "78",
+  "topic": "Laboratory studies, serology, fecal calprotectin",
+  "candidate": "CBC, urinalysis, stool analysis/culture, chemistry; pANCA (UC), ASCA (CD); fecal calprotectin marker of UC activity.",
+  "main_coverage": "MAIN p118 verbatim; calprotectin also p5.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-08",
+  "chapter": 8,
+  "main_section": "Diagnosis - Endoscopy",
+  "main_pages_printed": "118",
+  "im_pages": "78",
+  "topic": "Colonoscopic appearance of UC and CD",
+  "candidate": "Colonoscopy in UC: friable mucosa, extensive ulceration and exudates. Colonoscopy in CD: a single aphthous ulcer is the earliest endoscopic finding; multiple edematous inflammatory polyps give a 'cobblestone' appearance to the mucosa.",
+  "main_coverage": "MAIN p118 has only the heading 'Endoscopy' with no content; Fig 8.1 says aphthous ulcers are common in early CD and mentions cobblestoning. Searched: friable (only duodenitis in the peptic ulcer chapter), exudate, cobblestone (image only).",
+  "decision": "include",
+  "reason": "MAIN endoscopy heading is empty; UC endoscopic findings and the 'earliest finding'/cobblestone mechanism are incremental.",
+  "handout_kind": "addition",
+  "handout_heading": "What colonoscopy shows",
+  "handout_text": "UC: friable mucosa, extensive ulceration and exudates.\nCrohn's disease: a single aphthous ulcer is the earliest endoscopic finding; multiple edematous inflammatory polyps give the mucosa its 'cobblestone' appearance.",
+  "handout_table": null
+ },
+ {
+  "id": "C8-09",
+  "chapter": 8,
+  "main_section": "Diagnosis - Barium enema and barium follow through",
+  "main_pages_printed": "118",
+  "im_pages": "78",
+  "topic": "Barium studies",
+  "candidate": "Heading only in IM, no content.",
+  "main_coverage": "MAIN also heading only.",
+  "decision": "duplicate/exclude",
+  "reason": "No content in either.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-10",
+  "chapter": 8,
+  "main_section": "Differential diagnosis (Fig 8.3)",
+  "main_pages_printed": "119",
+  "im_pages": "79",
+  "topic": "Differential diagnosis table (UC, Crohn's colitis, ischemic, microscopic, infectious, amebic, gonococcal, pseudomembranous)",
+  "candidate": "Clinical, radiologic/colonoscopic and histologic features of each.",
+  "main_coverage": "MAIN Fig 8.3 is the identical table.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-11",
+  "chapter": 8,
+  "main_section": "Differential diagnosis (Fig 8.3)",
+  "main_pages_printed": "119",
+  "im_pages": "79",
+  "topic": "Differential diagnosis list: conditions not in MAIN table",
+  "candidate": "IM p79 list 'Differential Diagnosis of IBD': bacterial colitis (Campylobacter, Shigella, Salmonella, invasive E. coli), C. difficile colitis; parasitic colitis (amebiasis, schistosomiasis); ischemic colitis; radiation colitis; Behcet's colitis; sexually transmitted colitis (gonococcus, Chlamydia, herpes, trauma); Crohn's disease look-alikes (lymphoma, Yersinia, tuberculosis).",
+  "main_coverage": "MAIN Fig 8.3 covers ischemic, microscopic, infectious (Salmonella, Campylobacter), amebic, gonococcal, pseudomembranous. Absent after search for: Behcet, radiation colitis, chlamydia, herpes (only unrelated), 'look-alike', schistosom (only parasitology ch, not as IBD mimic); Yersinia/TB/Shigella only as causes of exudative diarrhea p81; lymphoma only in malabsorption/other chapters.",
+  "decision": "include",
+  "reason": "The extra mimics (radiation, Behcet, STI colitis, schistosomiasis, and the Crohn's look-alikes group) are not in MAIN's IBD differential.",
+  "handout_kind": "addition",
+  "handout_heading": "More IBD mimics to remember",
+  "handout_text": "Other conditions in IM's differential of IBD: radiation colitis, Behcet's colitis, schistosomiasis, and sexually transmitted colitis (gonococcus, Chlamydia, herpes, trauma).\nCrohn's disease look-alikes: lymphoma, Yersinia and tuberculosis.\nBacterial colitis also includes Shigella and invasive E. coli.",
+  "handout_table": null
+ },
+ {
+  "id": "C8-12",
+  "chapter": 8,
+  "main_section": "Treatment - Diet and nutrition",
+  "main_pages_printed": "119",
+  "im_pages": "79",
+  "topic": "Diet and nutrition",
+  "candidate": "Oral food, nutritious diet, fat-soluble vitamins, MCT, parenteral B12 in terminal ileal CD with steatorrhea, iron.",
+  "main_coverage": "MAIN p119 verbatim.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-13",
+  "chapter": 8,
+  "main_section": "Treatment (before Corticosteroids)",
+  "main_pages_printed": "119-120",
+  "im_pages": "80",
+  "topic": "Drug classes list incl. 5-ASA and probiotics",
+  "candidate": "IM drug classes: sulfasalazine and aminosalicylates, corticosteroids, antibiotics, immunomodulators, biologic therapy, probiotics and prebiotics.",
+  "main_coverage": "MAIN has steroids, antibiotics, immunomodulators, biologics, anti-adhesion, JAK. Absent after search for: sulfasalazine, mesalamine, 5-ASA, aminosalicyl, prebiotic; 'probiotic' only in IBS (p105).",
+  "decision": "include",
+  "reason": "Whole aminosalicylate class and probiotics/prebiotics are missing from MAIN's IBD treatment list.",
+  "handout_kind": "addition",
+  "handout_heading": "Missing drug classes",
+  "handout_text": "IM lists six drug groups for IBD: sulfasalazine/aminosalicylates (5-ASA), corticosteroids, antibiotics, immunomodulators, biologic therapy, and probiotics/prebiotics. MAIN does not mention the 5-ASA group or probiotics/prebiotics.",
+  "handout_table": null
+ },
+ {
+  "id": "C8-14",
+  "chapter": 8,
+  "main_section": "Treatment (before Corticosteroids)",
+  "main_pages_printed": "119-120",
+  "im_pages": "80",
+  "topic": "5-ASA drugs: doses and release sites",
+  "candidate": "IM p80 drug table, 5-aminosalicylates: sulfasalazine 2-6 g/day (colon); mesalamine (Asacol, Lialda, Apriso) 2.4-4.8 g/day (distal ileum, colon); olsalazine 1-3 g/day (colon); balsalazide 6.25 g/day (colon); mesalamine (Pentasa) 2-4 g/day (duodenum, jejunum, ileum, colon); mesalamine (Rowasa) enema 4 g/day (rectum/sigmoid), suppository 1 g/day (rectum); mesalamine (Canasa) suppository 1 g/day (rectum).",
+  "main_coverage": "Absent after search for: sulfasalazine, mesalamine, olsalazine, balsalazide, 5-ASA, aminosalicyl, suppositor.",
+  "decision": "include",
+  "reason": "Entire 5-ASA class absent from MAIN.",
+  "handout_kind": "addition",
+  "handout_heading": "5-Aminosalicylates (5-ASA)",
+  "handout_text": "The formulation decides where the drug is released, so choose it by disease site: most act in the colon; Pentasa is released from the duodenum to the colon; enemas reach the rectum/sigmoid and suppositories the rectum.",
+  "handout_table": {
+   "caption": "5-aminosalicylates (IM p80)",
+   "header": [
+    "Drug",
+    "Dose",
+    "Release site"
+   ],
+   "rows": [
+    [
+     "Sulfasalazine (Azulfidine)",
+     "2-6 g/day",
+     "Colon"
+    ],
+    [
+     "Mesalamine (Asacol, Lialda, Apriso)",
+     "2.4-4.8 g/day",
+     "Distal ileum, colon"
+    ],
+    [
+     "Olsalazine (Dipentum)",
+     "1-3 g/day",
+     "Colon"
+    ],
+    [
+     "Balsalazide (Colazal)",
+     "6.25 g/day",
+     "Colon"
+    ],
+    [
+     "Mesalamine (Pentasa)",
+     "2-4 g/day",
+     "Duodenum, jejunum, ileum, colon"
+    ],
+    [
+     "Mesalamine (Rowasa) enema / suppository",
+     "4 g/day (enema); 1 g/day (suppository)",
+     "Rectum/sigmoid; rectum"
+    ],
+    [
+     "Mesalamine (Canasa) suppository",
+     "1 g/day",
+     "Rectum"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "C8-15",
+  "chapter": 8,
+  "main_section": "Corticosteroids",
+  "main_pages_printed": "119-120",
+  "im_pages": "80",
+  "topic": "Budesonide",
+  "candidate": "IM table: budesonide (Entocort EC) induction 9 mg PO daily, maintenance 6 mg PO daily, released in small intestine; budesonide (MMX, UCERIS) induction 9 mg PO daily, released in colon.",
+  "main_coverage": "MAIN steroids: hydrocortisone, methylprednisolone IV, prednisone 40-60 mg. Absent after search for: budesonide.",
+  "decision": "include",
+  "reason": "Budesonide absent from MAIN.",
+  "handout_kind": "addition",
+  "handout_heading": "Budesonide",
+  "handout_text": "Budesonide (Entocort EC): induction 9 mg PO daily, maintenance 6 mg PO daily; released in the small intestine.\nBudesonide (MMX, UCERIS): induction 9 mg PO daily; released in the colon.",
+  "handout_table": null
+ },
+ {
+  "id": "C8-16",
+  "chapter": 8,
+  "main_section": "Corticosteroids",
+  "main_pages_printed": "119-120",
+  "im_pages": "80",
+  "topic": "Corticosteroid text (indication, IV hydrocortisone/methylprednisolone, oral prednisone)",
+  "candidate": "Steroids to induce remission in severe UC/CD; hydrocortisone 100 mg IV q6h or methylprednisolone 10-30 mg IV q6-8h; prednisone 40-60 mg/day orally.",
+  "main_coverage": "MAIN p119-120 verbatim.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-17",
+  "chapter": 8,
+  "main_section": "Corticosteroids",
+  "main_pages_printed": "119-120",
+  "im_pages": "80",
+  "topic": "Systemic steroid doses in IM drug table",
+  "candidate": "IM p80 drug table: prednisone 0.25-0.75 mg/kg PO daily; methylprednisolone 40-60 mg IV daily.",
+  "main_coverage": "MAIN p119-120 (and IM p80 text): methylprednisolone 10-30 mg IV q6-8h; prednisone 40 to 60 mg per day.",
+  "decision": "discrepancy/needs review",
+  "reason": "IM's own drug table gives methylprednisolone 40-60 mg IV daily and prednisone per-kg dosing, differing from the dose schedule stated in MAIN (and IM text). Not reconciled.",
+  "handout_kind": "discrepancy",
+  "handout_heading": "Steroid doses: two versions",
+  "handout_text": "MAIN (p119-120): methylprednisolone 10-30 mg IV q6-8h; prednisone 40-60 mg/day.\nIM drug table (p80): methylprednisolone 40-60 mg IV daily; prednisone 0.25-0.75 mg/kg PO daily.\nCheck with the teacher which to learn.",
+  "handout_table": null
+ },
+ {
+  "id": "C8-18",
+  "chapter": 8,
+  "main_section": "Antibiotics",
+  "main_pages_printed": "120",
+  "im_pages": "80",
+  "topic": "Antibiotics",
+  "candidate": "Role of bacteria; CD indications (perianal disease, localized peritonitis, bacterial overgrowth, adjunct to drainage); metronidazole, ciprofloxacin, rifaximin.",
+  "main_coverage": "MAIN p120 verbatim.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-19",
+  "chapter": 8,
+  "main_section": "Immunomodulators and biologic therapy",
+  "main_pages_printed": "120",
+  "im_pages": "80",
+  "topic": "Immunomodulator mechanism and agents",
+  "candidate": "Block lymphocyte proliferation, activation or effector mechanisms; azathioprine, methotrexate, cyclosporin.",
+  "main_coverage": "MAIN p120 verbatim.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-20",
+  "chapter": 8,
+  "main_section": "Immunomodulators and biologic therapy",
+  "main_pages_printed": "120",
+  "im_pages": "80",
+  "topic": "Immunomodulator doses and 6-mercaptopurine",
+  "candidate": "IM table: 6-mercaptopurine 1.5 mg/kg/day; azathioprine 2.5 mg/kg/day; methotrexate induction 25 mg SC weekly x 4 mo, maintenance 15-25 mg SC weekly; cyclosporine 2-4 mg/kg/day IV (all systemic).",
+  "main_coverage": "MAIN names azathioprine, methotrexate, cyclosporin without doses. Absent after search for: mercaptopurine, 6-MP.",
+  "decision": "include",
+  "reason": "6-MP and all doses absent from MAIN.",
+  "handout_kind": "addition",
+  "handout_heading": "Immunomodulator doses",
+  "handout_text": "6-Mercaptopurine is also used: 1.5 mg/kg/day.\nAzathioprine 2.5 mg/kg/day; methotrexate 25 mg SC weekly for 4 months (induction), then 15-25 mg SC weekly; cyclosporine 2-4 mg/kg/day IV.",
+  "handout_table": null
+ },
+ {
+  "id": "C8-21",
+  "chapter": 8,
+  "main_section": "Anti-TNF / Anti-Adhesion Molecules",
+  "main_pages_printed": "120",
+  "im_pages": "80-81",
+  "topic": "Other biologics and biologic doses",
+  "candidate": "IM table biologics: infliximab induction 5 mg/kg IV weeks 0,2,6, maintenance 5-10 mg/kg IV every 8 weeks; adalimumab 160 mg SC week 0, 80 mg week 2, maintenance 40 mg SC every other week; golimumab 200 mg SC week 0 and 100 mg week 2, maintenance 100 mg SC every 4 weeks; certolizumab pegol 400 mg SC weeks 0,2,4, maintenance 400 mg SC every 4 weeks; natalizumab 300 mg IV every 4 weeks; vedolizumab 300 mg IV at 0,2,6 weeks then every 8 weeks.",
+  "main_coverage": "MAIN names infliximab (anti-TNF) and vedolizumab only, no doses. Absent after search for: adalimumab, golimumab, certolizumab, natalizumab.",
+  "decision": "include",
+  "reason": "Additional biologics and dosing schedules absent from MAIN.",
+  "handout_kind": "addition",
+  "handout_heading": "Biologics: the full list",
+  "handout_text": "Besides infliximab and vedolizumab, IM lists adalimumab, golimumab, certolizumab pegol and natalizumab.",
+  "handout_table": {
+   "caption": "Biologics (IM p80)",
+   "header": [
+    "Drug",
+    "Induction",
+    "Maintenance"
+   ],
+   "rows": [
+    [
+     "Infliximab",
+     "5 mg/kg IV weeks 0, 2, 6",
+     "5-10 mg/kg IV every 8 weeks"
+    ],
+    [
+     "Adalimumab",
+     "160 mg SC week 0, 80 mg week 2",
+     "40 mg SC every other week"
+    ],
+    [
+     "Golimumab",
+     "200 mg SC week 0 and 100 mg week 2",
+     "100 mg SC every 4 weeks"
+    ],
+    [
+     "Certolizumab pegol",
+     "400 mg SC weeks 0, 2, 4",
+     "400 mg SC every 4 weeks"
+    ],
+    [
+     "Natalizumab",
+     "300 mg IV every 4 weeks",
+     "-"
+    ],
+    [
+     "Vedolizumab",
+     "300 mg IV at 0, 2 and 6 weeks",
+     "300 mg IV every 8 weeks"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "C8-22",
+  "chapter": 8,
+  "main_section": "Anti-TNF / Anti-Adhesion / Kinase Inhibitors",
+  "main_pages_printed": "120",
+  "im_pages": "81",
+  "topic": "Anti-TNF, anti-adhesion, JAK inhibitors text",
+  "candidate": "TNF key cytokine, infliximab chimeric antibody effective in CD; vedolizumab gut-selective; tofacitinib oral JAK1/JAK3 inhibitor for moderate-severe UC.",
+  "main_coverage": "MAIN p120 verbatim.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-23",
+  "chapter": 8,
+  "main_section": "Treatment (overview)",
+  "main_pages_printed": "119-120",
+  "im_pages": "81",
+  "topic": "Step-up treatment pyramid by severity",
+  "candidate": "IM p81 pyramid: Mild - 5-aminosalicylates/sulfasalazine, local steroid enemas, local 5-ASA enemas and suppositories; Moderate - prednisolone, budesonide, immunosuppressant; Severe - biological, surgery.",
+  "main_coverage": "Absent: MAIN gives no severity-based scheme and no 5-ASA or local therapy (searched: 5-ASA, aminosalicyl, suppositor, enema [only barium/other chapters], budesonide).",
+  "decision": "include",
+  "reason": "Severity-guided treatment ladder not in MAIN.",
+  "handout_kind": "addition",
+  "handout_heading": "Treatment ladder by severity",
+  "handout_text": "Treatment is stepped up with severity: mild disease uses 5-ASA and local (rectal) therapy, moderate disease adds steroids or immunosuppressants, and severe disease needs biologics or surgery.",
+  "handout_table": {
+   "caption": "Stepwise IBD therapy (IM p81)",
+   "header": [
+    "Severity",
+    "Treatment"
+   ],
+   "rows": [
+    [
+     "Mild",
+     "5-aminosalicylates/sulfasalazine; local steroid enemas; local 5-ASA enemas and suppositories"
+    ],
+    [
+     "Moderate",
+     "Prednisolone; budesonide; immunosuppressant"
+    ],
+    [
+     "Severe",
+     "Biological therapy; surgery"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "C8-24",
+  "chapter": 8,
+  "main_section": "Indications for surgical intervention (Fig 8.4)",
+  "main_pages_printed": "121",
+  "im_pages": "81",
+  "topic": "Surgical indications UC and CD",
+  "candidate": "UC and CD (small intestine; colon and rectum) indications table.",
+  "main_coverage": "MAIN Fig 8.4 identical; ch10 (printed 140-144) contains only Meckel's diverticulum, no IBD surgery.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-25",
+  "chapter": 8,
+  "main_section": "Complications",
+  "main_pages_printed": "121",
+  "im_pages": "82",
+  "topic": "Complications grouped by disease",
+  "candidate": "IM p82 diagram: UC - toxic megacolon, malignancy; Crohn's disease - abscesses and fistulas, obstruction, perianal disease.",
+  "main_coverage": "MAIN Complications section covers toxic megacolon and malignancy; CD fistulas, strictures, perianal disease and abscess appear in Fig 8.1 and Fig 8.4 but not grouped as complications.",
+  "decision": "include",
+  "reason": "Only the grouping of CD complications is incremental (low-weight pearl).",
+  "handout_kind": "pearl",
+  "handout_heading": "Main complications at a glance",
+  "handout_text": "UC: toxic megacolon and malignancy.\nCrohn's disease: abscesses and fistulas, obstruction, and perianal disease.",
+  "handout_table": null
+ },
+ {
+  "id": "C8-26",
+  "chapter": 8,
+  "main_section": "Complications - Toxic megacolon",
+  "main_pages_printed": "121",
+  "im_pages": "82",
+  "topic": "Toxic megacolon",
+  "candidate": "Atonic dilated colon from transmural inflammation; severe UC and other colitides; fever, tachycardia, leukocytosis; medical therapy to reduce perforation; surgery if no improvement in 24-48 h.",
+  "main_coverage": "MAIN p121 verbatim.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ },
+ {
+  "id": "C8-27",
+  "chapter": 8,
+  "main_section": "Complications - Malignancy",
+  "main_pages_printed": "121",
+  "im_pages": "82",
+  "topic": "Colon cancer risk and surveillance in UC",
+  "candidate": "Increased risk 8-10 y after diagnosis; surveillance colonoscopy with random biopsies from 8-10 y, every 1-2 y; dysplasia -> colectomy.",
+  "main_coverage": "MAIN p121 verbatim; ch15 p196 lists IBD (UC > Crohn's) as CRC predisposing factor.",
+  "decision": "duplicate/exclude",
+  "reason": "Identical.",
+  "handout_kind": null,
+  "handout_heading": "",
+  "handout_text": "",
+  "handout_table": null
+ }
+]

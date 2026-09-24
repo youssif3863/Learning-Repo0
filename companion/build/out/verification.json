@@ -1,0 +1,560 @@
+{
+ "pages": 30,
+ "checks": [
+  {
+   "check": "contents has no external links",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "contents has one internal link per chapter",
+   "pass": true,
+   "detail": "15 links"
+  },
+  {
+   "check": "ch01 link lands on opener",
+   "pass": true,
+   "detail": "target idx 3"
+  },
+  {
+   "check": "ch01 folio equals page label",
+   "pass": true,
+   "detail": "3"
+  },
+  {
+   "check": "ch01 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "01 | GI Symptoms and Investigations | Internal Medicine \u00b7 Radiology / Investigation \u00b7 main book from p. 1 | 10 entries | 3"
+  },
+  {
+   "check": "ch02 link lands on opener",
+   "pass": true,
+   "detail": "target idx 6"
+  },
+  {
+   "check": "ch02 folio equals page label",
+   "pass": true,
+   "detail": "6"
+  },
+  {
+   "check": "ch02 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "02 | The Esophagus | Internal Medicine \u00b7 Surgery \u00b7 main book from p. 10 | 1 entry | 6"
+  },
+  {
+   "check": "ch03 link lands on opener",
+   "pass": true,
+   "detail": "target idx 7"
+  },
+  {
+   "check": "ch03 folio equals page label",
+   "pass": true,
+   "detail": "7"
+  },
+  {
+   "check": "ch03 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "03 | The Stomach and Duodenum | Internal Medicine \u00b7 Pharmacology \u00b7 Surgery \u00b7 main book from p. 33 | 18 entries | 7"
+  },
+  {
+   "check": "ch04 link lands on opener",
+   "pass": true,
+   "detail": "target idx 13"
+  },
+  {
+   "check": "ch04 folio equals page label",
+   "pass": true,
+   "detail": "13"
+  },
+  {
+   "check": "ch04 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "04 | Pathology of GIT Tumours | Pathology \u00b7 Surgery \u00b7 main book from p. 70 | none | 13"
+  },
+  {
+   "check": "ch05 link lands on opener",
+   "pass": true,
+   "detail": "target idx 14"
+  },
+  {
+   "check": "ch05 folio equals page label",
+   "pass": true,
+   "detail": "14"
+  },
+  {
+   "check": "ch05 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "05 | Diarrhea and Malabsorption | Internal Medicine \u00b7 main book from p. 76 | 17 entries | 14"
+  },
+  {
+   "check": "ch06 link lands on opener",
+   "pass": true,
+   "detail": "target idx 21"
+  },
+  {
+   "check": "ch06 folio equals page label",
+   "pass": true,
+   "detail": "21"
+  },
+  {
+   "check": "ch06 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "06 | Constipation | Internal Medicine \u00b7 main book from p. 95 | 7 entries | 21"
+  },
+  {
+   "check": "ch07 link lands on opener",
+   "pass": true,
+   "detail": "target idx 23"
+  },
+  {
+   "check": "ch07 folio equals page label",
+   "pass": true,
+   "detail": "23"
+  },
+  {
+   "check": "ch07 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "07 | Foodborn Infection | Microbiology \u00b7 Internal Medicine \u00b7 main book from p. 106 | none | 23"
+  },
+  {
+   "check": "ch08 link lands on opener",
+   "pass": true,
+   "detail": "target idx 24"
+  },
+  {
+   "check": "ch08 folio equals page label",
+   "pass": true,
+   "detail": "24"
+  },
+  {
+   "check": "ch08 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "08 | Inflammatory Bowel Disease | Internal Medicine \u00b7 Pharmacology \u00b7 main book from p. 115 | 8 entries | 24"
+  },
+  {
+   "check": "ch09 link lands on opener",
+   "pass": true,
+   "detail": "target idx 27"
+  },
+  {
+   "check": "ch09 folio equals page label",
+   "pass": true,
+   "detail": "27"
+  },
+  {
+   "check": "ch09 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "09 | Parasitic GI Diseases | Parasitology \u00b7 main book from p. 122 | none | 27"
+  },
+  {
+   "check": "ch10 link lands on opener",
+   "pass": true,
+   "detail": "target idx 27"
+  },
+  {
+   "check": "ch10 folio equals page label",
+   "pass": true,
+   "detail": "27"
+  },
+  {
+   "check": "ch10 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "10 | Small Intestine and Colon Surgery | Surgery \u00b7 main book from p. 140 | none | 27"
+  },
+  {
+   "check": "ch11 link lands on opener",
+   "pass": true,
+   "detail": "target idx 27"
+  },
+  {
+   "check": "ch11 folio equals page label",
+   "pass": true,
+   "detail": "27"
+  },
+  {
+   "check": "ch11 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "11 | Diverticulosis of the Colon | Surgery \u00b7 Internal Medicine \u00b7 main book from p. 145 | none | 27"
+  },
+  {
+   "check": "ch12 link lands on opener",
+   "pass": true,
+   "detail": "target idx 27"
+  },
+  {
+   "check": "ch12 folio equals page label",
+   "pass": true,
+   "detail": "27"
+  },
+  {
+   "check": "ch12 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "12 | Appendix | Surgery \u00b7 main book from p. 151 | none | 27"
+  },
+  {
+   "check": "ch13 link lands on opener",
+   "pass": true,
+   "detail": "target idx 27"
+  },
+  {
+   "check": "ch13 folio equals page label",
+   "pass": true,
+   "detail": "27"
+  },
+  {
+   "check": "ch13 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "13 | Intestinal Obstruction | Surgery \u00b7 Emergency / Acute Care \u00b7 main book from p. 162 | none | 27"
+  },
+  {
+   "check": "ch14 link lands on opener",
+   "pass": true,
+   "detail": "target idx 28"
+  },
+  {
+   "check": "ch14 folio equals page label",
+   "pass": true,
+   "detail": "28"
+  },
+  {
+   "check": "ch14 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "14 | Polyposis of Colon | Surgery \u00b7 Pathology \u00b7 main book from p. 189 | none | 28"
+  },
+  {
+   "check": "ch15 link lands on opener",
+   "pass": true,
+   "detail": "target idx 28"
+  },
+  {
+   "check": "ch15 folio equals page label",
+   "pass": true,
+   "detail": "28"
+  },
+  {
+   "check": "ch15 row shows number/title/subject/folio",
+   "pass": true,
+   "detail": "15 | Colorectal Cancer | Surgery \u00b7 Pathology \u00b7 main book from p. 195 | none | 28"
+  },
+  {
+   "check": "item C1-02 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C1-05/06/08 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C1-09 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C1-12 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C1-13/14/15 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C1-19/20 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C1-23/24/25/26 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C1-29/30/31/34 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C1-32 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C1-35/36/37 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C2-14 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C3-02/03 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C3-05/06 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C3-08/09/11 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C3-13 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C3-14 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C3-17 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C3-18/19 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C3-21/27 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C3-23 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item GB-03 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item GB-04/31 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item GB-05/06 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item GB-07/08/09/11 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item GB-12 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item GB-13/14/15/16 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item GB-19/20/21/22 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item GB-25/26/27 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item GB-28/29 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-02/03 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-04 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-26 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-08 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-09/12 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-17 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-15 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-19 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-21 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-23 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-24 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-30 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-31 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-34/36 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-35 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-37 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C5-38 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C6-03/04 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C6-08 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C6-10/11/13/15 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C6-18 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C6-16 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C6-17 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C6-20 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C8-02/08 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C8-03 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C8-11 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C8-13/23 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C8-14/15 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C8-17 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C8-20/21 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "item C8-25 rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "no text outside horizontal margins",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "fonts embedded (no Type3)",
+   "pass": true,
+   "detail": "AAAAAA+Archivo-SemiBold, BAAAAA+Archivo-SemiBold, CAAAAA+Archivo-SemiBold, CAAAAA+SourceSerif4Roman-Regular, DAAAAA+Inter-Regular, EAAAAA+Inter-Regular, FAAAAA+Archivo-SemiBold, GAAAAA+Archivo-SemiBold, HAAAAA+SourceSerif4Roman-Regular, IAAAAA+SourceSerif4Italic-Italic"
+  },
+  {
+   "check": "outline present",
+   "pass": true,
+   "detail": "36 entries"
+  }
+ ]
+}
