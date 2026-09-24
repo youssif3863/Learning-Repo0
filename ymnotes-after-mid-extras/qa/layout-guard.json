@@ -1,0 +1,86 @@
+{
+  "verdict": "PASS",
+  "issues": [],
+  "pages": [
+    {
+      "page": 1,
+      "words": 75,
+      "fill": 0.971,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 2,
+      "words": 318,
+      "fill": 0.767,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 3,
+      "words": 248,
+      "fill": 0.677,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 4,
+      "words": 372,
+      "fill": 0.888,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 5,
+      "words": 401,
+      "fill": 0.916,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 6,
+      "words": 456,
+      "fill": 0.944,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 7,
+      "words": 411,
+      "fill": 0.909,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 8,
+      "words": 398,
+      "fill": 0.939,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 9,
+      "words": 326,
+      "fill": 0.761,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 10,
+      "words": 271,
+      "fill": 0.534,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 11,
+      "words": 0,
+      "fill": 0.0,
+      "risk": "sparse-review",
+      "archetype": "opener"
+    }
+  ],
+  "pdf_sha256": "99cc3a954f546efdf6dc8560703d2b955ee0810070c350fab83355772b436e37",
+  "visual_quality": "NOT ESTABLISHED by geometry",
+  "contract_elements": 0
+}

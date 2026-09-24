@@ -1,0 +1,214 @@
+{
+ "pdf": "YMnotes-Digestive-After-Mid-Module-Extras.pdf",
+ "pages": 11,
+ "checks": {
+  "contents_rows": [
+   {
+    "ch": 15,
+    "title": "Colorectal Cancer",
+    "subjects": "Surgery · Pathology",
+    "printed_folio": 4,
+    "target_page": 4,
+    "lands_on_title": true,
+    "ok": true
+   },
+   {
+    "ch": 25,
+    "title": "Pyogenic Liver Abscess",
+    "subjects": "Surgery · Internal Medicine · Parasitology",
+    "printed_folio": 5,
+    "target_page": 5,
+    "lands_on_title": true,
+    "ok": true
+   },
+   {
+    "ch": 3,
+    "title": "The Stomach and Duodenum",
+    "subjects": "Internal Medicine · Pharmacology · Surgery",
+    "printed_folio": 6,
+    "target_page": 6,
+    "lands_on_title": true,
+    "ok": true
+   },
+   {
+    "ch": 4,
+    "title": "Pathology of GIT Tumours",
+    "subjects": "Pathology · Surgery",
+    "printed_folio": 7,
+    "target_page": 7,
+    "lands_on_title": true,
+    "ok": true
+   },
+   {
+    "ch": 7,
+    "title": "Foodborn Infection",
+    "subjects": "Microbiology · Internal Medicine",
+    "printed_folio": 8,
+    "target_page": 8,
+    "lands_on_title": true,
+    "ok": true
+   },
+   {
+    "ch": 14,
+    "title": "Polyposis of Colon",
+    "subjects": "Surgery · Pathology",
+    "printed_folio": 9,
+    "target_page": 9,
+    "lands_on_title": true,
+    "ok": true
+   }
+  ],
+  "links": {
+   "internal": 14,
+   "external": 40,
+   "uris": [
+    "https://t.me/ymnotesoffcial",
+    "https://www.facebook.com/share/1LtJoDhetP/",
+    "https://www.instagram.com/ymnotes.yt?igsh=MW84M2J5MjF2aGZuMg==",
+    "https://youtube.com/@ymnotes?si=lJu1kuQj5x9LcjmA",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC00S48bCfTerAwvlarK9umX",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC0JyY6FZeHfJsMNCA42txDy",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC0QW2vGrH26WA00aL8-6V7f",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC0_tiTp_kpLUUI8RpO9ldtu",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC0lw1xcsWXbcrl7QDf3HGaT",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC0r3eIXGMXNn858Dx_-HTwQ",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC1GDEwhNGR2mn76xJjhHOJC",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC1Lb2gYEnBox8Fkslm_DEkF",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC1ZUrtcWmtx6Y9tL26sSo1h",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC2Jor-2EIxGyxwKsSszaqM4",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC2psZtf1hlZ-vGa5PLQEoKw",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC2s1F5WNI7HFoNJLOUcD7Ut",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC2yy7sMOJygmNcMg7eKy1kd&si=fVFdArNj00rnB3EJ",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC3-Ads90ue8C6jgfk9qAXss&si=F-p2VyRvFKC3Hjbp",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC3ID4ZarKVRkbB6Xune8dSI&si=8CUzSQFbCQUYapKV",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC3M8qncr-JfqSc76DzRHHpu",
+    "https://youtube.com/playlist?list=PLzPbYRQqDdC3RdSrkWk9IW29BrMy3JC2c"
+   ]
+  },
+  "discrepancy_index_links": 6,
+  "bookmarks": [
+   [
+    1,
+    "Cover",
+    1
+   ],
+   [
+    1,
+    "About this handout",
+    2
+   ],
+   [
+    1,
+    "Contents",
+    3
+   ],
+   [
+    1,
+    "Part A · After Mid-Module Chapters",
+    4
+   ],
+   [
+    2,
+    "Ch 15 · Colorectal Cancer",
+    4
+   ],
+   [
+    2,
+    "Ch 25 · Pyogenic Liver Abscess",
+    5
+   ],
+   [
+    2,
+    "Chapters 16–40 checked (no additions)",
+    5
+   ],
+   [
+    1,
+    "Part B · Earlier-Chapter Additions Found in GIT Others",
+    6
+   ],
+   [
+    2,
+    "Ch 3 · The Stomach and Duodenum",
+    6
+   ],
+   [
+    2,
+    "Ch 4 · Pathology of GIT Tumours",
+    7
+   ],
+   [
+    2,
+    "Ch 7 · Foodborn Infection",
+    8
+   ],
+   [
+    2,
+    "Ch 14 · Polyposis of Colon",
+    9
+   ],
+   [
+    1,
+    "Points to check",
+    10
+   ],
+   [
+    1,
+    "Stay with YMnotes",
+    11
+   ]
+  ],
+  "fonts": [
+   "AAAAAA+Archivo-SemiBold (Type0)",
+   "BAAAAA+Archivo-SemiBold (Type0)",
+   "CAAAAA+Inter-Regular (Type0)",
+   "DAAAAA+Inter-Regular (Type0)",
+   "EAAAAA+SourceSerif4Roman-Regular (Type0)",
+   "FAAAAA+SourceSerif4Roman-Regular (Type0)",
+   "GAAAAA+Archivo-SemiBold (Type0)",
+   "HAAAAA+SourceSerif4Italic-Italic (Type0)"
+  ],
+  "header_qr_decode": [
+   [
+    2,
+    "https://youtube.com/@ymnotes?si=lJu1kuQj5x9LcjmA"
+   ],
+   [
+    3,
+    "https://youtube.com/@ymnotes?si=lJu1kuQj5x9LcjmA"
+   ],
+   [
+    4,
+    "https://youtube.com/@ymnotes?si=lJu1kuQj5x9LcjmA"
+   ],
+   [
+    5,
+    "https://youtube.com/@ymnotes?si=lJu1kuQj5x9LcjmA"
+   ],
+   [
+    6,
+    "https://youtube.com/@ymnotes?si=lJu1kuQj5x9LcjmA"
+   ],
+   [
+    7,
+    "https://youtube.com/@ymnotes?si=lJu1kuQj5x9LcjmA"
+   ],
+   [
+    8,
+    "https://youtube.com/@ymnotes?si=lJu1kuQj5x9LcjmA"
+   ],
+   [
+    9,
+    "https://youtube.com/@ymnotes?si=lJu1kuQj5x9LcjmA"
+   ],
+   [
+    10,
+    "https://youtube.com/@ymnotes?si=lJu1kuQj5x9LcjmA"
+   ]
+  ],
+  "smallest_font_pt": 6.9,
+  "words_outside_page": 0
+ },
+ "failures": [],
+ "status": "PASS"
+}

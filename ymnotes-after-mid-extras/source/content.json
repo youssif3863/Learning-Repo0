@@ -1,0 +1,708 @@
+{
+ "title": "YMnotes Digestive System — After Mid-Module Extras",
+ "short_title": "After Mid-Module Extras",
+ "companion_to": "YMnotes Digestive System · Version 3",
+ "source_label": "GIT Others",
+ "part_a": {
+  "kicker": "PART A",
+  "title": "After Mid-Module Chapters",
+  "intro": "Additions for the chapters in the second half of your book, in book order. Chapter 15 starts in the first-half file (p. 195) and continues into the second-half file, so it is included here in full.",
+  "chapters": [
+   {
+    "n": 15,
+    "title": "Colorectal Cancer",
+    "subjects": "Surgery · Pathology",
+    "book_pages": "pp. 195–209",
+    "files_note": "Split chapter: pp. 195–197 are in the first-half file (PDF pp. 198–200); pp. 197–209 are in the second-half file (PDF pp. 1–13). Page 197 appears in both.",
+    "items": [
+     {
+      "id": "A15-1",
+      "ledger": [
+       "TU-30"
+      ],
+      "kind": "fact",
+      "tag": "KEY FACT",
+      "fits": "3- Microscopic picture → Adenocarcinoma",
+      "book_page": 196,
+      "book_file": "1st half",
+      "book_pdf": 199,
+      "others_pages": "19",
+      "head": "Adenocarcinoma: 98% of large-bowel cancers",
+      "text": [
+       "Your book says “more than 90%” of colorectal carcinomas are adenocarcinomas. GIT Others gives a precise figure: <b>98%</b> of all cancers of the large intestine are adenocarcinomas."
+      ]
+     },
+     {
+      "id": "A15-2",
+      "ledger": [
+       "TU-36"
+      ],
+      "kind": "distinction",
+      "tag": "DISTINCTION",
+      "fits": "3- Microscopic picture → Mucinous adenocarcinoma (variant)",
+      "book_page": 196,
+      "book_file": "1st half",
+      "book_pdf": 199,
+      "others_pages": "20",
+      "head": "Two kinds of mucoid (mucinous) carcinoma",
+      "list": [
+       "<b>Mucinous adenocarcinoma</b>: abundant <i>extracellular</i> mucin (your book: &gt;50% mucinous material).",
+       "<b>Signet ring cell carcinoma</b>: the mucin stays <i>inside</i> the malignant cell and pushes the nucleus to one side (eccentric nucleus)."
+      ]
+     },
+     {
+      "id": "A15-3",
+      "ledger": [
+       "TU-32"
+      ],
+      "kind": "clinical",
+      "tag": "RISK FACTOR",
+      "fits": "Aetiology → 1- Predisposing factors",
+      "book_page": 196,
+      "book_file": "1st half",
+      "book_pdf": 199,
+      "others_pages": "19",
+      "head": "Add irradiation to the predisposing factors",
+      "text": [
+       "GIT Others lists <b>irradiation</b> as a predisposing factor for colorectal adenocarcinoma, along with adenoma, familial polyposis, IBD and gene mutations. It is not in your book’s list."
+      ]
+     },
+     {
+      "id": "A15-D1",
+      "ledger": [
+       "TU-31"
+      ],
+      "kind": "discrepancy",
+      "tag": "CHECK · SOURCES DIFFER",
+      "fits": "Pathology of colorectal carcinoma → Age",
+      "book_page": 196,
+      "book_file": "1st half",
+      "book_pdf": 199,
+      "also": "Ch 4, p. 74 (1st-half PDF p. 77)",
+      "others_pages": "19, 20",
+      "head": "Age at presentation: 50–70 or 60–79 years?",
+      "list": [
+       "GIT Others p. 19: “Age of <b>50–70</b> years.”",
+       "GIT Others p. 20 and your book Ch 4 p. 74: “between <b>60 and 79</b> years of age”.",
+       "Your book Ch 15 p. 196: “old age, however no age is immune”."
+      ],
+      "after": "GIT Others contradicts itself. Ask your teacher which range to learn."
+     }
+    ]
+   },
+   {
+    "n": 25,
+    "title": "Pyogenic Liver Abscess",
+    "subjects": "Surgery · Internal Medicine · Parasitology",
+    "book_pages": "pp. 324–331",
+    "files_note": "Second-half file, PDF pp. 128–135. The amoebic liver abscess section is on pp. 329–331.",
+    "items": [
+     {
+      "id": "A25-D1",
+      "ledger": [
+       "PA-29"
+      ],
+      "kind": "discrepancy",
+      "tag": "CHECK · SOURCES DIFFER",
+      "fits": "Amebic liver abscess → Investigations → Lab (CBC)",
+      "book_page": 331,
+      "book_file": "2nd half",
+      "book_pdf": 135,
+      "also": "Ch 9, p. 138 (1st-half PDF p. 141)",
+      "others_pages": "47",
+      "head": "Blood count in amoebic liver abscess",
+      "list": [
+       "Your book Ch 25 p. 331: “CBC: Leukocytosis and <b>eosinophilia</b>”.",
+       "GIT Others p. 47, and your book Ch 9 p. 138: CBC shows <b>polymorphonuclear leucocytosis</b>, which helps separate amoebic liver abscess from viral hepatitis. Neither mentions eosinophilia for amoebic liver abscess."
+      ],
+      "after": "Both agree on leucocytosis. Check with your teacher whether eosinophilia should be learned."
+     }
+    ]
+   }
+  ],
+  "checked_none": [
+   [
+    16,
+    "Anorectal Diseases",
+    "pp. 210–230",
+    "No matching material."
+   ],
+   [
+    17,
+    "Hepatology and Hepatic Surgery",
+    "pp. 231–235",
+    "No matching material."
+   ],
+   [
+    18,
+    "Liver Disease Assessment",
+    "pp. 236–250",
+    "No matching material."
+   ],
+   [
+    19,
+    "Acute Hepatitis",
+    "pp. 251–263",
+    "Leptospirosis and yellow fever liver involvement is already in Ch 7 (pp. 113–114)."
+   ],
+   [
+    20,
+    "Chronic Hepatitis B",
+    "pp. 264–273",
+    "No matching material."
+   ],
+   [
+    21,
+    "Autoimmune Hepatitis",
+    "pp. 274–279",
+    "No matching material."
+   ],
+   [
+    22,
+    "Liver Cirrhosis",
+    "pp. 280–307",
+    "Hepatosplenic schistosomiasis is already on p. 283 and in Ch 9."
+   ],
+   [
+    23,
+    "Portal Hypertension",
+    "pp. 308–317",
+    "Schistosomal periportal fibrosis (p. 310) and PPIs for bleeding varices (Ch 3 p. 47) are already covered."
+   ],
+   [
+    24,
+    "Hydatid Cyst",
+    "pp. 318–323",
+    "GIT Others only names hydatid disease as a differential of amoebic liver abscess, which Ch 9 already does."
+   ],
+   [
+    26,
+    "Hepatocellular Carcinoma",
+    "pp. 332–336",
+    "No matching material."
+   ],
+   [
+    27,
+    "Ascites",
+    "pp. 337–344",
+    "No matching material."
+   ],
+   [
+    28,
+    "Renal Impairment in Cirrhosis",
+    "pp. 345–348",
+    "No matching material."
+   ],
+   [
+    29,
+    "Jaundice",
+    "pp. 349–354",
+    "No matching material."
+   ],
+   [
+    30,
+    "Hepatic Encephalopathy",
+    "pp. 355–360",
+    "No matching material."
+   ],
+   [
+    31,
+    "Acute Hepatic Failure",
+    "pp. 361–366",
+    "No matching material."
+   ],
+   [
+    32,
+    "Biliary System Anatomy",
+    "pp. 367–372",
+    "No matching material."
+   ],
+   [
+    33,
+    "Gallbladder Diseases",
+    "pp. 373–375",
+    "No matching material."
+   ],
+   [
+    34,
+    "Gallstones and Cholecystitis",
+    "pp. 376–388",
+    "No matching material."
+   ],
+   [
+    35,
+    "Obstructive Jaundice",
+    "pp. 389–398",
+    "Biliary Ascaris is already on p. 390; the Ascaris details in GIT Others are all in Ch 9."
+   ],
+   [
+    36,
+    "Acute Pancreatitis",
+    "pp. 399–406",
+    "No matching material."
+   ],
+   [
+    37,
+    "Cancer Pancreas",
+    "pp. 407–412",
+    "No matching material."
+   ],
+   [
+    38,
+    "Acute Abdomen",
+    "pp. 413–417",
+    "No matching material."
+   ],
+   [
+    39,
+    "Abdominal Trauma",
+    "pp. 418–424",
+    "No matching material."
+   ],
+   [
+    40,
+    "Splenic Trauma",
+    "pp. 425–433",
+    "No matching material."
+   ]
+  ]
+ },
+ "part_b": {
+  "kicker": "PART B",
+  "title": "Earlier-Chapter Additions Found in GIT Others",
+  "intro": "Most of GIT Others covers chapters from the first half of your book (before the mid-module). These points are missing from those chapters. They are kept separate from Part A and follow your book’s chapter numbers. Use them when revising the earlier chapters.",
+  "chapters": [
+   {
+    "n": 3,
+    "title": "The Stomach and Duodenum",
+    "subjects": "Internal Medicine · Pharmacology · Surgery",
+    "book_pages": "pp. 33–69",
+    "files_note": "First-half file, PDF pp. 36–72. GIT Others pp. 1–6 (drug treatment of gastritis and peptic ulcer) repeat your book’s pp. 44–50 almost word for word.",
+    "items": [
+     {
+      "id": "B3-1",
+      "ledger": [
+       "PH-26"
+      ],
+      "kind": "clinical",
+      "tag": "ADVERSE EFFECT",
+      "fits": "Pharmacology → 1. Proton Pump Inhibitors → Adverse effects",
+      "book_page": 45,
+      "book_file": "1st half",
+      "book_pdf": 48,
+      "others_pages": "11 (MCQ 24; answer key p. 12)",
+      "head": "Long-term PPI use and bone",
+      "text": [
+       "<b>Osteoporosis</b> is a possible complication of chronic (long-term) PPI use. Add it to the PPI adverse effects, after vitamin B12 deficiency."
+      ]
+     },
+     {
+      "id": "B3-D1",
+      "ledger": [
+       "PH-15"
+      ],
+      "kind": "discrepancy",
+      "tag": "CHECK · BOOK INCONSISTENT",
+      "fits": "NSAID-induced ulcer → prophylaxis (misoprostol)",
+      "book_page": 37,
+      "book_file": "1st half",
+      "book_pdf": 40,
+      "also": "p. 48 (1st-half PDF p. 51)",
+      "others_pages": "4",
+      "head": "Misoprostol: PGE1 or PGE2 analogue?",
+      "list": [
+       "Your book p. 37: “a synthetic prostaglandin <b>E₂</b> analogue”.",
+       "Your book p. 48 and GIT Others p. 4: “Synthetic <b>PGE1</b> analog”."
+      ],
+      "after": "Your two pages disagree. GIT Others agrees with p. 48."
+     },
+     {
+      "id": "B3-D2",
+      "ledger": [
+       "PH-16"
+      ],
+      "kind": "discrepancy",
+      "tag": "CHECK · BOOK INCONSISTENT",
+      "fits": "H. pylori eradication → rescue (quinolone) therapy",
+      "book_page": 41,
+      "book_file": "1st half",
+      "book_pdf": 44,
+      "also": "p. 48 (1st-half PDF p. 51)",
+      "others_pages": "5",
+      "head": "Levofloxacin dose in the rescue regimen",
+      "list": [
+       "Your book p. 41: “Levofloxacin <b>500 mg once daily</b> + PPI + Amoxicillin”.",
+       "Your book p. 48 and GIT Others p. 5: “levofloxacin <b>250 or 500 mg twice a day</b> for 10 days” (with PPI + amoxicillin 1 g twice a day)."
+      ],
+      "after": "Your two pages disagree. GIT Others agrees with p. 48."
+     },
+     {
+      "id": "B3-D3",
+      "ledger": [
+       "TU-13"
+      ],
+      "kind": "discrepancy",
+      "tag": "CHECK · SOURCES DIFFER",
+      "fits": "Cancer stomach → Site",
+      "book_page": 62,
+      "book_file": "1st half",
+      "book_pdf": 65,
+      "others_pages": "15",
+      "head": "Commonest site of gastric cancer: how common?",
+      "list": [
+       "Your book p. 62: antrum/pyloric area <b>60%</b>, body 15%, fundus 25%.",
+       "GIT Others p. 15: pyloric region <b>50%</b>, then <b>lesser curvature 25%</b>, but it can occur anywhere in the stomach."
+      ],
+      "after": "Both sources agree the pyloric (antral) region is the commonest site. They give different percentages and a different second site."
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Pathology of GIT Tumours",
+    "subjects": "Pathology · Surgery",
+    "book_pages": "pp. 70–75",
+    "files_note": "First-half file, PDF pp. 73–78. Most of GIT Others pp. 13–21 already appears on these pages.",
+    "items": [
+     {
+      "id": "B4-1",
+      "ledger": [
+       "TU-06"
+      ],
+      "kind": "fact",
+      "tag": "MICROSCOPY",
+      "fits": "Carcinoma of esophagus → Histopathology → 1. Squamous cell carcinoma",
+      "book_page": 71,
+      "book_file": "1st half",
+      "book_pdf": 74,
+      "others_pages": "14",
+      "head": "What esophageal SCC looks like under the microscope",
+      "text": [
+       "It is made of <b>islands of neoplastic squamous cells</b>. Differentiated tumours also show <b>epithelial cell nests</b>."
+      ]
+     },
+     {
+      "id": "B4-2",
+      "ledger": [
+       "TU-07"
+      ],
+      "kind": "clinical",
+      "tag": "COMPLICATION",
+      "fits": "Carcinoma of esophagus → effects and complications",
+      "book_page": 71,
+      "book_file": "1st half",
+      "book_pdf": 74,
+      "others_pages": "14",
+      "head": "A malignant ulcer can bleed fatally",
+      "text": [
+       "As well as dysphagia and haematemesis, <b>perforation of the malignant ulcer can cause fatal haemorrhage</b>."
+      ]
+     },
+     {
+      "id": "B4-3",
+      "ledger": [
+       "TU-12"
+      ],
+      "kind": "mechanism",
+      "tag": "MECHANISM",
+      "fits": "Gastric adenocarcinoma → Predisposing factors / intestinal type “on top of intestinal metaplasia”",
+      "book_page": 72,
+      "book_file": "1st half",
+      "book_pdf": 75,
+      "others_pages": "15",
+      "head": "The H. pylori pathway to gastric cancer",
+      "text": [
+       "H. pylori infection → gastritis → atrophic gastritis → <b>intestinal metaplasia → dysplasia</b> → cancer.",
+       "GIT Others calls intestinal metaplasia a <b>precancerous (dysplastic) lesion</b> of the stomach."
+      ]
+     },
+     {
+      "id": "B4-4",
+      "ledger": [
+       "TU-16"
+      ],
+      "kind": "fact",
+      "tag": "CLASSIFICATION",
+      "fits": "Gastric adenocarcinoma → “It may take one of two types”",
+      "book_page": 72,
+      "book_file": "1st half",
+      "book_pdf": 75,
+      "others_pages": "16",
+      "head": "Name and frequency of the two types",
+      "text": [
+       "The intestinal and diffuse types make up the <b>Lauren classification</b>: intestinal type <b>53%</b>, diffuse type <b>33%</b>, unclassified <b>14%</b>."
+      ]
+     },
+     {
+      "id": "B4-5",
+      "ledger": [
+       "TU-15"
+      ],
+      "kind": "fact",
+      "tag": "GROSS PATHOLOGY",
+      "fits": "Late gastric cancer → (2) Malignant ulcer",
+      "book_page": 72,
+      "book_file": "1st half",
+      "book_pdf": 75,
+      "others_pages": "16",
+      "head": "The malignant gastric ulcer",
+      "text": [
+       "The ulcer is typically <b>more than 5 cm</b> across, with an everted edge, a <b>necrotic floor</b> and a <b>firm base</b>."
+      ]
+     },
+     {
+      "id": "B4-6",
+      "ledger": [
+       "TU-19"
+      ],
+      "kind": "clinical",
+      "tag": "SPREAD",
+      "fits": "Spread of gastric carcinoma → Blood spread",
+      "book_page": 73,
+      "book_file": "1st half",
+      "book_pdf": 76,
+      "others_pages": "16",
+      "head": "Blood spread goes beyond the liver",
+      "text": [
+       "Blood-borne metastases go to the liver and also to the <b>lung, bone and brain</b>."
+      ]
+     },
+     {
+      "id": "B4-7",
+      "ledger": [
+       "TU-23"
+      ],
+      "kind": "fact",
+      "tag": "RISK FACTOR",
+      "fits": "Neoplastic adenomatous polyp of the colon",
+      "book_page": 73,
+      "book_file": "1st half",
+      "book_pdf": 76,
+      "others_pages": "17",
+      "head": "Colonic adenomas run in families",
+      "text": [
+       "There is a <b>well-defined familial predisposition</b> to colonic adenomas. They predispose to colorectal carcinoma."
+      ]
+     },
+     {
+      "id": "B4-8",
+      "ledger": [
+       "TU-25"
+      ],
+      "kind": "distinction",
+      "tag": "DISTINCTION",
+      "fits": "Tubular adenoma / Villous adenoma",
+      "book_page": 73,
+      "book_file": "1st half",
+      "book_pdf": 76,
+      "others_pages": "18",
+      "head": "Tubular vs villous adenoma: size and cancer risk",
+      "table": {
+       "head": [
+        "",
+        "Tubular adenoma",
+        "Villous adenoma"
+       ],
+       "rows": [
+        [
+         "Size",
+         "Small, &lt;1 cm",
+         "Large, &gt;2 cm"
+        ],
+        [
+         "Number",
+         "Multiple",
+         "Solitary"
+        ],
+        [
+         "Dysplasia / cancer",
+         "Rare",
+         "High (about 40%)"
+        ]
+       ]
+      },
+      "after": "GIT Others’ table gives the 40% for adenomas &gt;4 cm; its text gives it for villous adenomas in general."
+     }
+    ]
+   },
+   {
+    "n": 7,
+    "title": "Foodborn Infection",
+    "subjects": "Microbiology · Internal Medicine",
+    "book_pages": "pp. 106–114",
+    "files_note": "First-half file, PDF pp. 109–117. GIT Others pp. 22–33 repeat these pages almost word for word. Only small laboratory and control details are new.",
+    "items": [
+     {
+      "id": "B7-1",
+      "ledger": [
+       "FI-02"
+      ],
+      "kind": "fact",
+      "tag": "RESERVOIR",
+      "fits": "Salmonella → acute gastroenteritis (contaminated eggs)",
+      "book_page": 107,
+      "book_file": "1st half",
+      "book_pdf": 110,
+      "others_pages": "22",
+      "head": "Where Salmonella gastroenteritis comes from",
+      "text": [
+       "<b>Poultry are the primary reservoir</b> of Salmonella causing food-borne gastroenteritis. Contaminated eggs are the main food source."
+      ]
+     },
+     {
+      "id": "B7-2",
+      "ledger": [
+       "FI-03",
+       "FI-05"
+      ],
+      "kind": "distinction",
+      "tag": "LAB",
+      "fits": "Salmonella → Culture and Biochemical reactions",
+      "book_page": 107,
+      "book_file": "1st half",
+      "book_pdf": 110,
+      "others_pages": "22",
+      "head": "Salmonella culture and sugar fermentation",
+      "list": [
+       "A <b>facultative anaerobe</b> that grows well at <b>37 °C in 24 hours</b>. Colonies on MacConkey are <b>pale (yellow)</b> because it does not ferment lactose.",
+       "Most species ferment sugars with <b>acid and gas</b>. <b>S. typhi makes acid only</b> (no gas)."
+      ]
+     },
+     {
+      "id": "B7-3",
+      "ledger": [
+       "FI-10"
+      ],
+      "kind": "fact",
+      "tag": "LAB",
+      "fits": "Enteric fever → Laboratory diagnosis → A. Isolation (first week)",
+      "book_page": 109,
+      "book_file": "1st half",
+      "book_pdf": 112,
+      "others_pages": "24",
+      "head": "How the first-week blood culture is done",
+      "text": [
+       "Blood is cultured in <b>fluid (broth) media</b>, then <b>subcultured on solid media</b>, mainly MacConkey, at 37 °C."
+      ]
+     },
+     {
+      "id": "B7-4",
+      "ledger": [
+       "FI-16"
+      ],
+      "kind": "clinical",
+      "tag": "PUBLIC HEALTH",
+      "fits": "Enteric fever → Prevention and Control (before “1- Immunization”)",
+      "book_page": 109,
+      "book_file": "1st half",
+      "book_pdf": 112,
+      "others_pages": "25",
+      "head": "Control starts with food handlers",
+      "text": [
+       "<b>Food handlers are examined to detect carriers.</b> Carriers are treated or kept away from handling food. GIT Others lists this before immunization."
+      ]
+     },
+     {
+      "id": "B7-5",
+      "ledger": [
+       "FI-18"
+      ],
+      "kind": "clinical",
+      "tag": "COURSE",
+      "fits": "Salmonella food poisoning → A. S. typhimurium",
+      "book_page": 110,
+      "book_file": "1st half",
+      "book_pdf": 113,
+      "others_pages": "25",
+      "head": "S. typhimurium food poisoning is self-limiting",
+      "text": [
+       "After lasting 2–5 days, <b>it usually resolves on its own (spontaneous cure)</b>."
+      ]
+     },
+     {
+      "id": "B7-6",
+      "ledger": [
+       "FI-23"
+      ],
+      "kind": "fact",
+      "tag": "LAB",
+      "fits": "Campylobacter → Laboratory diagnosis",
+      "book_page": 111,
+      "book_file": "1st half",
+      "book_pdf": 114,
+      "others_pages": "27",
+      "head": "Campylobacter laboratory details",
+      "list": [
+       "A <b>rectal swab</b> is an acceptable specimen, collected with care to avoid oxygen exposure.",
+       "Darting motility is seen in a wet mount under <b>dark-field illumination</b>.",
+       "Isolated colonies are identified by <b>biotyping, serotyping and phage typing</b>."
+      ]
+     },
+     {
+      "id": "B7-7",
+      "ledger": [
+       "FI-26"
+      ],
+      "kind": "fact",
+      "tag": "LAB",
+      "fits": "Brucella → Culture",
+      "book_page": 111,
+      "book_file": "1st half",
+      "book_pdf": 114,
+      "others_pages": "27",
+      "head": "Brucella needs CO₂",
+      "text": [
+       "Brucella is aerobic, but culture needs <b>10% CO₂</b> as well as serum-enriched media."
+      ]
+     },
+     {
+      "id": "B7-D1",
+      "ledger": [
+       "FI-13"
+      ],
+      "kind": "discrepancy",
+      "tag": "CHECK · SOURCES DIFFER",
+      "fits": "Enteric fever → Interpretation of Widal test",
+      "book_page": 109,
+      "book_file": "1st half",
+      "book_pdf": 112,
+      "others_pages": "24",
+      "head": "Widal test: what a high H titre means",
+      "list": [
+       "Your book p. 109: a high titre to <b>one</b> H antigen (≥1:160) suggests recent infection with that type; high O titre <b>plus more than one</b> H antigen indicates recent immunization.",
+       "GIT Others p. 24: “<b>More than one</b> H antigen (≥1:160) suggest recent infection with this type of Salmonella <b>and</b> recent immunization.”"
+      ],
+      "after": "The GIT Others list here is garbled (its items 1–2 are cut off), so it is not a reliable correction. Ask your teacher before changing what you learned."
+     }
+    ]
+   },
+   {
+    "n": 14,
+    "title": "Polyposis of Colon",
+    "subjects": "Surgery · Pathology",
+    "book_pages": "pp. 189–194",
+    "files_note": "First-half file, PDF pp. 192–197.",
+    "items": [
+     {
+      "id": "B14-1",
+      "ledger": [
+       "TU-29"
+      ],
+      "kind": "fact",
+      "tag": "PATHOLOGY",
+      "fits": "Familial polyposis coli → “These are adenomatous polyps”",
+      "book_page": 190,
+      "book_file": "1st half",
+      "book_pdf": 193,
+      "others_pages": "19",
+      "head": "Polyp type in FAP",
+      "text": [
+       "In FAP, <b>most of the polyps are tubular adenomas</b>."
+      ]
+     }
+    ]
+   }
+  ],
+  "checked_none_note": "GIT Others also covers Chapter 9 (Parasitic GI Diseases) on pp. 35–47. Every point there is already in your book (pp. 123–138), with the same doses and time periods, so Chapter 9 has no additions."
+ }
+}
