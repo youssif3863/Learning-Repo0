@@ -1,3 +1,5 @@
+> **Superseded.** The user widened the scope to the whole book. The current deliverable is `ymnotes-other-subjects-capsule/` (Other Subjects Capsule). This half-book draft is kept for reference only.
+
 # Completion report: YMnotes Digestive System — After Mid-Module Extras
 
 ## Outputs
