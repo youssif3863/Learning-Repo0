@@ -1,0 +1,152 @@
+/* ============================================================================
+   YMnotes design tokens — DESIGN SYSTEM v3 (FROZEN 2026-09-03)
+
+   Approved by the book's author after reviewing a complete 128-page
+   candidate: approved in principle, no redesign wanted, final polish only.
+   These are now the YMnotes defaults. A future book starts here and does
+   not re-open a design conversation; changing a value below is a decision
+   to be recorded, not a prototype round to be run.
+
+   The directory name DESIGN/v2/ is historical and means nothing. The
+   design-system version and the prototype round are two different
+   numbers; DESIGN/version.json is the authority for both.
+   ----------------------------------------------------------------------------
+   Every recurring decision is a named semantic role. Nothing downstream may
+   hard-code a colour, a size or a spacing value.
+
+   Identity colour is sampled from the current official YMnotes logo: #1A611F in
+   its flat one-colour rendition, #1C5230 in the STAGE_B mockup's extrusion. The
+   book's primary sits between them and reads as ink in print.
+   ========================================================================= */
+
+/* Static instances only. A Chromium-based print pipeline rasterises a variable
+   font instance into Type 3 glyph procedures and the PDF ends up with no
+   embedded outline fonts at all. See scripts/make_static_fonts.py. */
+@font-face { font-family: "YM Serif"; src: url("../fonts/SourceSerif4-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YM Serif"; src: url("../fonts/SourceSerif4-Semibold.ttf") format("truetype"); font-weight: 600; font-style: normal; font-display: block; }
+@font-face { font-family: "YM Serif"; src: url("../fonts/SourceSerif4-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; font-display: block; }
+@font-face { font-family: "YM Serif"; src: url("../fonts/SourceSerif4-Italic.ttf") format("truetype"); font-weight: 400; font-style: italic; font-display: block; }
+@font-face { font-family: "YM Serif"; src: url("../fonts/SourceSerif4-SemiboldItalic.ttf") format("truetype"); font-weight: 600; font-style: italic; font-display: block; }
+@font-face { font-family: "YM Display"; src: url("../fonts/Archivo-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YM Display"; src: url("../fonts/Archivo-Medium.ttf") format("truetype"); font-weight: 500; font-style: normal; font-display: block; }
+@font-face { font-family: "YM Display"; src: url("../fonts/Archivo-Semibold.ttf") format("truetype"); font-weight: 600; font-style: normal; font-display: block; }
+@font-face { font-family: "YM Display"; src: url("../fonts/Archivo-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; font-display: block; }
+@font-face { font-family: "YM Sans"; src: url("../fonts/Inter-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YM Sans"; src: url("../fonts/Inter-Medium.ttf") format("truetype"); font-weight: 500; font-style: normal; font-display: block; }
+@font-face { font-family: "YM Sans"; src: url("../fonts/Inter-Semibold.ttf") format("truetype"); font-weight: 600; font-style: normal; font-display: block; }
+
+:root {
+  /* ---- identity ------------------------------------------------------- */
+  --c-identity:        #1A5B31;
+  --c-identity-deep:   #0F3C21;
+  --c-identity-mid:    #2E7A4B;
+  --c-identity-soft:   #7FAE92;
+  --c-identity-tint:   #EEF5F0;   /* pale wash behind a topic band          */
+  --c-identity-tint-2: #DCEAE0;   /* second wash: table header, banded rows  */
+
+  /* ---- semantic roles ------------------------------------------------- */
+  --c-info:           #1D5581;
+  --c-info-tint:      #ECF2F8;
+  --c-warn:           #9E2C1B;
+  --c-warn-tint:      #FBEDEA;
+  --c-seq:            #8A5A0B;
+  --c-seq-tint:       #FBF3E3;
+/* Editorial voice. Not a second brand colour: a warm neutral that reads as
+   "this paragraph is not the source speaking". Lavender did the job but sat in
+   the book like a sticky note - too saturated for a page whose only other
+   colour is a deep green. */
+  --c-editorial:      #7A6A4E;
+  --c-editorial-tint: #FAF7EF;
+  --c-editorial-ink:  #4A4234;
+
+  /* ---- editorial correction -------------------------------------------
+     A verified departure from the supplied source. Warm amber rather than a
+     highlighter yellow: the reader should find it when looking and never be
+     stopped by it. The tint is close enough to paper to disappear at reading
+     speed and the rule is what carries it in greyscale. */
+  --c-corr-tint: #FDF6E7;
+  --c-corr-rule: #C08A2E;
+  --c-corr-ink:  #7A5714;
+
+  /* ---- neutrals ------------------------------------------------------- */
+  --c-ink:    #15201A;
+  --c-ink-2:  #34423A;
+  --c-muted:  #66756C;
+  --c-faint:  #93A099;
+  --c-rule:   #D4DDD7;
+  --c-rule-2: #B6C4BB;
+  --c-paper:  #FFFFFF;
+
+  /* ---- families ------------------------------------------------------- */
+  --font-reading: "YM Serif", "Source Serif 4", Cambria, Georgia, serif;
+  --font-display: "YM Display", Archivo, "Segoe UI", sans-serif;
+  --font-ui:      "YM Sans", Inter, "Segoe UI", sans-serif;
+
+  /* ---- type scale (pt: this is a print-first document) ----------------- */
+  --t-micro:      7.8pt;   /* header/footer furniture                       */
+  --t-caption:    9.2pt;   /* figure captions - readable, not decorative    */
+  --t-small:      9.6pt;   /* tables, callouts                              */
+  --t-body:      10.9pt;
+  --t-lead:      11.3pt;   /* definition / opening lines                    */
+  --t-subtype:   10.9pt;
+  --t-section:   11.3pt;
+  --t-condition: 13.7pt;
+  --t-topic:     15.6pt;
+  --t-chapter:     30pt;
+  --t-chapter-open: 38pt;  /* opener title; larger than a normal chapter */
+
+  --lead-tight:   1.32;
+  --lead-list:    1.42;
+  --lead-body:    1.50;
+  --lead-relaxed: 1.55;
+
+  /* ---- spacing rhythm --------------------------------------------------
+     Whitespace is spent at concept boundaries, never uniformly. The steps are
+     deliberately uneven: -2 and -3 are within a concept, -5 and -6 between. */
+  --sp-1: 0.6mm;
+  --sp-2: 1.3mm;
+  --sp-3: 2.1mm;
+  --sp-4: 3.2mm;
+  --sp-5: 5.2mm;
+  --sp-6: 8mm;
+  --sp-7: 12mm;
+
+  /* ---- page geometry -------------------------------------------------- */
+  --page-w: 210mm;
+  --page-h: 297mm;
+  --m-top:    22mm;   /* holds the running header                           */
+  --m-bottom: 19mm;   /* holds the running footer                           */
+  --m-inner:  20mm;
+  --m-outer:  15mm;
+  --rail:     13mm;   /* hanging rail inside the text box, for markers      */
+  --measure-prose: 152mm;
+
+  /* ---- furniture ------------------------------------------------------ */
+  --hdr-logo-h:  5.8mm;
+  --hdr-qr:     12.6mm;
+  /* The watermark is drawn by a post-pass, not by CSS, so it can find free
+     space on each page instead of stamping one fixed corner. */
+  --watermark-w: 40mm;
+
+  /* ---- lines and radii ------------------------------------------------ */
+  --rule-hair: 0.3pt;
+  --rule-thin: 0.6pt;
+  --rule-med:  1.1pt;
+  --rule-bold: 2.4pt;
+  --rule-heavy: 3.4pt;
+  --radius-s: 0.7mm;
+  --radius-m: 1.3mm;
+
+  /* ---- bullet geometry (shape carries depth, not colour) -------------- */
+  /* Shape carries depth. The level-1 box is rotated 45 degrees into a diamond,
+     so its box is scaled by 1/sqrt(2) to keep the same optical width as the
+     level-2 square - an unrotated 1.75mm box becomes 2.47mm wide on the
+     diagonal and outweighs its own children. */
+  --bullet-1: 1.3mm;    /* filled diamond (rotated square) */
+  --bullet-2: 1.55mm;   /* filled square  */
+  --bullet-3-w: 2.2mm;  /* dash           */
+  --bullet-3-h: 0.55mm;
+  --bullet-4: 1.5mm;    /* hollow circle  */
+  --list-indent: 5mm;
+  --list-indent-nested: 4.6mm;
+}

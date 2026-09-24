@@ -1,0 +1,352 @@
+{
+  "verdict": "PASS",
+  "issues": [],
+  "pages": [
+    {
+      "page": 1,
+      "words": 136,
+      "fill": 0.989,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 2,
+      "words": 483,
+      "fill": 0.991,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 3,
+      "words": 364,
+      "fill": 0.928,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 4,
+      "words": 324,
+      "fill": 0.81,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 5,
+      "words": 433,
+      "fill": 0.953,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 6,
+      "words": 238,
+      "fill": 0.632,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 7,
+      "words": 379,
+      "fill": 0.932,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 8,
+      "words": 369,
+      "fill": 0.86,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 9,
+      "words": 409,
+      "fill": 0.82,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 10,
+      "words": 462,
+      "fill": 0.945,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 11,
+      "words": 387,
+      "fill": 0.903,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 12,
+      "words": 214,
+      "fill": 0.575,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 13,
+      "words": 273,
+      "fill": 0.854,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 14,
+      "words": 333,
+      "fill": 0.851,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 15,
+      "words": 370,
+      "fill": 0.947,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 16,
+      "words": 222,
+      "fill": 0.708,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 17,
+      "words": 443,
+      "fill": 0.918,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 18,
+      "words": 390,
+      "fill": 0.89,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 19,
+      "words": 335,
+      "fill": 0.84,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 20,
+      "words": 271,
+      "fill": 0.785,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 21,
+      "words": 352,
+      "fill": 0.89,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 22,
+      "words": 361,
+      "fill": 0.879,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 23,
+      "words": 225,
+      "fill": 0.524,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 24,
+      "words": 332,
+      "fill": 0.954,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 25,
+      "words": 355,
+      "fill": 0.817,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 26,
+      "words": 333,
+      "fill": 0.8,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 27,
+      "words": 339,
+      "fill": 0.925,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 28,
+      "words": 367,
+      "fill": 0.992,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 29,
+      "words": 348,
+      "fill": 0.929,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 30,
+      "words": 363,
+      "fill": 0.951,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 31,
+      "words": 296,
+      "fill": 0.877,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 32,
+      "words": 289,
+      "fill": 0.85,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 33,
+      "words": 353,
+      "fill": 0.908,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 34,
+      "words": 435,
+      "fill": 0.898,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 35,
+      "words": 300,
+      "fill": 0.89,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 36,
+      "words": 407,
+      "fill": 0.994,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 37,
+      "words": 382,
+      "fill": 0.968,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 38,
+      "words": 274,
+      "fill": 0.821,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 39,
+      "words": 326,
+      "fill": 0.949,
+      "risk": "normal",
+      "archetype": "figure"
+    },
+    {
+      "page": 40,
+      "words": 285,
+      "fill": 0.633,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 41,
+      "words": 519,
+      "fill": 0.954,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 42,
+      "words": 435,
+      "fill": 0.839,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 43,
+      "words": 468,
+      "fill": 0.931,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 44,
+      "words": 389,
+      "fill": 0.915,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 45,
+      "words": 408,
+      "fill": 0.879,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 46,
+      "words": 551,
+      "fill": 0.975,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 47,
+      "words": 468,
+      "fill": 0.964,
+      "risk": "normal",
+      "archetype": "opener"
+    },
+    {
+      "page": 48,
+      "words": 350,
+      "fill": 0.552,
+      "risk": "normal",
+      "archetype": "body"
+    },
+    {
+      "page": 49,
+      "words": 0,
+      "fill": 0.0,
+      "risk": "sparse-review",
+      "archetype": "opener"
+    }
+  ],
+  "pdf_sha256": "3785600710737e2f24fa159da496955c8af9cb6de95e2e67ad1fc22c4ca17a68",
+  "visual_quality": "NOT ESTABLISHED by geometry",
+  "contract_elements": 0
+}

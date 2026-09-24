@@ -1,0 +1,555 @@
+{
+ "schema_version": 1,
+ "kind": "contents-entries-declared",
+ "separator": " · ",
+ "mapping_status": "APPROVED",
+ "chapters": 40,
+ "entries": [
+  {
+   "n": 1,
+   "chapter_id": "chapter-01",
+   "number_text": "01",
+   "title": "GI Symptoms and Investigations",
+   "subjects": [
+    "Internal Medicine",
+    "Radiology / Investigation"
+   ],
+   "subject_text": "Internal Medicine · Radiology / Investigation",
+   "destination_id": "ch01",
+   "expected_folio": "3",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 1"
+  },
+  {
+   "n": 2,
+   "chapter_id": "chapter-02",
+   "number_text": "02",
+   "title": "The Esophagus",
+   "subjects": [
+    "Internal Medicine",
+    "Surgery"
+   ],
+   "subject_text": "Internal Medicine · Surgery",
+   "destination_id": "ch02",
+   "expected_folio": "5",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 10"
+  },
+  {
+   "n": 3,
+   "chapter_id": "chapter-03",
+   "number_text": "03",
+   "title": "The Stomach and Duodenum",
+   "subjects": [
+    "Internal Medicine",
+    "Pharmacology",
+    "Surgery"
+   ],
+   "subject_text": "Internal Medicine · Pharmacology · Surgery",
+   "destination_id": "ch03",
+   "expected_folio": "6",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 33"
+  },
+  {
+   "n": 4,
+   "chapter_id": "chapter-04",
+   "number_text": "04",
+   "title": "Pathology of GIT Tumours",
+   "subjects": [
+    "Pathology",
+    "Surgery"
+   ],
+   "subject_text": "Pathology · Surgery",
+   "destination_id": "ch04",
+   "expected_folio": "10",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 70"
+  },
+  {
+   "n": 5,
+   "chapter_id": "chapter-05",
+   "number_text": "05",
+   "title": "Diarrhea and Malabsorption",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "subject_text": "Internal Medicine",
+   "destination_id": "ch05",
+   "expected_folio": "12",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 76"
+  },
+  {
+   "n": 6,
+   "chapter_id": "chapter-06",
+   "number_text": "06",
+   "title": "Constipation",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "subject_text": "Internal Medicine",
+   "destination_id": "ch06",
+   "expected_folio": "17",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 95"
+  },
+  {
+   "n": 7,
+   "chapter_id": "chapter-07",
+   "number_text": "07",
+   "title": "Foodborn Infection",
+   "subjects": [
+    "Microbiology",
+    "Internal Medicine"
+   ],
+   "subject_text": "Microbiology · Internal Medicine",
+   "destination_id": "ch07",
+   "expected_folio": "18",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 106"
+  },
+  {
+   "n": 8,
+   "chapter_id": "chapter-08",
+   "number_text": "08",
+   "title": "Inflammatory Bowel Disease",
+   "subjects": [
+    "Internal Medicine",
+    "Pharmacology"
+   ],
+   "subject_text": "Internal Medicine · Pharmacology",
+   "destination_id": "ch08",
+   "expected_folio": "19",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 115"
+  },
+  {
+   "n": 9,
+   "chapter_id": "chapter-09",
+   "number_text": "09",
+   "title": "Parasitic GI Diseases",
+   "subjects": [
+    "Parasitology"
+   ],
+   "subject_text": "Parasitology",
+   "destination_id": "ch09",
+   "expected_folio": "21",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 122"
+  },
+  {
+   "n": 10,
+   "chapter_id": "chapter-10",
+   "number_text": "10",
+   "title": "Small Intestine and Colon Surgery",
+   "subjects": [
+    "Surgery"
+   ],
+   "subject_text": "Surgery",
+   "destination_id": "ch10",
+   "expected_folio": "21",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 140"
+  },
+  {
+   "n": 11,
+   "chapter_id": "chapter-11",
+   "number_text": "11",
+   "title": "Diverticulosis of the Colon",
+   "subjects": [
+    "Surgery",
+    "Internal Medicine"
+   ],
+   "subject_text": "Surgery · Internal Medicine",
+   "destination_id": "ch11",
+   "expected_folio": "21",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 145"
+  },
+  {
+   "n": 12,
+   "chapter_id": "chapter-12",
+   "number_text": "12",
+   "title": "Appendix",
+   "subjects": [
+    "Surgery"
+   ],
+   "subject_text": "Surgery",
+   "destination_id": "ch12",
+   "expected_folio": "21",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 151"
+  },
+  {
+   "n": 13,
+   "chapter_id": "chapter-13",
+   "number_text": "13",
+   "title": "Intestinal Obstruction",
+   "subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "subject_text": "Surgery · Emergency / Acute Care",
+   "destination_id": "ch13",
+   "expected_folio": "21",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 162"
+  },
+  {
+   "n": 14,
+   "chapter_id": "chapter-14",
+   "number_text": "14",
+   "title": "Polyposis of Colon",
+   "subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "subject_text": "Surgery · Pathology",
+   "destination_id": "ch14",
+   "expected_folio": "21",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 189"
+  },
+  {
+   "n": 15,
+   "chapter_id": "chapter-15",
+   "number_text": "15",
+   "title": "Colorectal Cancer",
+   "subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "subject_text": "Surgery · Pathology",
+   "destination_id": "ch15",
+   "expected_folio": "22",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 195"
+  },
+  {
+   "n": 16,
+   "chapter_id": "chapter-16",
+   "number_text": "16",
+   "title": "Anorectal Diseases",
+   "subjects": [
+    "Surgery"
+   ],
+   "subject_text": "Surgery",
+   "destination_id": "ch16",
+   "expected_folio": "23",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 210"
+  },
+  {
+   "n": 17,
+   "chapter_id": "chapter-17",
+   "number_text": "17",
+   "title": "Hepatology and Hepatic Surgery",
+   "subjects": [
+    "Surgery"
+   ],
+   "subject_text": "Surgery",
+   "destination_id": "ch17",
+   "expected_folio": "23",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 231"
+  },
+  {
+   "n": 18,
+   "chapter_id": "chapter-18",
+   "number_text": "18",
+   "title": "Liver Disease Assessment",
+   "subjects": [
+    "Radiology / Investigation",
+    "Internal Medicine"
+   ],
+   "subject_text": "Radiology / Investigation · Internal Medicine",
+   "destination_id": "ch18",
+   "expected_folio": "23",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 236"
+  },
+  {
+   "n": 19,
+   "chapter_id": "chapter-19",
+   "number_text": "19",
+   "title": "Acute Hepatitis",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "subject_text": "Internal Medicine",
+   "destination_id": "ch19",
+   "expected_folio": "27",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 251"
+  },
+  {
+   "n": 20,
+   "chapter_id": "chapter-20",
+   "number_text": "20",
+   "title": "Chronic Hepatitis B",
+   "subjects": [
+    "Internal Medicine",
+    "Pharmacology"
+   ],
+   "subject_text": "Internal Medicine · Pharmacology",
+   "destination_id": "ch20",
+   "expected_folio": "28",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 264"
+  },
+  {
+   "n": 21,
+   "chapter_id": "chapter-21",
+   "number_text": "21",
+   "title": "Autoimmune Hepatitis",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "subject_text": "Internal Medicine",
+   "destination_id": "ch21",
+   "expected_folio": "30",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 274"
+  },
+  {
+   "n": 22,
+   "chapter_id": "chapter-22",
+   "number_text": "22",
+   "title": "Liver Cirrhosis",
+   "subjects": [
+    "Internal Medicine",
+    "Pathology"
+   ],
+   "subject_text": "Internal Medicine · Pathology",
+   "destination_id": "ch22",
+   "expected_folio": "30",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 280"
+  },
+  {
+   "n": 23,
+   "chapter_id": "chapter-23",
+   "number_text": "23",
+   "title": "Portal Hypertension",
+   "subjects": [
+    "Internal Medicine",
+    "Surgery"
+   ],
+   "subject_text": "Internal Medicine · Surgery",
+   "destination_id": "ch23",
+   "expected_folio": "32",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 308"
+  },
+  {
+   "n": 24,
+   "chapter_id": "chapter-24",
+   "number_text": "24",
+   "title": "Hydatid Cyst",
+   "subjects": [
+    "Parasitology",
+    "Surgery"
+   ],
+   "subject_text": "Parasitology · Surgery",
+   "destination_id": "ch24",
+   "expected_folio": "33",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 318"
+  },
+  {
+   "n": 25,
+   "chapter_id": "chapter-25",
+   "number_text": "25",
+   "title": "Pyogenic Liver Abscess",
+   "subjects": [
+    "Surgery",
+    "Internal Medicine",
+    "Parasitology"
+   ],
+   "subject_text": "Surgery · Internal Medicine · Parasitology",
+   "destination_id": "ch25",
+   "expected_folio": "33",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 324"
+  },
+  {
+   "n": 26,
+   "chapter_id": "chapter-26",
+   "number_text": "26",
+   "title": "Hepatocellular Carcinoma",
+   "subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "subject_text": "Surgery · Pathology",
+   "destination_id": "ch26",
+   "expected_folio": "33",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 332"
+  },
+  {
+   "n": 27,
+   "chapter_id": "chapter-27",
+   "number_text": "27",
+   "title": "Ascites",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "subject_text": "Internal Medicine",
+   "destination_id": "ch27",
+   "expected_folio": "34",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 337"
+  },
+  {
+   "n": 28,
+   "chapter_id": "chapter-28",
+   "number_text": "28",
+   "title": "Renal Impairment in Cirrhosis",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "subject_text": "Internal Medicine",
+   "destination_id": "ch28",
+   "expected_folio": "36",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 345"
+  },
+  {
+   "n": 29,
+   "chapter_id": "chapter-29",
+   "number_text": "29",
+   "title": "Jaundice",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "subject_text": "Internal Medicine",
+   "destination_id": "ch29",
+   "expected_folio": "37",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 349"
+  },
+  {
+   "n": 30,
+   "chapter_id": "chapter-30",
+   "number_text": "30",
+   "title": "Hepatic Encephalopathy",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "subject_text": "Internal Medicine",
+   "destination_id": "ch30",
+   "expected_folio": "38",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 355"
+  },
+  {
+   "n": 31,
+   "chapter_id": "chapter-31",
+   "number_text": "31",
+   "title": "Acute Hepatic Failure",
+   "subjects": [
+    "Internal Medicine",
+    "Emergency / Acute Care"
+   ],
+   "subject_text": "Internal Medicine · Emergency / Acute Care",
+   "destination_id": "ch31",
+   "expected_folio": "38",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 361"
+  },
+  {
+   "n": 32,
+   "chapter_id": "chapter-32",
+   "number_text": "32",
+   "title": "Biliary System Anatomy",
+   "subjects": [
+    "Surgery"
+   ],
+   "subject_text": "Surgery",
+   "destination_id": "ch32",
+   "expected_folio": "39",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 367"
+  },
+  {
+   "n": 33,
+   "chapter_id": "chapter-33",
+   "number_text": "33",
+   "title": "Gallbladder Diseases",
+   "subjects": [
+    "Surgery"
+   ],
+   "subject_text": "Surgery",
+   "destination_id": "ch33",
+   "expected_folio": "39",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 373"
+  },
+  {
+   "n": 34,
+   "chapter_id": "chapter-34",
+   "number_text": "34",
+   "title": "Gallstones and Cholecystitis",
+   "subjects": [
+    "Surgery"
+   ],
+   "subject_text": "Surgery",
+   "destination_id": "ch34",
+   "expected_folio": "39",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 376"
+  },
+  {
+   "n": 35,
+   "chapter_id": "chapter-35",
+   "number_text": "35",
+   "title": "Obstructive Jaundice",
+   "subjects": [
+    "Surgery",
+    "Radiology / Investigation"
+   ],
+   "subject_text": "Surgery · Radiology / Investigation",
+   "destination_id": "ch35",
+   "expected_folio": "39",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 389"
+  },
+  {
+   "n": 36,
+   "chapter_id": "chapter-36",
+   "number_text": "36",
+   "title": "Acute Pancreatitis",
+   "subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "subject_text": "Surgery · Emergency / Acute Care",
+   "destination_id": "ch36",
+   "expected_folio": "39",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 399"
+  },
+  {
+   "n": 37,
+   "chapter_id": "chapter-37",
+   "number_text": "37",
+   "title": "Cancer Pancreas",
+   "subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "subject_text": "Surgery · Pathology",
+   "destination_id": "ch37",
+   "expected_folio": "39",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 407"
+  },
+  {
+   "n": 38,
+   "chapter_id": "chapter-38",
+   "number_text": "38",
+   "title": "Acute Abdomen",
+   "subjects": [
+    "Emergency / Acute Care",
+    "Surgery"
+   ],
+   "subject_text": "Emergency / Acute Care · Surgery",
+   "destination_id": "ch38",
+   "expected_folio": "39",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 413"
+  },
+  {
+   "n": 39,
+   "chapter_id": "chapter-39",
+   "number_text": "39",
+   "title": "Abdominal Trauma",
+   "subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "subject_text": "Surgery · Emergency / Acute Care",
+   "destination_id": "ch39",
+   "expected_folio": "39",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 418"
+  },
+  {
+   "n": 40,
+   "chapter_id": "chapter-40",
+   "number_text": "40",
+   "title": "Splenic Trauma",
+   "subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "subject_text": "Surgery · Emergency / Acute Care",
+   "destination_id": "ch40",
+   "expected_folio": "39",
+   "evidence": "Book Interactive Contents, first file PDF pp. 2-3; opener at printed p. 425"
+  }
+ ]
+}

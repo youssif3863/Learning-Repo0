@@ -1,0 +1,555 @@
+{
+ "_note": [
+  "The 40 chapters of the main book, YMnotes Digestive System, Version 3, from its own Interactive Contents (first file, PDF pp. 2-3), with every opener checked in the body.",
+  "Printed page = PDF page - 3 in 4_5875397832227168769.PDF (pp. 1-197); printed page = PDF page + 196 in 4_5875397832227168769(1).PDF (pp. 197-433). Printed p. 197 is in both files.",
+  "file: first / second / both. module: before = Part 1 (Ch 1-15), after = Part 2 (Ch 16-40). The book itself does not mark a mid-module boundary; the split follows the scope of the Before- and After-Mid-Module handouts and the two book files. Chapter 15 spans both files and is kept whole in Part 1."
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "title": "GI Symptoms and Investigations",
+   "title_on_opener": "Introduction",
+   "subjects": [
+    "Internal Medicine",
+    "Radiology / Investigation"
+   ],
+   "start": 1,
+   "end": 9,
+   "file": "first",
+   "opener_pdf_page": 4,
+   "module": "before"
+  },
+  {
+   "n": 2,
+   "title": "The Esophagus",
+   "title_on_opener": "THE ESOPHAGUS",
+   "subjects": [
+    "Internal Medicine",
+    "Surgery"
+   ],
+   "start": 10,
+   "end": 32,
+   "file": "first",
+   "opener_pdf_page": 13,
+   "module": "before"
+  },
+  {
+   "n": 3,
+   "title": "The Stomach and Duodenum",
+   "title_on_opener": "THE STOMACH AND DUODENUM",
+   "subjects": [
+    "Internal Medicine",
+    "Pharmacology",
+    "Surgery"
+   ],
+   "start": 33,
+   "end": 69,
+   "file": "first",
+   "opener_pdf_page": 36,
+   "module": "before"
+  },
+  {
+   "n": 4,
+   "title": "Pathology of GIT Tumours",
+   "title_on_opener": "Pathology of GIT tumours",
+   "subjects": [
+    "Pathology",
+    "Surgery"
+   ],
+   "start": 70,
+   "end": 75,
+   "file": "first",
+   "opener_pdf_page": 73,
+   "module": "before"
+  },
+  {
+   "n": 5,
+   "title": "Diarrhea and Malabsorption",
+   "title_on_opener": "DIARRHEA AND MALABSORPTION",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "start": 76,
+   "end": 94,
+   "file": "first",
+   "opener_pdf_page": 79,
+   "module": "before"
+  },
+  {
+   "n": 6,
+   "title": "Constipation",
+   "title_on_opener": "Constipation",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "start": 95,
+   "end": 105,
+   "file": "first",
+   "opener_pdf_page": 98,
+   "module": "before"
+  },
+  {
+   "n": 7,
+   "title": "Foodborn Infection",
+   "title_on_opener": "Foodborn Infection",
+   "subjects": [
+    "Microbiology",
+    "Internal Medicine"
+   ],
+   "start": 106,
+   "end": 114,
+   "file": "first",
+   "opener_pdf_page": 109,
+   "module": "before"
+  },
+  {
+   "n": 8,
+   "title": "Inflammatory Bowel Disease",
+   "title_on_opener": "INFLAMMATORY BOWEL DISEASE (IBD)",
+   "subjects": [
+    "Internal Medicine",
+    "Pharmacology"
+   ],
+   "start": 115,
+   "end": 121,
+   "file": "first",
+   "opener_pdf_page": 118,
+   "module": "before"
+  },
+  {
+   "n": 9,
+   "title": "Parasitic GI Diseases",
+   "title_on_opener": "Parasitic GI diseases",
+   "subjects": [
+    "Parasitology"
+   ],
+   "start": 122,
+   "end": 139,
+   "file": "first",
+   "opener_pdf_page": 125,
+   "module": "before"
+  },
+  {
+   "n": 10,
+   "title": "Small Intestine and Colon Surgery",
+   "title_on_opener": "Surgery of the Small Intestine and Colon",
+   "subjects": [
+    "Surgery"
+   ],
+   "start": 140,
+   "end": 144,
+   "file": "first",
+   "opener_pdf_page": 143,
+   "module": "before"
+  },
+  {
+   "n": 11,
+   "title": "Diverticulosis of the Colon",
+   "title_on_opener": "Diverticulosis of the colon",
+   "subjects": [
+    "Surgery",
+    "Internal Medicine"
+   ],
+   "start": 145,
+   "end": 150,
+   "file": "first",
+   "opener_pdf_page": 148,
+   "module": "before"
+  },
+  {
+   "n": 12,
+   "title": "Appendix",
+   "title_on_opener": "Appendix",
+   "subjects": [
+    "Surgery"
+   ],
+   "start": 151,
+   "end": 161,
+   "file": "first",
+   "opener_pdf_page": 154,
+   "module": "before"
+  },
+  {
+   "n": 13,
+   "title": "Intestinal Obstruction",
+   "title_on_opener": "Intestinal obstruction",
+   "subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "start": 162,
+   "end": 188,
+   "file": "first",
+   "opener_pdf_page": 165,
+   "module": "before"
+  },
+  {
+   "n": 14,
+   "title": "Polyposis of Colon",
+   "title_on_opener": "Polyposis of Colon",
+   "subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "start": 189,
+   "end": 194,
+   "file": "first",
+   "opener_pdf_page": 192,
+   "module": "before"
+  },
+  {
+   "n": 15,
+   "title": "Colorectal Cancer",
+   "title_on_opener": "Colorectal Cancer",
+   "subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "start": 195,
+   "end": 209,
+   "file": "both",
+   "opener_pdf_page": 198,
+   "module": "before"
+  },
+  {
+   "n": 16,
+   "title": "Anorectal Diseases",
+   "title_on_opener": "Anorectal diseases",
+   "subjects": [
+    "Surgery"
+   ],
+   "start": 210,
+   "end": 230,
+   "file": "second",
+   "opener_pdf_page": 14,
+   "module": "after"
+  },
+  {
+   "n": 17,
+   "title": "Hepatology and Hepatic Surgery",
+   "title_on_opener": "Hepatology and Hepatic Surgery",
+   "subjects": [
+    "Surgery"
+   ],
+   "start": 231,
+   "end": 235,
+   "file": "second",
+   "opener_pdf_page": 35,
+   "module": "after"
+  },
+  {
+   "n": 18,
+   "title": "Liver Disease Assessment",
+   "title_on_opener": "SYMPTOMATOLOGY AND INVESTIGATIONS OF LIVER DISEASES",
+   "subjects": [
+    "Radiology / Investigation",
+    "Internal Medicine"
+   ],
+   "start": 236,
+   "end": 250,
+   "file": "second",
+   "opener_pdf_page": 40,
+   "module": "after"
+  },
+  {
+   "n": 19,
+   "title": "Acute Hepatitis",
+   "title_on_opener": "ACUTE HEPATITIS",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "start": 251,
+   "end": 263,
+   "file": "second",
+   "opener_pdf_page": 55,
+   "module": "after"
+  },
+  {
+   "n": 20,
+   "title": "Chronic Hepatitis B",
+   "title_on_opener": "CHRONIC HEPATITIS B",
+   "subjects": [
+    "Internal Medicine",
+    "Pharmacology"
+   ],
+   "start": 264,
+   "end": 273,
+   "file": "second",
+   "opener_pdf_page": 68,
+   "module": "after"
+  },
+  {
+   "n": 21,
+   "title": "Autoimmune Hepatitis",
+   "title_on_opener": "Autoimmune hepatitis",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "start": 274,
+   "end": 279,
+   "file": "second",
+   "opener_pdf_page": 78,
+   "module": "after"
+  },
+  {
+   "n": 22,
+   "title": "Liver Cirrhosis",
+   "title_on_opener": "LIVER CIRRHOSIS",
+   "subjects": [
+    "Internal Medicine",
+    "Pathology"
+   ],
+   "start": 280,
+   "end": 307,
+   "file": "second",
+   "opener_pdf_page": 84,
+   "module": "after"
+  },
+  {
+   "n": 23,
+   "title": "Portal Hypertension",
+   "title_on_opener": "PORTAL HYPERTENSION",
+   "subjects": [
+    "Internal Medicine",
+    "Surgery"
+   ],
+   "start": 308,
+   "end": 317,
+   "file": "second",
+   "opener_pdf_page": 112,
+   "module": "after"
+  },
+  {
+   "n": 24,
+   "title": "Hydatid Cyst",
+   "title_on_opener": "Hydatid cyst",
+   "subjects": [
+    "Parasitology",
+    "Surgery"
+   ],
+   "start": 318,
+   "end": 323,
+   "file": "second",
+   "opener_pdf_page": 122,
+   "module": "after"
+  },
+  {
+   "n": 25,
+   "title": "Pyogenic Liver Abscess",
+   "title_on_opener": "Pyogenic liver abscess",
+   "subjects": [
+    "Surgery",
+    "Internal Medicine",
+    "Parasitology"
+   ],
+   "start": 324,
+   "end": 331,
+   "file": "second",
+   "opener_pdf_page": 128,
+   "module": "after"
+  },
+  {
+   "n": 26,
+   "title": "Hepatocellular Carcinoma",
+   "title_on_opener": "Hepato-cellular carcinoma (HCC)",
+   "subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "start": 332,
+   "end": 336,
+   "file": "second",
+   "opener_pdf_page": 136,
+   "module": "after"
+  },
+  {
+   "n": 27,
+   "title": "Ascites",
+   "title_on_opener": "ASCITES",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "start": 337,
+   "end": 344,
+   "file": "second",
+   "opener_pdf_page": 141,
+   "module": "after"
+  },
+  {
+   "n": 28,
+   "title": "Renal Impairment in Cirrhosis",
+   "title_on_opener": "Renal impairment in liver cirrhosis",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "start": 345,
+   "end": 348,
+   "file": "second",
+   "opener_pdf_page": 149,
+   "module": "after"
+  },
+  {
+   "n": 29,
+   "title": "Jaundice",
+   "title_on_opener": "JAUNDICE",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "start": 349,
+   "end": 354,
+   "file": "second",
+   "opener_pdf_page": 153,
+   "module": "after"
+  },
+  {
+   "n": 30,
+   "title": "Hepatic Encephalopathy",
+   "title_on_opener": "HEPATIC ENCEPHALOPATHY",
+   "subjects": [
+    "Internal Medicine"
+   ],
+   "start": 355,
+   "end": 360,
+   "file": "second",
+   "opener_pdf_page": 159,
+   "module": "after"
+  },
+  {
+   "n": 31,
+   "title": "Acute Hepatic Failure",
+   "title_on_opener": "Acute Hepatic Failure",
+   "subjects": [
+    "Internal Medicine",
+    "Emergency / Acute Care"
+   ],
+   "start": 361,
+   "end": 366,
+   "file": "second",
+   "opener_pdf_page": 165,
+   "module": "after"
+  },
+  {
+   "n": 32,
+   "title": "Biliary System Anatomy",
+   "title_on_opener": "Anatomy of the biliary system",
+   "subjects": [
+    "Surgery"
+   ],
+   "start": 367,
+   "end": 372,
+   "file": "second",
+   "opener_pdf_page": 171,
+   "module": "after"
+  },
+  {
+   "n": 33,
+   "title": "Gallbladder Diseases",
+   "title_on_opener": "Diseases of the gall bladder",
+   "subjects": [
+    "Surgery"
+   ],
+   "start": 373,
+   "end": 375,
+   "file": "second",
+   "opener_pdf_page": 177,
+   "module": "after"
+  },
+  {
+   "n": 34,
+   "title": "Gallstones and Cholecystitis",
+   "title_on_opener": "Gall stones and chronic cholecystitis",
+   "subjects": [
+    "Surgery"
+   ],
+   "start": 376,
+   "end": 388,
+   "file": "second",
+   "opener_pdf_page": 180,
+   "module": "after"
+  },
+  {
+   "n": 35,
+   "title": "Obstructive Jaundice",
+   "title_on_opener": "Obstructive Jaundice",
+   "subjects": [
+    "Surgery",
+    "Radiology / Investigation"
+   ],
+   "start": 389,
+   "end": 398,
+   "file": "second",
+   "opener_pdf_page": 193,
+   "module": "after"
+  },
+  {
+   "n": 36,
+   "title": "Acute Pancreatitis",
+   "title_on_opener": "Acute pancreatitis",
+   "subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "start": 399,
+   "end": 406,
+   "file": "second",
+   "opener_pdf_page": 203,
+   "module": "after"
+  },
+  {
+   "n": 37,
+   "title": "Cancer Pancreas",
+   "title_on_opener": "Cancer pancreas",
+   "subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "start": 407,
+   "end": 412,
+   "file": "second",
+   "opener_pdf_page": 211,
+   "module": "after"
+  },
+  {
+   "n": 38,
+   "title": "Acute Abdomen",
+   "title_on_opener": "Acute Abdomen",
+   "subjects": [
+    "Emergency / Acute Care",
+    "Surgery"
+   ],
+   "start": 413,
+   "end": 417,
+   "file": "second",
+   "opener_pdf_page": 217,
+   "module": "after"
+  },
+  {
+   "n": 39,
+   "title": "Abdominal Trauma",
+   "title_on_opener": "Abdominal trauma",
+   "subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "start": 418,
+   "end": 424,
+   "file": "second",
+   "opener_pdf_page": 222,
+   "module": "after"
+  },
+  {
+   "n": 40,
+   "title": "Splenic Trauma",
+   "title_on_opener": "Splenic trauma",
+   "subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "start": 425,
+   "end": 433,
+   "file": "second",
+   "opener_pdf_page": 229,
+   "module": "after"
+  }
+ ]
+}

@@ -1,0 +1,3352 @@
+{
+ "chapters": [
+  {
+   "n": 1,
+   "note": "",
+   "topics": [
+    {
+     "title": "Symptoms and signs",
+     "book": "Book pp. 2–5",
+     "entries": [
+      {
+       "id": "E01.01",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Why alarm features matter",
+       "book": "p. 2",
+       "src": "GIT Internal Med p. 1",
+       "from": [
+        "IM:C1-02"
+       ],
+       "body": "Many GI consultations are for functional (non-organic) symptoms, yet about **20% of all cancers** arise in the GI tract. The clinician's main task is therefore to separate organic disease from functional symptoms, and alarm features are the tool for doing so."
+      },
+      {
+       "id": "E01.02",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Vomiting: how it is triggered",
+       "book": "p. 3",
+       "src": "GIT Internal Med p. 2",
+       "from": [
+        "IM:C1-05",
+        "IM:C1-06",
+        "IM:C1-08"
+       ],
+       "body": "- **Vomiting centres** lie in the reticular formation of the medulla. They are stimulated by the **chemoreceptor trigger zone (CTZ)** and by the **vagus**; drugs, motion sickness and metabolic causes can stimulate these zones directly.\n- Vomiting is usually preceded by two phases:\n  - **Nausea**, with autonomic features (salivation, pallor, sweating).\n  - **Retching**, a strong, involuntary, unproductive effort to vomit with contraction of the abdominal muscles.\n- Add **vestibular disease** to the CNS causes of vomiting (alongside raised intracranial pressure and migraine)."
+      },
+      {
+       "id": "E01.03",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Flatulence",
+       "book": "p. 3",
+       "src": "GIT Internal Med p. 2",
+       "from": [
+        "IM:C1-09"
+       ],
+       "body": "Flatulence means excessive wind: belching, abdominal distension, gurgling, or passing flatus per rectum. Increased gas production comes from colonic bacterial breakdown of non-absorbed carbohydrate, a high-fibre diet, and carbonated drinks."
+      },
+      {
+       "id": "E01.04",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Abdominal pain: extra diagnostic clues",
+       "book": "p. 4",
+       "src": "GIT Internal Med p. 4",
+       "from": [
+        "IM:C1-12",
+        "IM:C1-13",
+        "IM:C1-14",
+        "IM:C1-15"
+       ],
+       "body": "- **Porphyria** is another metabolic cause of an apparent \"acute abdomen\", alongside diabetic ketoacidosis.\n- **Epigastric pain:** functional dyspepsia is the commonest diagnosis, but its symptoms can be **identical** to those of peptic ulcer disease.\n- **Biliary pain** can be felt in the epigastrium as well as the right hypochondrium. It remits spontaneously and recurs weeks or months later.\n- **Peptic ulcer** sometimes presents with right hypochondrial pain.\n- Chronic, constant hypochondrial pain (right or left) in a **well-looking patient** is frequently functional. Right iliac fossa pain may also be functional."
+      },
+      {
+       "id": "E01.05",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Blood per rectum: where is it from?",
+       "book": "p. 4",
+       "src": "GIT Internal Med pp. 5, 37",
+       "from": [
+        "IM:C1-19",
+        "IM:C1-20"
+       ],
+       "body": "- Dark blood and clots per rectum **without shock** always come from a lower GI source. An upper GI bleed produces blood per rectum only when it is massive, and then it is usually accompanied by shock.\n- Haematochezia usually comes from a lesion distal to the **ligament of Treitz** (duodenojejunal junction). It can also occur with a massive upper GI bleed because of rapid transit."
+      }
+     ]
+    },
+    {
+     "title": "Investigations",
+     "book": "Book pp. 5–9",
+     "entries": [
+      {
+       "id": "E01.06",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Endoscopy: practical details",
+       "book": "pp. 6–7",
+       "src": "GIT Internal Med pp. 6–7",
+       "from": [
+        "IM:C1-23",
+        "IM:C1-24",
+        "IM:C1-25",
+        "IM:C1-26"
+       ],
+       "body": "- **Sigmoidoscopy** is also used for diarrhoea and change in bowel habit. The **rigid** scope inspects at most 20–25 cm of distal colon; the **flexible** scope can reach the splenic flexure.\n- **Colonoscopy:** benign strictures are **dilated**; malignant strictures are **stented**.\n- **Balloon enteroscopy** (single or double balloon) can examine the small bowel from the duodenum to the ileum, using specialised enteroscopes in expert centres.\n- **Capsule endoscopy:** avoid it if a stricture is suspected."
+      },
+      {
+       "id": "E01.07",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Imaging: extra interpretation points",
+       "book": "pp. 7–9",
+       "src": "GIT Internal Med pp. 7–8",
+       "from": [
+        "IM:C1-29",
+        "IM:C1-30",
+        "IM:C1-31",
+        "IM:C1-34"
+       ],
+       "body": "- **Plain films:** chest as well as abdominal films are used in the acute abdomen; interpretation depends on gas shadows inside and outside the bowel. Plain films can also assess **faecal loading** in constipation. CT is more sensitive than plain films for gallstone and chronic pancreatitis calcification.\n- **Ultrasound** in the acute abdomen can also show enlarged mesenteric glands.\n- **CT:** oral intraluminal contrast (e.g. Gastrografin) with IV contrast improves diagnosis. CT is sensitive to **small volumes of gas** from a perforated viscus and to **contrast leak** from the gut lumen. In **high-grade** obstruction it is usually diagnostic of both the presence and the cause. It can guide biopsy of tumours or lymph nodes.\n- **PET** is also used to detect **recurrent** disease."
+      },
+      {
+       "id": "E01.08",
+       "subjects": [
+        "IM"
+       ],
+       "title": "CT colonography: how it is done",
+       "book": "p. 9",
+       "src": "GIT Internal Med p. 8",
+       "from": [
+        "IM:C1-32"
+       ],
+       "body": "CT colonography (\"virtual colonoscopy\") is performed after CO₂ insufflation into a previously cleansed colon. It is an alternative to colonoscopy for diagnosing colonic mass lesions."
+      },
+      {
+       "id": "E01.09",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Contrast studies",
+       "book": "p. 9",
+       "src": "GIT Internal Med p. 9",
+       "from": [
+        "IM:C1-35",
+        "IM:C1-36",
+        "IM:C1-37"
+       ],
+       "body": "- Gastroscopy replaced the barium meal because it is **more sensitive** and allows **biopsy**.\n- **Small bowel follow-through** shows the fold pattern and calibre of the small bowel; dedicated views of the terminal ileum show **early changes of Crohn's disease or TB**.\n- **Small bowel enema (enteroclysis):** a tube is passed into the duodenum and a large volume of dilute barium is introduced, to show strictures or adhesions when intermittent obstruction is suspected. It has generally been replaced by **MR enteroclysis**."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "note": "",
+   "topics": [
+    {
+     "title": "Hiatus hernia: surgery",
+     "book": "Book p. 20",
+     "entries": [
+      {
+       "id": "E02.01",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Two further indications for surgery",
+       "book": "p. 20",
+       "src": "GIT Internal Med p. 17",
+       "from": [
+        "IM:C2-14"
+       ],
+       "body": "Besides failure of medical treatment, two further indications for anti-reflux / hiatus hernia repair:\n- a **large** hiatus hernia;\n- **complications**: ulceration, severe inflammation, bleeding, stricture or Barrett's oesophagus."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "note": "",
+   "topics": [
+    {
+     "title": "Anatomy, physiology and gastritis",
+     "book": "Book pp. 34–38, 42",
+     "entries": [
+      {
+       "id": "E03.01",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Gastric mucus and the functions of acid",
+       "book": "p. 35",
+       "src": "GIT Internal Med pp. 21–22",
+       "from": [
+        "IM:C3-02",
+        "IM:C3-03"
+       ],
+       "body": "- Mucus-secreting cells are present **throughout the stomach** and secrete both mucus and bicarbonate. The mucus is made of glycoproteins called **mucins**.\n- Gastric acid is **not essential for digestion**, but it protects against some food-borne infections.\n- Other gastric functions: a **reservoir** for food, **emulsification of fat** and mixing of gastric contents."
+      },
+      {
+       "id": "E03.02",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Classifying gastritis and its causes",
+       "book": "pp. 35–36",
+       "src": "GIT Internal Med p. 23",
+       "from": [
+        "IM:C3-05",
+        "IM:C3-06"
+       ],
+       "body": "- Gastritis may be classified by **acuity** (acute vs chronic), by **histology**, or by **etiology**.\n- **Gastropathy** (epithelial injury and regeneration with little inflammation) is usually caused by **bile reflux**, **hypovolaemia**, or **chronic congestion** as in portal hypertension.\n- Named causes of gastritis:\n  - H. pylori gastritis, the **commonest** cause\n  - erosive and haemorrhagic gastritis (NSAIDs)\n  - autoimmune gastritis\n  - viral infection (CMV, herpes simplex)\n  - Crohn's disease"
+      },
+      {
+       "id": "E03.03",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Acute gastritis: extra points",
+       "book": "p. 36",
+       "src": "GIT Internal Med pp. 24–25",
+       "from": [
+        "IM:C3-08",
+        "IM:C3-09"
+       ],
+       "body": "- Stress gastritis also occurs in **acute myocardial infarction** and **stroke**, as well as after surgery, trauma, burns and CNS injury.\n- Most acute gastritis settles within days to weeks, but some cases become recurrent or long-term, i.e. **chronic gastritis**. Over time this raises the risk of gastric ulcer, upper GI bleeding and some gastric neoplasms."
+      },
+      {
+       "id": "E03.04",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Where intestinal metaplasia comes from",
+       "book": "pp. 38, 42",
+       "src": "GIT Internal Med p. 26",
+       "from": [
+        "IM:C3-14"
+       ],
+       "body": "Gastric metaplasia, usually of the **intestinal type**, occurs almost always in the setting of **atrophic gastritis**. The book's Chapter 4 (p. 72) says intestinal-type gastric cancer arises on intestinal metaplasia; this supplies the missing first link. Chapter 4 here completes the sequence to dysplasia and cancer."
+      }
+     ]
+    },
+    {
+     "title": "Helicobacter pylori",
+     "book": "Book pp. 40–41, 48",
+     "entries": [
+      {
+       "id": "E03.05",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Why combination therapy, and who is treated",
+       "book": "pp. 40–41, 48",
+       "src": "GIT Internal Med p. 31",
+       "from": [
+        "IM:C3-18",
+        "IM:C3-19"
+       ],
+       "body": "- **No single drug** is effective against H. pylori on its own, so regimens combine two antibiotics with powerful acid suppression.\n- Resistance to metronidazole and clarithromycin is high in some populations, and oral metronidazole frequently causes side-effects.\n- **All** patients with duodenal or gastric ulcer who have H. pylori should receive eradication therapy. Treating incidental infection with **no ulcer** is controversial."
+      }
+     ]
+    },
+    {
+     "title": "NSAIDs, erosive gastritis and the drugs",
+     "book": "Book pp. 36–37, 44–48",
+     "entries": [
+      {
+       "id": "E03.06",
+       "subjects": [
+        "IM"
+       ],
+       "title": "NSAID damage: how common, and why it can be missed",
+       "book": "pp. 36–37",
+       "src": "GIT Internal Med pp. 32, 35",
+       "from": [
+        "IM:C3-21",
+        "IM:C3-27"
+       ],
+       "body": "- Aspirin inhibits the synthesis of both prostaglandin E2 and **F2-alpha**.\n- With recurrent NSAID use (e.g. osteoarthritis) erosive gastritis can become **chronic**, and in alcoholics and chronic NSAID users it may be **completely asymptomatic**.\n- Only about **5%** of NSAID users have GI symptoms and **1–2%** a major problem such as a GI bleed."
+      },
+      {
+       "id": "E03.07",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Drug options for acute and erosive gastritis",
+       "book": "pp. 36, 48",
+       "src": "GIT Internal Med pp. 25, 32",
+       "from": [
+        "IM:C3-11",
+        "IM:C3-23"
+       ],
+       "body": "- Three drug options for erosive and haemorrhagic gastritis: **H2 blockers** (e.g. famotidine, which may be used along with the PPI), **proton pump inhibitors** and **sucralfate**. In the book, sucralfate appears only in the pharmacology table (mainly stress-ulcer prophylaxis).\n- Remove risk factors: stop NSAIDs, reduce caffeine, stop alcohol and smoking."
+      },
+      {
+       "id": "E03.08",
+       "subjects": [
+        "PHARM"
+       ],
+       "title": "Long-term PPI use and bone",
+       "book": "p. 45",
+       "src": "GIT Others p. 11 (MCQ 24, keyed on p. 12)",
+       "from": [
+        "PHARM:PH-26"
+       ],
+       "body": "**Osteoporosis** is a possible complication of chronic (long-term) PPI use. Add it to the PPI adverse effects, after vitamin B12 deficiency."
+      }
+     ]
+    },
+    {
+     "title": "Acute upper GI bleeding",
+     "book": "Book pp. 50–52",
+     "entries": [
+      {
+       "id": "E03.09",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Drugs and bleeding: two qualifiers",
+       "book": "p. 50",
+       "src": "GIT Internal Med p. 37",
+       "from": [
+        "IM:GB-03"
+       ],
+       "body": "- **Even 75 mg/day of aspirin** can produce ulcers, erosions and GI haemorrhage.\n- GIT Internal Med states that corticosteroids in the usual therapeutic doses have **no influence on GI haemorrhage** on their own. (Book p. 50 still advises avoiding NSAID–corticosteroid combinations.)"
+      },
+      {
+       "id": "E03.10",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Natural history and prognosis",
+       "book": "p. 50",
+       "src": "GIT Internal Med pp. 37–38, 48",
+       "from": [
+        "IM:GB-04",
+        "IM:GB-31"
+       ],
+       "body": "- Any significant GI bleed within the last **48 hours** should be assessed in hospital.\n- About **85%** of patients stop bleeding spontaneously within 48 hours; many need no immediate treatment because the blood loss is small.\n- Mortality from GI haemorrhage has stayed at **5–12%** despite advances in management, mainly because patients are now older and have more co-morbidity."
+      },
+      {
+       "id": "E03.11",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Resuscitation and history: practical triggers",
+       "book": "p. 50",
+       "src": "GIT Internal Med p. 38",
+       "from": [
+        "IM:GB-05",
+        "IM:GB-06"
+       ],
+       "body": "- **Circulation:** unless there are clear signs of a cardiac cause, give IV fluid to any patient with **cool peripheries and a fast heart rate**.\n- **Disability:** common causes of unconsciousness are profound hypoxia, hypercapnia, cerebral hypoperfusion, or recently given sedatives/analgesics.\n- **History:** co-morbidity; acid-peptic symptoms; alcoholic liver disease, chronic hepatitis or cirrhosis; anticoagulants, antiplatelets, NSAIDs, steroids, alcohol binge; coagulation disorders. Ask about **epistaxis or haemoptysis** to exclude a non-GI source of the blood."
+      },
+      {
+       "id": "E03.12",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Transfusion and supportive care",
+       "book": "pp. 50–51",
+       "src": "GIT Internal Med pp. 39–40",
+       "from": [
+        "IM:GB-07",
+        "IM:GB-08",
+        "IM:GB-09",
+        "IM:GB-11"
+       ],
+       "body": "- Monitor pulse and BP **half-hourly**; cross-match **2 units** initially. Give plasma expanders or 0.9% saline until blood is available, then restore volume rapidly, preferably with red cell concentrates through large-bore cannulae.\n- **Shock** is a trigger for transfusion: pallor, cold nose, systolic BP &lt; 100 mmHg, pulse &gt; 100/min. (The source's haemoglobin threshold is kept for review in R05, not taught here.)\n- **Pulse rate and venous pressure** are the best guides to adequate transfusion (the book, p. 51, explains why Hb is not). Insert a **CVP line** if there is organ failure or a high risk of heart failure, and watch for fluid overload, especially in the elderly.\n- Manage patients in **high-dependency beds**.\n- GIT Internal Med uses a **nasogastric tube** for gastric wash and monitoring of ongoing bleeding in non-variceal bleeding. The book is silent here; for variceal bleeding it treats the tube as selective (p. 315, review point R33)."
+      },
+      {
+       "id": "E03.13",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Stigmata of recent haemorrhage",
+       "book": "p. 51",
+       "src": "GIT Internal Med p. 40",
+       "from": [
+        "IM:GB-12"
+       ],
+       "body": "- Endoscopy finds the cause in **80% or more** of cases.\n- Stigmata of recent bleeding are a **spurting vessel, active oozing, fresh or organised clot, or black spots**. Their presence means a **higher risk of rebleeding**, which is why they are an indication for endoscopic haemostasis."
+      },
+      {
+       "id": "E03.14",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Endoscopic haemostasis: how each method works",
+       "book": "p. 51",
+       "src": "GIT Internal Med pp. 40–42",
+       "from": [
+        "IM:GB-13",
+        "IM:GB-14",
+        "IM:GB-15",
+        "IM:GB-16"
+       ],
+       "body": "- **Why combine:** dual or triple therapy reduces rebleeding more than monotherapy.\n- **Adrenaline injection** gives temporary local tamponade and vasoconstriction: 0.5–1.0 mL aliquots of epinephrine 1:10,000 into four quadrants of the ulcer, within 1–2 mm of the bleeding point. Used **alone** it is less effective than other monotherapies. Its main use in active bleeding is **pre-injection**, to slow bleeding and improve the view before definitive therapy. Sclerosants (e.g. ethanolamine) and thrombogenic agents are less efficacious.\n- **Thermal:** contact probes compress the vessel and then coagulate it (coaptive coagulation); the **bipolar probe** is the most widely used. **Argon plasma coagulation** is non-contact: monopolar current delivered through ionised argon gas. Other options are the heater probe and laser.\n- **Clips** are the therapy of choice for **obvious arterial bleeding**. Unlike cautery they cause no further tissue damage, and they reduce rebleeding."
+      },
+      {
+       "id": "E03.15",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Specific causes and after-care",
+       "book": "pp. 50–52",
+       "src": "GIT Internal Med p. 45",
+       "from": [
+        "IM:GB-19",
+        "IM:GB-20",
+        "IM:GB-21"
+       ],
+       "body": "- **Mallory–Weiss tear:** caused by a sudden rise in intra-abdominal pressure. A history of retching **may be absent**. Most bleeds are minor and patients are usually discharged within 24 hours, though the haemorrhage can occasionally be large.\n- **After a bleeding ulcer:** continue the PPI for **4 weeks**; always **confirm H. pylori eradication**; if eradication fails, give long-term acid suppression.\n- **Bleeding gastric cancer:** bleeds are usually not large, but oozing from the tumour is very difficult to control endoscopically. Surgery is occasionally needed for uncontrolled or repeated bleeding and can usually wait until full evaluation. Radiotherapy is occasionally successful."
+      },
+      {
+       "id": "E03.16",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Antithrombotic drugs during a GI bleed",
+       "book": "p. 50",
+       "src": "GIT Internal Med pp. 40, 45",
+       "from": [
+        "IM:GB-11",
+        "IM:GB-22"
+       ],
+       "body": "- Clopidogrel and warfarin are also stopped, but stopping antiplatelets needs urgent discussion with a **cardiologist** (the book, p. 50, gives the thrombosis risk).\n- **After PCI**, heparins and clopidogrel increase GI bleeding: give an **IV PPI bolus followed by an infusion**; **platelet infusion** can counter clopidogrel."
+      }
+     ]
+    },
+    {
+     "title": "Acute lower and chronic GI bleeding",
+     "book": "Book pp. 52–53",
+     "entries": [
+      {
+       "id": "E03.17",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Lower GI bleeding: sorting the source",
+       "book": "pp. 52–53",
+       "src": "GIT Internal Med pp. 46–47",
+       "from": [
+        "IM:GB-25",
+        "IM:GB-26",
+        "IM:GB-27"
+       ],
+       "body": "- **Unstable patient:** GIT Internal Med performs **nasogastric lavage** (see R33 on nasogastric tubes). Blood in the aspirate identifies an upper GI source; a clear aspirate makes a lower GI source more likely. Then proceed to angiography with embolisation, endoscopic intervention or, in extreme cases, surgery. Each of these both locates and treats the bleeding.\n- **Stable patient:** abdominal and pelvic CT with oral contrast is used to look for the cause.\n- **Angiography** has a low yield, so it is a test of last resort."
+      },
+      {
+       "id": "E03.18",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Chronic GI blood loss",
+       "book": "p. 53",
+       "src": "GIT Internal Med p. 48",
+       "from": [
+        "IM:GB-28",
+        "IM:GB-29"
+       ],
+       "body": "- The cancers to exclude are particularly **stomach** and **right colon**.\n- **Occult blood tests are unhelpful** in this work-up.\n- Oesophageal varices usually bleed overtly and **rarely** present as chronic blood loss. **Hookworm** is the most common cause worldwide.\n- Do upper endoscopy and colonoscopy **in the same session**. A colonic polyp found at colonoscopy should **not** be assumed to be the cause.\n- In frail patients, **unprepared CT** is a reasonable test for colon cancer. Capsule endoscopy yields a diagnosis in **60–85%** but cannot treat."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "note": "",
+   "topics": [
+    {
+     "title": "Carcinoma of the oesophagus",
+     "book": "Book p. 71",
+     "entries": [
+      {
+       "id": "E04.01",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "Squamous cell carcinoma under the microscope",
+       "book": "p. 71",
+       "src": "GIT Others p. 14",
+       "from": [
+        "PATH:TU-06"
+       ],
+       "body": "It is made of **islands of neoplastic squamous cells**. Differentiated tumours also show **epithelial cell nests**."
+      },
+      {
+       "id": "E04.02",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "A malignant ulcer can bleed fatally",
+       "book": "p. 71",
+       "src": "GIT Others p. 14",
+       "from": [
+        "PATH:TU-07"
+       ],
+       "body": "As well as dysphagia and haematemesis, **perforation of the malignant ulcer can cause fatal haemorrhage**."
+      }
+     ]
+    },
+    {
+     "title": "Gastric carcinoma",
+     "book": "Book pp. 72–73",
+     "entries": [
+      {
+       "id": "E04.03",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "H. pylori to cancer: the last steps",
+       "book": "p. 72",
+       "src": "GIT Others p. 15",
+       "from": [
+        "PATH:TU-12"
+       ],
+       "body": "- The sequence continues past intestinal metaplasia: H. pylori gastritis → atrophic gastritis → intestinal metaplasia → **dysplasia → cancer**. (The atrophic gastritis → intestinal metaplasia step is in Chapter 3 here.)\n- GIT Others lists intestinal metaplasia as a **precancerous (dysplastic) lesion** of the stomach."
+      },
+      {
+       "id": "E04.04",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "Lauren classification: name and frequency of the two types",
+       "book": "p. 72",
+       "src": "GIT Others p. 16",
+       "from": [
+        "PATH:TU-16"
+       ],
+       "body": "The intestinal and diffuse types make up the **Lauren classification**: intestinal type **53%**, diffuse type **33%**, unclassified **14%**."
+      },
+      {
+       "id": "E04.05",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "The malignant gastric ulcer",
+       "book": "p. 72",
+       "src": "GIT Others p. 16",
+       "from": [
+        "PATH:TU-15"
+       ],
+       "body": "The ulcer is typically **more than 5 cm** across, with an everted edge, a **necrotic floor** and a **firm base**."
+      },
+      {
+       "id": "E04.06",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "Blood spread goes beyond the liver",
+       "book": "p. 73",
+       "src": "GIT Others p. 16",
+       "from": [
+        "PATH:TU-19"
+       ],
+       "body": "Blood-borne metastases go to the liver and also to the **lung, bone and brain**."
+      }
+     ]
+    },
+    {
+     "title": "Adenomas of the colon",
+     "book": "Book p. 73",
+     "entries": [
+      {
+       "id": "E04.07",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "Colonic adenomas run in families",
+       "book": "p. 73",
+       "src": "GIT Others p. 17",
+       "from": [
+        "PATH:TU-23"
+       ],
+       "body": "There is a **well-defined familial predisposition** to colonic adenomas. They predispose to colorectal carcinoma."
+      },
+      {
+       "id": "E04.08",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "Tubular vs villous adenoma: size and cancer risk",
+       "book": "p. 73",
+       "src": "GIT Others p. 18",
+       "from": [
+        "PATH:TU-25"
+       ],
+       "body": "| | Tubular adenoma | Villous adenoma |\n| Size | Small, &lt;1 cm | Large, &gt;2 cm |\n| Dysplasia / cancer | Rare | High (about 40%) |\nGIT Others' table gives the 40% for adenomas &gt;4 cm; its text gives it for villous adenomas in general."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "note": "",
+   "topics": [
+    {
+     "title": "Physiology of fluid and nutrient handling",
+     "book": "Book pp. 77–78, 86",
+     "entries": [
+      {
+       "id": "E05.01",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Where intestinal water comes from and why it moves",
+       "book": "pp. 77–78",
+       "src": "GIT Internal Med p. 49",
+       "from": [
+        "IM:C5-02",
+        "IM:C5-03"
+       ],
+       "body": "- Water crosses the epithelium **passively**. It follows osmotic gradients created by **active transport** of electrolytes (Na⁺, Cl⁻) and of other solutes such as sugars and amino acids.\n- Most of the ~9 L delivered to the small intestine each day is **endogenous secretion**, not oral intake:\nTable: Daily fluid delivered to the small intestine (GIT Internal Med p. 49)\n| Source | Volume (mL) |\n| Oral intake | 2,000 |\n| Salivary secretion | 1,500 |\n| Gastric secretion | 2,500 |\n| Pancreatic secretion | 1,500 |\n| Biliary secretion | 500 |\n| Small intestinal secretion | 1,000 |\n| Total | 9,000 |"
+      },
+      {
+       "id": "E05.02",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Digestive enzymes by source",
+       "book": "p. 78",
+       "src": "GIT Internal Med p. 50",
+       "from": [
+        "IM:C5-04"
+       ],
+       "body": "Amylase breaks starch into oligosaccharides, and brush-border enzymes finish the job: lactase splits lactose into glucose + galactose, and sucrase splits sucrose into glucose + fructose.\nTable: Digestive enzymes by source (GIT Internal Med p. 50)\n| Source | Enzymes |\n| Salivary glands | Amylase, lingual lipase |\n| Stomach | Pepsin |\n| Pancreas | Amylase, trypsin, chymotrypsin, carboxypeptidase, elastase, lipase–colipase, phospholipase A2, cholesterol esterase |\n| Intestinal mucosa | Enterokinase; disaccharidases (sucrase, maltase, trehalase, α-dextrinase/isomaltase); peptidases (aminooligopeptidase, dipeptidase) |"
+      },
+      {
+       "id": "E05.03",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Where nutrients are absorbed",
+       "book": "p. 86",
+       "src": "GIT Internal Med p. 62",
+       "from": [
+        "IM:C5-26"
+       ],
+       "body": "The site of disease predicts the deficiency:\n- **Duodenum and jejunum:** calcium, iron, magnesium, phosphorus, folate, the fat-soluble vitamins (A, D, E, K), and lipids, monosaccharides and small peptides.\n- **Ileum:** **vitamin B12** and **bile salts and acids** (also vitamin C, folate, vitamins D and K, magnesium). Many other nutrients can be absorbed here depending on transit time.\n- **Large intestine:** water, sodium, chloride, potassium, short-chain fatty acids, vitamin K and biotin."
+      }
+     ]
+    },
+    {
+     "title": "Mechanisms and causes of diarrhoea",
+     "book": "Book pp. 79–84",
+     "entries": [
+      {
+       "id": "E05.04",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Osmotic and secretory diarrhoea: the mechanism behind the lists",
+       "book": "pp. 79–80",
+       "src": "GIT Internal Med pp. 52–53",
+       "from": [
+        "IM:C5-09",
+        "IM:C5-12"
+       ],
+       "body": "- **Osmotic:** usually a poorly absorbable carbohydrate or a **divalent ion** (e.g. magnesium). The high luminal osmolality draws water into the duodenum and jejunum to make chyme isotonic. Na⁺ then follows the water into the lumen down its concentration gradient, and this Na⁺ pulls in further water.\n- **Secretory laxatives** (examples for the book's \"laxatives\"): ricinoleic acid (castor oil) and dioctyl sodium sulfosuccinate."
+      },
+      {
+       "id": "E05.05",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Why oral rehydration works even in cholera",
+       "book": "p. 82",
+       "src": "GIT Internal Med p. 56",
+       "from": [
+        "IM:C5-17"
+       ],
+       "body": "Even while cholera toxin (via cAMP) drives chloride secretion from the crypts, villus cells can still absorb sodium, and with it water and chloride, through **coupled uptake of sodium with glucose or amino acids**. Oral rehydration solution uses this intact pathway."
+      },
+      {
+       "id": "E05.06",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Acute infectious diarrhoea: clues from the exposure",
+       "book": "pp. 81–82",
+       "src": "GIT Internal Med p. 55",
+       "from": [
+        "IM:C5-15"
+       ],
+       "body": "Table: Vehicle and classic pathogens (GIT Internal Med p. 55)\n| Vehicle | Classic pathogens |\n| Water | Vibrio cholerae, Giardia |\n| Poultry | Salmonella |\n| Seafood and shellfish (e.g. sushi) | Salmonella and Shigella |\n| Canned vegetables or fruits | Clostridium species |\n| Cheese, milk | Listeria species |\n| Hospitalisation, antibiotics or chemotherapy | C. difficile |\n| Animal-to-person (pets) | Salmonella, Campylobacter, Cryptosporidium |\nThe laboratory side of Salmonella and Campylobacter is added in Chapter 7."
+      },
+      {
+       "id": "E05.07",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Clostridium difficile colitis",
+       "book": "p. 83",
+       "src": "GIT Internal Med pp. 57–58",
+       "from": [
+        "IM:C5-19"
+       ],
+       "body": "The book names C. difficile only as a cause. GIT Internal Med adds:\n- **Pathogenesis:** antibiotics disrupt the normal flora; C. difficile colonises the colon and releases **toxins** that cause mucosal damage and inflammation (originally called pseudomembranous colitis).\n- **Diagnosis:** diarrhoea (≥ 3 unformed stools in 24 h) **or** radiographic ileus/toxic megacolon, **plus** a positive stool C. difficile toxin test **or** pseudomembranes at colonoscopy/pathology.\n- **Treatment:** stop the offending antibiotic. **Metronidazole** is the drug of choice for mild infection; **vancomycin** for more severe episodes; **fidaxomicin** (a macrocyclic antibiotic) is more active than vancomycin.\n- Probiotics are promising for prevention and treatment. **Faecal microbiota transplantation** is reserved for refractory C. difficile colitis."
+      },
+      {
+       "id": "E05.08",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Chronic diarrhoea: think of the patient group",
+       "book": "p. 83",
+       "src": "GIT Internal Med p. 59",
+       "from": [
+        "IM:C5-23"
+       ],
+       "body": "Table: Chronic diarrhoea in specific patient groups (GIT Internal Med p. 59)\n| Patient group | Causes to consider |\n| Travellers | Bacterial infection (mostly acute); protozoal (amoebiasis, giardiasis); tropical sprue |\n| Epidemics and outbreaks | Bacterial infection; epidemic idiopathic secretory diarrhoea (e.g. Brainerd diarrhoea); protozoal (cryptosporidiosis); viral (rotavirus, COVID-19) |\n| Diabetes mellitus | Altered motility; associated coeliac disease, pancreatic exocrine insufficiency, SIBO; drugs (especially acarbose, metformin) |\n| AIDS | Drug side-effects; lymphoma; opportunistic infections (cryptosporidiosis, CMV, HSV, Mycobacterium avium complex) |\n| Institutionalised / hospitalised | C. difficile colitis; drug side-effects; faecal impaction with overflow diarrhoea; ischaemic colitis; tube feeding |"
+      },
+      {
+       "id": "E05.09",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Post-infectious IBS: treatable causes to look for",
+       "book": "p. 84",
+       "src": "GIT Internal Med p. 58",
+       "from": [
+        "IM:C5-21"
+       ],
+       "body": "- Some cases are due to **bacterial overgrowth** and may respond to non-absorbable antibiotics; others are due to **acquired bile acid malabsorption**.\n- **Coeliac disease** can first appear after an intestinal infection, so screen for it in this setting."
+      }
+     ]
+    },
+    {
+     "title": "Malabsorption and coeliac disease",
+     "book": "Book pp. 84–92",
+     "entries": [
+      {
+       "id": "E05.10",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Maldigestion versus malabsorption",
+       "book": "p. 84",
+       "src": "GIT Internal Med p. 60",
+       "from": [
+        "IM:C5-24"
+       ],
+       "body": "- **Maldigestion** is defective intraluminal hydrolysis of nutrients; **malabsorption** is defective mucosal absorption. Their presentations and complications are similar.\n- Many malabsorptive disorders, including coeliac disease, present **subtly** or mainly with **extra-intestinal** features rather than diarrhoea or steatorrhoea. Malabsorption may even be only a laboratory finding."
+      },
+      {
+       "id": "E05.11",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Coeliac disease: why each extra-intestinal feature occurs",
+       "book": "pp. 89–91",
+       "src": "GIT Internal Med p. 66",
+       "from": [
+        "IM:C5-30"
+       ],
+       "body": "Table: Selected manifestations and probable causes (GIT Internal Med p. 66)\n| Manifestation | Probable cause |\n| Dermatitis herpetiformis | Epidermal (type 3) tTG autoimmunity |\n| Ecchymoses, petechiae | Vitamin K deficiency; rarely thrombocytopenia |\n| Oedema | Hypoproteinaemia |\n| Thrombocytosis, Howell–Jolly bodies | Hyposplenism |\n| Secondary hyperparathyroidism | Calcium and/or vitamin D malabsorption with hypocalcaemia |\n| Osteopenia, osteomalacia, osteoporosis | Ca/vitamin D malabsorption, secondary hyperparathyroidism, chronic inflammation |\n| Elevated liver tests | Lymphocytic hepatitis |\n| Peripheral neuropathy | Vitamin B12 and thiamine deficiency; immune-based neurological dysfunction |\n| Ataxia | Cerebellar and posterior column damage |\n| Short stature, delayed puberty, amenorrhoea, infertility | Malnutrition; hypothalamic–pituitary dysfunction |\n| Weakness | Generalised muscle atrophy, hypokalaemia |"
+      },
+      {
+       "id": "E05.12",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Coeliac disease: wider associations and later risks",
+       "book": "p. 90",
+       "src": "GIT Internal Med p. 66",
+       "from": [
+        "IM:C5-31"
+       ],
+       "body": "- **Further associated conditions** (besides type 1 diabetes and autoimmune liver and thyroid disease): Addison disease, autoimmune haemolytic anaemia, immune thrombocytopenic purpura, **IgA deficiency**, **Down syndrome**, cystic fibrosis, Sjögren syndrome, **microscopic colitis**, epilepsy with cerebral calcification, sarcoidosis, recurrent pericarditis, iridocyclitis/choroiditis, some lung diseases (fibrosing alveolitis, idiopathic pulmonary haemosiderosis, bird-fancier's lung, cavitary lung disease) and macroamylasaemia.\n- **Increased morbidity after diagnosis:** malignancy (non-Hodgkin lymphoma, **small-intestinal adenocarcinoma**); cardiovascular (ischaemic heart disease, cerebrovascular disease, atrial fibrillation, dilated cardiomyopathy); respiratory (COPD, asthma, tuberculosis, influenza)."
+      }
+     ]
+    },
+    {
+     "title": "Diagnostic tests for malabsorption",
+     "book": "Book pp. 93–94",
+     "entries": [
+      {
+       "id": "E05.13",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Interpreting the general tests of absorption",
+       "book": "pp. 93–94",
+       "src": "GIT Internal Med pp. 68–70",
+       "from": [
+        "IM:C5-34",
+        "IM:C5-36"
+       ],
+       "body": "- **Quantitative stool fat:** a borderline 8–14 g/24 h can occur in secretory or osmotic diarrhoea **not** caused by malabsorption. False negative if fat intake is inadequate; false positive with mineral-oil laxatives or rectal suppositories (e.g. cocoa butter).\n- **Acid steatocrit:** a cheap, easy screening test for fat malabsorption; normal &lt; 10%.\n- **D-xylose test** (used in the book's algorithm, Fig 5.9): tests small-intestinal **mucosal** absorption, so it separates mucosal malabsorption from pancreatic insufficiency. Oral 25 g D-xylose; normal is &gt; 4 g excreted in the urine over 5 h. False positives with renal failure, ascites or incomplete urine collection; it may also be abnormal in bacterial overgrowth and normal in mild or limited mucosal disease.\n- **Lactose H₂ breath test:** a **late** peak (3–6 h) of &gt; 20 ppm suggests lactose malabsorption.\n- **Faecal elastase-1:** as sensitive as the secretin test for moderate-to-severe pancreatic insufficiency, but unreliable in mild insufficiency; false positives with high stool volume and mucosal disease. The **secretin test** is sensitive but labour-intensive and invasive."
+      },
+      {
+       "id": "E05.14",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Diagnosing bacterial overgrowth",
+       "book": "p. 93",
+       "src": "GIT Internal Med pp. 69–70",
+       "from": [
+        "IM:C5-35"
+       ],
+       "body": "- **Gold standard:** quantitative culture of jejunal aspirate; &gt; 10⁵ CFU/mL suggests overgrowth. False negatives occur with focal diverticula or overgrowth distal to the aspiration site.\n- **Glucose H₂ breath test:** an **early** peak (within 2 h) of &gt; 20 ppm suggests overgrowth. Contrast this with the **late** peak of lactose malabsorption. False negatives occur with non-hydrogen-producing organisms.\n- **¹⁴C-D-xylose breath test:** sensitivity and specificity &gt; 90%, and more specific than the H₂ breath test. A non-radioactive ¹³C version is suitable for children and pregnant women."
+      },
+      {
+       "id": "E05.15",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Biopsy and ileal-function tests",
+       "book": "p. 93",
+       "src": "GIT Internal Med p. 69",
+       "from": [
+        "IM:C5-37"
+       ],
+       "body": "- **Small-bowel biopsy:** distal duodenal specimens are usually adequate; take several (4–5). Biopsy is **diagnostic** in intestinal infection, Whipple disease, abetalipoproteinaemia, agammaglobulinaemia, lymphangiectasia, lymphoma and amyloidosis. In coeliac disease and tropical sprue the findings are characteristic, but the diagnosis rests on **improvement after treatment**.\n- **Permeability studies** are gaining favour for screening for small-intestinal disease and monitoring the response to treatment.\n- **SeHCAT:** 7-day retention **&lt; 10%** is abnormal and indicates bile acid malabsorption; liver disease and bacterial overgrowth can give false results.\n- The **Schilling test** is no longer used."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "note": "",
+   "topics": [
+    {
+     "title": "Clinical assessment and testing",
+     "book": "Book pp. 97–100",
+     "entries": [
+      {
+       "id": "E06.01",
+       "subjects": [
+        "IM"
+       ],
+       "title": "History and examination clues",
+       "book": "pp. 97–98",
+       "src": "GIT Internal Med p. 71",
+       "from": [
+        "IM:C6-03",
+        "IM:C6-04"
+       ],
+       "body": "- In **acute-onset** constipation, always ask whether the patient can **pass gas**. Failure to pass gas can signal bowel obstruction.\n- **Obstipation** is severe or complete constipation with practically no stool and **no flatus**. It may come with abdominal pain, nausea and vomiting, and points to obstruction.\n- **DRE while bearing down:** pelvic floor dyssynergia is suggested when the anal sphincter **fails to relax** or the perineum **does not descend**."
+      },
+      {
+       "id": "E06.02",
+       "subjects": [
+        "IM"
+       ],
+       "title": "What anorectal testing measures",
+       "book": "pp. 98, 100",
+       "src": "GIT Internal Med p. 72",
+       "from": [
+        "IM:C6-08"
+       ],
+       "body": "- **Anorectal manometry:** a pressure-sensitive catheter in the anorectum measures **resting and squeeze pressures** of the anal canal. It assesses the internal and external anal sphincters, **rectal sensation** and expulsion patterns.\n- Defecography can also be performed with **MRI** (MRI defecography)."
+      }
+     ]
+    },
+    {
+     "title": "Disorders of gut–brain interaction and IBS",
+     "book": "Book pp. 101–105",
+     "entries": [
+      {
+       "id": "E06.03",
+       "subjects": [
+        "IM"
+       ],
+       "title": "IBS: extra points",
+       "book": "pp. 101–104",
+       "src": "GIT Internal Med pp. 73–75",
+       "from": [
+        "IM:C6-10",
+        "IM:C6-11",
+        "IM:C6-13",
+        "IM:C6-15"
+       ],
+       "body": "- **Functional chest pain of presumed oesophageal origin** is another oesophageal DGBI: chronic, recurrent pain or discomfort referred to the retrosternum.\n- **Autonomic dysfunction** is also listed among the possible contributors to IBS.\n- **History:** fibromyalgia is one of the associations found in IBS patients.\n- **Limited laboratory tests:** besides faecal calprotectin and coeliac serology, GIT Internal Med lists **CBC** (anaemia or infection), **ESR and CRP** (inflammation) and **TSH** (thyroid dysfunction)."
+      },
+      {
+       "id": "E06.04",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Why probiotics are not used in IBS",
+       "book": "p. 105",
+       "src": "GIT Internal Med p. 75",
+       "from": [
+        "IM:C6-18"
+       ],
+       "body": "Probiotics are not prescribed in IBS because of a **lack of evidence supporting their efficacy**. This is the reason behind the book's \"no routine recommendation\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "note": "",
+   "topics": [
+    {
+     "title": "Salmonella and enteric fever",
+     "book": "Book pp. 107–110",
+     "entries": [
+      {
+       "id": "E07.01",
+       "subjects": [
+        "MICRO"
+       ],
+       "title": "Salmonella culture and sugar fermentation",
+       "book": "p. 107",
+       "src": "GIT Others p. 22",
+       "from": [
+        "MICRO:FI-03",
+        "MICRO:FI-05"
+       ],
+       "body": "- A **facultative anaerobe** that grows well at **37 °C in 24 hours**. Colonies on MacConkey are **pale (yellow)** because it does not ferment lactose.\n- Most species ferment sugars with **acid and gas**. **S. typhi makes acid only** (no gas)."
+      },
+      {
+       "id": "E07.02",
+       "subjects": [
+        "MICRO"
+       ],
+       "title": "How the first-week blood culture is done",
+       "book": "p. 109",
+       "src": "GIT Others p. 24",
+       "from": [
+        "MICRO:FI-10"
+       ],
+       "body": "Blood is cultured in **fluid (broth) media**, then **subcultured on solid media**, mainly MacConkey, at 37 °C."
+      },
+      {
+       "id": "E07.03",
+       "subjects": [
+        "MICRO"
+       ],
+       "title": "Control starts with food handlers",
+       "book": "p. 109",
+       "src": "GIT Others p. 25",
+       "from": [
+        "MICRO:FI-16"
+       ],
+       "body": "**Food handlers are examined to detect carriers.** Carriers are treated or kept away from handling food. GIT Others lists this before immunisation."
+      },
+      {
+       "id": "E07.04",
+       "subjects": [
+        "MICRO"
+       ],
+       "title": "S. typhimurium food poisoning is self-limiting",
+       "book": "p. 110",
+       "src": "GIT Others p. 25",
+       "from": [
+        "MICRO:FI-18"
+       ],
+       "body": "After lasting 2–5 days, **it usually resolves on its own (spontaneous cure)**."
+      }
+     ]
+    },
+    {
+     "title": "Campylobacter and Brucella",
+     "book": "Book p. 111",
+     "entries": [
+      {
+       "id": "E07.05",
+       "subjects": [
+        "MICRO"
+       ],
+       "title": "Campylobacter laboratory details",
+       "book": "p. 111",
+       "src": "GIT Others p. 27",
+       "from": [
+        "MICRO:FI-23"
+       ],
+       "body": "- A **rectal swab** is an acceptable specimen, collected with care to avoid oxygen exposure.\n- Darting motility is seen in a wet mount under **dark-field illumination**.\n- Isolated colonies are identified by **biotyping, serotyping and phage typing**."
+      },
+      {
+       "id": "E07.06",
+       "subjects": [
+        "MICRO"
+       ],
+       "title": "Brucella needs CO₂",
+       "book": "p. 111",
+       "src": "GIT Others p. 27",
+       "from": [
+        "MICRO:FI-26"
+       ],
+       "body": "Brucella is aerobic, but culture needs **10% CO₂** as well as serum-enriched media."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "note": "",
+   "topics": [
+    {
+     "title": "Pathology and diagnosis",
+     "book": "Book pp. 116–119",
+     "entries": [
+      {
+       "id": "E08.01",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Extra radiological and endoscopic clues",
+       "book": "pp. 117–118",
+       "src": "GIT Internal Med pp. 76, 78",
+       "from": [
+        "IM:C8-02",
+        "IM:C8-08"
+       ],
+       "body": "- On radiology, **\"collar-button\" ulcers** are common in UC and only occasional in Crohn's disease.\n- **Colonoscopy (the book's \"Endoscopy\" heading has no text):**\n  - UC: friable mucosa, extensive ulceration and exudates.\n  - Crohn's disease: a **single aphthous ulcer** is the earliest finding; multiple oedematous inflammatory polyps give the **cobblestone** appearance."
+      },
+      {
+       "id": "E08.02",
+       "subjects": [
+        "IM"
+       ],
+       "title": "More conditions that mimic IBD",
+       "book": "p. 119",
+       "src": "GIT Internal Med p. 79",
+       "from": [
+        "IM:C8-11"
+       ],
+       "body": "- Other colitides: **radiation colitis**, **Behçet's colitis**, **schistosomiasis**, and sexually transmitted colitis (gonococcus, *Chlamydia*, herpes, trauma).\n- Bacterial colitis also includes **Shigella** and **invasive E. coli**.\n- Crohn's look-alikes: **lymphoma, Yersinia and tuberculosis**."
+      }
+     ]
+    },
+    {
+     "title": "Treatment",
+     "book": "Book pp. 119–120",
+     "entries": [
+      {
+       "id": "E08.03",
+       "subjects": [
+        "IM"
+       ],
+       "title": "The missing drug groups and a severity ladder",
+       "book": "pp. 119–120",
+       "src": "GIT Internal Med pp. 80–81",
+       "from": [
+        "IM:C8-13",
+        "IM:C8-23"
+       ],
+       "body": "GIT Internal Med lists six drug groups for IBD. Two of them, **5-aminosalicylates (5-ASA/sulfasalazine)** and **probiotics/prebiotics**, do not appear in the book's IBD chapter. It also steps treatment up with severity:\nTable: Stepwise IBD therapy (GIT Internal Med p. 81)\n| Severity | Treatment |\n| Mild | 5-aminosalicylates / sulfasalazine; local steroid enemas; local 5-ASA enemas and suppositories |\n| Moderate | Prednisolone; budesonide; immunosuppressant |\n| Severe | Biological therapy; surgery |"
+      },
+      {
+       "id": "E08.04",
+       "subjects": [
+        "IM"
+       ],
+       "title": "5-ASA and budesonide: the formulation decides where the drug acts",
+       "book": "pp. 119–120",
+       "src": "GIT Internal Med p. 80 (drug table)",
+       "from": [
+        "IM:C8-14",
+        "IM:C8-15"
+       ],
+       "body": "Choose the formulation by disease site. Most act in the colon; Pentasa is released from the duodenum onwards; enemas reach the rectum and sigmoid, and suppositories the rectum.\nTable: 5-aminosalicylates and budesonide (GIT Internal Med p. 80 drug table)\n| Drug | Dose | Release site |\n| Sulfasalazine (Azulfidine) | 2–6 g/day | Colon |\n| Mesalamine (Asacol, Lialda, Apriso) | 2.4–4.8 g/day | Distal ileum, colon |\n| Olsalazine (Dipentum) | 1–3 g/day | Colon |\n| Balsalazide (Colazal) | 6.25 g/day | Colon |\n| Mesalamine (Pentasa) | 2–4 g/day | Duodenum, jejunum, ileum, colon |\n| Mesalamine (Rowasa) enema; suppository | 4 g/day (enema); 1 g/day (suppository) | Rectum/sigmoid; rectum |\n| Mesalamine (Canasa) suppository | 1 g/day | Rectum |\n| Budesonide (Entocort EC) | Induction 9 mg PO daily; maintenance 6 mg PO daily | Small intestine |\n| Budesonide (MMX, UCERIS) | Induction 9 mg PO daily | Colon |\nThe systemic-steroid rows of the same table disagree with the book and with the source's own text, so they are kept for review."
+      },
+      {
+       "id": "E08.05",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Immunomodulators and biologics: full list and doses",
+       "book": "p. 120",
+       "src": "GIT Internal Med p. 80 (drug table)",
+       "from": [
+        "IM:C8-20",
+        "IM:C8-21"
+       ],
+       "body": "The book names azathioprine, methotrexate, cyclosporin, infliximab and vedolizumab without doses. GIT Internal Med adds **6-mercaptopurine** and four more biologics: **adalimumab, golimumab, certolizumab pegol, natalizumab**.\nTable: Immunomodulators and biologics (GIT Internal Med p. 80 drug table)\n| Drug | Induction / dose | Maintenance |\n| 6-Mercaptopurine | 1.5 mg/kg/day | – |\n| Azathioprine | 2.5 mg/kg/day | – |\n| Methotrexate | 25 mg SC weekly × 4 months | 15–25 mg SC weekly |\n| Cyclosporine | 2–4 mg/kg/day IV | – |\n| Infliximab | 5 mg/kg IV weeks 0, 2, 6 | 5–10 mg/kg IV every 8 weeks |\n| Adalimumab | 160 mg SC week 0, 80 mg week 2 | 40 mg SC every other week |\n| Golimumab | 200 mg SC week 0, 100 mg week 2 | 100 mg SC every 4 weeks |\n| Certolizumab pegol | 400 mg SC weeks 0, 2, 4 | 400 mg SC every 4 weeks |\n| Natalizumab | 300 mg IV every 4 weeks | – |\n| Vedolizumab | 300 mg IV at 0, 2 and 6 weeks | 300 mg IV every 8 weeks |"
+      }
+     ]
+    },
+    {
+     "title": "Complications",
+     "book": "Book p. 121",
+     "entries": [
+      {
+       "id": "E08.06",
+       "subjects": [
+        "IM"
+       ],
+       "title": "Complications grouped by disease",
+       "book": "p. 121",
+       "src": "GIT Internal Med p. 82",
+       "from": [
+        "IM:C8-25"
+       ],
+       "body": "- **UC:** toxic megacolon and malignancy.\n- **Crohn's disease:** abscesses and fistulas, obstruction, and perianal disease."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "note": "No additions. GIT Others pp. 35–47 repeat this chapter (pp. 122–139) word for word, with the same doses and time periods; GIT Internal Med has no parasitology section.",
+   "topics": []
+  },
+  {
+   "n": 10,
+   "note": "No additions. Neither GIT Internal Med nor GIT Others adds anything to this chapter (Meckel's diverticulum and small-bowel/colon surgery).",
+   "topics": []
+  },
+  {
+   "n": 11,
+   "note": "No additions. GIT Internal Med mentions diverticular disease only as a cause of lower GI bleeding and left iliac fossa pain, already in the book or in Chapter 3 here.",
+   "topics": []
+  },
+  {
+   "n": 12,
+   "note": "No additions. Appendicitis appears in GIT Internal Med only in its list of right iliac fossa pain causes, which the book already gives.",
+   "topics": []
+  },
+  {
+   "n": 13,
+   "note": "No additions. GIT Internal Med's imaging points on obstruction (plain films, CT in high-grade obstruction, enteroclysis) are in Chapter 1 here, where the book teaches imaging.",
+   "topics": []
+  },
+  {
+   "n": 14,
+   "note": "",
+   "topics": [
+    {
+     "title": "Familial polyposis coli",
+     "book": "Book p. 190",
+     "entries": [
+      {
+       "id": "E14.01",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "Polyp type in FAP",
+       "book": "p. 190",
+       "src": "GIT Others p. 19",
+       "from": [
+        "PATH:TU-29"
+       ],
+       "body": "In FAP, **most of the polyps are tubular adenomas**."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "note": "",
+   "topics": [
+    {
+     "title": "Pathology of colorectal carcinoma",
+     "book": "Book p. 196",
+     "entries": [
+      {
+       "id": "E15.01",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "Adenocarcinoma: 98% of large-bowel cancers",
+       "book": "p. 196",
+       "src": "GIT Others p. 19",
+       "from": [
+        "PATH:TU-30"
+       ],
+       "body": "The book says \"more than 90%\" of colorectal carcinomas are adenocarcinomas. GIT Others gives a precise figure: **98%** of all cancers of the large intestine are adenocarcinomas."
+      },
+      {
+       "id": "E15.02",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "Two kinds of mucoid (mucinous) carcinoma",
+       "book": "p. 196",
+       "src": "GIT Others p. 20",
+       "from": [
+        "PATH:TU-36"
+       ],
+       "body": "- **Mucinous adenocarcinoma**: abundant *extracellular* mucin (the book: &gt;50% mucinous material).\n- **Signet ring cell carcinoma**: the mucin stays *inside* the malignant cell and pushes the nucleus to one side (eccentric nucleus)."
+      },
+      {
+       "id": "E15.03",
+       "subjects": [
+        "PATH"
+       ],
+       "title": "Add irradiation to the predisposing factors",
+       "book": "p. 196",
+       "src": "GIT Others p. 19",
+       "from": [
+        "PATH:TU-32"
+       ],
+       "body": "GIT Others lists **irradiation** as a predisposing factor for colorectal adenocarcinoma, along with adenoma, familial polyposis, IBD and gene mutations. It is not in the book's list."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "note": "No additions. GIT Others was checked against this chapter and adds nothing new; the Hepatology source does not cover anorectal disease.",
+   "topics": []
+  },
+  {
+   "n": 17,
+   "note": "",
+   "topics": [
+    {
+     "title": "Liver functions and lobular zonation",
+     "book": "Book pp. 233–235",
+     "entries": [
+      {
+       "id": "E17.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Principal liver functions",
+       "book": "p. 233",
+       "src": "Hepatology p. 64",
+       "from": [
+        "HEP:D-19"
+       ],
+       "body": "Bile formation and secretion; metabolism of carbohydrates, amino acids, lipids and water- and fat-soluble vitamins; inactivation of ammonia (urea cycle), toxins, steroids and other hormones; synthesis of acute-phase proteins, albumin, clotting factors and steroid/hormone-binding proteins; immune function (Kupffer cells)."
+      },
+      {
+       "id": "E17.02",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Metabolic zonation of the lobule",
+       "book": "p. 235",
+       "src": "Hepatology p. 64 (figure)",
+       "from": [
+        "HEP:D-20"
+       ],
+       "body": "The **periportal** zone carries out gluconeogenesis and cholesterol and urea synthesis; the **pericentral** zone carries out glycolysis and glutamine and bile-acid synthesis."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "note": "",
+   "topics": [
+    {
+     "title": "Symptoms and signs of chronic liver disease",
+     "book": "Book pp. 237–238",
+     "entries": [
+      {
+       "id": "E18.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Palmar erythema and spider naevi: what they are",
+       "book": "p. 238",
+       "src": "Hepatology p. 1",
+       "from": [
+        "HEP:A-02"
+       ],
+       "body": "Palmar erythema is persistent redness of the palms; spider naevi are small red skin marks caused by dilated capillaries near the skin surface."
+      },
+      {
+       "id": "E18.02",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Hyperdynamic circulation and its vasodilators",
+       "book": "p. 237",
+       "src": "Hepatology p. 2 (text + figure)",
+       "from": [
+        "HEP:A-04",
+        "HEP:A-05",
+        "HEP:A-06",
+        "HEP:A-07"
+       ],
+       "body": "- **Signs:** flushed extremities, bounding pulses and capillary pulsations, with increased portal blood flow, low blood pressure and reduced systemic vascular resistance; cardiac output rises.\n- **The vasodilators are probably multiple:** formed by the sick hepatocyte, not inactivated by it, or bypassing it through intra- or extra-hepatic portosystemic shunts. They activate the sympathetic and renin–angiotensin systems, promoting sodium and water retention and ascites.\n- **Nitric oxide** (endothelium-derived, potent vasodilator) is implicated in the hyperdynamic circulation and is important in ascites, hepatorenal syndrome and portal hypertension. Prostanoids released into the portal vein and endocannabinoids are also shown as splanchnic vasodilators."
+      },
+      {
+       "id": "E18.03",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Hepatocellular failure: when it occurs",
+       "book": "pp. 237–238",
+       "src": "Hepatology p. 64",
+       "from": [
+        "HEP:D-18"
+       ],
+       "body": "Hepatocellular failure complicates almost all liver diseases but **not portal venous occlusion alone**; it may be the terminal event in chronic cholestasis such as primary biliary cirrhosis. Its picture and treatment are similar whatever the cause."
+      }
+     ]
+    },
+    {
+     "title": "Liver function tests",
+     "book": "Book pp. 238, 244–246",
+     "entries": [
+      {
+       "id": "E18.04",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "What the liver makes, and what albumin and PT tell you",
+       "book": "pp. 238, 244, 246",
+       "src": "Hepatology pp. 1, 5, 10",
+       "from": [
+        "HEP:A-11",
+        "HEP:A-03",
+        "HEP:A-12",
+        "HEP:A-30",
+        "HEP:A-31"
+       ],
+       "body": "- The liver synthesises albumin, **all clotting factors except factor VIII**, carrier proteins (ceruloplasmin, transferrin), cholesterol, bile salts and urea.\n- The source links the bleeding tendency of chronic liver disease to failed synthesis of fibrinogen and factors II, V, VII, IX, XI, XII and XIII.\n- A falling serum albumin is an excellent indicator of severity and prognosis in chronic liver disease. PT depends on factors I, II, V, VII and X; because these have a shorter half-life than albumin, PT is an **earlier** indicator of severe liver injury."
+      },
+      {
+       "id": "E18.05",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Liver tests grouped by what they reflect",
+       "book": "p. 245",
+       "src": "Hepatology pp. 6, 87 (table)",
+       "from": [
+        "HEP:F-08",
+        "HEP:A-16"
+       ],
+       "body": "- **Excretory / detoxification:** serum and urine bilirubin, serum ammonia.\n- **Liver-cell injury:** AST, ALT.\n- **Cholestasis:** ALP, GGT, 5′-nucleotidase. 5′-nucleotidase is more specific for cholestasis than ALP but is not widely used.\n- **Synthetic function:** albumin, coagulation factors."
+      },
+      {
+       "id": "E18.06",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "ALP and GGT with space-occupying or infiltrative lesions",
+       "book": "p. 245",
+       "src": "Hepatology pp. 6, 20",
+       "from": [
+        "HEP:A-14",
+        "HEP:A-15",
+        "HEP:B1-19"
+       ],
+       "body": "- ALP and GGT are markedly raised (&gt;3-fold) not only in cholestasis but also with **space-occupying lesions and hepatic infiltration** (tumours such as cancer, cysts, lymph nodes). Non-hepatic ALP rises occur in bone disease (rickets, osteomalacia).\n- In infiltration, bilirubin may be **normal**: partial obstruction lets bilirubin pass yet stimulates ALP/GGT synthesis. AST/ALT are normal or slightly raised (AST &gt; ALT). AFP rises in HCC, and CEA with secondaries from GIT cancer."
+      },
+      {
+       "id": "E18.07",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Causes of an isolated ALP rise",
+       "book": "p. 245",
+       "src": "Hepatology p. 87 (table)",
+       "from": [
+        "HEP:F-07"
+       ],
+       "body": "Primary or metastatic hepatic tumours, granulomatous liver disease, primary biliary cirrhosis, non-Hodgkin lymphoma, hyperthyroidism, bone disease with rapid turnover, sclerosing cholangitis."
+      }
+     ]
+    },
+    {
+     "title": "Bilirubin and bile-acid metabolism",
+     "book": "Book p. 245",
+     "entries": [
+      {
+       "id": "E18.08",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Where bilirubin comes from",
+       "book": "p. 245",
+       "src": "Hepatology p. 81",
+       "from": [
+        "HEP:F-01"
+       ],
+       "body": "About 250–300 mg of bilirubin is produced daily; 70–80% comes from haemoglobin of senescent red cells, the rest from prematurely destroyed erythroid cells in the marrow and turnover of haemoproteins such as myoglobin. It is formed in reticuloendothelial cells, mainly in the spleen and liver."
+      },
+      {
+       "id": "E18.09",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Hepatocyte handling in four steps",
+       "book": "p. 245",
+       "src": "Hepatology pp. 7, 81–82",
+       "from": [
+        "HEP:F-02",
+        "HEP:A-19",
+        "HEP:A-17"
+       ],
+       "body": "Uptake, cytosolic binding, conjugation, secretion: albumin-bound bilirubin is taken up (albumin is not), binds **ligandin (Z protein)**, is conjugated to glucuronic acid by UDP-glucuronosyl transferase in the endoplasmic reticulum, and mono- and diglucuronides are actively transported into bile."
+      },
+      {
+       "id": "E18.10",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "In the gut",
+       "book": "p. 245",
+       "src": "Hepatology pp. 7, 82",
+       "from": [
+        "HEP:F-03",
+        "HEP:A-17",
+        "HEP:A-18"
+       ],
+       "body": "- Conjugated bilirubin is not absorbed by the intestinal mucosa; only in the distal ileum and colon is it hydrolysed (bacterial β-glucuronidases) to unconjugated bilirubin, then reduced to colourless urobilinogens.\n- The primary bile acids, cholic and chenodeoxycholic acid, are made from cholesterol, secreted in bile, and mostly reabsorbed in the ileum for re-secretion (enterohepatic circulation)."
+      }
+     ]
+    },
+    {
+     "title": "Types of jaundice",
+     "book": "Book pp. 245–246",
+     "entries": [
+      {
+       "id": "E18.11",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Haemolytic, obstructive and hepatic jaundice: details the book's comparison lacks",
+       "book": "pp. 245–246",
+       "src": "Hepatology pp. 9–10 (table)",
+       "from": [
+        "HEP:A-29",
+        "HEP:A-26",
+        "HEP:A-28"
+       ],
+       "body": "- Urine **bile salts** (with bilirubin) are absent in haemolytic jaundice and present in obstructive and hepatic jaundice. In hepatic jaundice the stool is **clay-coloured**, as in obstruction.\n- In haemolytic jaundice, evidence of haemolysis includes raised reticulocytes **and raised LDH** (the LDH–haptoglobin–reticulocyte algorithm is in Chapter 29). Obstructive jaundice raises serum cholesterol and **β-lipoproteins**."
+      },
+      {
+       "id": "E18.12",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Crigler–Najjar II, Dubin–Johnson and Rotor",
+       "book": "pp. 245–246",
+       "src": "Hepatology p. 8",
+       "from": [
+        "HEP:A-21",
+        "HEP:A-22"
+       ],
+       "body": "- Crigler–Najjar **type II** = partial UGT deficiency, bilirubin &lt;20 mg/dL (type I: complete absence, &gt;20 mg/dL).\n- Dubin–Johnson (defect of bilirubin secretion) has a **darkly pigmented** liver; Rotor syndrome is usually asymptomatic with a non-pigmented liver."
+      }
+     ]
+    },
+    {
+     "title": "Viral hepatitis markers",
+     "book": "Book pp. 247–250",
+     "entries": [
+      {
+       "id": "E18.13",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Reading HBV serology",
+       "book": "p. 248",
+       "src": "Hepatology p. 17 (tables)",
+       "from": [
+        "HEP:B1-08",
+        "HEP:B1-09",
+        "HEP:B1-07"
+       ],
+       "body": "Table: HBV serology panels\n| HBsAg | Anti-HBc | IgM anti-HBc | Anti-HBs | Interpretation |\n| − | − | | − | Susceptible |\n| + | + | + | − | Acutely infected |\n| + | + | − | − | Chronically infected |\n| − | + | | + | Immune: natural infection |\n| − | − | | + | Immune: vaccination |\n- **Acute vs chronic vs past HBV:** HBeAg and HBV DNA are + early then − in acute infection, ± in chronic, − in past; anti-HBe is − early then + (acute), ± (chronic), + (past); ALT is markedly raised (acute), mildly–moderately raised (chronic), normal (past).\n- An **isolated anti-HBc** in the window period usually means a resolving acute infection that is **not yet completely resolved**, because anti-HBs has not yet appeared."
+      },
+      {
+       "id": "E18.14",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Normal ALT/AST does not prove recovery",
+       "book": "p. 247",
+       "src": "Hepatology p. 14",
+       "from": [
+        "HEP:B1-03"
+       ],
+       "body": "In hepatitis B and C, normal ALT/AST does not prove recovery: replication may persist, so clearance must be shown serologically."
+      },
+      {
+       "id": "E18.15",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "HAV RNA in faeces",
+       "book": "p. 247",
+       "src": "Hepatology p. 15",
+       "from": [
+        "HEP:B1-04"
+       ],
+       "body": "HAV can be detected by **PCR on faeces**, earlier than serology, but this is very rarely performed."
+      },
+      {
+       "id": "E18.16",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Anti-HCV pitfalls",
+       "book": "pp. 248–249",
+       "src": "Hepatology p. 18",
+       "from": [
+        "HEP:B1-12",
+        "HEP:B1-13"
+       ],
+       "body": "A positive anti-HCV may be false (cross-reactivity with another infection) and must be confirmed by PCR; a negative result does not exclude HCV (immunodeficiency; very early infection before seroconversion: do PCR). **Anti-HCV IgM is not a marker of acute infection.**"
+      },
+      {
+       "id": "E18.17",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Hepatitis G",
+       "book": "p. 249",
+       "src": "Hepatology p. 20",
+       "from": [
+        "HEP:B1-18"
+       ],
+       "body": "Hepatitis G is spread by contaminated blood or blood products; prevalence in blood donors is about 1%."
+      },
+      {
+       "id": "E18.18",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Chronic hepatitis at a glance",
+       "book": "p. 250",
+       "src": "Hepatology p. 21 (table)",
+       "from": [
+        "HEP:B1-22"
+       ],
+       "body": "| | Autoimmune | HBV | HCV |\n| Sex | Female | Male | Equal |\n| Age | 15–25 y | Older | All ages |\n| Associated autoimmune disease | Frequent | Rare | Occasional |\n| Autoantibodies | High titre (ANA, ASMA, LKM) | Low / absent | Low / absent |\n| Cancer risk | Low | High | High |"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "note": "",
+   "topics": [
+    {
+     "title": "Course and prognosis",
+     "book": "Book pp. 252, 257",
+     "entries": [
+      {
+       "id": "E19.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "How long acute viral hepatitis lasts",
+       "book": "p. 257",
+       "src": "Hepatology p. 14",
+       "from": [
+        "HEP:B1-01"
+       ],
+       "body": "Acute viral hepatitis usually resolves 4–8 weeks after symptom onset."
+      },
+      {
+       "id": "E19.02",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "PT, not ALT, judges severity",
+       "book": "p. 252",
+       "src": "Hepatology p. 14",
+       "from": [
+        "HEP:B1-02"
+       ],
+       "body": "Severity is judged by impaired synthetic function rather than ALT/AST levels: **PT** is the key prognostic indicator, and a PT more than 3 seconds above normal carries a poor prognosis."
+      }
+     ]
+    },
+    {
+     "title": "Virology and transmission",
+     "book": "Book pp. 254–256",
+     "entries": [
+      {
+       "id": "E19.03",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "HBV is in every body fluid except stool",
+       "book": "p. 255",
+       "src": "Hepatology p. 16",
+       "from": [
+        "HEP:B1-06"
+       ],
+       "body": "HBV is present in all body fluids **except stool**, so spread is by blood or body-fluid contact."
+      },
+      {
+       "id": "E19.04",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "HCV and transfusion",
+       "book": "p. 256",
+       "src": "Hepatology p. 18",
+       "from": [
+        "HEP:B1-11"
+       ],
+       "body": "HCV (enveloped ssRNA flavivirus) is the most common cause of transfusion-associated hepatitis; sexual transmission is low."
+      },
+      {
+       "id": "E19.05",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Why HDV needs HBV",
+       "book": "p. 255",
+       "src": "Hepatology p. 19",
+       "from": [
+        "HEP:B1-14"
+       ],
+       "body": "HDV causes infection only when it is **encapsulated with HBsAg**, which is the basis of its dependence on HBV."
+      },
+      {
+       "id": "E19.06",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "HEV genotypes and chronic HEV",
+       "book": "pp. 254, 258",
+       "src": "Hepatology p. 19",
+       "from": [
+        "HEP:B1-15",
+        "HEP:B1-16",
+        "HEP:B1-17"
+       ],
+       "body": "Genotypes 1 and 2 cause waterborne outbreaks; genotypes 3 and 4 cause sporadic cases, including via undercooked meat such as pork. HEV affects mainly adults and is rare in children. Chronic (genotype 3) hepatitis E occurs only in the immunocompromised: organ-transplant recipients, cancer chemotherapy, HIV."
+      }
+     ]
+    },
+    {
+     "title": "Chronic hepatitis",
+     "book": "Book p. 263",
+     "entries": [
+      {
+       "id": "E19.07",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Rosettes in severe chronic hepatitis",
+       "book": "p. 263",
+       "src": "Hepatology p. 34",
+       "from": [
+        "HEP:B2-01"
+       ],
+       "body": "In severe chronic hepatitis, fibrous septa extend into the lobule, producing **rosette formation** as well as bridging fibrosis."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "note": "",
+   "topics": [
+    {
+     "title": "Natural history of HBV",
+     "book": "Book pp. 265–267",
+     "entries": [
+      {
+       "id": "E20.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Who becomes a carrier, and what follows",
+       "book": "p. 265",
+       "src": "Hepatology p. 35",
+       "from": [
+        "HEP:B2-05",
+        "HEP:B2-06",
+        "HEP:B2-07"
+       ],
+       "body": "Chronic HBV is more common in males. About 50% of HBsAg carriers have evidence of replication (HBeAg / HBV DNA positive), and about 20% of carriers develop cirrhosis within 5 years of disease onset."
+      },
+      {
+       "id": "E20.02",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Loss of immune tolerance",
+       "book": "p. 266",
+       "src": "Hepatology p. 35",
+       "from": [
+        "HEP:B2-08"
+       ],
+       "body": "Immune-tolerant patients (mostly infected perinatally) often lose tolerance in the 3rd–5th decade, when acute hepatitis develops and chronic hepatitis may follow."
+      },
+      {
+       "id": "E20.03",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Inactive carriers and reactivation",
+       "book": "p. 267",
+       "src": "Hepatology p. 35",
+       "from": [
+        "HEP:B2-09",
+        "HEP:B2-11"
+       ],
+       "body": "Inactive carriers are usually discovered on screening before blood donation. Reactivation can occur with cancer chemotherapy or bone-marrow transplantation, so **antiviral prophylaxis is indicated** in these settings."
+      }
+     ]
+    },
+    {
+     "title": "Treatment of HBV",
+     "book": "Book pp. 269–271",
+     "entries": [
+      {
+       "id": "E20.04",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "HBeAg loss",
+       "book": "p. 269",
+       "src": "Hepatology p. 36",
+       "from": [
+        "HEP:B2-14"
+       ],
+       "body": "When HBeAg disappears, remission is usually sustained for many years."
+      },
+      {
+       "id": "E20.05",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Pegylated interferon: who responds",
+       "book": "pp. 270–271",
+       "src": "Hepatology p. 36",
+       "from": [
+        "HEP:B2-15",
+        "HEP:B2-16"
+       ],
+       "body": "Pegylated interferon α-2a for 48 weeks gives response rates of about 25–45%; response is best in younger patients with ALT about 3× the upper limit of normal."
+      },
+      {
+       "id": "E20.06",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Entecavir, tenofovir and lamivudine",
+       "book": "p. 270",
+       "src": "Hepatology p. 37",
+       "from": [
+        "HEP:B2-17",
+        "HEP:B2-18",
+        "HEP:B2-19"
+       ],
+       "body": "- **Entecavir:** HBV DNA becomes negative by 48 weeks in 67% (HBeAg-positive) and 90% (HBeAg-negative).\n- **Tenofovir** can be used for lamivudine mutations but not alone for adefovir mutations.\n- **Lamivudine** (100 mg/day) is well tolerated but limited by resistance from the **YMDD mutant**."
+      }
+     ]
+    },
+    {
+     "title": "Hepatitis C (within this chapter)",
+     "book": "Book pp. 271–273",
+     "entries": [
+      {
+       "id": "E20.07",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "How DAAs work",
+       "book": "p. 272",
+       "src": "Hepatology p. 38",
+       "from": [
+        "HEP:B2-23"
+       ],
+       "body": "DAAs target specific HCV **non-structural (NS) proteins** vital for viral replication, disrupting replication and infection."
+      },
+      {
+       "id": "E20.08",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Sofosbuvir and ribavirin: dose and adverse effects",
+       "book": "pp. 272–273",
+       "src": "Hepatology p. 38",
+       "from": [
+        "HEP:B2-24",
+        "HEP:B2-26"
+       ],
+       "body": "- **Sofosbuvir:** 400 mg once daily with or without food; adverse effects (~10%) fatigue, headache, anorexia, insomnia.\n- **Ribavirin** (adjuvant): 600–1200 mg/day by weight; adverse effects haemolytic anaemia, teratogenicity, sperm abnormalities."
+      },
+      {
+       "id": "E20.09",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Why Egypt's HCV burden is so high",
+       "book": "p. 273",
+       "src": "Hepatology p. 39",
+       "from": [
+        "HEP:B2-28"
+       ],
+       "body": "Egypt's HCV burden also reflects nosocomial spread through inadequately disinfected equipment (e.g. circumcision, dental practice), besides the antischistosomal injection campaigns."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "note": "",
+   "topics": [
+    {
+     "title": "AIH subtypes",
+     "book": "Book p. 275",
+     "entries": [
+      {
+       "id": "E21.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Type 1 vs type 2 AIH",
+       "book": "p. 275",
+       "src": "Hepatology p. 22 (table)",
+       "from": [
+        "HEP:B1-23"
+       ],
+       "body": "| | Type 1 | Type 2 |\n| Autoantibodies | ANA alone 10% · ASMA alone 35% · both 50% · neither 5% | LKM-1, LC-1 |\n| Serum IgG | +++ | + |\n| Usual age | 10 years to elderly | 2–18 years |\n| Progression to cirrhosis | ≈45% | ≈80% |\nHow common each type is has been left out: the source and the book give different figures (review point R25)."
+      }
+     ]
+    },
+    {
+     "title": "Fatty liver (MASLD) management",
+     "book": "Book p. 279",
+     "entries": [
+      {
+       "id": "E21.02",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Weight loss should be gradual",
+       "book": "p. 279",
+       "src": "Hepatology p. 44",
+       "from": [
+        "HEP:C-01"
+       ],
+       "body": "Weight loss should be gradual, **not more than 1.6 kg per week**, because rapid weight loss increases fibrosis."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "note": "",
+   "topics": [
+    {
+     "title": "Aetiology and consequences",
+     "book": "Book pp. 281–282",
+     "entries": [
+      {
+       "id": "E22.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Cryptogenic cirrhosis",
+       "book": "p. 281",
+       "src": "Hepatology p. 65",
+       "from": [
+        "HEP:D-21"
+       ],
+       "body": "Some cirrhosis is **cryptogenic** (no identifiable cause)."
+      },
+      {
+       "id": "E22.02",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Two routes by which cirrhosis causes disease",
+       "book": "p. 282",
+       "src": "Hepatology p. 65 (figure)",
+       "from": [
+        "HEP:D-22"
+       ],
+       "body": "- **Altered hepatic blood flow:** portal hypertension → variceal bleeding, ascites, encephalopathy; ascites → SBP, HRS.\n- **Reduced functional cell mass:** less detoxification of bilirubin, ammonia and drugs; less albumin and clotting-protein synthesis."
+      }
+     ]
+    },
+    {
+     "title": "Clinical picture and investigations",
+     "book": "Book pp. 282–284",
+     "entries": [
+      {
+       "id": "E22.03",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Associations, fever and feminisation",
+       "book": "p. 282",
+       "src": "Hepatology p. 45",
+       "from": [
+        "HEP:C-05",
+        "HEP:C-06",
+        "HEP:C-07"
+       ],
+       "body": "Recurrent pancreatitis (especially in alcoholics) is among the associated conditions. Fever may be due to portal bacteraemia or liver-cell necrosis, not only infection. Feminisation in males is seen in long-standing cases and usually indicates **decompensation**."
+      },
+      {
+       "id": "E22.04",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Urine urobilinogen",
+       "book": "p. 284",
+       "src": "Hepatology p. 47",
+       "from": [
+        "HEP:C-10"
+       ],
+       "body": "Urine urobilinogen is increased in cirrhosis."
+      }
+     ]
+    },
+    {
+     "title": "Varices screening without endoscopy",
+     "book": "Book p. 285",
+     "entries": [
+      {
+       "id": "E22.05",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Elastography cut-offs",
+       "book": "p. 285",
+       "src": "Hepatology pp. 48, 60",
+       "from": [
+        "HEP:C-11",
+        "HEP:C-12",
+        "HEP:D-06"
+       ],
+       "body": "- Liver stiffness **≤20 kPa with platelets &gt;150 × 10⁹/L**: screening endoscopy not needed (large varices &lt;5%).\n- Liver stiffness **&gt;25 kPa** is sufficient to diagnose clinically significant portal hypertension (CSPH), with no endoscopy needed; treat with carvedilol to reduce the risk of decompensation."
+      }
+     ]
+    },
+    {
+     "title": "Cholestatic and metabolic cirrhosis",
+     "book": "Book pp. 287–300",
+     "entries": [
+      {
+       "id": "E22.06",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "PBC: supplements and biopsy",
+       "book": "pp. 287–288",
+       "src": "Hepatology p. 51",
+       "from": [
+        "HEP:C-17",
+        "HEP:C-18"
+       ],
+       "body": "Supplement fat-soluble vitamins and calcium. Biopsy shows loss of small bile ducts with **ductular proliferation**."
+      },
+      {
+       "id": "E22.07",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Haemochromatosis: skin, cancer risk and MRI",
+       "book": "pp. 292–293",
+       "src": "Hepatology p. 53",
+       "from": [
+        "HEP:C-21",
+        "HEP:C-23",
+        "HEP:C-22"
+       ],
+       "body": "- Bronze skin is due to **melanin** deposition; about 30% may develop HCC as a complication of cirrhosis.\n- MRI showing iron in the **pancreas** distinguishes hereditary haemochromatosis from secondary iron overload (haemosiderosis), where only the liver is affected."
+      },
+      {
+       "id": "E22.08",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Wilson disease: copper handling and features",
+       "book": "pp. 294–296",
+       "src": "Hepatology pp. 12–13",
+       "from": [
+        "HEP:A-36",
+        "HEP:A-37",
+        "HEP:A-39",
+        "HEP:A-42",
+        "HEP:A-43",
+        "HEP:A-41"
+       ],
+       "body": "- Ceruloplasmin is an α2-globulin carrying six copper atoms (loaded by ATP7B); 50–75% of intestinal copper is absorbed; normal serum ceruloplasmin is 20–35 mg/dL.\n- Haemolysis is due to the toxic effect of copper on red cells; psychiatric disease can extend to psychosis (schizophrenia-like or manic-depressive).\n- Kayser–Fleischer rings are gold or greenish-gold rings at the corneoscleral junction; in a few people they are the **first sign** of Wilson disease."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "note": "",
+   "topics": [
+    {
+     "title": "Causes and splenomegaly",
+     "book": "Book pp. 309–311",
+     "entries": [
+      {
+       "id": "E23.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Causes by site that the book does not list",
+       "book": "pp. 309–310",
+       "src": "Hepatology p. 57 (figure)",
+       "from": [
+        "HEP:D-01",
+        "HEP:D-02",
+        "HEP:D-03",
+        "HEP:D-04"
+       ],
+       "body": "| Site | Additional causes in the source |\n| Increased flow | Idiopathic tropical splenomegaly; arteriovenous fistula |\n| Prehepatic | Splenic-vein thrombosis; invasion or compression of portal/splenic vein by tumour |\n| Presinusoidal | Early PBC; chronic active hepatitis; vinyl chloride, copper; idiopathic portal hypertension |\n| Sinusoidal (non-cirrhotic) | Cytotoxic drugs; vitamin A intoxication |\n| Post-sinusoidal | Alcoholic central hyaline sclerosis |\n| Posthepatic | IVC webs, tumour invasion or thrombosis |"
+      },
+      {
+       "id": "E23.02",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Why the spleen enlarges",
+       "book": "p. 311",
+       "src": "Hepatology p. 59",
+       "from": [
+        "HEP:D-05"
+       ],
+       "body": "Splenomegaly results from congestion **and** reticulo-endothelial hyperplasia."
+      }
+     ]
+    },
+    {
+     "title": "Primary prophylaxis",
+     "book": "Book p. 313",
+     "entries": [
+      {
+       "id": "E23.03",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Variceal haemorrhage as a cause of death",
+       "book": "p. 313",
+       "src": "Hepatology p. 60",
+       "from": [
+        "HEP:D-07"
+       ],
+       "body": "Variceal haemorrhage accounts for about **one-third** of deaths in cirrhosis with portal hypertension."
+      },
+      {
+       "id": "E23.04",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "How non-selective β-blockers work",
+       "book": "p. 313",
+       "src": "Hepatology p. 61",
+       "from": [
+        "HEP:D-08",
+        "HEP:D-09",
+        "HEP:D-10"
+       ],
+       "body": "Non-selective β-blockers reduce portal inflow by lowering cardiac output (β1) and blocking β2 vasodilator receptors on splanchnic arteries; they are **as effective as banding**. Propranolol alternative: 80–160 mg/day, titrated to cut resting pulse by 25%, for life."
+      }
+     ]
+    },
+    {
+     "title": "Acute variceal bleeding",
+     "book": "Book pp. 314–317",
+     "entries": [
+      {
+       "id": "E23.05",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Blood-pressure target and terlipressin regimen",
+       "book": "p. 315",
+       "src": "Hepatology pp. 61–62",
+       "from": [
+        "HEP:D-11",
+        "HEP:D-13"
+       ],
+       "body": "- Resuscitate to a systolic BP of about 100 mmHg.\n- Terlipressin: 2 mg IV every 6 h, then 1 mg every 4 h, for 2–5 days. The book gives the duration (2–5 days) but no dose; this dose is from the Hepatology source only. (That source's next sentence on ischaemic heart disease is garbled; see note N4.)"
+      },
+      {
+       "id": "E23.06",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Histoacryl and balloon tamponade",
+       "book": "pp. 315–316",
+       "src": "Hepatology p. 62",
+       "from": [
+        "HEP:D-12",
+        "HEP:D-15"
+       ],
+       "body": "Histoacryl (tissue adhesive) is used for gastric varices **and big oesophageal varices**. Balloon tamponade is rarely used now because of its complications, but it can be used when endoscopic or vasoconstrictor therapy has failed or is unavailable."
+      },
+      {
+       "id": "E23.07",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "TIPS timing and surgical shunts",
+       "book": "pp. 316–317",
+       "src": "Hepatology pp. 62–63",
+       "from": [
+        "HEP:D-16",
+        "HEP:D-17"
+       ],
+       "body": "- The source gives both steps together: a rebleed within 10 days is treated by repeating endoscopic therapy (as in the book, p. 316), and **TIPS** is used when bleeding cannot be stopped or early rebleeding occurs **within 5 days** of endoscopic therapy.\n- Surgical shunts are usually end-to-side portocaval or Warren (splenorenal)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "note": "No additions. GIT Others names hydatid disease only as a differential of amoebic liver abscess, which the book already covers (Ch 9); the Hepatology source does not cover hydatid cyst.",
+   "topics": []
+  },
+  {
+   "n": 25,
+   "note": "No additions. The one finding for this chapter is a disagreement about the blood count in amoebic liver abscess, kept for review.",
+   "topics": []
+  },
+  {
+   "n": 26,
+   "note": "No additions. Neither GIT Others nor the Hepatology source adds anything to hepatocellular carcinoma beyond the book.",
+   "topics": []
+  },
+  {
+   "n": 27,
+   "note": "",
+   "topics": [
+    {
+     "title": "Causes and mechanism",
+     "book": "Book pp. 338–339",
+     "entries": [
+      {
+       "id": "E27.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Commonest causes after cirrhosis",
+       "book": "p. 338",
+       "src": "Hepatology p. 66",
+       "from": [
+        "HEP:E-01"
+       ],
+       "body": "After cirrhosis, malignancy is the next commonest cause; cardiac failure and tuberculous peritonitis are less frequent."
+      },
+      {
+       "id": "E27.02",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Causes grouped by portal hypertension",
+       "book": "p. 338",
+       "src": "Hepatology p. 66",
+       "from": [
+        "HEP:E-02"
+       ],
+       "body": "| | Causes |\n| With PHT: intrahepatic | Cirrhosis, alcoholic hepatitis, active chronic hepatitis, liver failure, veno-occlusive disease, liver tumour, schistosomiasis, sarcoidosis, Budd–Chiari, focal nodular hyperplasia |\n| With PHT: extrahepatic | Heart failure, pericarditis, portal-vein thrombosis |\n| No PHT: peritoneal | Carcinomatosis, mesothelioma, pseudomyxoma, infection |\n| No PHT: hypoalbuminaemia | Nephrotic syndrome, malnutrition, bowel disease |\n| No PHT: mixed | Myxoedema, pancreatic/biliary ascites, amyloidosis, familial Mediterranean fever, granulomatous disease |"
+      },
+      {
+       "id": "E27.03",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "RAAS: one activation, two consequences",
+       "book": "p. 339",
+       "src": "Hepatology pp. 67–68",
+       "from": [
+        "HEP:E-04",
+        "HEP:E-05"
+       ],
+       "body": "Renin (juxtaglomerular cells) converts liver-made angiotensinogen to angiotensin I; ACE (mainly pulmonary endothelium) forms angiotensin II, a pressor that also releases aldosterone. Release is driven by renal perfusion (JG cells), distal Na/Cl load (macula densa) and sympathetic β-receptors. The same RAAS activation causes **renal sodium avidity (ascites)** and **renal vasoconstriction (HRS)**."
+      }
+     ]
+    },
+    {
+     "title": "Investigations",
+     "book": "Book p. 340",
+     "entries": [
+      {
+       "id": "E27.04",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Detecting and tapping ascites",
+       "book": "p. 340",
+       "src": "Hepatology p. 70",
+       "from": [
+        "HEP:E-08",
+        "HEP:E-09",
+        "HEP:E-10"
+       ],
+       "body": "- Ultrasound detects as little as 30 mL (right lateral decubitus).\n- Diagnostic paracentesis is indicated for new-onset ascites or a suspected complication (sterile, 20–23-gauge angiocatheter).\n- Extra fluid tests: Gram stain, triglycerides (chylous), bilirubin (bowel perforation), glucose, amylase, LDH, cytology. Pair ascitic with same-day serum albumin for SAAG."
+      },
+      {
+       "id": "E27.05",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "SAAG: accuracy and extra causes",
+       "book": "p. 340",
+       "src": "Hepatology p. 71 (text + table)",
+       "from": [
+        "HEP:E-11",
+        "HEP:E-12"
+       ],
+       "body": "SAAG correlates directly with portal pressure; ≥1.1 g/dL (11 g/L) vs &lt;1.1 separates portal-hypertensive ascites with &gt;97% accuracy.\n- **Extra high-gradient causes:** fatty liver of pregnancy, massive metastases, mixed ascites, myxoedema, portal-vein thrombosis, sinusoidal obstruction syndrome.\n- **Extra low-gradient causes:** bowel obstruction/infarction, postoperative lymphatic leak, serositis in connective-tissue disease."
+      }
+     ]
+    },
+    {
+     "title": "Management",
+     "book": "Book pp. 341–342",
+     "entries": [
+      {
+       "id": "E27.06",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Diuretics: sodium intake, timing and when to stop",
+       "book": "p. 341",
+       "src": "Hepatology p. 72 (box)",
+       "from": [
+        "HEP:E-14"
+       ],
+       "body": "The book already gives bed rest, daily weight and spironolactone 100–200 mg. The source adds a **70–90 mmol sodium diet**; **after 4 days** consider adding furosemide 40 mg daily; and **stop diuretics** if pre-coma (flap), hypokalaemia, azotaemia or alkalosis."
+      },
+      {
+       "id": "E27.07",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Refractory ascites: two kinds, and what drives it",
+       "book": "p. 342",
+       "src": "Hepatology p. 74",
+       "from": [
+        "HEP:E-16",
+        "HEP:E-17"
+       ],
+       "body": "Refractory ascites (10–20% of patients) is diuretic-**resistant** (no response to maximal doses) or diuretic-**intractable** (complications prevent an effective dose). Look for contributors: worsening liver disease, portal/hepatic-vein thrombosis, GI bleeding, infection/SBP, malnutrition, HCC, cardiac or renal disease, hepatotoxic or nephrotoxic substances."
+      },
+      {
+       "id": "E27.08",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Large-volume paracentesis, TIPS and shunting",
+       "book": "p. 342",
+       "src": "Hepatology p. 74",
+       "from": [
+        "HEP:E-18",
+        "HEP:E-19",
+        "HEP:E-20"
+       ],
+       "body": "Large-volume paracentesis: 4–6 L daily until the abdomen is emptied, repeated every 2–4 weeks; continue diuretics and sodium restriction afterwards. (Albumin replacement, 8 g per litre removed, is on book p. 342 and in the source.) TIPS lowers diuretic needs, renin and aldosterone but may precipitate encephalopathy or liver failure. Peritoneovenous shunting is another option."
+      }
+     ]
+    },
+    {
+     "title": "Spontaneous bacterial peritonitis",
+     "book": "Book pp. 343–344",
+     "entries": [
+      {
+       "id": "E27.09",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Who gets SBP, and which organisms",
+       "book": "p. 343",
+       "src": "Hepatology pp. 75–76",
+       "from": [
+        "HEP:E-21",
+        "HEP:E-22",
+        "HEP:E-24"
+       ],
+       "body": "Infection of ascitic fluid may be spontaneous or follow a previous paracentesis. The **spontaneous** type develops in about **8% of cirrhotics with ascites** (the book's 10% is for all cirrhotic patients, a figure the source also gives), especially when the cirrhosis is severely decompensated. 90% are monomicrobial. More than one organism suggests paracentesis-related infection; anaerobes are rare. Variceal bleeding and previous SBP carry particular risk."
+      },
+      {
+       "id": "E27.10",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "From translocation to SBP",
+       "book": "p. 343",
+       "src": "Hepatology p. 76 (figure)",
+       "from": [
+        "HEP:E-23"
+       ],
+       "body": "Gut bacteria translocate (overgrowth, dysmotility) to mesenteric nodes or bypass liver RES via portosystemic shunts → bacteraemia → **bacterascites**, which resolves if ascitic opsonic activity is good and becomes SBP if it is poor."
+      },
+      {
+       "id": "E27.11",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "SBP can be silent",
+       "book": "p. 343",
+       "src": "Hepatology p. 76",
+       "from": [
+        "HEP:E-24"
+       ],
+       "body": "Classic features (fever, pain, leucocytosis) **may be absent**; the book (p. 343) already says to suspect SBP in any cirrhotic with ascites who deteriorates."
+      },
+      {
+       "id": "E27.12",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Treatment length and prophylaxis after bleeding",
+       "book": "pp. 343–344",
+       "src": "Hepatology pp. 76–77",
+       "from": [
+        "HEP:E-25",
+        "HEP:E-26"
+       ],
+       "body": "Treat for ≥5 days; amoxicillin–clavulanate is as effective as third-generation cephalosporins. After upper GI haemorrhage (or sclerotherapy) give norfloxacin 400 mg 12-hourly for **at least 7 days**."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "note": "",
+   "topics": [
+    {
+     "title": "Hepatorenal syndrome",
+     "book": "Book pp. 346–347",
+     "entries": [
+      {
+       "id": "E28.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "The kidneys are normal: the defect is blood flow",
+       "book": "p. 346",
+       "src": "Hepatology p. 78 (text + figure)",
+       "from": [
+        "HEP:E-28",
+        "HEP:E-29"
+       ],
+       "body": "The book (p. 346) gives the normal renal histology, renal vasoconstriction and splanchnic vasodilatation. The source adds that the kidneys are **capable of normal function** (HRS is progressive, and the defect is renal blood flow), that **cardiac dysfunction** is a third component, and that most patients have tense ascites."
+      },
+      {
+       "id": "E28.02",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Classic criteria and what to exclude",
+       "book": "pp. 346–347",
+       "src": "Hepatology p. 79",
+       "from": [
+        "HEP:E-32",
+        "HEP:E-33"
+       ],
+       "body": "Classic criteria used serum creatinine ≥1.5 mg/dL (133 µmol/L) persisting 48 h after diuretic withdrawal and albumin expansion. Exclude toxins (paracetamol, NSAIDs, carbon tetrachloride), infection, ATN (hypotension, aminoglycosides, contrast) and obstructive uropathy."
+      },
+      {
+       "id": "E28.03",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Preventing HRS",
+       "book": "p. 347",
+       "src": "Hepatology p. 80 (table)",
+       "from": [
+        "HEP:E-35"
+       ],
+       "body": "Avoid volume depletion (diuretics, lactulose, GI bleeding, LVP without albumin); use ACEI/ARB/NSAIDs/antibiotics judiciously; treat infection early and give SBP prophylaxis; pentoxifylline in severe alcoholic hepatitis; prevent variceal bleeding."
+      },
+      {
+       "id": "E28.04",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Albumin loading and alternatives to terlipressin",
+       "book": "p. 347",
+       "src": "Hepatology p. 80 (table)",
+       "from": [
+        "HEP:E-36"
+       ],
+       "body": "- Albumin loading 1 g/kg/day (max 100 g) to a CVP of 10–15 cmH₂O.\n- Alternatives to terlipressin: midodrine 2.5–5 mg tds (to 15 mg tds) + octreotide 100 µg SC tds (to 200 µg), or noradrenaline 0.1–0.7 µg/kg/min, titrated to MAP.\n- Vasopressors generally for up to 2 weeks; evaluate for transplantation.\nThe terlipressin escalation schedule and maintenance albumin dose from the same table differ from the book and are kept for review (R36)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "note": "",
+   "topics": [
+    {
+     "title": "Approach to jaundice",
+     "book": "Book pp. 351–354",
+     "entries": [
+      {
+       "id": "E29.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Isolated indirect hyperbilirubinaemia: the algorithm",
+       "book": "p. 354",
+       "src": "Hepatology p. 10 (algorithm)",
+       "from": [
+        "HEP:A-27"
+       ],
+       "body": "First exclude recent trauma, haematoma or transfusion; then LDH, haptoglobin and reticulocyte count: abnormal → haemolysis/dyserythropoiesis; normal → Gilbert or Crigler–Najjar I/II."
+      },
+      {
+       "id": "E29.02",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Halothane",
+       "book": "p. 351",
+       "src": "Hepatology p. 9",
+       "from": [
+        "HEP:A-25"
+       ],
+       "body": "Halothane (like paracetamol) causes toxic hepatitis with mixed (hepatic) hyperbilirubinaemia."
+      },
+      {
+       "id": "E29.03",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Biliary obstruction vs liver disease",
+       "book": "pp. 353–354",
+       "src": "Hepatology p. 87 (table)",
+       "from": [
+        "HEP:F-06"
+       ],
+       "body": "| | Favours biliary obstruction | Favours liver disease |\n| History | Abdominal pain, fever/rigors, prior biliary surgery, older age | Viral prodrome, known viral exposure, blood products or IV drug use, hepatotoxin, family history |\n| Examination | Fever, tenderness, palpable mass, surgical scar | Spider telangiectasias, stigmata of portal hypertension, asterixis |\n| Laboratory | ALP ↑ out of proportion; PT normal or corrects with vitamin K; leucocytosis; amylase/lipase ↑ | Aminotransferases ↑ out of proportion; PT does not correct with vitamin K; thrombocytopenia; positive serology |"
+      },
+      {
+       "id": "E29.04",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Intrahepatic cholestasis by level",
+       "book": "p. 352",
+       "src": "Hepatology p. 85 (figure)",
+       "from": [
+        "HEP:F-10"
+       ],
+       "body": "- **Hepatocyte:** viral, drug and alcoholic hepatitis; post-necrotic cirrhosis; endotoxin.\n- **Canaliculus:** benign recurrent cholestasis; hormones, pregnancy, drugs.\n- **Ductules:** PBC, allograft rejection, **graft-versus-host**, biliary atresia, idiopathic adult ductopenia.\n- **Larger ducts:** primary/secondary sclerosing cholangitis."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "note": "",
+   "topics": [
+    {
+     "title": "Pathogenesis",
+     "book": "Book pp. 358, 360",
+     "entries": [
+      {
+       "id": "E30.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Ammonia",
+       "book": "p. 358",
+       "src": "Hepatology p. 90 (text + figure)",
+       "from": [
+        "HEP:F-12",
+        "HEP:F-15"
+       ],
+       "body": "About half of gut ammonia is made by bacteria, the rest from dietary protein and glutamine; it is cleared as urea and glutamine. Blood ammonia is raised in **90%** of HE; ammonia damages the blood–brain barrier and astrocytes and shifts neural activity toward inhibition. Reduced muscle metabolism also raises it."
+      },
+      {
+       "id": "E30.02",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Amino-acid imbalance and false neurotransmitters",
+       "book": "pp. 358, 360",
+       "src": "Hepatology p. 90",
+       "from": [
+        "HEP:F-13"
+       ],
+       "body": "Aromatic amino acids rise (failed hepatic deamination) while branched-chain amino acids fall (muscle/renal uptake driven by **hyperinsulinaemia**); more aromatic amino acids enter the brain, and phenylalanine inhibits dopa synthesis → false neurotransmitters."
+      },
+      {
+       "id": "E30.03",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "GABA",
+       "book": "p. 358",
+       "src": "Hepatology p. 90",
+       "from": [
+        "HEP:F-14"
+       ],
+       "body": "GABA is made by gut bacteria and normally cleared by the liver; in liver failure or shunting it reaches the systemic circulation."
+      }
+     ]
+    },
+    {
+     "title": "Treatment framework",
+     "book": "Book p. 359",
+     "entries": [
+      {
+       "id": "E30.04",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Three strategies",
+       "book": "p. 359",
+       "src": "Hepatology p. 91",
+       "from": [
+        "HEP:F-16"
+       ],
+       "body": "Treat the **precipitating cause**; reduce production and absorption of gut-derived ammonia and toxins; modify neurotransmitter balance."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "note": "",
+   "topics": [
+    {
+     "title": "Cerebral oedema",
+     "book": "Book p. 363",
+     "entries": [
+      {
+       "id": "E31.01",
+       "subjects": [
+        "HEP"
+       ],
+       "title": "Cerebral blood flow in acute liver failure",
+       "book": "p. 363",
+       "src": "Hepatology p. 94",
+       "from": [
+        "HEP:F-18"
+       ],
+       "body": "Cerebral blood flow is generally increased: persistent vasodilatation and loss of autoregulation cause hyperaemia, and the rise in cerebral blood volume can worsen brain oedema."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "note": "No additions. Checked against GIT Others; the Hepatology source does not cover the biliary system.",
+   "topics": []
+  },
+  {
+   "n": 33,
+   "note": "No additions. Checked against GIT Others; the Hepatology source does not cover the gallbladder.",
+   "topics": []
+  },
+  {
+   "n": 34,
+   "note": "No additions. Checked against GIT Others; the Hepatology source does not cover gallstones.",
+   "topics": []
+  },
+  {
+   "n": 35,
+   "note": "No additions. The Hepatology source's cholestasis and jaundice material is filed under Chapters 18 and 29; biliary *Ascaris* (GIT Others) is already on book p. 390.",
+   "topics": []
+  },
+  {
+   "n": 36,
+   "note": "No additions. Checked against GIT Others; neither source covers acute pancreatitis.",
+   "topics": []
+  },
+  {
+   "n": 37,
+   "note": "No additions. Checked against GIT Others; neither source covers pancreatic cancer.",
+   "topics": []
+  },
+  {
+   "n": 38,
+   "note": "No additions. Checked against GIT Others; neither source covers the acute abdomen.",
+   "topics": []
+  },
+  {
+   "n": 39,
+   "note": "No additions. Checked against GIT Others; neither source covers abdominal trauma.",
+   "topics": []
+  },
+  {
+   "n": 40,
+   "note": "No additions. Checked against GIT Others; neither source covers splenic trauma.",
+   "topics": []
+  }
+ ],
+ "reviews": [
+  {
+   "id": "R01",
+   "title": "Autoimmune gastritis: is it \"pangastritis\"?",
+   "ch": 3,
+   "subj": "IM",
+   "from": "GIT Internal Med companion C3-13",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book pp. 38, 42",
+     "text": "Autoimmune gastritis affects the fundus and body and **spares the antrum**; \"pangastritis\" is used only for H. pylori gastritis spreading from antrum to body."
+    },
+    {
+     "key": "B",
+     "label": "GIT Internal Med p. 26",
+     "text": "Autoimmune gastritis affects the body and fundus and is called **\"pangastritis\"**."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R02",
+   "title": "Misoprostol: a PGE₁ or a PGE₂ analogue?",
+   "ch": 3,
+   "subj": "PHARM",
+   "from": "GIT Others capsule C3-D1 (ledger PH-15)",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 37",
+     "text": "\"a synthetic prostaglandin **E₂** analogue\"."
+    },
+    {
+     "key": "B",
+     "label": "Book p. 48 · GIT Others p. 4",
+     "text": "\"Synthetic **PGE1** analog\"."
+    }
+   ],
+   "note": "The book's two pages disagree with each other; GIT Others agrees with p. 48."
+  },
+  {
+   "id": "R03",
+   "title": "H. pylori triple therapy: duration and first-line status",
+   "ch": 3,
+   "subj": "IM",
+   "from": "GIT Internal Med companion C3-17",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 41",
+     "text": "PPI + amoxicillin + clarithromycin for **14 days**, but **no longer recommended as empirical first-line** unless local clarithromycin resistance is known to be low."
+    },
+    {
+     "key": "B",
+     "label": "Book p. 48",
+     "text": "The same regimen for **10–14 days**."
+    },
+    {
+     "key": "C",
+     "label": "GIT Internal Med p. 31",
+     "text": "The same regimen for **14 days**, \"one of the most commonly used\" regimens."
+    }
+   ],
+   "note": "The book is inconsistent on duration (14 vs 10–14 days), and the sources differ on whether triple therapy is still first-line."
+  },
+  {
+   "id": "R04",
+   "title": "Levofloxacin dose in the rescue regimen",
+   "ch": 3,
+   "subj": "PHARM",
+   "from": "GIT Others capsule C3-D2 (ledger PH-16)",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 41",
+     "text": "\"Levofloxacin **500 mg once daily** + PPI + Amoxicillin\"."
+    },
+    {
+     "key": "B",
+     "label": "Book p. 48 · GIT Others p. 5",
+     "text": "\"levofloxacin **250 or 500 mg twice a day** for 10 days\" (with PPI + amoxicillin 1 g twice a day)."
+    }
+   ],
+   "note": "The book's two pages disagree with each other; GIT Others agrees with p. 48."
+  },
+  {
+   "id": "R05",
+   "title": "Transfusion threshold in acute upper GI bleeding",
+   "ch": 3,
+   "subj": "IM",
+   "from": "Integration review of GIT Internal Med companion ledger row GB-08",
+   "positions": [
+    {
+     "key": "A",
+     "label": "GIT Internal Med p. 39",
+     "text": "Transfuse for shock **or Hb &lt; 10** with recent or active bleeding. The source prints the unit as \"mg/dl\"."
+    },
+    {
+     "key": "B",
+     "label": "Book pp. 50–51",
+     "text": "\"IV fluids and blood transfusion **when indicated**\"; \"Hemoglobin levels are generally a **poor indicator** of the need to transfuse\". No numeric threshold is given."
+    }
+   ],
+   "note": "For variceal bleeding the book (Ch 23, p. 315) uses a restrictive target of Hb 7–8 g/dL (see R32). The shock criteria from the same source page are taught in Chapter 3; the Hb threshold is not."
+  },
+  {
+   "id": "R06",
+   "title": "Commonest site of gastric cancer: how common?",
+   "ch": 3,
+   "subj": "PATH",
+   "from": "GIT Others capsule C3-D3 (ledger TU-13)",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 62",
+     "text": "Antrum/pyloric area **60%**, body 15%, fundus 25%."
+    },
+    {
+     "key": "B",
+     "label": "GIT Others p. 15",
+     "text": "Pyloric region **50%**, then **lesser curvature 25%**; it can occur anywhere in the stomach."
+    }
+   ],
+   "note": "Both agree that the pyloric (antral) region is the commonest site; the percentages and the second site differ."
+  },
+  {
+   "id": "R07",
+   "title": "How long is \"acute\" diarrhoea?",
+   "ch": 5,
+   "subj": "IM",
+   "from": "GIT Internal Med companion C5-08",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 77",
+     "text": "Acute diarrhoea lasts **less than 2 to 3 weeks or, rarely, 6 to 8 weeks**."
+    },
+    {
+     "key": "B",
+     "label": "GIT Internal Med p. 51",
+     "text": "Acute diarrhoea lasts **less than 4 weeks**."
+    }
+   ],
+   "note": "Both agree that diarrhoea lasting more than 4 weeks is evaluated as chronic."
+  },
+  {
+   "id": "R08",
+   "title": "Stool fat and lactose breath test protocols",
+   "ch": 5,
+   "subj": "IM",
+   "from": "GIT Internal Med companion C5-38",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 93 · GIT Internal Med p. 68 (text)",
+     "text": "**70–100 g** fat diet with stool collected over **2–3 days**; lactose dose **25 g**."
+    },
+    {
+     "key": "B",
+     "label": "GIT Internal Med pp. 69–70 (tables)",
+     "text": "**100 g** fat diet with stool collected over **3 days**; lactose dose **1 g/kg** body weight."
+    }
+   ],
+   "note": "The source's text and tables disagree with each other; the book follows the text."
+  },
+  {
+   "id": "R09",
+   "title": "IBS diagnostic criteria: which Rome edition?",
+   "ch": 6,
+   "subj": "IM",
+   "from": "GIT Internal Med companion C6-16",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 102 (Rome V)",
+     "text": "Pain on average **at least 3 days per month** over the last 3 months."
+    },
+    {
+     "key": "B",
+     "label": "GIT Internal Med p. 75 (Rome IV)",
+     "text": "Recurrent abdominal pain **at least 1 day per week** in the last 3 months."
+    }
+   ],
+   "note": "The 2-of-3 associated features (related to defecation, change in stool frequency, change in stool form) are the same in both."
+  },
+  {
+   "id": "R10",
+   "title": "Low-FODMAP diet: which foods to limit?",
+   "ch": 6,
+   "subj": "IM",
+   "from": "GIT Internal Med companion C6-17",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 104",
+     "text": "Foods high in fructans and oligosaccharides: **onions, garlic, wheat, rye and legumes**."
+    },
+    {
+     "key": "B",
+     "label": "GIT Internal Med p. 75",
+     "text": "**Potatoes, brown rice, oats and almonds** as examples of foods the patient should limit."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R11",
+   "title": "IBS-C: the second drug option",
+   "ch": 6,
+   "subj": "IM",
+   "from": "GIT Internal Med companion C6-20",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 105",
+     "text": "**Prucalopride** (selective 5-HT4 agonist, prokinetic). Linaclotide appears only in the laxative table on p. 99, for refractory constipation."
+    },
+    {
+     "key": "B",
+     "label": "GIT Internal Med p. 75",
+     "text": "**Linaclotide**, a guanylate cyclase activator that softens stool and stimulates bowel movement."
+    }
+   ],
+   "note": "Both give lubiprostone (chloride channel activator) as the first option."
+  },
+  {
+   "id": "R12",
+   "title": "Widal test: what a high H titre means",
+   "ch": 7,
+   "subj": "MICRO",
+   "from": "GIT Others capsule C7-D1 (ledger FI-13)",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 109",
+     "text": "A high titre to **one** H antigen (≥1:160) suggests recent infection with that type; high O titre **plus more than one** H antigen indicates recent immunisation."
+    },
+    {
+     "key": "B",
+     "label": "GIT Others p. 24",
+     "text": "\"**More than one** H antigen (≥1:160) suggest recent infection with this type of Salmonella **and** recent immunization.\""
+    }
+   ],
+   "note": "The GIT Others list here is garbled (its items 1–2 are cut off), so it is not a reliable correction."
+  },
+  {
+   "id": "R13",
+   "title": "Ulcerative colitis: two rows of GIT Internal Med's p. 76 table vs the book's Fig 8.1",
+   "ch": 8,
+   "subj": "IM",
+   "from": "GIT Internal Med companion C8-03 (granulomas); rectum row found in integration review of C8-02",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 117 (Fig 8.1)",
+     "text": "Granulomas **should not be present** in UC (microgranulomas may accompany ruptured crypt abscesses); GIT Internal Med's own p. 77 table agrees. Rectum: **\"typically involved\"** in UC."
+    },
+    {
+     "key": "B",
+     "label": "GIT Internal Med p. 76 table",
+     "text": "Granulomas in UC: **\"occasional\"**. Rectum: **\"always\"** involved in UC (only commonly in Crohn's disease)."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R14",
+   "title": "Systemic steroid doses in IBD",
+   "ch": 8,
+   "subj": "IM",
+   "from": "GIT Internal Med companion C8-17",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book pp. 119–120 · GIT Internal Med p. 80 (text)",
+     "text": "Methylprednisolone **10–30 mg IV q6–8h**; prednisone **40–60 mg/day**."
+    },
+    {
+     "key": "B",
+     "label": "GIT Internal Med p. 80 (drug table)",
+     "text": "Methylprednisolone **40–60 mg IV daily**; prednisone **0.25–0.75 mg/kg PO daily**."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R15",
+   "title": "Colorectal cancer: age at presentation",
+   "ch": 15,
+   "subj": "PATH",
+   "from": "GIT Others capsule C15-D1 (ledger TU-31)",
+   "positions": [
+    {
+     "key": "A",
+     "label": "GIT Others p. 19",
+     "text": "\"Age of **50–70** years.\""
+    },
+    {
+     "key": "B",
+     "label": "GIT Others p. 20 · Book p. 74 (Ch 4)",
+     "text": "\"between **60 and 79** years of age\"."
+    },
+    {
+     "key": "C",
+     "label": "Book p. 196 (Ch 15)",
+     "text": "\"old age, however no age is immune\"."
+    }
+   ],
+   "note": "GIT Others contradicts itself."
+  },
+  {
+   "id": "R16",
+   "title": "PBC in the immunoglobulin list: raised AMA or raised IgM?",
+   "ch": 18,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger A-34",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 239",
+     "text": "Under \"Serum immunoglobulins\": \"In primary biliary cirrhosis, **raised IgM**.\""
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 11",
+     "text": "Same list: \"In primary biliary cirrhosis, **raised AMA**.\""
+    }
+   ],
+   "note": "Both texts give AMA 95% under autoantibodies."
+  },
+  {
+   "id": "R17",
+   "title": "What happens to the reabsorbed 10–20% of urobilinogen?",
+   "ch": 18,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger F-04",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 245",
+     "text": "The reabsorbed 10–20% **escape the enterohepatic circulation** and pass to the kidney to be excreted in urine."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 82",
+     "text": "The reabsorbed 10–20% enter the portal blood and are **re-excreted by the liver**; only a small fraction escapes hepatic uptake into urine (figure: ~80% faeces, ~18% enterohepatic, ~2% urine)."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R18",
+   "title": "Gilbert's syndrome: decreased uptake or decreased conjugation?",
+   "ch": 18,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger F-05",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 245 (Ch 18)",
+     "text": "Gilbert's is listed under \"II – Decrease uptake\" (\"defect of hepatic uptake and/or decrease of conjugation\")."
+    },
+    {
+     "key": "B",
+     "label": "Book pp. 350–351 (Ch 29) · Hepatology pp. 83–84",
+     "text": "Gilbert's is a **decreased conjugation** disorder (deficient hepatic bilirubin glucuronidation); drugs such as rifampin are the example of decreased uptake."
+    }
+   ],
+   "note": "The book's two chapters classify it differently."
+  },
+  {
+   "id": "R19",
+   "title": "Rest in acute viral hepatitis",
+   "ch": 19,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger B1-35",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 259 (also p. 253 for HAV)",
+     "text": "\"Normal activity as tolerated\"; for HAV, \"rest and dietary measures are unhelpful\"."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 31",
+     "text": "\"Bed rest is **mandatory** until the patient is free of jaundice and symptoms and the bilirubin is less than 1.5 mg/dl.\""
+    }
+   ],
+   "note": "The Hepatology source itself also says rest is unhelpful for HAV (p. 24)."
+  },
+  {
+   "id": "R20",
+   "title": "HBV prevalence in Egypt",
+   "ch": 20,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger B2-03",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 265",
+     "text": "\"currently estimated to be **below 2%** in the general population\"; genotype D predominant."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 35",
+     "text": "Overall prevalence in Egypt **5%**, mainly genotype D."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R21",
+   "title": "Risk of chronic HBV by age at infection",
+   "ch": 20,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger B2-04",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 265 (and p. 247)",
+     "text": "Neonates ~90%, children under 5 years **20–30%**, adults **&lt;5%** (p. 247: chronic hepatitis in 5–10%)."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 35",
+     "text": "Neonates 90%, children under 5 years **20–50%**, adults **&lt;10%**."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R22",
+   "title": "Inactive carrier: HBV DNA level",
+   "ch": 20,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger B2-10",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book pp. 266–267",
+     "text": "HBV DNA usually **&lt;2,000 IU/mL**."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 35",
+     "text": "HBV DNA **below 400 IU/L**."
+    }
+   ],
+   "note": "The source's unit (IU/L) is unusual."
+  },
+  {
+   "id": "R23",
+   "title": "Spontaneous HBsAg clearance per year",
+   "ch": 20,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger B2-12",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 267",
+     "text": "Approximately **1%** per year."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 35",
+     "text": "**1–2%** per year."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R24",
+   "title": "Egypt's HCV screening campaign: how many screened?",
+   "ch": 20,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger B2-30",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 273",
+     "text": "Approximately **60 million** people have been screened; no prevalence figure."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 39",
+     "text": "More than **49 million** screened (Oct 2018–May 2019), HCV prevalence **4.4%**."
+    }
+   ],
+   "note": "The two may refer to different time frames."
+  },
+  {
+   "id": "R25",
+   "title": "How common is type 1 autoimmune hepatitis?",
+   "ch": 21,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger B1-24",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 275",
+     "text": "Type 1 accounts for approximately **80–90%** of cases."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 22 (table)",
+     "text": "Type 1 **95%**, type 2 5%."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R26",
+   "title": "Metformin in fatty liver disease",
+   "ch": 21,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger C-02",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 279",
+     "text": "Metformin should be used to treat diabetes but is **not recommended specifically for treating MASH**; pioglitazone may be considered."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 44",
+     "text": "Insulin-sensitising agents \"such as **metformin** or pioglitazone\" are listed for NAFLD."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R27",
+   "title": "Fetor hepaticus: what it smells like",
+   "ch": 22,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger C-08",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 283",
+     "text": "\"a **sweet, musty** odor caused by volatile sulfur-containing compounds\"."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 46",
+     "text": "\"a **fecal** smell due to lack of detoxification of mercaptan absorbed from colon\"."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R28",
+   "title": "Dietary protein in hepatic encephalopathy",
+   "ch": 22,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger C-13; third position (book p. 359) found by the integration audit",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 286 (Ch 22)",
+     "text": "Protein restriction is no longer recommended: **1.2–1.5 g/kg/day** even in HE; temporary reduction only in severe overt HE."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 48",
+     "text": "In encephalopathy, proteins should be **restricted to 30–40 g/day**."
+    },
+    {
+     "key": "C",
+     "label": "Book p. 359 (Ch 30)",
+     "text": "\"In the acute attack dietary protein is reduced to **20 g/day**\", with the book's own note that this is an unresolved source claim."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R29",
+   "title": "PBC: how many diagnostic criteria are needed?",
+   "ch": 22,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger C-15",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 288",
+     "text": "**Two of three**: cholestatic ALP, AMA, compatible biopsy."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 51",
+     "text": "All three are \"**mandatory**\": cholestasis, M2 antibodies, destructive cholangitis on biopsy."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R30",
+   "title": "UDCA in PBC: does it change the disease?",
+   "ch": 22,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger C-16",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 288",
+     "text": "UDCA is first-line; it improves biochemistry, **slows fibrosis progression and improves survival**."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 51",
+     "text": "UDCA improves bilirubin and liver biochemistry but has **no effect on the disease process**."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "R31",
+   "title": "Alcohol threshold for alcoholic cirrhosis: grams or millilitres?",
+   "ch": 22,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger C-26",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 281 (also p. 298: &gt;10 years, no amount) · Hepatology p. 44",
+     "text": "Regular intake **&gt;30 ml/day** for more than 10 years."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 55",
+     "text": "At least **30 g** of alcohol daily for more than 10 years."
+    }
+   ],
+   "note": "30 ml of ethanol is not 30 g."
+  },
+  {
+   "id": "R32",
+   "title": "Transfusion target in acute variceal bleeding",
+   "ch": 23,
+   "subj": "HEP+IM",
+   "from": "Hepatology extras ledger D-24; the same text is in GIT Internal Med p. 43 (companion row GB-18, out of its scope)",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 315",
+     "text": "Transfusion should be **restrictive**, with a target haemoglobin generally around **7–8 g/dL**."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 61 · GIT Internal Med p. 43",
+     "text": "Over-transfusion may cause rebleeding; keep the **haematocrit around 30**."
+    }
+   ],
+   "note": "Both warn against over-transfusion; the numeric targets differ."
+  },
+  {
+   "id": "R33",
+   "title": "Nasogastric (Ryle's) tube in GI bleeding: routine or selective?",
+   "ch": 23,
+   "subj": "HEP+IM",
+   "from": "Hepatology extras ledger D-25; GIT Internal Med companion GB-09 and GB-25 (context)",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 315 (variceal bleeding)",
+     "text": "A nasogastric tube may be considered **selectively** but is **not routinely required** in every patient."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 61 (variceal bleeding)",
+     "text": "Ryle's tube insertion for aspiration and lavage, listed as part of **routine** resuscitation."
+    },
+    {
+     "key": "C",
+     "label": "GIT Internal Med pp. 40, 46 (non-variceal and lower GI bleeding)",
+     "text": "A nasogastric tube for gastric wash and monitoring of ongoing bleeding; nasogastric lavage in the unstable patient with lower GI bleeding."
+    }
+   ],
+   "note": "The book's Chapter 3 bleeding pages (pp. 50–53) do not mention a nasogastric tube. The GIT Internal Med uses are kept in Chapter 3 with this cross-reference."
+  },
+  {
+   "id": "R34",
+   "title": "Screening endoscopy for every cirrhotic?",
+   "ch": 23,
+   "subj": "HEP+IM",
+   "from": "Hepatology extras ledger D-26; the same sentence is in GIT Internal Med p. 43",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book pp. 285, 313",
+     "text": "Assessment by non-invasive criteria and/or upper GI endoscopy; guided by **Baveno VII**, some patients can **safely avoid endoscopy**."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 60 · GIT Internal Med p. 43",
+     "text": "\"**Every patient** diagnosed with cirrhosis should have an upper GI endoscopy\"."
+    }
+   ],
+   "note": "The Hepatology source itself (p. 60) also gives the elastography criteria that spare endoscopy (taught in Chapter 22)."
+  },
+  {
+   "id": "R35",
+   "title": "Blood count in amoebic liver abscess",
+   "ch": 25,
+   "subj": "PARA",
+   "from": "GIT Others capsule C25-D1 (ledger PA-29)",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 331 (Ch 25)",
+     "text": "\"CBC: Leukocytosis and **eosinophilia**\"."
+    },
+    {
+     "key": "B",
+     "label": "Book p. 138 (Ch 9) · GIT Others p. 47",
+     "text": "CBC shows **polymorphonuclear leucocytosis**, which helps separate amoebic liver abscess from viral hepatitis. Neither mentions eosinophilia."
+    }
+   ],
+   "note": "Both agree on leucocytosis."
+  },
+  {
+   "id": "R36",
+   "title": "Terlipressin escalation and albumin dose in HRS",
+   "ch": 28,
+   "subj": "HEP",
+   "from": "Hepatology extras ledger E-37",
+   "positions": [
+    {
+     "key": "A",
+     "label": "Book p. 347 · Hepatology text",
+     "text": "Terlipressin 1 mg q4–6h or 2 mg/day infusion; escalate if creatinine falls &lt;25% **after 2 days**, to a maximum of 12 mg/day; albumin 20% at **20–40 g/day**."
+    },
+    {
+     "key": "B",
+     "label": "Hepatology p. 80 (image table)",
+     "text": "Start 1 mg IV every 4 h; increase up to 2 mg IV every 4 h if creatinine has not improved by 25% **at day 3**; maintenance albumin **20–60 g/day**."
+    }
+   ],
+   "note": "Both versions appear in the Hepatology source (text vs image table); the book carries only the text version."
+  }
+ ],
+ "stats": {
+  "entries": 149,
+  "reviews": 36,
+  "N_IM": 52,
+  "N_PHARM": 1,
+  "N_PATH": 12,
+  "N_MICRO": 6,
+  "N_PARA": 0,
+  "N_HEP": 78,
+  "N_ENTRIES": 149,
+  "N_REVIEWS": 36,
+  "N_CH_WITH": 22,
+  "N_CH_EMPTY": 18,
+  "N_ROWS": 254
+ }
+}

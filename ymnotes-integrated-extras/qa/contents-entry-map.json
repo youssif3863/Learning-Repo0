@@ -1,0 +1,1797 @@
+{
+ "schema_version": 1,
+ "kind": "contents-entry-map",
+ "pdf": "YMnotes-Digestive-System-Integrated-Teaching-Extras.pdf",
+ "pdf_sha256": "3785600710737e2f24fa159da496955c8af9cb6de95e2e67ad1fc22c4ca17a68",
+ "chapters_declared": 40,
+ "chapters_passing": 33,
+ "contents_pages": [
+  2,
+  3
+ ],
+ "chapter_opener_pages": {
+  "1": 4,
+  "2": 6,
+  "3": 7,
+  "4": 11,
+  "5": 13,
+  "6": 18,
+  "7": 19,
+  "8": 20,
+  "9": 22,
+  "10": 22,
+  "11": 22,
+  "12": 22,
+  "13": 22,
+  "14": 22,
+  "15": 23,
+  "16": 24,
+  "17": 24,
+  "18": 24,
+  "19": 28,
+  "20": 29,
+  "21": 31,
+  "22": 31,
+  "23": 33,
+  "24": 34,
+  "25": 34,
+  "26": 34,
+  "27": 35,
+  "28": 37,
+  "29": 38,
+  "30": 39,
+  "31": 39,
+  "32": 40,
+  "33": 40,
+  "34": 40,
+  "35": 40,
+  "36": 40,
+  "37": 40,
+  "38": 40,
+  "39": 40,
+  "40": 40
+ },
+ "whole_row_clickable": true,
+ "integrity": {
+  "baseline": "qa/nav-baseline.json",
+  "links_before": 383,
+  "links_after": 383,
+  "outline_before": 0,
+  "outline_after": 130,
+  "unrelated_links_preserved": true,
+  "outline_resolves_in_range": true,
+  "page_offset": 0
+ },
+ "entries": [
+  {
+   "n": 1,
+   "chapter_id": "chapter-01",
+   "destination_id": "ch01",
+   "declared_title": "GI Symptoms and Investigations",
+   "declared_subjects": [
+    "Internal Medicine",
+    "Radiology / Investigation"
+   ],
+   "declared_folio": "3",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    264.5711975097656,
+    232.865478515625,
+    275.0159912109375
+   ],
+   "row_rect": [
+    0.0,
+    261.5711975097656,
+    594.9599609375,
+    278.0159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    262.5,
+    553.078125,
+    288.75
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 4,
+   "expected_target_page": 4,
+   "target_logical_label": "3",
+   "folio_matches_label": true,
+   "status": "FAIL",
+   "problems": [
+    "2 contents links point at chapter 1 - a duplicate contents entry"
+   ]
+  },
+  {
+   "n": 2,
+   "chapter_id": "chapter-02",
+   "destination_id": "ch02",
+   "declared_title": "The Esophagus",
+   "declared_subjects": [
+    "Internal Medicine",
+    "Surgery"
+   ],
+   "declared_folio": "5",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    291.5711975097656,
+    157.865478515625,
+    302.0159912109375
+   ],
+   "row_rect": [
+    0.0,
+    288.5711975097656,
+    594.9599609375,
+    305.0159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    289.5,
+    553.078125,
+    315.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 6,
+   "expected_target_page": 6,
+   "target_logical_label": "5",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 3,
+   "chapter_id": "chapter-03",
+   "destination_id": "ch03",
+   "declared_title": "The Stomach and Duodenum",
+   "declared_subjects": [
+    "Internal Medicine",
+    "Pharmacology",
+    "Surgery"
+   ],
+   "declared_folio": "6",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    318.5711975097656,
+    215.68746948242188,
+    329.0159912109375
+   ],
+   "row_rect": [
+    0.0,
+    315.5711975097656,
+    594.9599609375,
+    332.0159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    315.75,
+    553.078125,
+    342.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 7,
+   "expected_target_page": 7,
+   "target_logical_label": "6",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 4,
+   "chapter_id": "chapter-04",
+   "destination_id": "ch04",
+   "declared_title": "Pathology of GIT Tumours",
+   "declared_subjects": [
+    "Pathology",
+    "Surgery"
+   ],
+   "declared_folio": "10",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    344.8211975097656,
+    205.115478515625,
+    355.2659912109375
+   ],
+   "row_rect": [
+    0.0,
+    341.8211975097656,
+    594.9599609375,
+    358.2659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    342.75,
+    553.078125,
+    369.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 11,
+   "expected_target_page": 11,
+   "target_logical_label": "10",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 5,
+   "chapter_id": "chapter-05",
+   "destination_id": "ch05",
+   "declared_title": "Diarrhea and Malabsorption",
+   "declared_subjects": [
+    "Internal Medicine"
+   ],
+   "declared_folio": "12",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    371.8211975097656,
+    211.5282745361328,
+    382.2659912109375
+   ],
+   "row_rect": [
+    0.0,
+    368.8211975097656,
+    594.9599609375,
+    385.2659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    369.75,
+    553.078125,
+    395.25
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 13,
+   "expected_target_page": 13,
+   "target_logical_label": "12",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 6,
+   "chapter_id": "chapter-06",
+   "destination_id": "ch06",
+   "declared_title": "Constipation",
+   "declared_subjects": [
+    "Internal Medicine"
+   ],
+   "declared_folio": "17",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    398.0711975097656,
+    144.7782745361328,
+    408.5159912109375
+   ],
+   "row_rect": [
+    0.0,
+    395.0711975097656,
+    594.9599609375,
+    411.5159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    396.0,
+    553.078125,
+    422.25
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 18,
+   "expected_target_page": 18,
+   "target_logical_label": "17",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 7,
+   "chapter_id": "chapter-07",
+   "destination_id": "ch07",
+   "declared_title": "Foodborn Infection",
+   "declared_subjects": [
+    "Microbiology",
+    "Internal Medicine"
+   ],
+   "declared_folio": "18",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    425.0711975097656,
+    174.0282745361328,
+    435.5159912109375
+   ],
+   "row_rect": [
+    0.0,
+    422.0711975097656,
+    594.9599609375,
+    438.5159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    423.0,
+    553.078125,
+    448.5
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 19,
+   "expected_target_page": 19,
+   "target_logical_label": "18",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 8,
+   "chapter_id": "chapter-08",
+   "destination_id": "ch08",
+   "declared_title": "Inflammatory Bowel Disease",
+   "declared_subjects": [
+    "Internal Medicine",
+    "Pharmacology"
+   ],
+   "declared_folio": "19",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    451.3211975097656,
+    214.30747985839844,
+    461.7659912109375
+   ],
+   "row_rect": [
+    0.0,
+    448.3211975097656,
+    594.9599609375,
+    464.7659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    449.25,
+    553.078125,
+    475.5
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 20,
+   "expected_target_page": 20,
+   "target_logical_label": "19",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 9,
+   "chapter_id": "chapter-09",
+   "destination_id": "ch09",
+   "declared_title": "Parasitic GI Diseases",
+   "declared_subjects": [
+    "Parasitology"
+   ],
+   "declared_folio": "21",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    478.3211975097656,
+    181.7022705078125,
+    488.7659912109375
+   ],
+   "row_rect": [
+    0.0,
+    475.3211975097656,
+    594.9599609375,
+    491.7659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    476.25,
+    553.078125,
+    501.75
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 22,
+   "expected_target_page": 22,
+   "target_logical_label": "21",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 10,
+   "chapter_id": "chapter-10",
+   "destination_id": "ch10",
+   "declared_title": "Small Intestine and Colon Surgery",
+   "declared_subjects": [
+    "Surgery"
+   ],
+   "declared_folio": "21",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    504.5711975097656,
+    233.37547302246094,
+    515.0159912109375
+   ],
+   "row_rect": [
+    0.0,
+    501.5711975097656,
+    594.9599609375,
+    518.0159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    502.5,
+    553.078125,
+    528.75
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 22,
+   "expected_target_page": 22,
+   "target_logical_label": "21",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 11,
+   "chapter_id": "chapter-11",
+   "destination_id": "ch11",
+   "declared_title": "Diverticulosis of the Colon",
+   "declared_subjects": [
+    "Surgery",
+    "Internal Medicine"
+   ],
+   "declared_folio": "21",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    531.5712280273438,
+    200.17266845703125,
+    542.0159912109375
+   ],
+   "row_rect": [
+    0.0,
+    528.5712280273438,
+    594.9599609375,
+    545.0159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    529.5,
+    553.078125,
+    555.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 22,
+   "expected_target_page": 22,
+   "target_logical_label": "21",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 12,
+   "chapter_id": "chapter-12",
+   "destination_id": "ch12",
+   "declared_title": "Appendix",
+   "declared_subjects": [
+    "Surgery"
+   ],
+   "declared_folio": "21",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    557.8212280273438,
+    128.50027465820312,
+    568.2659912109375
+   ],
+   "row_rect": [
+    0.0,
+    554.8212280273438,
+    594.9599609375,
+    571.2659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    555.75,
+    553.078125,
+    582.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 22,
+   "expected_target_page": 22,
+   "target_logical_label": "21",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 13,
+   "chapter_id": "chapter-13",
+   "destination_id": "ch13",
+   "declared_title": "Intestinal Obstruction",
+   "declared_subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "declared_folio": "21",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    584.8212280273438,
+    180.67266845703125,
+    595.2659912109375
+   ],
+   "row_rect": [
+    0.0,
+    581.8212280273438,
+    594.9599609375,
+    598.2659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    582.75,
+    553.078125,
+    609.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 22,
+   "expected_target_page": 22,
+   "target_logical_label": "21",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 14,
+   "chapter_id": "chapter-14",
+   "destination_id": "ch14",
+   "declared_title": "Polyposis of Colon",
+   "declared_subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "declared_folio": "21",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    611.8212280273438,
+    173.2782745361328,
+    622.2659912109375
+   ],
+   "row_rect": [
+    0.0,
+    608.8212280273438,
+    594.9599609375,
+    625.2659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    609.75,
+    553.078125,
+    635.25
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 22,
+   "expected_target_page": 22,
+   "target_logical_label": "21",
+   "folio_matches_label": true,
+   "status": "FAIL",
+   "problems": [
+    "6 contents links point at chapter 14 - a duplicate contents entry"
+   ]
+  },
+  {
+   "n": 15,
+   "chapter_id": "chapter-15",
+   "destination_id": "ch15",
+   "declared_title": "Colorectal Cancer",
+   "declared_subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "declared_folio": "22",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    638.0712280273438,
+    167.39707946777344,
+    648.5159912109375
+   ],
+   "row_rect": [
+    0.0,
+    635.0712280273438,
+    594.9599609375,
+    651.5159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    636.0,
+    553.078125,
+    662.25
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 23,
+   "expected_target_page": 23,
+   "target_logical_label": "22",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 16,
+   "chapter_id": "chapter-16",
+   "destination_id": "ch16",
+   "declared_title": "Anorectal Diseases",
+   "declared_subjects": [
+    "Surgery"
+   ],
+   "declared_folio": "23",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    707.8212280273438,
+    171.9522705078125,
+    718.2659912109375
+   ],
+   "row_rect": [
+    0.0,
+    704.8212280273438,
+    594.9599609375,
+    721.2659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    705.75,
+    553.078125,
+    731.25
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 24,
+   "expected_target_page": 24,
+   "target_logical_label": "23",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 17,
+   "chapter_id": "chapter-17",
+   "destination_id": "ch17",
+   "declared_title": "Hepatology and Hepatic Surgery",
+   "declared_subjects": [
+    "Surgery"
+   ],
+   "declared_folio": "23",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    734.0712280273438,
+    232.75027465820312,
+    744.5159912109375
+   ],
+   "row_rect": [
+    0.0,
+    731.0712280273438,
+    594.9599609375,
+    747.5159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    732.0,
+    553.078125,
+    758.25
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 24,
+   "expected_target_page": 24,
+   "target_logical_label": "23",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 18,
+   "chapter_id": "chapter-18",
+   "destination_id": "ch18",
+   "declared_title": "Liver Disease Assessment",
+   "declared_subjects": [
+    "Radiology / Investigation",
+    "Internal Medicine"
+   ],
+   "declared_folio": "23",
+   "entry_page": 2,
+   "entry_rect": [
+    88.171875,
+    761.0712280273438,
+    204.436279296875,
+    771.5159912109375
+   ],
+   "row_rect": [
+    0.0,
+    758.0712280273438,
+    594.9599609375,
+    774.5159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    759.0,
+    553.078125,
+    784.5
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 24,
+   "expected_target_page": 24,
+   "target_logical_label": "23",
+   "folio_matches_label": true,
+   "status": "FAIL",
+   "problems": [
+    "4 contents links point at chapter 18 - a duplicate contents entry"
+   ]
+  },
+  {
+   "n": 19,
+   "chapter_id": "chapter-19",
+   "destination_id": "ch19",
+   "declared_title": "Acute Hepatitis",
+   "declared_subjects": [
+    "Internal Medicine"
+   ],
+   "declared_folio": "27",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    64.32119750976562,
+    154.865478515625,
+    74.76599884033203
+   ],
+   "row_rect": [
+    0.0,
+    61.321197509765625,
+    594.9599609375,
+    77.76599884033203
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    62.25,
+    553.078125,
+    88.5
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 28,
+   "expected_target_page": 28,
+   "target_logical_label": "27",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 20,
+   "chapter_id": "chapter-20",
+   "destination_id": "ch20",
+   "declared_title": "Chronic Hepatitis B",
+   "declared_subjects": [
+    "Internal Medicine",
+    "Pharmacology"
+   ],
+   "declared_folio": "28",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    91.32119750976562,
+    172.94947814941406,
+    101.76599884033203
+   ],
+   "row_rect": [
+    0.0,
+    88.32119750976562,
+    594.9599609375,
+    104.76599884033203
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    89.25,
+    553.078125,
+    114.75
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 29,
+   "expected_target_page": 29,
+   "target_logical_label": "28",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 21,
+   "chapter_id": "chapter-21",
+   "destination_id": "ch21",
+   "declared_title": "Autoimmune Hepatitis",
+   "declared_subjects": [
+    "Internal Medicine"
+   ],
+   "declared_folio": "30",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    117.57119750976562,
+    184.865478515625,
+    128.01600646972656
+   ],
+   "row_rect": [
+    0.0,
+    114.57119750976562,
+    594.9599609375,
+    131.01600646972656
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    115.5,
+    553.078125,
+    141.75
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 31,
+   "expected_target_page": 31,
+   "target_logical_label": "30",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 22,
+   "chapter_id": "chapter-22",
+   "destination_id": "ch22",
+   "declared_title": "Liver Cirrhosis",
+   "declared_subjects": [
+    "Internal Medicine",
+    "Pathology"
+   ],
+   "declared_folio": "30",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    144.57119750976562,
+    152.615478515625,
+    155.01600646972656
+   ],
+   "row_rect": [
+    0.0,
+    141.57119750976562,
+    594.9599609375,
+    158.01600646972656
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    142.5,
+    553.078125,
+    168.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 31,
+   "expected_target_page": 31,
+   "target_logical_label": "30",
+   "folio_matches_label": true,
+   "status": "FAIL",
+   "problems": [
+    "2 contents links point at chapter 22 - a duplicate contents entry"
+   ]
+  },
+  {
+   "n": 23,
+   "chapter_id": "chapter-23",
+   "destination_id": "ch23",
+   "declared_title": "Portal Hypertension",
+   "declared_subjects": [
+    "Internal Medicine",
+    "Surgery"
+   ],
+   "declared_folio": "32",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    170.82119750976562,
+    177.0282745361328,
+    181.26600646972656
+   ],
+   "row_rect": [
+    0.0,
+    167.82119750976562,
+    594.9599609375,
+    184.26600646972656
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    168.75,
+    553.078125,
+    195.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 33,
+   "expected_target_page": 33,
+   "target_logical_label": "32",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 24,
+   "chapter_id": "chapter-24",
+   "destination_id": "ch24",
+   "declared_title": "Hydatid Cyst",
+   "declared_subjects": [
+    "Parasitology",
+    "Surgery"
+   ],
+   "declared_folio": "33",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    197.82119750976562,
+    143.59986877441406,
+    208.26600646972656
+   ],
+   "row_rect": [
+    0.0,
+    194.82119750976562,
+    594.9599609375,
+    211.26600646972656
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    195.75,
+    553.078125,
+    221.25
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 34,
+   "expected_target_page": 34,
+   "target_logical_label": "33",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 25,
+   "chapter_id": "chapter-25",
+   "destination_id": "ch25",
+   "declared_title": "Pyogenic Liver Abscess",
+   "declared_subjects": [
+    "Surgery",
+    "Internal Medicine",
+    "Parasitology"
+   ],
+   "declared_folio": "33",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    224.07119750976562,
+    192.2022705078125,
+    234.51600646972656
+   ],
+   "row_rect": [
+    0.0,
+    221.07119750976562,
+    594.9599609375,
+    237.51600646972656
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    222.0,
+    553.078125,
+    248.25
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 34,
+   "expected_target_page": 34,
+   "target_logical_label": "33",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 26,
+   "chapter_id": "chapter-26",
+   "destination_id": "ch26",
+   "declared_title": "Hepatocellular Carcinoma",
+   "declared_subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "declared_folio": "33",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    251.07119750976562,
+    198.45187377929688,
+    261.5159912109375
+   ],
+   "row_rect": [
+    0.0,
+    248.07119750976562,
+    594.9599609375,
+    264.5159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    249.0,
+    553.078125,
+    274.5
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 34,
+   "expected_target_page": 34,
+   "target_logical_label": "33",
+   "folio_matches_label": true,
+   "status": "FAIL",
+   "problems": [
+    "3 contents links point at chapter 26 - a duplicate contents entry"
+   ]
+  },
+  {
+   "n": 27,
+   "chapter_id": "chapter-27",
+   "destination_id": "ch27",
+   "declared_title": "Ascites",
+   "declared_subjects": [
+    "Internal Medicine"
+   ],
+   "declared_folio": "34",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    277.3211975097656,
+    121.115478515625,
+    287.7659912109375
+   ],
+   "row_rect": [
+    0.0,
+    274.3211975097656,
+    594.9599609375,
+    290.7659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    275.25,
+    553.078125,
+    301.5
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 35,
+   "expected_target_page": 35,
+   "target_logical_label": "34",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 28,
+   "chapter_id": "chapter-28",
+   "destination_id": "ch28",
+   "declared_title": "Renal Impairment in Cirrhosis",
+   "declared_subjects": [
+    "Internal Medicine"
+   ],
+   "declared_folio": "36",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    304.3211975097656,
+    217.865478515625,
+    314.7659912109375
+   ],
+   "row_rect": [
+    0.0,
+    301.3211975097656,
+    594.9599609375,
+    317.7659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    302.25,
+    553.078125,
+    327.75
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 37,
+   "expected_target_page": 37,
+   "target_logical_label": "36",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 29,
+   "chapter_id": "chapter-29",
+   "destination_id": "ch29",
+   "declared_title": "Jaundice",
+   "declared_subjects": [
+    "Internal Medicine"
+   ],
+   "declared_folio": "37",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    330.5711975097656,
+    128.05747985839844,
+    341.0159912109375
+   ],
+   "row_rect": [
+    0.0,
+    327.5711975097656,
+    594.9599609375,
+    344.0159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    328.5,
+    553.078125,
+    354.75
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 38,
+   "expected_target_page": 38,
+   "target_logical_label": "37",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 30,
+   "chapter_id": "chapter-30",
+   "destination_id": "ch30",
+   "declared_title": "Hepatic Encephalopathy",
+   "declared_subjects": [
+    "Internal Medicine"
+   ],
+   "declared_folio": "38",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    357.5711975097656,
+    196.00027465820312,
+    368.0159912109375
+   ],
+   "row_rect": [
+    0.0,
+    354.5711975097656,
+    594.9599609375,
+    371.0159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    355.5,
+    553.078125,
+    381.75
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 39,
+   "expected_target_page": 39,
+   "target_logical_label": "38",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 31,
+   "chapter_id": "chapter-31",
+   "destination_id": "ch31",
+   "declared_title": "Acute Hepatic Failure",
+   "declared_subjects": [
+    "Internal Medicine",
+    "Emergency / Acute Care"
+   ],
+   "declared_folio": "38",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    384.5711975097656,
+    182.05747985839844,
+    395.0159912109375
+   ],
+   "row_rect": [
+    0.0,
+    381.5711975097656,
+    594.9599609375,
+    398.0159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    382.5,
+    553.078125,
+    408.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 39,
+   "expected_target_page": 39,
+   "target_logical_label": "38",
+   "folio_matches_label": true,
+   "status": "FAIL",
+   "problems": [
+    "2 contents links point at chapter 31 - a duplicate contents entry"
+   ]
+  },
+  {
+   "n": 32,
+   "chapter_id": "chapter-32",
+   "destination_id": "ch32",
+   "declared_title": "Biliary System Anatomy",
+   "declared_subjects": [
+    "Surgery"
+   ],
+   "declared_folio": "39",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    410.8211975097656,
+    192.12547302246094,
+    421.2659912109375
+   ],
+   "row_rect": [
+    0.0,
+    407.8211975097656,
+    594.9599609375,
+    424.2659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    408.75,
+    553.078125,
+    435.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 40,
+   "expected_target_page": 40,
+   "target_logical_label": "39",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 33,
+   "chapter_id": "chapter-33",
+   "destination_id": "ch33",
+   "declared_title": "Gallbladder Diseases",
+   "declared_subjects": [
+    "Surgery"
+   ],
+   "declared_folio": "39",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    437.8211975097656,
+    179.4522705078125,
+    448.2659912109375
+   ],
+   "row_rect": [
+    0.0,
+    434.8211975097656,
+    594.9599609375,
+    451.2659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    435.75,
+    553.078125,
+    461.25
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 40,
+   "expected_target_page": 40,
+   "target_logical_label": "39",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 34,
+   "chapter_id": "chapter-34",
+   "destination_id": "ch34",
+   "declared_title": "Gallstones and Cholecystitis",
+   "declared_subjects": [
+    "Surgery"
+   ],
+   "declared_folio": "39",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    464.0711975097656,
+    210.9522705078125,
+    474.5159912109375
+   ],
+   "row_rect": [
+    0.0,
+    461.0711975097656,
+    594.9599609375,
+    477.5159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    462.0,
+    553.078125,
+    488.25
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 40,
+   "expected_target_page": 40,
+   "target_logical_label": "39",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 35,
+   "chapter_id": "chapter-35",
+   "destination_id": "ch35",
+   "declared_title": "Obstructive Jaundice",
+   "declared_subjects": [
+    "Surgery",
+    "Radiology / Investigation"
+   ],
+   "declared_folio": "39",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    491.0711975097656,
+    179.7402801513672,
+    501.5159912109375
+   ],
+   "row_rect": [
+    0.0,
+    488.0711975097656,
+    594.9599609375,
+    504.5159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    489.0,
+    553.078125,
+    514.5
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 40,
+   "expected_target_page": 40,
+   "target_logical_label": "39",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 36,
+   "chapter_id": "chapter-36",
+   "destination_id": "ch36",
+   "declared_title": "Acute Pancreatitis",
+   "declared_subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "declared_folio": "39",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    517.3212280273438,
+    167.4522705078125,
+    527.7659912109375
+   ],
+   "row_rect": [
+    0.0,
+    514.3212280273438,
+    594.9599609375,
+    530.7659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    515.25,
+    553.078125,
+    541.5
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 40,
+   "expected_target_page": 40,
+   "target_logical_label": "39",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 37,
+   "chapter_id": "chapter-37",
+   "destination_id": "ch37",
+   "declared_title": "Cancer Pancreas",
+   "declared_subjects": [
+    "Surgery",
+    "Pathology"
+   ],
+   "declared_folio": "39",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    544.3212280273438,
+    162.2022705078125,
+    554.7659912109375
+   ],
+   "row_rect": [
+    0.0,
+    541.3212280273438,
+    594.9599609375,
+    557.7659912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    542.25,
+    553.078125,
+    567.75
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 40,
+   "expected_target_page": 40,
+   "target_logical_label": "39",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 38,
+   "chapter_id": "chapter-38",
+   "destination_id": "ch38",
+   "declared_title": "Acute Abdomen",
+   "declared_subjects": [
+    "Emergency / Acute Care",
+    "Surgery"
+   ],
+   "declared_folio": "39",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    570.5712280273438,
+    157.42266845703125,
+    581.0159912109375
+   ],
+   "row_rect": [
+    0.0,
+    567.5712280273438,
+    594.9599609375,
+    584.0159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    568.5,
+    553.078125,
+    594.75
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 40,
+   "expected_target_page": 40,
+   "target_logical_label": "39",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 39,
+   "chapter_id": "chapter-39",
+   "destination_id": "ch39",
+   "declared_title": "Abdominal Trauma",
+   "declared_subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "declared_folio": "39",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    597.5712280273438,
+    168.45187377929688,
+    608.0159912109375
+   ],
+   "row_rect": [
+    0.0,
+    594.5712280273438,
+    594.9599609375,
+    611.0159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    595.5,
+    553.078125,
+    621.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 40,
+   "expected_target_page": 40,
+   "target_logical_label": "39",
+   "folio_matches_label": true,
+   "status": "PASS",
+   "problems": []
+  },
+  {
+   "n": 40,
+   "chapter_id": "chapter-40",
+   "destination_id": "ch40",
+   "declared_title": "Splenic Trauma",
+   "declared_subjects": [
+    "Surgery",
+    "Emergency / Acute Care"
+   ],
+   "declared_folio": "39",
+   "entry_page": 3,
+   "entry_rect": [
+    88.171875,
+    624.5712280273438,
+    154.95187377929688,
+    635.0159912109375
+   ],
+   "row_rect": [
+    0.0,
+    621.5712280273438,
+    594.9599609375,
+    638.0159912109375
+   ],
+   "number_visible": true,
+   "title_visible": true,
+   "subject_visible": true,
+   "folio_visible": true,
+   "link_kind": "GOTO",
+   "link_rect": [
+    57.0,
+    621.75,
+    553.078125,
+    648.0
+   ],
+   "link_overlaps_title": true,
+   "link_covers_whole_row": true,
+   "resolved_target_page": 40,
+   "expected_target_page": 40,
+   "target_logical_label": "39",
+   "folio_matches_label": true,
+   "status": "FAIL",
+   "problems": [
+    "9 contents links point at chapter 40 - a duplicate contents entry"
+   ]
+  }
+ ],
+ "problems": [
+  "chapter 1: 2 contents links point at chapter 1 - a duplicate contents entry",
+  "chapter 14: 6 contents links point at chapter 14 - a duplicate contents entry",
+  "chapter 18: 4 contents links point at chapter 18 - a duplicate contents entry",
+  "chapter 22: 2 contents links point at chapter 22 - a duplicate contents entry",
+  "chapter 26: 3 contents links point at chapter 26 - a duplicate contents entry",
+  "chapter 31: 2 contents links point at chapter 31 - a duplicate contents entry",
+  "chapter 40: 9 contents links point at chapter 40 - a duplicate contents entry"
+ ],
+ "status": "FAIL"
+}

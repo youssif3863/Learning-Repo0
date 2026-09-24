@@ -1,0 +1,47 @@
+{
+ "_note": "Frozen copies of the three inputs' editable sources and ledgers, read from the exact commits below (git archive) without modifying their branches. The ymnotes-after-mid-extras/ draft on the Other Subjects branch was not used.",
+ "inputs": {
+  "im": {
+   "handout": "Before Mid-Module Internal Medicine Extras",
+   "branch": "claude/credits-expiring-soon-7nbhf4",
+   "commit": "4d39d630899103937518a4b05712edf065c30f17",
+   "folder": "companion/",
+   "files": {
+    "im-handout.md": "companion/source/handout.md",
+    "im-comparison-ledger.json": "companion/ledger/comparison-ledger.json"
+   },
+   "sha256": {
+    "im-handout.md": "3500541628f25b3d00ef8db57697a61598d5f3c5be8fb9418b00bb36c21139d4",
+    "im-comparison-ledger.json": "8db1492b6fe85dddafc46ed21684d5fd14752b93b386900fb7f3de441be53ba6"
+   }
+  },
+  "os": {
+   "handout": "Other Subjects Capsule (full book)",
+   "branch": "claude/ymnotes-digestive-extras-pdf-fs83fc",
+   "commit": "6e39c13822c6c8ec0deeb1bc3ef01383672c7b49",
+   "folder": "ymnotes-other-subjects-capsule/",
+   "files": {
+    "os-content.json": "ymnotes-other-subjects-capsule/source/content.json",
+    "os-comparison-ledger.json": "ymnotes-other-subjects-capsule/ledger/comparison-ledger.json"
+   },
+   "sha256": {
+    "os-content.json": "256bfb381416d2245102fd19e21ed20ee4ded24f5d7fc3cbb75030900df51606",
+    "os-comparison-ledger.json": "fc1b51e73ef850e63b9a1287d13faf884d3e79c4c5a270d531024a43294d238a"
+   }
+  },
+  "hep": {
+   "handout": "After Mid-Module Hepatology Extras",
+   "branch": "claude/ymnotes-digestive-hepatology-extras-397t2x",
+   "commit": "8afdb3d48c14aa1449ed5a9c99b02e02ba60d435",
+   "folder": "ymnotes-hepatology-extras/",
+   "files": {
+    "hep-content.py": "ymnotes-hepatology-extras/src/content.py",
+    "hep-comparison-ledger.json": "ymnotes-hepatology-extras/ledger/comparison-ledger.json"
+   },
+   "sha256": {
+    "hep-content.py": "23f990cdabfd230d865e1c5f57a704b7a2b074602a180ecff66dc475410ce93c",
+    "hep-comparison-ledger.json": "9f26206c9eb30b240a9350483c929bae4e607b04601c310b3e1e635eaacdaa74"
+   }
+  }
+ }
+}
