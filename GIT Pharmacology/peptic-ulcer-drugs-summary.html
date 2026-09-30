@@ -1,202 +1,194 @@
 <title>Peptic Ulcer Drugs Summary</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500;700&family=IBM+Plex+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500;700&family=IBM+Plex+Sans+Condensed:ital,wght@0,400;0,600;0,700;1,400&display=swap">
 <style>
-/* Layout: an A4 two-page revision sheet; four colour-coded drug groups (matching the YMnotes overview figure) in a 2-column grid, one exam-traps strip at the end. */
+/* Layout: a two-page A4 revision sheet; the four drug groups stack one under another with clear space between them, each in its own colour (matching the YMnotes overview figure). */
 :root{
-  --paper:#fbfcfb; --ink:#1b2430; --muted:#566273; --rule:#d5dde3; --panel:#ffffff;
-  --g1:#1d3a64; --g1-soft:#e8eef7;   /* reduce acid: navy */
-  --g2:#10726f; --g2-soft:#e3f3f1;   /* protect lining: teal */
-  --g3:#9a6512; --g3-soft:#f8efdf;   /* H. pylori: ochre */
-  --g4:#1f5f9a; --g4-soft:#e4eff9;   /* antacids: blue */
-  --mark:#fff0a3; --mark-ink:#1b2430; --warn:#b3261e;
+  --paper:#ffffff; --ink:#1b2430; --muted:#5a6676; --rule:#d8dfe5;
+  --g1:#1d3a64; --g1-soft:#eaf0f8;   /* reduce acid: navy */
+  --g2:#10726f; --g2-soft:#e4f3f1;   /* protect lining: teal */
+  --g3:#9a6512; --g3-soft:#f9f0e0;   /* H. pylori: ochre */
+  --g4:#1f5f9a; --g4-soft:#e6f0fa;   /* antacids: blue */
+  --mark:#fff0a3; --mark-ink:#1b2430; --warn:#b3261e; --warn-soft:#fbeceb;
   --display:"Zilla Slab", Georgia, serif;
   --body:"IBM Plex Sans Condensed", "Arial Narrow", Arial, sans-serif;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --paper:#12161c; --ink:#e4e9ef; --muted:#9aa6b4; --rule:#2c3440; --panel:#181e26;
+  --paper:#12161c; --ink:#e4e9ef; --muted:#9aa6b4; --rule:#2c3440;
   --g1:#8fb3e8; --g1-soft:#1c2940; --g2:#6fd0c8; --g2-soft:#14302f;
   --g3:#e3b35e; --g3-soft:#33291a; --g4:#86bdf0; --g4-soft:#182c40;
-  --mark:#5b4d12; --mark-ink:#fff6d0; --warn:#ff8a80; color-scheme:dark;}}
+  --mark:#5b4d12; --mark-ink:#fff6d0; --warn:#ff8a80; --warn-soft:#3a1c1a; color-scheme:dark;}}
 :root[data-theme="dark"]{
-  --paper:#12161c; --ink:#e4e9ef; --muted:#9aa6b4; --rule:#2c3440; --panel:#181e26;
+  --paper:#12161c; --ink:#e4e9ef; --muted:#9aa6b4; --rule:#2c3440;
   --g1:#8fb3e8; --g1-soft:#1c2940; --g2:#6fd0c8; --g2-soft:#14302f;
   --g3:#e3b35e; --g3-soft:#33291a; --g4:#86bdf0; --g4-soft:#182c40;
-  --mark:#5b4d12; --mark-ink:#fff6d0; --warn:#ff8a80; color-scheme:dark;}
+  --mark:#5b4d12; --mark-ink:#fff6d0; --warn:#ff8a80; --warn-soft:#3a1c1a; color-scheme:dark;}
 
 *{box-sizing:border-box}
-body{background:var(--paper);color:var(--ink);font:400 13.5px/1.42 var(--body);}
-.sheet{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:20px 32px;display:grid;gap:14px}
-header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px 20px;border-bottom:2px solid var(--ink);padding-bottom:8px}
-h1{font:700 1.9rem/1.05 var(--display);margin:0;text-wrap:balance}
-h1 span{display:block;font:500 1rem/1.3 var(--display);color:var(--muted);margin-top:4px}
-.meta{font-size:.8rem;color:var(--muted);text-align:right;display:grid;gap:3px}
-.key{display:inline-flex;gap:6px;align-items:center}
-mark{background:var(--mark);color:var(--mark-ink);padding:0 2px;border-radius:2px}
-.suffix{font-weight:700;font-style:italic}
+body{background:var(--paper);color:var(--ink);font:400 14px/1.45 var(--body)}
+.sheet{max-width:880px;margin:0 auto;padding-inline:16px;padding-block:24px 36px;display:grid;gap:30px}
 
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start}
-.col{display:grid;gap:14px;min-width:0}
-section{--c:var(--g1);--s:var(--g1-soft);background:var(--panel);border:1px solid var(--rule);border-top:5px solid var(--c);border-radius:4px;padding:10px 12px 12px;min-width:0}
+header{display:grid;gap:6px;border-bottom:2px solid var(--ink);padding-bottom:10px}
+h1{font:700 1.9rem/1.05 var(--display);margin:0;text-wrap:balance}
+.sub{color:var(--muted);font-size:.9rem;display:flex;flex-wrap:wrap;gap:4px 18px}
+.suffix{font-weight:700;font-style:italic;color:var(--ink)}
+mark{background:var(--mark);color:var(--mark-ink);padding:0 2px;border-radius:2px}
+
+section{--c:var(--g1);--s:var(--g1-soft);display:grid;gap:10px;min-width:0}
 section.s2{--c:var(--g2);--s:var(--g2-soft)} section.s3{--c:var(--g3);--s:var(--g3-soft)} section.s4{--c:var(--g4);--s:var(--g4-soft)}
-h2{display:flex;align-items:baseline;gap:8px;margin:0 0 6px;font:700 1.15rem/1.15 var(--display);color:var(--c);text-wrap:balance}
-h2 .n{display:inline-grid;place-items:center;width:1.5em;height:1.5em;border-radius:50%;background:var(--c);color:var(--panel);font-size:.85em;flex:none}
-h2 small{font:500 .8rem var(--body);color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
-h3{margin:10px 0 3px;font:700 .95rem/1.2 var(--body);color:var(--c);display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;border-bottom:1px dashed var(--rule);padding-bottom:2px}
+h2{display:flex;align-items:center;gap:10px;margin:0;padding:6px 10px;background:var(--s);border-left:6px solid var(--c);border-radius:3px;font:700 1.2rem/1.2 var(--display);color:var(--c);text-wrap:balance}
+h2 .n{display:inline-grid;place-items:center;width:1.55em;height:1.55em;border-radius:50%;background:var(--c);color:var(--paper);font-size:.85em;flex:none}
+h2 small{margin-left:auto;font:600 .75rem var(--body);color:var(--muted);text-transform:uppercase;letter-spacing:.07em}
+
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:10px 26px}
+.drug{min-width:0}
+h3{margin:0 0 3px;font:700 1rem/1.25 var(--body);color:var(--c)}
 h3 em{font-weight:600;color:var(--muted)}
-ul{margin:0;padding-left:1.05em;display:grid;gap:1px}
+.ex{margin:0 0 3px;color:var(--muted);font-size:.9rem}
+ul{margin:0;padding-left:1.1em;display:grid;gap:2px}
 li::marker{color:var(--c)}
-p{margin:2px 0}
-b{font-weight:700}
-.lbl{font-weight:700;color:var(--c);font-size:.78rem;text-transform:uppercase;letter-spacing:.05em}
-.tbl{overflow-x:auto;margin-top:4px}
-table{border-collapse:collapse;width:100%;font-size:.84rem;line-height:1.3}
-th,td{border:1px solid var(--rule);padding:3px 5px;vertical-align:top;text-align:left}
-thead th{background:var(--s);color:var(--c);font-weight:700}
-tbody th{background:var(--s);color:var(--c);width:4.5em;font-weight:700}
-.box{background:var(--s);border-radius:3px;padding:5px 8px;margin-top:6px;font-size:.88rem}
-.warn{color:var(--warn);font-weight:600}
-.traps{border:1px solid var(--rule);border-left:5px solid var(--warn);background:var(--panel);border-radius:4px;padding:10px 12px}
-.traps h2{color:var(--warn)}
-.traps ol{margin:0;padding-left:1.3em;columns:2;column-gap:28px}
-.traps li{break-inside:avoid;margin-bottom:3px}
+.warn{color:var(--warn);font-weight:700}
+
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:.9rem;line-height:1.35}
+th,td{border:1px solid var(--rule);padding:4px 7px;vertical-align:top;text-align:left}
+thead th{background:var(--s);color:var(--c)}
+tbody th{color:var(--c);white-space:nowrap}
+
+.note{background:var(--s);border-radius:3px;padding:6px 10px;font-size:.92rem}
+
+.must{border:1.5px solid var(--warn);background:var(--warn-soft);border-radius:4px;padding:10px 14px;display:grid;gap:6px}
+.must h2{background:none;border:0;padding:0;color:var(--warn)}
+.must ol{margin:0;padding-left:1.3em;columns:2;column-gap:30px}
+.must li{break-inside:avoid;margin-bottom:3px}
 footer{font-size:.75rem;color:var(--muted);text-align:center}
 
-@media (max-width:760px){.grid{grid-template-columns:1fr}.traps ol{columns:1}.meta{text-align:left}}
+@media (max-width:680px){.pair{grid-template-columns:1fr}.must ol{columns:1}h2 small{display:none}}
 @media print{
-  @page{size:A4;margin:9mm}
-  body{font-size:9.6pt;background:#fff}
-  .sheet{padding:0;max-width:none;gap:8px}
-  section,.traps{break-inside:avoid-page}
+  @page{size:A4;margin:11mm 12mm}
+  body{font-size:10.4pt}
+  .sheet{max-width:none;padding:0;gap:6.5mm}
+  section,.must{break-inside:avoid}
+  .s3{break-before:page}
 }
 </style>
 
 <div class="sheet">
   <header>
-    <h1>Peptic Ulcer Disease: Drug Treatment<span>High-yield summary · YMnotes Digestive System pp. 44–49</span></h1>
-    <div class="meta">
-      <span class="key"><mark>highlighted</mark> = emphasised in class / likely exam point</span>
-      <span>Suffixes: PPI <span class="suffix">-prazole</span> · P-CAB <span class="suffix">-prazan</span> · H2 blocker <span class="suffix">-tidine</span></span>
+    <h1>Peptic Ulcer Disease: Drug Treatment</h1>
+    <div class="sub">
+      <span>High-yield revision · YMnotes Digestive System pp. 44–49</span>
+      <span>Name clues: PPI <span class="suffix">-prazole</span> · P-CAB <span class="suffix">-prazan</span> · H2 blocker <span class="suffix">-tidine</span></span>
     </div>
   </header>
 
-  <div class="grid">
-    <!-- LEFT COLUMN -->
-    <div class="col">
-      <section class="s1">
-        <h2><span class="n">1</span>Reduce acid production <small>Anti-secretory</small></h2>
-
-        <h3>A. Proton pump inhibitors (PPIs) <em>-prazole</em></h3>
-        <p>Omeprazole, esomeprazole, <b>lansoprazole</b>, dexlansoprazole, pantoprazole, rabeprazole (oral / IV).</p>
+  <!-- 1 -->
+  <section class="s1">
+    <h2><span class="n">1</span>Reduce acid production<small>Anti-secretory drugs</small></h2>
+    <div class="pair">
+      <div class="drug">
+        <h3>Proton pump inhibitors (PPIs) <em>-prazole</em></h3>
+        <p class="ex">Omeprazole, esomeprazole, lansoprazole, pantoprazole</p>
         <ul>
-          <li><span class="lbl">MOA</span> <b>Prodrugs</b> → absorbed → parietal cell canaliculi → <b>activated by acid</b> → <b>irreversibly</b> (covalently) inhibit H⁺/K⁺ ATPase = <mark>final step of HCl secretion → most effective acid suppressants</mark> (↓ basal &amp; meal-stimulated secretion by 98%).</li>
-          <li>Anti-<i>H. pylori</i> effect (<b>lansoprazole most potent</b>).</li>
-          <li><span class="lbl">PK</span> Weak bases destroyed by acid → <b>enteric-coated</b>. Take <b>30–60 min before meals</b> (inhibit only <i>active</i> pumps; food ↓ bioavailability 50%). t½ = 1 h but <b>action 24 h</b> (new pumps take 24 h to synthesise) → once daily. Liver metabolism.</li>
-          <li><span class="lbl">ADRs</span> GIT upset, headache. <b>Hypochlorhydria</b> → infection (hospital pneumonia, <i>H. pylori</i>) &amp; gastric tumours (animals). <b>Vit B12 deficiency</b> on long-term use (↓ intrinsic factor). Enzyme inhibition → <b>↓ activation of clopidogrel</b>.</li>
+          <li><b>Prodrug</b>, activated by acid → <b>irreversibly</b> blocks H⁺/K⁺ ATPase</li>
+          <li>Blocks the <mark>final step</mark> of HCl secretion → <mark>most effective</mark> acid suppressant</li>
+          <li>Enteric-coated; take <b>30–60 min before meals</b></li>
+          <li>t½ 1 h but acts <b>24 h</b> → once daily</li>
+          <li><b>Lansoprazole</b>: strongest anti-<i>H. pylori</i> effect</li>
+          <li>ADRs: infections (pneumonia), <b>vit B12 deficiency</b>, ↓ activation of <b>clopidogrel</b></li>
         </ul>
-
-        <h3>B. K⁺-competitive acid blockers (P-CABs) <em>-prazan</em></h3>
-        <p><b>Vonoprazan</b>, revaprazan, tegoprazan: newer alternative to PPIs.</p>
-        <div class="tbl"><table>
-          <thead><tr><th></th><th>Omeprazole (PPI)</th><th>Vonoprazan (P-CAB)</th></tr></thead>
-          <tbody>
-            <tr><th>Block</th><td>Irreversible, active pumps only</td><td>Competitive <b>reversible</b>, active + inactive pumps</td></tr>
-            <tr><th>Max effect</th><td>3–5 days</td><td><b>1 day</b></td></tr>
-            <tr><th>t½</th><td>1–2 h</td><td>6–9 h</td></tr>
-            <tr><th>Prodrug?</th><td>Yes, needs acid</td><td>No, acid-stable</td></tr>
-            <tr><th>Meals</th><td>30–60 min before</td><td>Before or after</td></tr>
-          </tbody>
-        </table></div>
-
-        <h3>C. H2-receptor antagonists <em>-tidine</em></h3>
-        <p><b>Cimetidine</b> (prototype), ranitidine (withdrawn: cancer risk), famotidine, nizatidine.</p>
+      </div>
+      <div class="drug">
+        <h3>H2-receptor antagonists <em>-tidine</em></h3>
+        <p class="ex">Cimetidine (prototype), famotidine, nizatidine</p>
         <ul>
-          <li><span class="lbl">MOA</span> Reversible competitive block of H2 on parietal cells → <b>complete</b> block of histamine-mediated, <b>partial</b> block of ACh/gastrin-mediated secretion. Best on <b>nocturnal / fasting</b> secretion.</li>
-          <li><mark>Cimetidine: limited use due to enzyme inhibition, antiandrogenic &amp; CNS effects.</mark></li>
-          <li>Nizatidine = most potent, 100% bioavailability · Famotidine = cytoprotective · ↓ dose in renal/liver disease.</li>
-          <li><span class="lbl">ADRs</span> Tolerance &amp; <b>rebound hyperacidity</b> (H2 up-regulation) · CNS confusion (elderly) · <b>antiandrogenic</b>: ↑ prolactin, gynecomastia, galactorrhea, impotence · enzyme inhibition · <b>hypotension &amp; bradycardia with rapid IV</b> (cardiac H2).</li>
+          <li>Reversible H2 block on parietal cells</li>
+          <li>Best against <b>nocturnal / fasting</b> acid</li>
+          <li><mark>Cimetidine: enzyme inhibitor, antiandrogenic, CNS effects</mark> (gynecomastia, impotence, confusion in elderly)</li>
+          <li>Tolerance &amp; <b>rebound hyperacidity</b></li>
+          <li>Rapid IV → <b>bradycardia &amp; hypotension</b></li>
+          <li>Nizatidine = most potent</li>
         </ul>
-
-        <div class="box"><b>PPIs/P-CABs beat H2 blockers:</b> higher efficacy, once-daily dosing (24 h), better in anti-<i>H. pylori</i> regimens.<br>
-        <b>Indications:</b> peptic ulcer (PPI in severe, H2 in mild) · <i>H. pylori</i> regimens · GERD (H2 covers nocturnal acid) · <b>Zollinger-Ellison</b> (high-dose PPI) · stress ulcer · bleeding varices (IV) · aspiration pneumonia prophylaxis before C-section (IV).</div>
-      </section>
+      </div>
     </div>
-
-    <!-- RIGHT COLUMN -->
-    <div class="col">
-      <section class="s2">
-        <h2><span class="n">2</span>Protect the lining <small>Mucosal protectives</small></h2>
-        <div class="tbl"><table>
-          <thead><tr><th></th><th><mark>Sucralfate</mark></th><th><mark>Misoprostol</mark></th><th><mark>Colloidal bismuth</mark></th></tr></thead>
-          <tbody>
-            <tr><th>Mech.</th>
-              <td>Al salt of sulfated sucrose. In <b>acid</b>: −ve sulfate binds +ve proteins of ulcer base → barrier. ↑ HCO₃⁻, mucus, PGs.</td>
-              <td>Synthetic <b>PGE1</b> analogue: ↓ HCl (↓ cAMP), ↑ mucosal blood flow, mucus &amp; HCO₃⁻.</td>
-              <td><b>Anti-<i>H. pylori</i></b> (main). Chelates ulcer-base proteins → coat vs acid &amp; pepsin.</td></tr>
-            <tr><th>Uses</th>
-              <td>Stress-ulcer prophylaxis. Needs acid → give <b>antacids/H2 blockers (and tetracycline) 1–2 h apart</b>.</td>
-              <td><b>NSAID-induced ulcer</b> if PPIs fail; prophylaxis with NSAIDs/steroids.</td>
-              <td>Quadruple anti-<i>H. pylori</i> therapy.</td></tr>
-            <tr><th>ADRs</th>
-              <td>Constipation. Al toxicity (renal pts): phosphate chelation → osteomalacia, encephalopathy.</td>
-              <td>Diarrhea &amp; colic (commonest). Uterine contraction → <span class="warn">CI in pregnancy (abortion)</span>.</td>
-              <td><b>Black tongue &amp; stools</b> (mimic bleeding). Encephalopathy (renal) → max 2 months.</td></tr>
-          </tbody>
-        </table></div>
-      </section>
-
-      <section class="s3">
-        <h2><span class="n">3</span>Eradicate <i>H. pylori</i> <small>Combination therapy</small></h2>
-        <p>Eradication → <b>rapid healing &amp; ↓ recurrence</b>. Mnemonic <b>P-CAT</b>: PPI + Clarithromycin + Amoxicillin + Tinidazole/metronidazole.</p>
-        <ul>
-          <li><b>Triple (10–14 d):</b> lansoprazole + clarithromycin + amoxicillin (<b>metronidazole</b> if amoxicillin allergy).</li>
-          <li><mark><b>Quadruple (10–14 d):</b> PPI + metronidazole 250 mg + bismuth subsalicylate 300 mg + tetracycline 500 mg, four times daily.</mark></li>
-          <li><b>Sequential:</b> PPI + amoxicillin × 5 d → PPI + clarithromycin + tinidazole/metronidazole × 5 d.</li>
-          <li><b>Levofloxacin-based:</b> PPI + amoxicillin + levofloxacin × 10 d.</li>
-          <li>Then <b>PPI for 4–6 weeks</b> to heal the ulcer. PPIs can be replaced by <b>P-CABs</b>.</li>
-        </ul>
-      </section>
-
-      <section class="s4">
-        <h2><span class="n">4</span>Neutralise existing acid <small>Antacids</small></h2>
-        <ul>
-          <li><mark>Weak bases</mark> that <mark>neutralise</mark> HCl (lasts 1–2 h); pepsin inactive at pH &gt; 4.5; ↑ mucosal PGs; Al/Mg are also adsorbent &amp; demulcent.</li>
-          <li><b>Taken 1 &amp; 3 h after meals and at bedtime.</b> Uses: <mark>rapid pain relief</mark> in PU, <mark>dyspepsia</mark>, GERD.</li>
-        </ul>
-        <div class="tbl"><table>
-          <thead><tr><th>Antacid</th><th>Key points</th></tr></thead>
-          <tbody>
-            <tr><th>Al(OH)₃</th><td>Constipation. <mark>Chelates phosphate</mark> → osteomalacia, hypophosphatemia, encephalopathy, ↑ Alzheimer risk.</td></tr>
-            <tr><th>Mg²⁺ salts</th><td>Diarrhea. <mark>CNS depression</mark> in renal impairment.</td></tr>
-            <tr><th>CaCO₃</th><td>Constipation · <b>rebound hyperacidity</b> (Ca²⁺ → gastrin) · <mark>milk-alkali syndrome</mark> (alkalosis + hypercalcemia) · CO₂ → flatulence · Ca stones.</td></tr>
-            <tr><th>NaHCO₃ <br><small>(systemic)</small></th><td>Rapid &amp; potent (pH &gt; 7) but <mark>systemic alkalosis</mark>, rebound, CO₂ belching, alkaline urine → stones, <b>Na⁺ → salt &amp; water retention</b> (avoid in HF, HTN, renal). Used in effervescent &amp; immediate-release PPI forms.</td></tr>
-          </tbody>
-        </table></div>
-        <div class="box"><mark><b>Choice:</b> Al + Mg combination (e.g. magaldrate)</mark>: no CO₂, no systemic alkalosis, and they <mark>cancel each other's bowel effects</mark>. Use antacids cautiously in elderly &amp; renal impairment.<br>
-        <b>Interactions:</b> change gastric/urine pH, delay gastric emptying, <b>Al³⁺ chelates</b> fluoroquinolones, tetracyclines, digoxin, iron → give <b>2 h apart</b>.</div>
-      </section>
+    <div class="drug">
+      <h3>K⁺-competitive acid blockers (P-CABs) <em>-prazan</em>: vonoprazan</h3>
+      <p>Newer alternative to PPIs: <b>reversible</b>, <b>not a prodrug</b>, <b>acid-stable</b> (take with or without food), full effect in <b>1 day</b> (PPI 3–5 days).</p>
     </div>
-  </div>
+    <div class="note"><b>Uses:</b> peptic ulcer · <i>H. pylori</i> regimens · GERD · Zollinger-Ellison (high-dose PPI) · stress ulcer · before C-section (prevent aspiration). PPIs beat H2 blockers in efficacy and once-daily dosing.</div>
+  </section>
 
-  <div class="traps">
-    <h2>Exam traps: one line each</h2>
+  <!-- 2 -->
+  <section class="s2">
+    <h2><span class="n">2</span>Protect the lining<small>Mucosal protectives</small></h2>
+    <div class="tbl"><table>
+      <thead><tr><th></th><th>How it works</th><th>Main use</th><th>Watch out</th></tr></thead>
+      <tbody>
+        <tr><th><mark>Sucralfate</mark></th><td>Needs <b>acid</b> → sticky barrier over ulcer base</td><td>Stress-ulcer prophylaxis</td><td>Give antacids / H2 blockers <b>1–2 h apart</b>; constipation</td></tr>
+        <tr><th><mark>Misoprostol</mark></th><td><b>PGE1 analogue</b>: ↓ acid, ↑ mucus &amp; HCO₃⁻</td><td><b>NSAID-induced ulcer</b></td><td>Diarrhea; <span class="warn">contraindicated in pregnancy (abortion)</span></td></tr>
+        <tr><th><mark>Bismuth</mark></th><td>Kills <i>H. pylori</i> + coats ulcer</td><td>Quadruple therapy</td><td><b>Black tongue &amp; stools</b> (mimic bleeding); max 2 months</td></tr>
+      </tbody>
+    </table></div>
+  </section>
+
+  <!-- 3 -->
+  <section class="s3">
+    <h2><span class="n">3</span>Eradicate <i>H. pylori</i><small>Combination therapy</small></h2>
+    <p>Eradication = <b>rapid healing &amp; fewer recurrences</b>. Remember <b>P-CAT</b>: PPI + Clarithromycin + Amoxicillin + Tinidazole/metronidazole.</p>
+    <div class="pair">
+      <div class="drug">
+        <h3>Triple therapy · 10–14 days</h3>
+        <ul>
+          <li>PPI + <b>clarithromycin</b> + <b>amoxicillin</b></li>
+          <li>Amoxicillin allergy → use <b>metronidazole</b></li>
+        </ul>
+      </div>
+      <div class="drug">
+        <h3><mark>Quadruple therapy · 10–14 days</mark></h3>
+        <ul>
+          <li>PPI + <b>bismuth</b> + <b>metronidazole</b> + <b>tetracycline</b> (4× daily)</li>
+          <li>Other options: sequential, levofloxacin-based</li>
+        </ul>
+      </div>
+    </div>
+    <div class="note">Then <b>PPI for 4–6 weeks</b> to heal the ulcer. A P-CAB can replace the PPI.</div>
+  </section>
+
+  <!-- 4 -->
+  <section class="s4">
+    <h2><span class="n">4</span>Neutralise existing acid<small>Antacids</small></h2>
+    <ul>
+      <li><mark>Weak bases</mark> that <mark>neutralise</mark> HCl → <mark>rapid</mark> but short relief (1–2 h) of ulcer pain, dyspepsia, GERD</li>
+      <li>Taken <b>1 and 3 h after meals and at bedtime</b></li>
+    </ul>
+    <div class="tbl"><table>
+      <thead><tr><th>Antacid</th><th>Key side effects</th></tr></thead>
+      <tbody>
+        <tr><th>Al(OH)₃</th><td><b>Constipation</b> · <mark>chelates phosphate</mark> → osteomalacia, encephalopathy (renal patients)</td></tr>
+        <tr><th>Mg²⁺ salts</th><td><b>Diarrhea</b> · <mark>CNS depression</mark> (renal patients)</td></tr>
+        <tr><th>CaCO₃</th><td><b>Rebound hyperacidity</b> · <mark>milk-alkali syndrome</mark> (alkalosis + hypercalcemia)</td></tr>
+        <tr><th>NaHCO₃ <small>(systemic)</small></th><td><mark>Systemic alkalosis</mark> · Na⁺ → <b>salt &amp; water retention</b> (avoid in HF, hypertension)</td></tr>
+      </tbody>
+    </table></div>
+    <div class="note"><mark><b>Best choice: Al + Mg together</b></mark> (e.g. magaldrate): they <mark>cancel each other's bowel effects</mark> with no systemic alkalosis.<br>
+    <b>Interaction:</b> Al³⁺ chelates tetracyclines, quinolones, digoxin, iron → give <b>2 h apart</b>.</div>
+  </section>
+
+  <div class="must">
+    <h2>Top 10 for the exam</h2>
     <ol>
-      <li>Most effective acid suppressant = <b>PPI</b> (final common step).</li>
-      <li>PPI before meals; P-CAB any time (acid-stable, not a prodrug).</li>
-      <li>Short t½ but 24 h action = <b>irreversible</b> pump block.</li>
-      <li>PPI long-term → <b>B12 deficiency</b>, infections; ↓ clopidogrel.</li>
-      <li>Cimetidine → gynecomastia, enzyme inhibition, confusion.</li>
-      <li>H2 blockers best for <b>nocturnal</b> acid; rapid IV → bradycardia.</li>
-      <li>Misoprostol: NSAID ulcer; <b>contraindicated in pregnancy</b>.</li>
-      <li>Sucralfate needs acid: separate from antacids/H2 by 1–2 h.</li>
-      <li>Bismuth → black stools that look like GI bleeding.</li>
-      <li>Al = constipation, Mg = diarrhea → combine them.</li>
-      <li>CaCO₃ → rebound acid + milk-alkali syndrome.</li>
-      <li>NaHCO₃ → alkalosis &amp; Na⁺ load (avoid in HF/HTN).</li>
-      <li>Antacids: 2 h gap from tetracyclines, quinolones, digoxin, iron.</li>
-      <li>NSAID-ulcer prevention: low dose, no NSAID combos, add PPI or misoprostol, care in elderly.</li>
+      <li>Most effective acid suppressant = <b>PPI</b></li>
+      <li>PPI before meals; P-CAB any time</li>
+      <li>Long-term PPI → <b>B12 deficiency</b></li>
+      <li>Cimetidine → <b>gynecomastia</b>, drug interactions</li>
+      <li>H2 blockers best for <b>night-time</b> acid</li>
+      <li>Misoprostol: NSAID ulcer, <b>not in pregnancy</b></li>
+      <li>Bismuth → <b>black stools</b></li>
+      <li>Al = constipation, Mg = diarrhea → combine</li>
+      <li>CaCO₃ → <b>milk-alkali syndrome</b></li>
+      <li>Antacids: <b>2 h gap</b> from tetracyclines &amp; quinolones</li>
     </ol>
   </div>
 
-  <footer>Built from YMnotes Digestive System, Stomach &amp; Duodenum pharmacology (pp. 44–49). For teaching and revision.</footer>
+  <footer>YMnotes Digestive System · Stomach &amp; Duodenum pharmacology (pp. 44–49)</footer>
 </div>
