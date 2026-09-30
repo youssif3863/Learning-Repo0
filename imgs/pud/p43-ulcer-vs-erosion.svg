@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img"><style>text{font-family:Helvetica,Arial,sans-serif;fill:#1d2624} .m{fill:#5d6b68} .b{font-weight:700}</style><rect width="100%" height="100%" fill="#f3f5f4"/>
+<rect x="20" y="80" width="360" height="60" fill="#f2b8bf"/>
+<rect x="20" y="140" width="360" height="10" fill="#b0414f"/>
+<rect x="20" y="150" width="360" height="55" fill="#fbe3cf"/>
+<rect x="20" y="205" width="360" height="60" fill="#d9867a"/>
+<path d="M58,80 C66,80 72,112 90,112 C108,112 114,80 122,80 Z" fill="#f3f5f4"/>
+<path d="M58,80 C66,80 72,112 90,112 C108,112 114,80 122,80" fill="none" stroke="#e0505f" stroke-width="2"/>
+<path d="M230,80 C240,82 245,145 270,146 L300,146 C325,145 330,82 340,80 Z" fill="#f3f5f4"/>
+<path d="M236,90 C244,118 250,140 270,141 L300,141 C320,140 326,118 334,90" fill="none" stroke="#e8dcae" stroke-width="8" stroke-linecap="round"/>
+<g fill="#e0505f"><circle cx="262" cy="160" r="3"/><circle cx="285" cy="163" r="3"/><circle cx="308" cy="160" r="3"/><circle cx="250" cy="130" r="2.5"/><circle cx="322" cy="128" r="2.5"/><circle cx="275" cy="170" r="2.5"/><circle cx="298" cy="171" r="2.5"/></g>
+<text x="90" y="40" text-anchor="middle" class="b" font-size="17">Erosion</text>
+<text x="90" y="60" text-anchor="middle" class="m" font-size="12">mucosa only</text>
+<text x="285" y="40" text-anchor="middle" class="b" font-size="17">Ulcer</text>
+<text x="285" y="60" text-anchor="middle" class="m" font-size="12">down to muscularis mucosae</text>
+<text x="150" y="114" font-size="12">Mucosa</text>
+<text x="150" y="190" font-size="12">Submucosa</text>
+<text x="150" y="240" font-size="12">Muscularis propria</text>
+<line x1="150" y1="145" x2="196" y2="158" stroke="#1d2624" stroke-width="1"/>
+<text x="26" y="136" font-size="11" class="b">Musc. mucosae →</text>
+<text x="352" y="120" font-size="11" class="m" text-anchor="end">fibrous base</text>
+<text x="285" y="290" text-anchor="middle" font-size="11" class="m">● inflammatory cells</text>
+</svg>
