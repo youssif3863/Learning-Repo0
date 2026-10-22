@@ -1,144 +1,96 @@
 ---
 name: ymnotes-register-students
-description: Register paid YMnotes students on e-teaching.site from the "[YMnotes]" emails in the ymnotes3864@gmail.com Gmail, then label each handled thread "ymnotes-registered" and report. Use when asked to register / add / process YMnotes students or registration emails, and in the scheduled daily run. Parameter: window (hours of mail to scan, default 25).
+description: Register paid YMnotes students on e-teaching.site from the "[YMnotes]" emails in the ymnotes3864@gmail.com Gmail (full package → Medicine + Surgery lectures for 5 months; Mid Questions → Mid-Module Exam Questions for 2 weeks), label each handled thread "ymnotes-registered", and report. Use when asked to register / add / process YMnotes students or registration emails, and in the scheduled daily run. Parameter: window (hours of mail to scan, default 25).
 ---
 
 # YMnotes student registration
 
-Reads `[YMnotes]` registration emails, adds the students to the lecturer's course on
-https://e-teaching.site, labels the Gmail thread, and ends with a short report.
-Works the same run by hand or from the schedule. **Parameter `window`** = hours of mail to
-scan (default **25**; the schedule runs once a day, and the label prevents double work).
+Reads `[YMnotes]` registration emails, adds each student to the right group(s) of the lecturer's
+course on https://e-teaching.site, labels the Gmail thread, and ends with a short report.
+The procedure is the same by hand or on the schedule. **`window`** = hours of mail to scan
+(default **25**: the schedule runs daily and the label prevents double work).
+Site details, lessons learned and troubleshooting are in `REFERENCE.md`. Read it **only** if
+something fails or the site changed.
 
-## Requirements (check first; if any is missing, stop and tell the user exactly what to fix)
+## Requirements (if one is missing: stop, report exactly which, and tell the user how to fix it)
 
-| # | What | Where it lives | Check |
-|---|------|----------------|-------|
-| 1 | This skill: `SKILL.md` + `drive.js` | repo `youssif3863/Learning-Repo0`, **default branch** (scheduled sessions clone the default branch) | file exists |
-| 2 | Permission rule `Bash(node .claude/skills/ymnotes-register-students/drive.js:*)` | repo `.claude/settings.json` → `permissions.allow` (the agent may not edit this file itself; the user adds it) | `grep drive.js .claude/settings.json` |
-| 3 | `ETEACHING_EMAIL`, `ETEACHING_PASSWORD` | the **cloud environment's** environment variables (claude.ai environment settings) | `drive.js` exits with code 2 and says "missing" if empty — never test them any other way |
-| 4 | Gmail connector for ymnotes3864@gmail.com | claude.ai connectors; the scheduled task must store connector `Gmail` | `mcp__Gmail__*` tools load via ToolSearch |
-| 5 | Network access to `e-teaching.site` | environment network policy | `drive.js` reaches the login page |
-| 6 | Chromium `/opt/pw-browsers/chromium` + global npm `playwright` | pre-installed in the Claude Code cloud image | `drive.js` starts |
+| # | Needed | Where it is set | Fix |
+|---|--------|-----------------|-----|
+| 1 | `SKILL.md`, `REFERENCE.md`, `drive.js` at `.claude/skills/ymnotes-register-students/` | repo **youssif3863/Learning-Repo0**, branch `main` (scheduled runs clone `main`) | re-add the folder and merge to `main` |
+| 2 | Allow rule `Bash(node .claude/skills/ymnotes-register-students/drive.js:*)` | repo `.claude/settings.json` → `permissions.allow` | the user adds it on GitHub (the agent may not edit its own permissions) |
+| 3 | `ETEACHING_EMAIL`, `ETEACHING_PASSWORD` (lecturer login) | claude.ai → the cloud **environment's** environment variables | user sets them there; never in chat |
+| 4 | **Gmail** connector (ymnotes3864@gmail.com) | claude.ai → Customize → Connectors, **and** attached to the scheduled task | `mcp__Gmail__*` tools must load via ToolSearch |
+| 5 | Repo attached to the session/scheduled task | scheduled task settings → Repository | — |
+| 6 | Network access to `e-teaching.site` | environment network policy | — |
+| 7 | Chromium `/opt/pw-browsers/chromium` + global npm `playwright` | pre-installed in the Claude Code cloud image | — |
+| 8 | Optional: **n8n** connector (read-only log checks) | scheduled task connectors | the run still works without it |
 
-Not required: the Playwright **MCP** in `.mcp.json`. It cannot log in safely (it would need the
-password typed into a tool call, and its code sandbox has no `process.env`). `drive.js` does
-all browser work.
+Not needed: the Playwright MCP. It can't log in safely, and `drive.js` does all browser work.
+Run `drive.js` from the **repo copy** at the path above. A personal copy of this skill elsewhere
+won't match the allow rule (2) and will be blocked in Auto mode.
 
 ## Hard rules
 
-- **Credentials**: never print, echo, log, screenshot, write to a file, or test the values of
-  `ETEACHING_EMAIL` / `ETEACHING_PASSWORD`, and never put them in a summary. Only `drive.js`
-  reads them (its output is scrubbed). Never ask the user to paste them in chat.
-- **Gmail**: read and label only. Never send, reply, forward, draft, trash, delete or mark spam.
+- **Credentials:** never print, echo, log, test, screenshot, write or summarize `ETEACHING_EMAIL` /
+  `ETEACHING_PASSWORD`. Never ask for them in chat. Only `drive.js` reads them.
+- **Gmail:** read and label only. Never send, reply, forward, draft, trash, delete or mark spam.
   Never read mail older than the window.
-- **Site**: only Add Student (Students Services) with "Save & Clear this Page". Never click
-  Delete, Add new Group, or change course/group settings. Never "Sign In with Gmail".
-- **Never guess.** Missing or malformed code, unclear plan, student not found, any site error →
-  leave the email unlabeled and list it under "Failed / unclear".
-- Never add a student twice. Dedupe by **student code** (the site's "Already registered" check),
-  not only by the Gmail label.
+- **n8n:** read-only. Only `search_workflows`, `search_workflow_executions`, `get_workflow_execution`,
+  `get_workflow_details`. Never update, publish, unpublish, execute, archive or test a workflow.
+- **Site:** only Add Student → "Save & Clear this Page", through `drive.js register`. Never Delete,
+  add groups, or change course/group settings.
+- **Never guess.** Missing or odd fields, unclear plan, not found, any error → leave unlabeled and report.
+- **Never register a code twice.** `drive.js` dedupes on the site itself ("Already registered" plus
+  the green group cards), not only by the Gmail label.
 
-## Procedure (cheap path — ~6 tool calls on a normal day)
+## Procedure (normal day: 3–6 tool calls)
 
-1. **Search Gmail once** (no thread reads yet):
-   `cutoff=$(( $(date -u +%s) - window*3600 ))` (25 h = 90000 s), then
-   `mcp__Gmail__search_threads` query `subject:"[YMnotes]" after:<cutoff> -label:ymnotes-registered`,
-   `pageSize` 50 (page through if `nextPageToken`). If there are no threads: reply
-   **"No new YMnotes emails in the last <window> h."** and stop.
-2. **Classify from subject + snippet.** Snippets carry the labelled fields in order
-   (`Student Code` / `E-Teaching App Student Code`, `Course`, `Paid` / `Amount Paid`).
-   Call `mcp__Gmail__get_thread` (`messageFormat: PLAIN_TEXT`) **only** when a field you need
-   is cut off or absent from the snippet. Read fields by their label, never by position.
-   - Subject `REJECTED` → skip (no label, list under Skipped with the Reason).
-   - `ACCEPTED` and `MANUAL REVIEW REQUIRED` → decide the plan:
+1. **One Gmail search.** `cutoff=$(( $(date -u +%s) - window*3600 ))`, then
+   `mcp__Gmail__search_threads` with query `subject:"[YMnotes]" after:<cutoff> -label:ymnotes-registered`
+   and `pageSize: 50` (page through if `nextPageToken`). If there are none: reply
+   **"No new YMnotes emails in the last <window> h."** and stop. Don't open the browser.
+2. **Classify from subject + snippet.** Snippets carry the labeled fields in order. Call
+   `get_thread` (`messageFormat: PLAIN_TEXT`) **only** when a field you need is cut off. Read
+   fields by label: code = `Student Code` / `E-Teaching App Student Code`; amount = `Paid` (ACCEPTED)
+   or `Amount Paid` (MANUAL REVIEW); plus `Course`.
+   - Subject `REJECTED` → **Skipped** (no label).
+   - `ACCEPTED` / `MANUAL REVIEW REQUIRED` → plan:
 
-   | Course field | Amount | Plan |
+   | Course field | Amount paid | Plan |
    |---|---|---|
-   | `Digestive` | > 400 EGP | `full` |
-   | `Digestive` | blank | `full` (Course is unambiguous) |
-   | `Digestive` | ≤ 400 | unclear |
-   | contains `Mid Questions` (e.g. `Digestive Mid Questions`, ~80 EGP) | ≤ 400 or blank | `questions` |
-   | contains `Mid Questions` | > 400 | unclear |
-   | anything else / new format | — | unclear |
+   | `Digestive` | > 400 EGP, or blank | `full` (Medicine + Surgery lectures, 5 months) |
+   | contains `Mid Questions` | ≤ 400 EGP (≈ 80), or blank | `questions` (Mid-Module Exam Questions, 14 days) |
+   | `Digestive` | ≤ 400 | unclear (amount doesn't fit) |
+   | contains `Mid Questions` | > 400 | unclear (amount doesn't fit) |
+   | `Final` questions, a new course, or a new email format | any | unclear (no rule yet) |
 
-   - Several emails with the same code → one entry; remember all their thread ids.
-   - Keep the email type (ACCEPTED vs MANUAL REVIEW) for the report.
-3. **Register all students in ONE call** (one login for the whole batch, ~2 min + ~40 s/student):
+   - Several emails with one code → one entry. Keep all its thread ids and its email type.
+   - Optional, for an unclear email only (blank or odd field): if the n8n tools exist, look up
+     that registration in workflow **`J3tPverV4M8GmATX`** ("YMnotes Enhanced Course Submission (3-Layer
+     Verification) _Published"). Use `search_workflow_executions` with `startedAfter` = cutoff, then
+     `get_workflow_execution` with `includeData: true, truncateData: 1`. Use it **only** to
+     confirm a field the email itself shows. If it doesn't settle the question, leave the entry unclear.
+3. **One driver call for everyone** (one login, about 2 min + 40 s per student), run from the repo root
+   exactly like this, with no pipes or prefixes and a 600000 ms timeout:
+   `node .claude/skills/ymnotes-register-students/drive.js register '[{"code":"94599","plan":"full"},{"code":"12345","plan":"questions"}]'`
+   Pass only `full` / `questions` entries. Unclear ones never go to the site. Output is one
+   `RESULT {...}` line per student:
+   - `registered`: saved and re-verified on the site.
+   - `already`: already in the plan's groups. No change.
+   - `unclear`: e.g. already in other groups, so the shared course expiry would change. Left for the user.
+   - `failed`: not found, page error, save not confirmed.
+   - Exit code **3** = login failed: **do not retry** (risk of locking the account). Report it.
+   - `--dry-run` fills the form without saving (manual testing only).
+4. **Label.** `mcp__Gmail__label_thread` with `ymnotes-registered` on **all** threads of codes that came
+   back `registered` or `already`. Get the id from `list_labels` (it was `Label_1`), and create the
+   label if it's missing. Never label unclear, failed or REJECTED threads.
+5. **Report** (short; no credentials, student emails or phone numbers):
    ```
-   node .claude/skills/ymnotes-register-students/drive.js register '[{"code":"94599","plan":"full"},{"code":"24679","plan":"questions"}]'
+   YMnotes registration — <date, Cairo>, window <window> h
+   Registered: <code> <name> — Medicine + Surgery until <date> | Mid-Module Questions until <date>
+   Registered as MANUAL REVIEW (check payment): <code> <name> — <amount> <method>, reason: <reason>
+   Already registered (labeled): <code> <name> — until <date>
+   Skipped: <code> — REJECTED: <reason>
+   Failed / unclear (left unlabeled): <code> — <why>
    ```
-   Run it from the repo root, exactly in this form (the permission rule matches the prefix).
-   Do not pipe or prefix it with variables. Use a 600000 ms timeout. Output: one
-   `RESULT {...}` line per student, with `status` set to one of:
-   - `registered`: added and re-checked on the site (shows "Already registered" with the new date).
-   - `already`: the site already had them in all plan groups. No change.
-   - `unclear`: bad code, no site target for the plan, or registered in only some groups.
-   - `failed`: student not found, page didn't load, save not confirmed, etc.
-   Add `--dry-run` to fill the form without saving (for testing).
-   - Exit code 3 = login failed: do **not** retry (avoid locking the account). Report it.
-4. **Label**: for every code with status `registered` or `already`, label **all** its thread ids
-   with `ymnotes-registered` (`mcp__Gmail__label_thread`, label id from `list_labels`; currently
-   `Label_1`. Create the label if it's missing). Never label `failed`/`unclear`/REJECTED.
-5. **Report** (short, no credentials, no student emails or phone numbers):
-   ```
-   YMnotes registration — <date Cairo>, window <window> h
-   Registered: 94599 mohamed alaa eldin — full package (Medicine + Surgery) until 2027/3/22
-   Registered (MANUAL REVIEW — check payment): 94599 … — 500 EGP InstaPay, reason: …
-   Already registered (labelled): 85890 kirolos Ayman — until 2027/1/31
-   Skipped: 66229 REJECTED — O6U Student Code is required
-   Failed / unclear (left unlabelled): 24679 — Mid Questions: no matching course on site yet
-   ```
-   MANUAL REVIEW students that were registered always go in their own section.
-
-## Site facts (learned in the supervised test, 2026-10-22)
-
-- Login: Dashboard → "Sign In with Email" → E-Mail Address + Password → "SignIn" → role
-  screen → **Lecturer**. No 2FA.
-- Lecturer courses: **Digestive System_YMnotes** (Digestive System, Medicine 2026/2027, First Term),
-  Neurology, Endocrine_YMnotes. "Surgery" and "Medicine" are **groups** inside
-  Digestive System_YMnotes: **`Medicine | Lectures`** and **`Surgery | Lectures`**.
-- Full package = both groups, **access ≈ 5 months** from today (Cairo), e.g. registered
-  2026-10-22 → 2027/3/22. Questions plan = 14 days, but **no Mid Questions course/group exists
-  yet**. `drive.js` (`PLANS.questions = null`) reports these as unclear until the user says where
-  they go. When they do, set `PLANS.questions = { groups: [...], days: 14 }` (and the course, if different).
-- Add Student flow (what `drive.js register` does): Courses → Digestive System_YMnotes →
-  Groups tab → bottom-right floating button → **Add Student** → "Students Services" page
-  (breadcrumb ends `Digestive System_YMnotes`) → type code in **Student Code** → yellow
-  magnifier → student card shows name + **"New Student"** or **"Already registered"** (with
-  "Old Time to disconnect the Service" = current expiry) → tap both group cards (turn green,
-  **Available Groups [2/2]**) → **Service will enable until** → date picker (Next/Previous month,
-  day buttons named like `March 22, 2027`) → **OK** → **Save & Clear this Page**.
-- The group's own "Valid until" (2026/12/31) is only the default for new students. The per-student
-  "Service will enable until" date is what counts.
-
-## Lessons learned (why drive.js looks the way it does)
-
-- Flutter hides its UI until accessibility is on: click `flt-semantics-placeholder` (off-screen)
-  via JS after the ~8–12 s "Checking your browser" page.
-- With accessibility ON the **Password field is a disabled input**, so typing fails (and pressing
-  SignIn then burns a failed login). The fix is to read control positions with accessibility on,
-  log in on a **fresh page with accessibility OFF** by tapping those positions (real inputs appear),
-  check both fields hold the right number of characters **before** SignIn, then turn accessibility on.
-- The floating menu's items (Add Student / All Students / Add new Group / **Delete**) share one
-  accessibility node, so click "Add Student" by position (630, 519 at 1280×900). Delete is far below.
-- Ctrl+A doesn't clear Flutter text fields; use End + Backspaces. The semantics input doesn't
-  expose its typed value.
-- After a search the student panel briefly empties or shows a spinner. Wait for the
-  "New Student"/"Already registered" card, not for "Not Available".
-- Save takes several seconds (spinner). Confirm by searching the code again ("Already registered" +
-  new date) and don't trust the click alone.
-- The proxy sometimes resets the first connection to the site; `drive.js` retries page loads
-  (never the password submit).
-- In Auto permission mode, ad-hoc scripts that read the credentials and edits to
-  `.claude/settings.json` are blocked. Only the allow-listed `drive.js` command runs. Don't try
-  to work around a block: tell the user.
-- Cost: never explore the site during a scheduled run. Never use the Playwright MCP for this.
-  Never read full threads that the snippet already covers. Do one `drive.js register` call per run.
-
-## Exploring / fixing the site flow (manual sessions only)
-
-`node .claude/skills/ymnotes-register-students/drive.js '<json steps>'` logs in and runs steps
-(`role`/`name`, `click` text, `fill`, `clickAt`, `shot`, `snap`, `boxOf`; see the file header),
-then prints a scrubbed accessibility snapshot. Screenshots go to `$ET_OUT` (default OS temp dir)
-and must never show the login form. Use it only when the site changed and `register` fails.
+   Leave out empty sections. Registered MANUAL REVIEW students always get their own section.

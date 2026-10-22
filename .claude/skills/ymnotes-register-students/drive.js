@@ -84,13 +84,17 @@ async function login(browser) {
 }
 
 // ---------- register mode ----------
-// node drive.js register '[{"code":"94599","plan":"full"},{"code":"24679","plan":"questions"}]' [--dry-run]
-// Prints one line per student: RESULT {"code","status":"registered|already|dry-run-ok|failed|unclear","detail",...}
+// node drive.js register '[{"code":"94599","plan":"full"},{"code":"12345","plan":"questions"}]' [--dry-run]
+// Prints one line per student:
+//   RESULT {"code","plan","status":"registered|already|dry-run-ok|failed|unclear","student","groups","until","detail"}
+// All plans live in course Digestive System_YMnotes; a plan = which group cards to turn green + how long.
 const PLANS = {
-  // Full package (theory, paid > 400 EGP): both groups of Digestive System_YMnotes, ~5 months.
+  // Full package (theory, paid > 400 EGP): Medicine + Surgery lecture groups, ~5 months.
   full: { groups: ['Medicine | Lectures', 'Surgery | Lectures'], months: 5 },
-  // Questions only: no matching course/group exists on the site yet -> reported as unclear, nothing is changed.
-  questions: null,
+  // Mid questions only (course "Digestive Mid Questions", ~80 EGP): 2 weeks.
+  questions: { groups: ['Mid-Module Exam Questions'], days: 14 },
+  // The site also has a "Final Exam Questions" group. No email/price rule for it yet: add a plan here when the
+  // user defines one (e.g. final_questions: { groups: ['Final Exam Questions'], days: 14 }).
 };
 const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 function cairoToday() {
@@ -107,6 +111,7 @@ function expiry(plan) {
   const dt = new Date(Date.UTC(t.y, t.m - 1, t.d + plan.days));
   return { y: dt.getUTCFullYear(), m: dt.getUTCMonth() + 1, d: dt.getUTCDate() };
 }
+const esc = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 const snapText = page => page.locator('body').ariaSnapshot().catch(() => '');
 async function waitFor(page, re, ms) {
   for (const end = Date.now() + ms; Date.now() < end; await sleep(1000)) { await a11y(page); const s = await snapText(page); if (re.test(s)) return s; }
@@ -116,31 +121,53 @@ async function openAddStudent(page) {
   await page.getByRole('button', { name: 'Courses' }).click(); await sleep(4000); await a11y(page);
   await page.getByRole('button', { name: 'Digestive System_YMnotes' }).click(); await sleep(5000); await a11y(page);
   await page.getByRole('tab', { name: 'Groups' }).click(); await sleep(5000); await a11y(page);
-  await page.getByRole('button').last().click(); await sleep(3000); // floating menu, bottom-right
-  // Menu items (Add Student / All Students / Add new Group / Delete) share one semantics node: click by position.
-  // "Add Student" is the top item; "Delete" is far below it (y~772), so this position is safe at 1280x900.
-  await page.mouse.click(630, 519); await sleep(7000); await a11y(page);
+  await page.getByRole('button').last().click(); await sleep(3000); await a11y(page); // floating menu, bottom-right
+  // The menu items (Add Student / All Students / Add new Group / Delete) share ONE semantics node, top to bottom.
+  // Click inside the top eighth of that node = "Add Student"; "Delete" is the bottom quarter and is never near.
+  const m = await page.getByRole('group', { name: /^Add Student/ }).first().boundingBox().catch(() => null);
+  const [x, y] = m ? [m.x + m.width / 2, m.y + m.height / 8] : [630, 519];
+  await page.mouse.click(x, y); await sleep(7000); await a11y(page);
   const s = await snapText(page);
   if (!/heading "Students Services"/.test(s) || !/Digestive System_YMnotes/.test(s)) throw new Error('Add Student page did not open');
 }
 async function search(page, code) {
   const box = page.getByRole('textbox', { name: 'Student Code' });
   await box.click(); await sleep(300);
-  // Ctrl+A is unreliable in Flutter text fields: clear with End + Backspaces, then check the value.
+  // Ctrl+A is unreliable in Flutter text fields, and the semantics <input> doesn't expose its value: End + Backspaces.
   await page.keyboard.press('End');
   for (let i = 0; i < 15; i++) await page.keyboard.press('Backspace');
-  await page.keyboard.type(code, { delay: 20 }); await sleep(800); // (the semantics <input> does not expose the typed value)
+  await page.keyboard.type(code, { delay: 20 }); await sleep(800);
   await page.mouse.click(1170, 125); // yellow magnifier search button
   await sleep(3000); // the info panel briefly empties/shows a spinner between students; don't read that as "not found"
   return (await waitFor(page, /img "[^"]*(New Student|Already registered)"/, 25000)) || '';
 }
+// Which group cards are green (= student is / will be in that group)? Colour is not in the accessibility tree,
+// so sample a 10x10 patch inside each card's corner from a screenshot and decode it in the browser.
+async function greenGroups(page) {
+  const names = [...(await snapText(page)).matchAll(/button "(.+?) \[ \d+ \] Student"/g)].map(m => m[1]);
+  const green = [];
+  for (const name of names) {
+    const b = await page.getByRole('button', { name: new RegExp('^' + esc(name) + ' \\[') }).first().boundingBox();
+    if (!b) continue;
+    const png = await page.screenshot({ clip: { x: b.x + 8, y: b.y + 8, width: 10, height: 10 } });
+    const [r, g, bl] = await page.evaluate(async b64 => {
+      const img = new Image(); img.src = 'data:image/png;base64,' + b64; await img.decode();
+      const c = document.createElement('canvas'); c.width = img.width; c.height = img.height;
+      const x = c.getContext('2d'); x.drawImage(img, 0, 0);
+      const d = x.getImageData(0, 0, c.width, c.height).data; let s = [0, 0, 0];
+      for (let i = 0; i < d.length; i += 4) { s[0] += d[i]; s[1] += d[i + 1]; s[2] += d[i + 2]; }
+      return s.map(v => v / (d.length / 4));
+    }, png.toString('base64'));
+    if (g > r + 30 && g > bl + 30) green.push(name);
+  }
+  return { names, green };
+}
 async function pickDate(page, { y, m, d }) {
   await page.getByRole('button', { name: /Service will enable until/ }).click(); await sleep(2500); await a11y(page);
   for (let i = 0; i < 36; i++) {
-    const hdr = await page.getByRole('button', { name: /^Select year / }).first().getAttribute('aria-label').catch(() => null)
-      || (await snapText(page)).match(/Select year ([A-Za-z]+ \d{4})/)?.[0] || '';
-    const mm = hdr.match(/([A-Za-z]+) (\d{4})/); if (!mm) throw new Error('date picker header not found');
-    const diff = (y - Number(mm[2])) * 12 + (m - 1 - MONTHS.indexOf(mm[1]));
+    const hdr = (await snapText(page)).match(/Select year ([A-Za-z]+) (\d{4})/);
+    if (!hdr) throw new Error('date picker header not found');
+    const diff = (y - Number(hdr[2])) * 12 + (m - 1 - MONTHS.indexOf(hdr[1]));
     if (diff === 0) break;
     await page.getByRole('button', { name: diff > 0 ? 'Next month' : 'Previous month' }).click(); await sleep(900); await a11y(page);
   }
@@ -150,43 +177,51 @@ async function pickDate(page, { y, m, d }) {
 let last = {};
 async function registerOne(page, { code, plan: planName }, dryRun) {
   code = String(code || '');
-  if (!/^\d{4,7}$/.test(String(code || ''))) return { status: 'unclear', detail: 'student code missing or malformed' };
+  if (!/^\d{4,7}$/.test(code)) return { status: 'unclear', detail: 'student code missing or malformed' };
   const plan = PLANS[planName];
-  if (!plan) return { status: 'unclear', detail: `no site course/group configured for plan "${planName}"` };
-  const s = await search(page, String(code));
+  if (!plan) return { status: 'unclear', detail: `no site group configured for plan "${planName}"` };
+  const s = await search(page, code);
   if (!s) return { status: 'failed', detail: 'student not found for this code (or search did not load in 28s)' };
   const who = (s.match(/img "([^"]*)(New Student|Already registered)"/) || [])[1]?.trim();
   // Guard against reading the previous student's panel when a search silently did not fire.
   if (who && last.who === who && last.code !== code) return { status: 'failed', student: who, detail: 'search showed the previous student again (stale result)' };
   last = { who, code };
+  const { names, green } = await greenGroups(page);
+  const missingGroups = plan.groups.filter(g => !names.includes(g));
+  if (missingGroups.length) return { status: 'failed', student: who, detail: 'group(s) not on the site: ' + missingGroups.join(', ') };
   if (/Already registered/.test(s)) {
-    const until = (s.match(/text: (\d{4}\/\d+\/\d+) Old Time/) || [])[1];
-    const n = plan.groups.length;
-    if (!new RegExp(`Available Groups \\[ ${n} / ${n} \\]`).test(s))
-      return { status: 'unclear', student: who, detail: `already registered but not in all ${n} groups (until ${until || 'unknown'}); not changed` };
-    return { status: 'already', student: who, detail: `already registered, access until ${until || 'unknown'}` };
+    const until = (s.match(/text: (\d{4}\/\d+\/\d+) Old Time/) || [])[1] || 'unknown';
+    const need = plan.groups.filter(g => !green.includes(g));
+    if (!need.length) return { status: 'already', student: who, groups: green, until, detail: 'already in the plan groups; not changed' };
+    // In the course but not in this plan's groups (e.g. a full-package student now buying questions). The access
+    // date is ONE per student for the whole course, so changing it could shorten/extend other access: leave to the user.
+    return { status: 'unclear', student: who, groups: green, until, detail: `already in ${green.join(' + ') || 'no group'} until ${until}; needs ${need.join(' + ')} — shared course expiry, left for manual handling` };
   }
   if (!/New Student/.test(s)) return { status: 'failed', detail: 'student not found for this code' };
-  for (const g of plan.groups) { await page.getByRole('button', { name: new RegExp('^' + g.replace(/[|]/g, '\\|')) }).first().click(); await sleep(1500); }
+  if (green.length) return { status: 'unclear', student: who, groups: green, detail: 'new student but some groups already pre-selected; not changed' };
+  for (const g of plan.groups) { await page.getByRole('button', { name: new RegExp('^' + esc(g) + ' \\[') }).first().click(); await sleep(1500); }
   await a11y(page);
-  const n = plan.groups.length;
-  if (!new RegExp(`Available Groups \\[ ${n} / ${n} \\]`).test(await snapText(page))) return { status: 'failed', student: who, detail: 'group selection did not reach ' + n + '/' + n };
+  const sel = (await greenGroups(page)).green;
+  if (sel.length !== plan.groups.length || plan.groups.some(g => !sel.includes(g)))
+    return { status: 'failed', student: who, detail: `group selection is [${sel.join(', ')}] instead of [${plan.groups.join(', ')}]; not saved` };
   const t = expiry(plan), want = `${t.y}/${t.m}/${t.d}`;
   await pickDate(page, t);
-  if (!(await snapText(page)).includes(`button "${want} Service will enable until"`)) return { status: 'failed', student: who, detail: 'expiry date did not set to ' + want };
+  if (!(await snapText(page)).includes(`button "${want} Service will enable until"`)) return { status: 'failed', student: who, detail: 'expiry date did not set to ' + want + '; not saved' };
   if (dryRun) return { status: 'dry-run-ok', student: who, groups: plan.groups, until: want, detail: 'form filled, not saved' };
   await page.getByRole('button', { name: 'Save & Clear this Page' }).click();
   if (!(await waitFor(page, /Save & Clear this Page/, 45000))) return { status: 'failed', student: who, detail: 'save did not finish (check manually before retrying)' };
   await sleep(2000);
-  const v = await search(page, String(code)); // verify
-  if (v && /Already registered/.test(v) && v.includes(`${want} Old Time`)) return { status: 'registered', student: who, groups: plan.groups, until: want };
-  return { status: 'failed', student: who, detail: 'saved but verification did not show Already registered until ' + want + ' (check manually)' };
+  last = {}; // the same student is searched again on purpose
+  const v = await search(page, code); // verify on the site
+  const vg = v ? (await greenGroups(page)).green : [];
+  if (v && /Already registered/.test(v) && v.includes(`${want} Old Time`) && plan.groups.every(g => vg.includes(g)))
+    return { status: 'registered', student: who, groups: plan.groups, until: want };
+  return { status: 'failed', student: who, detail: `saved but verification did not show Already registered in ${plan.groups.join(' + ')} until ${want} (check manually, do not retry blindly)` };
 }
 async function registerMode(browser, list, dryRun) {
-  const r = await login(browser);
+  let r = await login(browser);
   if (!r.ok) { log('LOGIN FAILED:', r.why); return 3; }
-  const page = r.page;
-  let opened = false;
+  let page = r.page, opened = false;
   for (const st of list) {
     let res;
     try {
@@ -194,10 +229,13 @@ async function registerMode(browser, list, dryRun) {
       res = await registerOne(page, st, dryRun);
     } catch (e) {
       res = { status: 'failed', detail: e.message.split('\n')[0] };
-      // Stay on the Add Student page if we are still there; otherwise the next student re-opens it from the home page.
+      // Stay on the Add Student page if still there; otherwise log in again on a fresh page for the next student.
       if (!/heading "Students Services"/.test(await snapText(page))) {
-        opened = false;
-        await page.goto(SITE, { waitUntil: 'domcontentloaded' }).catch(() => {}); await sleep(14000); await a11y(page);
+        opened = false; last = {};
+        await page.context().close().catch(() => {});
+        r = await login(browser);
+        if (!r.ok) { log('RESULT', JSON.stringify({ code: st.code, plan: st.plan, ...res })); log('LOGIN FAILED on retry:', r.why); return 3; }
+        page = r.page;
       }
     }
     log('RESULT', JSON.stringify({ code: st.code, plan: st.plan, ...res }));
