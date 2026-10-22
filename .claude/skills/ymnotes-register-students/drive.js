@@ -8,8 +8,11 @@
 //   {"fill":"label","text":"value"}         focus a textbox by label and type into it
 //   {"type":"text"} {"key":"Enter"} {"scroll":600} {"wait":ms} {"snap":true}
 //   {"shot":"name.png"}                     screenshot into $ET_OUT (default: OS temp dir), never in the repo
-const { chromium } = require('/node-tools/node_modules/playwright');
 const os = require('os'), path = require('path');
+// Playwright is installed globally in the cloud image; resolve it from the global node_modules.
+const { chromium } = require(require.resolve('playwright', {
+  paths: [path.join(path.dirname(process.execPath), '..', 'lib', 'node_modules'), '/opt/node-tools/node_modules'],
+}));
 const E = process.env.ETEACHING_EMAIL || '', P = process.env.ETEACHING_PASSWORD || '';
 const OUT = process.env.ET_OUT || os.tmpdir();
 const scrub = s => { let o = String(s); for (const v of [E, P]) if (v) o = o.split(v).join('***'); return o; };
@@ -21,7 +24,8 @@ async function a11y(page) {
 }
 (async () => {
   if (!E || !P) { log('ERROR missing ETEACHING_EMAIL or ETEACHING_PASSWORD'); process.exit(2); }
-  const steps = JSON.parse(process.argv[2] || '[]');
+  const probe = process.argv[2] === 'probe-login'; // inspect the login form without typing the password or submitting
+  const steps = probe ? [] : JSON.parse(process.argv[2] || '[]');
   const browser = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium', headless: true, args: ['--no-sandbox'] });
   const page = await (await browser.newContext({ viewport: { width: 1280, height: 900 } })).newPage();
   let code = 0;
@@ -31,7 +35,39 @@ async function a11y(page) {
     await page.getByRole('button', { name: 'Dashboard' }).click(); await sleep(2000);
     await page.getByRole('button', { name: 'Sign In with Email' }).click(); await sleep(2000);
     await page.getByRole('textbox', { name: 'E-Mail Address' }).click(); await sleep(500);
-    await page.keyboard.type(E, { delay: 20 }); await page.keyboard.press('Tab'); await sleep(500);
+    await page.keyboard.type(E, { delay: 20 }); await sleep(500);
+    if (probe) {
+      const dump = () => page.evaluate(() => [...document.querySelectorAll('flt-semantics, input, textarea')]
+        .filter(n => /pass/i.test((n.getAttribute('aria-label') || '') + (n.textContent || '').slice(0, 40)) || n.tagName !== 'FLT-SEMANTICS')
+        .map(n => ({ tag: n.tagName, id: n.id, role: n.getAttribute('role'), label: n.getAttribute('aria-label'),
+          disabled: n.getAttribute('aria-disabled') ?? n.disabled, type: n.type, rect: (r => [r.x, r.y, r.width, r.height].map(Math.round))(n.getBoundingClientRect()) })));
+      const pwState = () => page.evaluate(() => { const i = document.querySelector('input[type=password]'); const a = document.activeElement; return 'pwDisabled=' + (i && i.disabled) + ' active=' + (a && (a.tagName + ' ' + (a.id || '') + ' ' + (a.type || ''))); });
+      log('START', await pwState());
+      await page.keyboard.press('Enter'); await sleep(1500); log('AFTER ENTER', await pwState());
+      await page.keyboard.press('Tab'); await sleep(1500); log('AFTER TAB', await pwState());
+      for (const [x, y] of [[565, 462], [300, 438], [80, 495]]) {
+        await page.mouse.click(x, y); await sleep(1500);
+        log('CLICK', x, y, await pwState());
+      }
+      log('BEFORE', JSON.stringify(await dump()));
+      const g = page.getByRole('group', { name: /Password/ }).first(); const b = await g.boundingBox();
+      log('GROUP BOX', JSON.stringify(b));
+      if (b) await page.mouse.click(b.x + b.width / 2, b.y + b.height / 3); await sleep(1500);
+      log('MID', JSON.stringify(await dump()));
+      await page.mouse.click(67 + 200, 447 + 15); await sleep(1500);
+      log('AFTER INPUT CLICK active:', await page.evaluate(() => { const a = document.activeElement; return a && (a.tagName + ' ' + (a.type || '') + ' dis=' + a.disabled); }));
+      await page.evaluate(() => { const i = document.querySelector('input[type=password]'); if (i) { i.focus(); } });
+      await sleep(800);
+      log('AFTER FOCUS() active:', await page.evaluate(() => { const a = document.activeElement; return a && (a.tagName + ' ' + (a.type || '') + ' dis=' + a.disabled); }));
+      log('AFTER CLICK', JSON.stringify(await dump()), 'active:', await page.evaluate(() => { const a = document.activeElement; return a && (a.tagName + ' ' + (a.type || '') + ' ' + (a.getAttribute('aria-label') || '')); }));
+      log(await page.locator('body').ariaSnapshot());
+      await browser.close(); process.exit(0);
+    }
+    // The Password textbox reports [disabled] until its group is clicked; Tab does not reach it.
+    await page.getByRole('group', { name: /Password/ }).first().click(); await sleep(800);
+    const pw = page.getByRole('textbox', { name: 'Password' });
+    if (await pw.isDisabled().catch(() => true)) await pw.click({ force: true }).catch(() => {});
+    await sleep(500);
     await page.keyboard.type(P, { delay: 20 }); await sleep(300);
     await page.getByRole('button', { name: 'SignIn' }).click();
     await sleep(8000); await a11y(page);
