@@ -1,3 +1,8 @@
 {
-  "enableAllProjectMcpServers": true
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "allow": [
+      "Bash(node .claude/skills/ymnotes-register-students/drive.js:*)"
+    ]
+  }
 }
