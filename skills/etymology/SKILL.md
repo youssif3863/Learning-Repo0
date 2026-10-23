@@ -1,100 +1,98 @@
 ---
 name: etymology
-description: Explain where a word comes from and how its parts build its meaning, in English and Arabic — prefix/root/suffix breakdown, origin language, literal reconstruction, accepted Arabic translation, English and Arabic definitions, and contextual meaning. Use whenever the user says "Etymology", asks what a term's parts mean, why something is called what it is, what a prefix, suffix or combining form means (-itis, -ectomy, hepato-, dys-), wants medical terms from a lecture, slide, screenshot or list broken down, or asks in Arabic (أصل الكلمة، تفكيك المصطلح، معنى المقطع، ليه اسمها كده) — even without the word "etymology". Covers medical terminology and general vocabulary, eponyms, acronyms and Arabic words. Not for plain translation, spelling or pronunciation requests unless the user also wants the origin or breakdown.
+description: Break a word into its meaningful parts and explain it in English and Arabic — part-by-part meanings, literal reconstruction, accepted Arabic term, short English and Arabic definitions, and what the word means in the user's own context (the book, handout, slide or conversation it came from). Use whenever the user says "Etymology", asks what a term's parts mean, why something is called what it is, what a prefix, suffix or combining form means (-itis, -ectomy, hepato-, dys-), wants medical terms from a lecture, slide, screenshot or list broken down, or asks in Arabic (أصل الكلمة، تفكيك المصطلح، معنى المقطع، ليه اسمها كده) — even without the word "etymology". Covers medical terminology and general vocabulary, eponyms, acronyms and Arabic words. Not for plain translation, spelling or pronunciation requests unless the user also wants the breakdown.
 ---
 
 # Etymology — English & Arabic
 
-Help the learner understand and remember a word by separating four things that are easy to blur together: its historical origin, its meaningful structure, its literal sense, and its present-day use. Keep the answer concise, accurate and bilingual. The user's requested depth, language and format always win over these defaults.
+Help the learner understand and remember a word by showing what each part means, what the parts say literally, what the word means today, and what it means *where the learner met it*. Most users are Arabic-speaking medical students reading English textbooks and lecture notes, so the answer should be short, bilingual and easy to scan. The user's requested depth, language and format always win over these defaults.
 
-Most users are Arabic-speaking learners (often medical students) who meet English/Greek/Latin terminology daily. The goal is durable understanding: once a learner truly knows that *-ectomy* means "cutting out", dozens of terms become self-explanatory. So a correct, transferable breakdown is worth more than an elaborate story.
+The learner wants the meaning, not a history lesson: skip origin languages (Greek, Latin, etc.) and historical commentary unless they ask. Use that knowledge silently to get the breakdown right.
 
 ## Workflow
 
-1. **Pin the term and its sense.** Take it from the current sentence, image or discussion. Use available context without pretending to have read unseen sources. If a spelling correction is clear, show it briefly and proceed. Ask one focused question only if illegibility or several plausible senses would make the answer useless.
-2. **Classify how the name was formed:** analyzable word, compound, borrowing, eponym, acronym, fixed phrase, or Arabic word built on a root and pattern. Do not assume Greek or Latin ancestry — many terms are eponyms, borrowings from Arabic, French or German, or modern coinages.
-3. **Split into meaningful parts, in original order.** Distinguish prefixes, roots/combining forms and suffixes where they exist; do not force every word into all three. A connecting vowel (the *-o-* in *gastr-o-enter-o-logy*) is a connector with no meaning of its own.
-4. **Give the origin.** Name the source language and the original form or a readable transliteration when reliably known. Mention the immediate source versus an earlier origin only when it aids understanding. Say so when a breakdown is a modern teaching convention rather than demonstrable history.
-5. **Reconstruct the literal sense** in English and in natural Arabic, keeping each part's contribution but using grammatical word order in each language.
-6. **Define it now:** a short modern English definition and an equivalent explanatory Arabic definition. Give the accepted Arabic term separately — a translation alone is not a definition. For medical terms, check `references/medical-affixes.md` so standard Arabic equivalents stay consistent (e.g. *-otomy* بَضْع, *-ectomy* استئصال, *-ostomy* فَغْر).
-7. **Connect to context** in one sentence when context exists. Name the supplied context; otherwise label any example as illustrative rather than inventing what the user meant.
-8. **Add at most one extra that earns its place:** a memory aid, a related word sharing the root, a commonly confused term, or a Greek/Latin doublet (*nephr-* vs *ren-*). Prefer correcting a real misconception over a decorative mnemonic. If an English term actually comes from Arabic (alcohol ← الكُحْل, nucha ← نُخاع), say so — it is memorable for Arabic speakers, as long as the derivation is genuine.
+1. **Pin the term and its sense.** If a spelling correction is clear, show it briefly and proceed. Ask one focused question only if illegibility or several plausible senses would make the answer useless.
+2. **Look for the context before writing.** Check the conversation, uploaded files, book pages, handouts, slides and screenshots for where this word appears. If it appears there, read the surrounding sentence or section so you can say what the word means *in that passage* — this is often what the learner actually needs. Never pretend to have read something you have not seen, and never invent a context.
+3. **Classify how the name was formed:** analyzable word, compound, eponym, acronym, fixed phrase, or Arabic word built on a root and pattern. Do not force a Greek/Latin breakdown on a word that isn't built that way.
+4. **Split into meaningful parts, in original order.** Use real prefixes, roots/combining forms and suffixes; do not force every word into all three. A connecting vowel (the *-o-* in *gastr-o-enter-o-logy*) has no meaning of its own, so leave it out of the table.
+5. **Reconstruct the literal sense** in English and natural Arabic.
+6. **Define it now** in one short sentence each, English and Arabic. Give the accepted Arabic term in the heading — a translation alone is not a definition. For medical terms, use `references/medical-affixes.md` so Arabic equivalents stay consistent (e.g. *-otomy* بَضْع, *-ectomy* استئصال, *-ostomy* فَغْر).
+7. **Add the context meaning** from step 2, if found.
+8. **Add at most one short distinction** when it truly helps — a commonly confused term or a sibling word with a different ending. Skip it when there is nothing useful to say.
 
 ## Default response — one term
 
 **[Term] — [accepted Arabic term]**
 
-**Origin:** [language and derivation, brief].
+| Part | English meaning | المعنى بالعربية |
+| --- | --- | --- |
+| [component in original order] | [meaning] | [Arabic meaning] |
 
-| Part | Role / origin | English meaning | المعنى بالعربية |
-| --- | --- | --- | --- |
-| [component in original order] | [prefix/root/suffix; language] | [sense] | [Arabic equivalent] |
+**Literally:** [English literal meaning] → «[Arabic literal meaning]».
 
-**Literally:** [English reconstruction] → [Arabic literal reconstruction].
+**English definition:** [one short sentence].
 
-**English definition:** [one clear sentence].
+**التعريف بالعربية:** [one short sentence].
 
-**التعريف بالعربية:** [one clear, natural Arabic sentence].
+**In context:** [only if the word appears in the user's material or conversation — one or two sentences naming the source and explaining what the word means there].
 
-**In context:** [meaning in the supplied sentence or topic].
+**Important distinction:** [optional, one line].
 
-**Memory aid / Important distinction:** [optional, one brief point].
+Keep it brief: about 70–130 words for one ordinary term, plus the context line. Omit any section with nothing useful in it rather than filling it. For an eponym or acronym, replace the table with the naming basis or the expansion. If a literal reconstruction does not apply, skip that line. No quizzes, history or clinical lectures unless asked.
 
-Adapt rather than filling empty sections. For an indivisible word, eponym or acronym, replace the table with the actual naming basis or expansion. If a literal reconstruction does not apply, say so in a few words instead of inventing one. Omit "In context" when there is nothing useful to say. Aim for roughly 150–250 words for one ordinary term; less for simple words, more only when the term or the user warrants it. No quizzes or clinical lectures unless asked.
+### Worked example (no context available)
 
-### Worked example
+**Cholecystectomy — استئصال المرارة**
 
-**Thrombocytopenia — قِلَّة الصُّفَيْحات (الدموية)**
+| Part | English meaning | المعنى بالعربية |
+| --- | --- | --- |
+| chole- | bile | صفراء |
+| cyst- | bladder, sac | كيس / مثانة |
+| -ectomy | surgical removal | استئصال |
 
-**Origin:** Modern medical coinage from Greek elements.
+**Literally:** removal of the bile sac → «استئصال كيس الصفراء».
 
-| Part | Role / origin | English meaning | المعنى بالعربية |
-| --- | --- | --- | --- |
-| thromb- | root; Greek *thrombos* | clot, lump | خُثْرة / جُلطة |
-| -o- | connecting vowel | — | — |
-| cyt- | root; Greek *kytos* "hollow vessel" | cell | خلية |
-| -o- | connecting vowel | — | — |
-| -penia | suffix; Greek *penia* "poverty" | deficiency | قِلَّة / نقص |
+**English definition:** Surgical removal of the gallbladder.
 
-**Literally:** "a deficiency of clot cells" → «نقصٌ في خلايا التجلط».
+**التعريف بالعربية:** عملية جراحية لإزالة المرارة.
 
-**English definition:** An abnormally low number of platelets in the blood.
+**Important distinction:** cholecyst*otomy* = cutting into the gallbladder (بَضْع) · cholecyst*ectomy* = removing it (استئصال) · cholecyst*ostomy* = making an opening in it (فَغْر).
 
-**التعريف بالعربية:** انخفاض عدد الصفيحات الدموية في الدم عن المعدل الطبيعي.
+### The same term with context
 
-**Important distinction:** *-penia* (too few) is the opposite of *-cytosis* (too many, e.g. thrombocytosis). Both describe counts, not function.
+If the user had shared a surgery handout with the line "Laparoscopic cholecystectomy is the treatment of choice for symptomatic gallstones", the answer would add:
 
-More patterns — an eponym, an acronym, a literal-vs-real mismatch, a contested origin, and an Arabic word — are in `references/examples.md`. Read it when the term is not a straightforward analyzable word.
+**In context:** In your surgery handout, it is the standard operation for gallstones that cause symptoms, done through small keyhole incisions (استئصال المرارة بالمنظار).
+
+Other cases — an eponym, an acronym, a misleading literal meaning, an Arabic word — are in `references/examples.md`. Read it when the term is not a straightforward analyzable word.
 
 ## Several terms at once
 
-When the user gives a list, a slide or a screenshot with **four or more** terms, a full block per term buries the pattern. Use one compact table instead, then add short notes only where a term needs them (a mismatch, an eponym, a trap):
+When the user gives a list, a slide or a screenshot with **four or more** terms, use one compact table instead of a block per term:
 
-| Term | Breakdown | Literal meaning | Meaning | المصطلح العربي |
-| --- | --- | --- | --- | --- |
-| hepatomegaly | hepat- (liver) + -o- + -megaly (enlargement) | liver enlargement | enlarged liver | ضخامة الكبد |
+| Term | Breakdown | Meaning | المصطلح العربي |
+| --- | --- | --- | --- |
+| hepatomegaly | hepat- (liver) + -megaly (enlargement) | enlarged liver | ضخامة الكبد |
 
-When terms share a part, point it out once ("all three end in *-itis* = inflammation") rather than repeating it. With two or three terms, use the one-term format but drop repeated explanations. For a quick follow-up ("and *-ostomy*?"), answer briefly in the same style and build on what was already said.
+Then add short notes only where a term needs one (a misleading literal meaning, a common confusion), and a one-line context note if the terms came from the user's material. When terms share a part, point it out once. With two or three terms, use the one-term format for each. For a quick follow-up ("and *-ostomy*?"), answer briefly in the same style.
 
 ## Arabic quality and layout
 
-- Prefer standard Arabic medical terminology (the WHO-EMRO *Unified Medical Dictionary* / المعجم الطبي الموحد tradition) and clear Modern Standard Arabic. Add a familiar Egyptian Arabic gloss only when it helps or is requested — e.g. a term students actually hear in lectures. Never replace accurate Arabic with awkward word-for-word calques.
-- An established Arabic term can override the literal pattern: *anemia* is فقر الدم, not «انعدام الدم». Give the established term and, if the literal meaning differs, say so.
+- Prefer standard Arabic medical terminology (the *Unified Medical Dictionary* / المعجم الطبي الموحد tradition) and clear Modern Standard Arabic. Add an Egyptian Arabic gloss only when it helps or is requested. Avoid awkward word-for-word calques.
+- An established Arabic term beats the literal pattern: *anemia* is فقر الدم, not «انعدام الدم».
 - Use diacritics only where a word would otherwise be misread (بَضْع "incision" vs بِضْع "a few").
-- Mixed right-to-left and left-to-right text scrambles easily. Keep Arabic in its own labelled line or in the last table column. When an English term must appear inside an Arabic sentence, put it in parentheses after the Arabic: التهاب الكبد (hepatitis). Use Arabic punctuation (، ؛) in Arabic text.
+- Mixed right-to-left and left-to-right text scrambles easily. Keep Arabic in its own labelled line or in the last table column. When an English term must appear inside an Arabic sentence, put it in parentheses after the Arabic: التهاب الكبد (hepatitis).
 
-## Accuracy and verification
+## Accuracy
 
-Etymology is a field full of confident folk stories, and a learner who is taught a false root will mis-derive other words too. So:
+A learner taught a false part will mis-read other words too, so:
 
-- Never derive an origin from spelling resemblance alone. Never invent classical roots, semantic histories, dates, original spellings or named people.
-- Keep literal meaning, accepted Arabic term, modern definition and contextual sense distinct, and explain any important mismatch in one sentence. Etymology does not establish a modern definition, mechanism, diagnostic criterion or treatment — *-oma* means "mass", yet a hematoma is not a tumour.
-- **Eponyms:** give the person and naming basis if known; do not split surnames into roots. **Acronyms:** expand the letters and translate the expansion. **Idioms and fixed phrases:** separate literal wording from actual usage. **Arabic words:** use the attested root (جذر) and pattern (وزن) — e.g. فُعال for many ailments (صُداع، سُعال، زُكام) — not a European prefix/suffix model.
-- Verify uncertain, obscure, contested or specifically requested historical claims in an authoritative dictionary, historical lexicon or specialist terminology reference (e.g. OED, Etymonline, Merriam-Webster, Dorland's/Stedman's for medicine). Use a clinical authority for a clinical definition that needs checking. Search narrowly for the disputed point rather than researching broadly.
-- Cite sources actually consulted, next to the claim they support. Never imply a lookup happened when it did not. If verification is unavailable, flag the uncertain point, give only what is supported, and leave the disputed derivation open — "origin disputed" is a correct answer.
-- Label a mnemonic as a memory aid, never as history. Avoid misleading or offensive wordplay.
-- Do not add pronunciation routinely. If asked, give reliable IPA and stress, noting regional variation only when supported.
+- Never split a word from spelling resemblance alone, and never invent roots, meanings or named people.
+- Keep literal meaning, accepted Arabic term, modern definition and context meaning distinct. If the literal meaning misleads, say so in one short clause (*-oma* means "mass", yet a hematoma is not a tumour).
+- **Eponyms:** name the person; do not split surnames into roots. **Acronyms:** expand and translate the expansion. **Arabic words:** use the real root (جذر) and pattern (وزن), not a prefix/suffix model.
+- If unsure about a part's meaning, check a reliable dictionary or medical terminology reference rather than guessing. Never imply a lookup happened when it did not. If something cannot be confirmed, say so briefly.
+- Do not add pronunciation unless asked.
 
 ## Final self-check
 
-Before sending, confirm: every component is genuine; original order is kept; connecting vowels carry no meaning; English and Arabic definitions say the same thing; literal and conventional meanings are distinguished; Arabic terms are the standard ones and render cleanly beside English; uncertainty is visible where it exists; and the answer addresses the requested term without an unsolicited lecture.
+Every part is genuine and in original order; connectors carry no meaning; English and Arabic definitions agree; Arabic terms are standard and render cleanly; context meaning is included when the word appears in the user's material; and the answer is short.
