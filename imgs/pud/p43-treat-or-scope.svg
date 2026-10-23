@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img"><style>text{font-family:Helvetica,Arial,sans-serif;fill:#1d2624} .m{fill:#5d6b68} .b{font-weight:700}</style><rect width="100%" height="100%" fill="#f3f5f4"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#5d6b68"/></marker></defs>
+<rect x="110" y="14" width="180" height="38" rx="8" fill="#e6efed" stroke="#d5dddb"/>
+<text x="200" y="38" text-anchor="middle" font-size="13" class="b">Typical PUD symptoms</text>
+<g stroke="#5d6b68" stroke-width="1.8" fill="none" marker-end="url(#ar)">
+<path d="M150,52 L72,92"/><path d="M200,52 L200,92"/><path d="M250,52 L328,92"/>
+<path d="M72,146 L72,196"/><path d="M200,146 L230,196"/><path d="M328,146 L300,196"/></g>
+<rect x="12" y="94" width="120" height="52" rx="8" fill="#ffffff" stroke="#1f6f68" stroke-width="2"/>
+<text x="72" y="116" text-anchor="middle" font-size="12" class="b">&lt; 55 years</text>
+<text x="72" y="134" text-anchor="middle" font-size="12">H. pylori +</text>
+<rect x="140" y="94" width="120" height="52" rx="8" fill="#ffffff" stroke="#d5dddb" stroke-width="2"/>
+<text x="200" y="125" text-anchor="middle" font-size="12" class="b">Older patient</text>
+<rect x="268" y="94" width="120" height="52" rx="8" fill="#ffffff" stroke="#e0505f" stroke-width="2"/>
+<text x="328" y="116" text-anchor="middle" font-size="12" class="b">Alarm symptoms</text>
+<text x="328" y="134" text-anchor="middle" font-size="11" class="m">any age</text>
+<rect x="12" y="198" width="120" height="72" rx="8" fill="#1f6f68"/>
+<text x="72" y="228" text-anchor="middle" font-size="13" class="b" style="fill:#ffffff">Eradicate</text>
+<text x="72" y="246" text-anchor="middle" font-size="11" style="fill:#ffffff">no further tests</text>
+<rect x="170" y="198" width="210" height="72" rx="8" fill="#7a1d2b"/>
+<text x="275" y="228" text-anchor="middle" font-size="13" class="b" style="fill:#fff">Endoscopy</text>
+<text x="275" y="246" text-anchor="middle" font-size="11" style="fill:#fff">diagnose + exclude cancer</text>
+</svg>

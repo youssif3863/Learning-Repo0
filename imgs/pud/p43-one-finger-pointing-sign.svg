@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img"><style>text{font-family:Helvetica,Arial,sans-serif;fill:#1d2624} .m{fill:#5d6b68} .b{font-weight:700}</style><rect width="100%" height="100%" fill="#f3f5f4"/>
+<path d="M70,20 C110,10 150,6 200,6 C250,6 290,10 330,20 L318,300 L82,300 Z" fill="#f4d9c6" stroke="#5d6b68" stroke-width="1.5"/>
+<path d="M200,70 L130,165 M200,70 L270,165" stroke="#5d6b68" stroke-width="2" fill="none"/>
+<path d="M194,52 L206,52 L200,74 Z" fill="#5d6b68"/>
+<path d="M200,76 L150,150 L250,150 Z" fill="#e0505f" opacity=".28"/>
+<circle cx="200" cy="112" r="16" fill="none" stroke="#e0505f" stroke-width="2"/>
+<circle cx="200" cy="112" r="4" fill="#e0505f"/>
+<circle cx="200" cy="258" r="4" fill="#5d6b68"/>
+<rect x="212" y="104" width="110" height="16" rx="8" fill="#f4d9c6" stroke="#1d2624" stroke-width="1.5"/>
+<rect x="300" y="92" width="72" height="54" rx="20" fill="#f4d9c6" stroke="#1d2624" stroke-width="1.5"/>
+<path d="M312,120 L360,120 M312,132 L360,132" stroke="#1d2624" stroke-width="1" opacity=".5"/>
+<text x="200" y="190" text-anchor="middle" font-size="15" class="b">Epigastrium</text>
+<text x="200" y="208" text-anchor="middle" font-size="11" class="m">burning, recurrent pain</text>
+<text x="200" y="44" text-anchor="middle" font-size="11" class="m">xiphoid</text>
+<text x="200" y="282" text-anchor="middle" font-size="11" class="m">umbilicus</text>
+</svg>

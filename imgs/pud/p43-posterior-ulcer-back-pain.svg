@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img"><style>text{font-family:Helvetica,Arial,sans-serif;fill:#1d2624} .m{fill:#5d6b68} .b{font-weight:700}</style><rect width="100%" height="100%" fill="#f3f5f4"/>
+<rect x="18" y="30" width="18" height="240" rx="6" fill="#f4d9c6" stroke="#5d6b68"/>
+<rect x="336" y="60" width="44" height="180" rx="8" fill="#e7e2d6" stroke="#5d6b68"/>
+<g stroke="#5d6b68"><line x1="336" y1="100" x2="380" y2="100"/><line x1="336" y1="140" x2="380" y2="140"/><line x1="336" y1="180" x2="380" y2="180"/><line x1="336" y1="220" x2="380" y2="220"/></g>
+<rect x="250" y="110" width="66" height="80" rx="14" fill="#c9d8d5" stroke="#5d6b68"/>
+<circle cx="150" cy="150" r="72" fill="#f2b8bf" stroke="#b0414f" stroke-width="3"/>
+<circle cx="150" cy="150" r="46" fill="#f3f5f4"/>
+<path d="M190,132 C204,136 232,138 250,142 L250,158 C232,162 204,164 190,168 Z" fill="#7a1d2b" stroke="#e8dcae" stroke-width="2.5"/>
+<path d="M300,210 l14,18 -10,2 14,20" fill="none" stroke="#e0505f" stroke-width="3" stroke-linejoin="round"/>
+<path d="M300,90 l14,-18 -10,-2 14,-20" fill="none" stroke="#e0505f" stroke-width="3" stroke-linejoin="round"/>
+<text x="27" y="22" text-anchor="middle" font-size="11" class="m">front</text>
+<text x="358" y="50" text-anchor="middle" font-size="11" class="m">back</text>
+<text x="150" y="155" text-anchor="middle" font-size="12" class="m">lumen</text>
+<text x="283" y="106" text-anchor="middle" font-size="10" class="m">posterior organ</text>
+<text x="150" y="250" text-anchor="middle" font-size="14" class="b">Posterior wall ulcer</text>
+<text x="330" y="290" text-anchor="middle" font-size="14" class="b" style="fill:#e0505f">Back pain</text>
+</svg>
