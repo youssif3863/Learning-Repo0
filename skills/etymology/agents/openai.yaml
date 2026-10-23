@@ -1,0 +1,4 @@
+interface:
+  display_name: "Etymology — English & Arabic"
+  short_description: "Word origins, prefix/root/suffix breakdowns and meanings in English and Arabic — medical terms included"
+  default_prompt: "Use $etymology to explain this word’s origin, parts, literal translation, and contextual meaning in English and Arabic."
