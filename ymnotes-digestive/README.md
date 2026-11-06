@@ -5,7 +5,7 @@ Source of the two PDFs delivered to the teacher.
 | Output | What it is |
 |---|---|
 | `output/YMnotes_Digestive_Mid_Module_Questions_V1_Students.pdf` | Same design as the original, **no chapter titles**; 65 groups (A–BM, 3-4-5 cycle); pharma questions collected at the end. |
-| `YMnotes_Digestive_Mid_Module_V2_Answers_with_Book.pdf` (not committed, ~48 MB) | Answer key with EN/AR explanations, subject tags, chapter titles; the 475-page book is merged at the end and every correct answer links to a highlighted line in it. Rebuild with the commands below. |
+| `output/YMnotes_Digestive_Mid_Module_V2_Answers_with_Book.pdf` (~48 MB) | Answer key with EN/AR explanations, subject tags, chapter titles; the 475-page book is merged at the end and every correct answer links to a highlighted line in it. Can be rebuilt with the commands below. |
 
 ## Layout of the repo folder
 - `data/questions_raw.json` – the 257 questions parsed from the original PDF.
