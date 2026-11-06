@@ -1,0 +1,6 @@
+interface:
+  display_name: "Universal Question Collection"
+  short_description: "Stage 1 collect questions to Markdown; Stage 2 build student and teacher PDFs"
+  default_prompt: "Use $universal-question-collection. First remind me which website and which book you need, then collect the permitted questions into shuffled Markdown (Stage 1) and build the student and teacher PDFs (Stage 2)."
+policy:
+  allow_implicit_invocation: true
