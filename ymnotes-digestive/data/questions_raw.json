@@ -1,0 +1,3913 @@
+[
+ {
+  "group": "A",
+  "label": null,
+  "q": "What is the most common cause of serious upper GI bleeding?",
+  "opts": [
+   "Esophageal varices",
+   "Erosive gastritis",
+   "Peptic ulcer disease",
+   "Mallory-Weiss tear"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 1
+ },
+ {
+  "group": "A",
+  "label": null,
+  "q": "What is the mechanism of death in postpartum acute gastric dilatation?",
+  "opts": [
+   "Pulmonary embolism",
+   "Aspiration of gastric contents",
+   "Acute renal failure",
+   "Ischemia and necrosis of the stomach"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 2
+ },
+ {
+  "group": "A",
+  "label": null,
+  "q": "Which gastric ulcer is most liable to be associated with stomach cancer?",
+  "opts": [
+   "Gastric ulcer associated with atrophic gastritis",
+   "Duodenal ulcer without gastric inflammation",
+   "Gastric ulcer caused by acute stress",
+   "Gastric ulcer with normal surrounding mucosa"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 3
+ },
+ {
+  "group": "B",
+  "label": null,
+  "q": "What is a Richter's hernia?",
+  "opts": [
+   "Herniation of the entire circumference of the bowel",
+   "Herniation of anti-mesenteric border of the bowel",
+   "Herniation of the mesenteric border only",
+   "Herniation of the stomach through the diaphragm"
+  ],
+  "src": [
+   "Hernia book — Chapter 09: Hernia Complications"
+  ],
+  "id": 4
+ },
+ {
+  "group": "B",
+  "label": null,
+  "q": "A patient with suspected celiac disease has normal total IgA and is still eating gluten. Which initial antibody test is generally preferred?",
+  "opts": [
+   "tTG-IgA",
+   "Anti-centromere antibody",
+   "IgG antimitochondrial antibody",
+   "IgM rheumatoid factor"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 5
+ },
+ {
+  "group": "B",
+  "label": null,
+  "q": "What is the most common indication for surgery in peptic ulcer disease?",
+  "opts": [
+   "Uncomplicated heartburn",
+   "Perforated ulcer",
+   "Asymptomatic H. pylori infection",
+   "Recurrent bleeding ulcer"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 6
+ },
+ {
+  "group": "B",
+  "label": null,
+  "q": "Barrett esophagus predisposes to which type of cancer?",
+  "opts": [
+   "Gastrointestinal stromal tumor",
+   "Adenocarcinoma",
+   "Small-cell carcinoma",
+   "Squamous cell carcinoma"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 7
+ },
+ {
+  "group": "C",
+  "label": null,
+  "q": "Which diet is associated with diverticulosis?",
+  "opts": [
+   "Low residue diet",
+   "High-protein diet",
+   "High-fat diet",
+   "High-residue diet"
+  ],
+  "src": [
+   "Digestive System — Chapter 11: Diverticulosis of the Colon"
+  ],
+  "id": 8
+ },
+ {
+  "group": "C",
+  "label": null,
+  "q": "What is the mechanism of action of vonoprazan?",
+  "opts": [
+   "Irreversibly inhibits the proton pump",
+   "Inhibits gastric prostaglandin synthesis",
+   "Reversibly blocks proton pump potassium-binding site",
+   "Competitively blocks H2 receptors"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 9
+ },
+ {
+  "group": "C",
+  "label": null,
+  "q": "Which combination targets the underlying cause of an H. pylori-associated ulcer?",
+  "opts": [
+   "A laxative with a diuretic",
+   "A proton pump inhibitor with two or more antibiotics",
+   "Acid suppression alone",
+   "Antacids alone"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 10
+ },
+ {
+  "group": "C",
+  "label": null,
+  "q": "Which finding indicates shock in a patient with GI bleeding?",
+  "opts": [
+   "BP 110/70 mmHg with pulse 80 bpm",
+   "BP 140/90 mmHg with pulse 60 bpm",
+   "BP 90/60 mmHg with pulse 110 bpm",
+   "BP 130/80 mmHg with pulse 75 bpm"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 11
+ },
+ {
+  "group": "C",
+  "label": null,
+  "q": "Which statement about stomach cancer is correct?",
+  "opts": [
+   "Barium meal is the definitive staging test",
+   "Serum CEA alone confirms the diagnosis and stage",
+   "Ultrasound is a basic tool important in staging",
+   "CT cannot detect distant metastases"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 12
+ },
+ {
+  "group": "D",
+  "label": null,
+  "q": "What is the best management for esophageal cancer with liver metastasis?",
+  "opts": [
+   "Curative esophagectomy",
+   "Definitive chemoradiotherapy with curative intent",
+   "Palliative stenting and supportive care",
+   "Endoscopic mucosal resection"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 13
+ },
+ {
+  "group": "D",
+  "label": null,
+  "q": "What can cause exudative diarrhea?",
+  "opts": [
+   "Rapid intestinal transit",
+   "Unabsorbed lactose",
+   "Excessive water intake",
+   "Ulceration of the mucosa"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 14
+ },
+ {
+  "group": "D",
+  "label": null,
+  "q": "Which noninvasive test relies on bacterial conversion of labeled urea to labeled carbon dioxide?",
+  "opts": [
+   "Fecal elastase test",
+   "Urea breath test",
+   "Hydrogen breath test for lactose",
+   "Serum calcium test"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 15
+ },
+ {
+  "group": "E",
+  "label": null,
+  "q": "Esophageal squamous cell carcinoma is associated with which factors?",
+  "opts": [
+   "H. pylori and celiac disease",
+   "Obesity and Barrett's esophagus",
+   "Lactose intolerance and smoking",
+   "Alcohol and smoking"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 16
+ },
+ {
+  "group": "E",
+  "label": null,
+  "q": "Which drug most commonly causes upper GI bleeding?",
+  "opts": [
+   "Calcium carbonate",
+   "Paracetamol",
+   "Famotidine",
+   "Aspirin"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 17
+ },
+ {
+  "group": "E",
+  "label": null,
+  "q": "What is the best definition of constipation?",
+  "opts": [
+   "Urgency with fecal incontinence",
+   "Infrequent bowel movements with difficulty passing stool",
+   "Daily soft stools without straining",
+   "Frequent loose stools with urgency"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 18
+ },
+ {
+  "group": "E",
+  "label": null,
+  "q": "What is the most important factor for incisional hernia recurrence?",
+  "opts": [
+   "Large defect size",
+   "Duration of preoperative fasting",
+   "Patient's blood group",
+   "Time of day of surgery"
+  ],
+  "src": [
+   "Hernia book — Chapter 06: Incisional and Recurrent Hernias"
+  ],
+  "id": 19
+ },
+ {
+  "group": "F",
+  "label": null,
+  "q": "Untreated chronic reflux can lead to which structural complication?",
+  "opts": [
+   "Appendiceal abscess",
+   "Esophageal stricture",
+   "Ileal atresia",
+   "Femoral hernia"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 20
+ },
+ {
+  "group": "F",
+  "label": null,
+  "q": "What is the most common type of hiatus hernia?",
+  "opts": [
+   "Mixed type hiatus hernia",
+   "Sliding hiatus hernia",
+   "Type IV hiatus hernia",
+   "Paraesophageal hiatus hernia"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 21
+ },
+ {
+  "group": "F",
+  "label": null,
+  "q": "What is melena?",
+  "opts": [
+   "Passage of pale stools due to bile duct obstruction",
+   "Passage of black tarry stools due to altered blood in the gut",
+   "Passage of fresh red blood from the rectum",
+   "Passage of fatty stools due to malabsorption"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 22
+ },
+ {
+  "group": "F",
+  "label": null,
+  "q": "When is the best time to take a PPI for GERD?",
+  "opts": [
+   "Immediately after the first meal",
+   "At bedtime after dinner",
+   "Only when symptoms begin",
+   "30–60 minutes before first meal"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 23
+ },
+ {
+  "group": "F",
+  "label": null,
+  "q": "Chronic diarrhea is clinically defined as symptoms lasting more than how many days?",
+  "opts": [
+   "7 days",
+   "30 days",
+   "14 days",
+   "90 days"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 24
+ },
+ {
+  "group": "G",
+  "label": null,
+  "q": "The cancer associated with a small proportion of Barrett's esophagus cases is most often which histologic type?",
+  "opts": [
+   "Cutaneous melanoma",
+   "Esophageal adenocarcinoma",
+   "Renal cell carcinoma",
+   "Hepatocellular carcinoma"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 25
+ },
+ {
+  "group": "G",
+  "label": null,
+  "q": "Which finding makes esophageal carcinoma unresectable?",
+  "opts": [
+   "Mild mucosal erythema",
+   "Tracheobronchial invasion",
+   "A tumor confined to the mucosa",
+   "A small superficial lesion"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 26
+ },
+ {
+  "group": "G",
+  "label": null,
+  "q": "Which pattern of Crohn's disease is most common?",
+  "opts": [
+   "Disease in the ileum and cecum",
+   "Disease limited to the rectum",
+   "Isolated disease of the esophagus",
+   "Disease limited to the stomach"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 27
+ },
+ {
+  "group": "H",
+  "label": null,
+  "q": "Which statement about bleeding from Meckel's diverticulum is true?",
+  "opts": [
+   "It is caused by variceal rupture",
+   "It indicates ulceration of the adjacent segment of ileum",
+   "It indicates a bleeding gastric polyp",
+   "It is due to appendiceal inflammation"
+  ],
+  "src": [
+   "Digestive System — Chapter 10: Small Intestine and Colon Surgery"
+  ],
+  "id": 28
+ },
+ {
+  "group": "H",
+  "label": null,
+  "q": "Which laboratory finding distinguishes bacterial overgrowth from tropical sprue?",
+  "opts": [
+   "Low serum folate with high B12",
+   "Normal or high serum folate with low B12",
+   "High serum folate and high B12",
+   "Low serum folate and low B12"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 29
+ },
+ {
+  "group": "H",
+  "label": null,
+  "q": "An inflammatory bowel condition is limited to the colon and usually affects its inner lining. Which condition fits this pattern?",
+  "opts": [
+   "Achalasia",
+   "Lactase deficiency",
+   "Crohn's disease of the mouth",
+   "Ulcerative colitis"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 30
+ },
+ {
+  "group": "H",
+  "label": null,
+  "q": "A patient has epigastric pain, antral erythema, and chronic inflammation. What is the most likely cause?",
+  "opts": [
+   "Cytomegalovirus infection",
+   "Helicobacter pylori infection",
+   "Autoimmune gastritis",
+   "Acute pancreatitis"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 31
+ },
+ {
+  "group": "I",
+  "label": null,
+  "q": "What causes diarrhea in lactase deficiency?",
+  "opts": [
+   "Osmotic effect of unabsorbed lactose",
+   "Increased intestinal secretion of chloride",
+   "Reduced bile acid production",
+   "Ulceration of the intestinal mucosa"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 32
+ },
+ {
+  "group": "I",
+  "label": null,
+  "q": "Which is an alarm feature in constipation?",
+  "opts": [
+   "Iron-deficiency anemia",
+   "Occasional bloating",
+   "Hard stools",
+   "Straining during defecation"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 33
+ },
+ {
+  "group": "I",
+  "label": null,
+  "q": "What is the surgical approach for duodenal ulcer bleeding that is not controlled endoscopically?",
+  "opts": [
+   "Nissen fundoplication",
+   "Wedge resection of the gastric fundus",
+   "Exploration and over-sewing of the bleeding ulcer base",
+   "Vagotomy alone without controlling the bleeding vessel"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 34
+ },
+ {
+  "group": "I",
+  "label": null,
+  "q": "Colonoscopy reveals separated areas of inflammation with normal-appearing intervening mucosa. Which disease pattern is most consistent?",
+  "opts": [
+   "Continuous ulcerative colitis only",
+   "Simple reflux",
+   "Lactose malabsorption",
+   "Patchy Crohn's disease"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 35
+ },
+ {
+  "group": "I",
+  "label": null,
+  "q": "A 28-year-old woman presents with bloody diarrhea and continuous rectal inflammation. What is the most likely diagnosis?",
+  "opts": [
+   "Crohn's disease",
+   "Ischemic colitis",
+   "Ulcerative colitis",
+   "Infectious colitis"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 36
+ },
+ {
+  "group": "J",
+  "label": null,
+  "q": "A patient's pyloric obstruction has not responded to dilation. Which statement about management is correct?",
+  "opts": [
+   "Perform colectomy",
+   "Continue dilation indefinitely without reassessment",
+   "Faulty decision → patient needs vagotomy and gastrojejunostomy",
+   "Perform fundoplication alone"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 37
+ },
+ {
+  "group": "J",
+  "label": null,
+  "q": "How do NSAIDs cause gastric ulcers?",
+  "opts": [
+   "By blocking histamine H2 receptors",
+   "Inhibition of prostaglandin synthesis",
+   "By increasing gastric mucus production",
+   "By increasing prostaglandin synthesis"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 38
+ },
+ {
+  "group": "J",
+  "label": null,
+  "q": "Which investigation is the choice for diagnosing and treating upper GI disorders?",
+  "opts": [
+   "Abdominal CT scan",
+   "Barium swallow",
+   "Esophagogastroduodenoscopy (EGD)",
+   "Esophageal manometry"
+  ],
+  "src": [
+   "Digestive System — Chapter 01: GI Symptoms and Investigations"
+  ],
+  "id": 39
+ },
+ {
+  "group": "K",
+  "label": null,
+  "q": "Recurrent abdominal pain associated with altered bowel habits occurs without visible structural damage. What broad disorder category fits?",
+  "opts": [
+   "A mandatory malignancy diagnosis",
+   "Mechanical obstruction in every case",
+   "Disorder of gut–brain interaction",
+   "A primary kidney disorder"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 40
+ },
+ {
+  "group": "K",
+  "label": null,
+  "q": "Which type of colonic polyp may become malignant?",
+  "opts": [
+   "Hyperplastic polyp",
+   "Adenomatous polyp",
+   "Juvenile hamartomatous polyp",
+   "Inflammatory polyp"
+  ],
+  "src": [
+   "Digestive System — Chapter 04: Pathology of GIT Tumours",
+   "Digestive System — Chapter 14: Polyposis of Colon"
+  ],
+  "id": 41
+ },
+ {
+  "group": "K",
+  "label": null,
+  "q": "A male patient presents with severe epigastric distension and vomiting and has a history of bulimia nervosa. What is the expected diagnosis?",
+  "opts": [
+   "Superior mesenteric artery syndrome",
+   "Distal pyloric obstruction on top of ulcer",
+   "Gastric volvulus",
+   "Acute pancreatitis due to recurrent vomiting"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 42
+ },
+ {
+  "group": "K",
+  "label": null,
+  "q": "What is the mechanism of action of omeprazole?",
+  "opts": [
+   "Reversibly blocks the proton pump potassium-binding site",
+   "Irreversibly inhibits H⁺/K⁺ ATPase in parietal cells",
+   "Blocks muscarinic receptors on parietal cells",
+   "Competitively blocks H2 receptors"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 43
+ },
+ {
+  "group": "L",
+  "label": null,
+  "q": "What is the characteristic histology of celiac disease?",
+  "opts": [
+   "Villous hypertrophy with crypt atrophy",
+   "Villous atrophy with crypt hyperplasia",
+   "Normal villi with increased gastric pits",
+   "Granulomas without villous changes"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 44
+ },
+ {
+  "group": "L",
+  "label": null,
+  "q": "For bleeding thought to arise in the small intestine, which swallowed device records images as it passes through the gut?",
+  "opts": [
+   "Nasogastric suction tube",
+   "Electrocardiograph lead",
+   "Rectal thermometer",
+   "Capsule endoscope"
+  ],
+  "src": [
+   "Digestive System — Chapter 01: GI Symptoms and Investigations"
+  ],
+  "id": 45
+ },
+ {
+  "group": "L",
+  "label": null,
+  "q": "Which is the most specific serology for celiac disease?",
+  "opts": [
+   "IgG anti-mitochondrial antibody",
+   "IgA anti-gliadin antibody",
+   "IgM anti-endomysial antibody",
+   "IgA anti-transglutaminase antibody"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 46
+ },
+ {
+  "group": "L",
+  "label": null,
+  "q": "What is the drug of choice for moderate to severe GERD?",
+  "opts": [
+   "Sucralfate alone",
+   "Proton pump inhibitors",
+   "Antacids alone",
+   "Antispasmodics"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 47
+ },
+ {
+  "group": "L",
+  "label": null,
+  "q": "What is an eradication therapy for H. pylori?",
+  "opts": [
+   "Triple therapy (PPI + amoxicillin + clarithromycin)",
+   "Antacid and sucralfate",
+   "PPI alone",
+   "Amoxicillin and metronidazole without acid suppression"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 48
+ },
+ {
+  "group": "M",
+  "label": null,
+  "q": "Achalasia predisposes to which type of cancer?",
+  "opts": [
+   "Adenocarcinoma",
+   "Gastrointestinal stromal tumor",
+   "Small-cell carcinoma",
+   "Squamous cell carcinoma"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 49
+ },
+ {
+  "group": "M",
+  "label": null,
+  "q": "An untreated inflamed appendix can result in which complication?",
+  "opts": [
+   "Primary achalasia",
+   "Peritonitis or an abscess",
+   "Lactase persistence",
+   "Barrett's esophagus"
+  ],
+  "src": [
+   "Digestive System — Chapter 12: Appendix"
+  ],
+  "id": 50
+ },
+ {
+  "group": "M",
+  "label": null,
+  "q": "What is the dominant symptom in ulcerative colitis?",
+  "opts": [
+   "Constipation",
+   "Painless jaundice",
+   "Steatorrhea",
+   "Bloody diarrhea"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 51
+ },
+ {
+  "group": "N",
+  "label": null,
+  "q": "What percentage of fluid is absorbed in the small intestine?",
+  "opts": [
+   "99%",
+   "50%",
+   "10%",
+   "90%"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 52
+ },
+ {
+  "group": "N",
+  "label": null,
+  "q": "60-yo, 4-year intermittent dysphagia, CXR: absent fundic air bubble. TRUE:",
+  "opts": [
+   "Esophageal motility disorder highly suspected",
+   "pH study highly indicated",
+   "Surgery is first line",
+   "Endoscopy commonly reveals tight stricture"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 53
+ },
+ {
+  "group": "N",
+  "label": null,
+  "q": "The D-xylose test is used for:",
+  "opts": [
+   "Diagnosing C. difficile",
+   "Diagnosing acute infectious diarrhea",
+   "Differentiating small-bowel from pancreatic malabsorption",
+   "Testing gastric acid secretion"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 54
+ },
+ {
+  "group": "N",
+  "label": null,
+  "q": "The most common position of the appendix is:",
+  "opts": [
+   "Pelvic",
+   "Pre-ileal",
+   "Sub-hepatic",
+   "Retrocecal (~65%)"
+  ],
+  "src": [
+   "Digestive System — Chapter 12: Appendix"
+  ],
+  "id": 55
+ },
+ {
+  "group": "O",
+  "label": null,
+  "q": "Which autoantibody is found in celiac disease?",
+  "opts": [
+   "Anti-endomysial / anti-tTG",
+   "ANCA",
+   "ASCA",
+   "ANA"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 56
+ },
+ {
+  "group": "O",
+  "label": null,
+  "q": "In malabsorption, which test evaluates ileal function (bile acid absorption)?",
+  "opts": [
+   "Hydrogen breath test",
+   "SeHCAT (selenium-homotaurocholic acid) test",
+   "Fecal elastase",
+   "Secretin stimulation test"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 57
+ },
+ {
+  "group": "O",
+  "label": null,
+  "q": "Barrett oesophagus is predisposed to:",
+  "opts": [
+   "Leiomyosarcoma",
+   "Squamous cell carcinoma",
+   "Lymphoma",
+   "Adenocarcinoma"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 58
+ },
+ {
+  "group": "O",
+  "label": null,
+  "q": "47-y-old woman with chronic diarrhea + bloating (worse with wheat) + lethargy + weight loss + anemia. Most likely diagnosis?",
+  "opts": [
+   "Lactose intolerance",
+   "Ulcerative colitis",
+   "Celiac disease",
+   "Crohn's disease"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 59
+ },
+ {
+  "group": "O",
+  "label": null,
+  "q": "Which autoantibody is found in celiac disease?",
+  "opts": [
+   "ANA",
+   "ANCA",
+   "EMA (anti-endomysial Ab)",
+   "ASCA"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 60
+ },
+ {
+  "group": "P",
+  "label": null,
+  "q": "Obese 44-yo severe heartburn — best tool for hiatus hernia:",
+  "opts": [
+   "CT upper abdomen",
+   "Esophageal motility",
+   "Abdominal US",
+   "Barium meal in Anti-Trendelenburg (head-down)"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 61
+ },
+ {
+  "group": "P",
+  "label": null,
+  "q": "Which diagnostic test shows the cobblestone appearance and aphthous ulcers in Crohn's disease?",
+  "opts": [
+   "Abdominal ultrasound",
+   "MRI head",
+   "Barium follow-through / small-bowel enema",
+   "Abdominal CT"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 62
+ },
+ {
+  "group": "P",
+  "label": null,
+  "q": "Which is CORRECT regarding tropical sprue?",
+  "opts": [
+   "Involves only proximal small bowel",
+   "No resemblance to celiac disease",
+   "Immune-mediated disease",
+   "Caused by an infectious (bacterial) etiology"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 63
+ },
+ {
+  "group": "Q",
+  "label": null,
+  "q": "In malabsorption, which test assesses ileal function?",
+  "opts": [
+   "Hydrogen breath test",
+   "SeHCAT (bile acid absorption)",
+   "Secretin stimulation",
+   "Fecal elastase"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 64
+ },
+ {
+  "group": "Q",
+  "label": null,
+  "q": "A 26-year-old has had eight months of crampy abdominal pain, diarrhea, weight loss, aphthous ulcers, conjunctivitis, and right lower quadrant tenderness. What is the most likely diagnosis?",
+  "opts": [
+   "Celiac disease",
+   "Lactose intolerance",
+   "Crohn disease",
+   "Ulcerative colitis"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 65
+ },
+ {
+  "group": "Q",
+  "label": null,
+  "q": "In Crohn's, B12 deficiency occurs from involvement of:",
+  "opts": [
+   "Proximal ileum",
+   "Terminal ileum",
+   "Jejunum",
+   "Colon"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 66
+ },
+ {
+  "group": "Q",
+  "label": null,
+  "q": "A 47-year-old has chronic diarrhea and steatorrhea after eating wheat, fatigue, and iron-deficiency anemia. What is the most likely diagnosis?",
+  "opts": [
+   "Crohn disease",
+   "Ulcerative colitis",
+   "Celiac disease",
+   "Lactose intolerance"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 67
+ },
+ {
+  "group": "R",
+  "label": null,
+  "q": "Which test diagnoses bacterial overgrowth as a cause of malabsorption?",
+  "opts": [
+   "Hydrogen breath test (glucose/lactulose)",
+   "Fecal elastase",
+   "Schilling test",
+   "D-xylose test"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 68
+ },
+ {
+  "group": "R",
+  "label": null,
+  "q": "Which part of the small bowel is responsible for vitamin B12 absorption?",
+  "opts": [
+   "Jejunum",
+   "Cecum",
+   "Terminal ileum",
+   "Duodenum"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 69
+ },
+ {
+  "group": "R",
+  "label": null,
+  "q": "Infant with CHPS — expected US finding:",
+  "opts": [
+   "Small cystic mass at pyloric area",
+   "Absent pylorus",
+   "Pyloric channel length elongated (>16 mm)",
+   "Pyloric wall thickness < 3 mm"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 70
+ },
+ {
+  "group": "R",
+  "label": null,
+  "q": "Bloody diarrhea can occur in all of the following EXCEPT:",
+  "opts": [
+   "Ischemic colitis",
+   "Diverticulitis",
+   "Celiac disease",
+   "C. difficile infection"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 71
+ },
+ {
+  "group": "R",
+  "label": null,
+  "q": "The following is a characteristic finding in malignant pyloric channel carcinoma:",
+  "opts": [
+   "CA 72-4 has higher specificity in this type of cancer",
+   "Epigastric pain radiates to the back",
+   "GIST is the most common type",
+   "The stomach shadow in a barium meal usually reaches the pelvis"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 72
+ },
+ {
+  "group": "S",
+  "label": null,
+  "q": "Which statement about tropical sprue is correct?",
+  "opts": [
+   "Immune-mediated disease",
+   "No resemblance to celiac disease",
+   "Responds to prolonged antibiotics + folate/B12",
+   "Involves only proximal small bowel"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 73
+ },
+ {
+  "group": "S",
+  "label": null,
+  "q": "D-xylose absorption test is used for:",
+  "opts": [
+   "Diagnosing acute infectious diarrhea",
+   "Differentiating small bowel vs hepatic causes of malabsorption",
+   "Diagnosing C. difficile",
+   "Differentiating small bowel (mucosal) vs pancreatic causes of malabsorption"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 74
+ },
+ {
+  "group": "S",
+  "label": null,
+  "q": "A 19-year-old has chronic diarrhea, bloating, and weight loss that worsen with wheat, along with iron-deficiency anemia and flattened villi on duodenal biopsy. Which specific diagnostic test is indicated?",
+  "opts": [
+   "Anti-tissue transglutaminase (anti-tTG) IgA",
+   "Schilling test",
+   "Secretin test",
+   "D-xylose absorption test"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 75
+ },
+ {
+  "group": "T",
+  "label": null,
+  "q": "Which test is used to diagnose bacterial overgrowth as a cause of malabsorption?",
+  "opts": [
+   "D-xylose test",
+   "Hydrogen breath test",
+   "Schilling test",
+   "Fecal elastase"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 76
+ },
+ {
+  "group": "T",
+  "label": null,
+  "q": "Which food group is specifically listed among high-FODMAP foods to limit in the GI book?",
+  "opts": [
+   "Plain water",
+   "Onions and garlic",
+   "Egg whites",
+   "Lean poultry"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 77
+ },
+ {
+  "group": "T",
+  "label": null,
+  "q": "Which statement best reflects how IBS is diagnosed as a disorder of gut–brain interaction?",
+  "opts": [
+   "By endoscopy in every patient",
+   "By elevated liver enzymes",
+   "Primarily by clinical criteria such as Rome guidelines when routine tests are usually normal",
+   "By a specific structural lesion on imaging"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 78
+ },
+ {
+  "group": "T",
+  "label": null,
+  "q": "Mucus and blood leaking from an actively inflamed intestinal mucosa are characteristic of which diarrhea mechanism?",
+  "opts": [
+   "Secretory",
+   "Exudative",
+   "Osmotic",
+   "Altered motility"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 79
+ },
+ {
+  "group": "U",
+  "label": null,
+  "q": "Which factor can alter gut motility and processing through the gut–brain axis in IBS?",
+  "opts": [
+   "Portal hypertension only",
+   "A fixed intestinal stricture",
+   "Gallstones only",
+   "Stress and anxiety"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 80
+ },
+ {
+  "group": "U",
+  "label": null,
+  "q": "Which is the normal range of stool frequency stated in the GI book?",
+  "opts": [
+   "Four to six times daily",
+   "Three times a week to three times a day",
+   "Once every two weeks to twice a week",
+   "Once daily only"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 81
+ },
+ {
+  "group": "U",
+  "label": null,
+  "q": "Diarrhea lasting more than four weeks should be classified and evaluated as:",
+  "opts": [
+   "Acute diarrhea",
+   "Chronic diarrhea",
+   "Food poisoning only",
+   "A normal variation"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 82
+ },
+ {
+  "group": "U",
+  "label": null,
+  "q": "Which ion is the major actively absorbed ion in the intestine according to the GI book?",
+  "opts": [
+   "Bicarbonate",
+   "Potassium",
+   "Sodium",
+   "Chloride"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 83
+ },
+ {
+  "group": "U",
+  "label": null,
+  "q": "After negative gastroscopy and colonoscopy, which test may be used to investigate obscure GI bleeding from the small bowel?",
+  "opts": [
+   "ERCP",
+   "Liver biopsy",
+   "Wireless capsule endoscopy",
+   "Plain abdominal X-ray"
+  ],
+  "src": [
+   "Digestive System — Chapter 01: GI Symptoms and Investigations"
+  ],
+  "id": 84
+ },
+ {
+  "group": "V",
+  "label": null,
+  "q": "Which statement about probiotics for IBS matches the GI book?",
+  "opts": [
+   "They are diagnostic rather than therapeutic",
+   "There is no routine recommendation for probiotics",
+   "They replace all dietary measures",
+   "They are routinely recommended for every patient"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 85
+ },
+ {
+  "group": "V",
+  "label": null,
+  "q": "How can peppermint oil help some patients with IBS according to the GI book?",
+  "opts": [
+   "It relaxes GI smooth muscle",
+   "It acts as a bile acid",
+   "It increases gastric acid secretion",
+   "It eradicates H. pylori"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 86
+ },
+ {
+  "group": "V",
+  "label": null,
+  "q": "Approximately what proportion of acute diarrhea is attributed to infection in the GI book?",
+  "opts": [
+   "30%",
+   "10%",
+   "80%",
+   "Nearly 100%"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 87
+ },
+ {
+  "group": "W",
+  "label": null,
+  "q": "Which IBS subtype is characterized by predominantly loose stools?",
+  "opts": [
+   "IBS-D",
+   "IBS-C",
+   "IBS-U",
+   "IBS-M"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 88
+ },
+ {
+  "group": "W",
+  "label": null,
+  "q": "With low dietary fibre intake, which stool output is listed as meeting the GI book's diarrhea definition?",
+  "opts": [
+   "More than 1 kg per day",
+   "More than 50 g per day",
+   "More than 100 g per day",
+   "More than 200 g per day"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 89
+ },
+ {
+  "group": "W",
+  "label": null,
+  "q": "IBS with both constipation and diarrhea is classified as:",
+  "opts": [
+   "IBS-U",
+   "IBS-C",
+   "IBS-M",
+   "IBS-D"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 90
+ },
+ {
+  "group": "W",
+  "label": null,
+  "q": "Which statement about anticoagulants and acute GI bleeding is most accurate?",
+  "opts": [
+   "They do not usually cause bleeding by themselves, but can worsen bleeding from another lesion",
+   "They commonly cause ulcers directly",
+   "They only increase lower GI bleeding",
+   "They prevent bleeding from peptic ulcers"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 91
+ },
+ {
+  "group": "X",
+  "label": null,
+  "q": "Which treatment listed in the GI book is directed at IBS-D?",
+  "opts": [
+   "Lubiprostone",
+   "Mesalazine",
+   "Pyloroplasty",
+   "Rifaximin"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 92
+ },
+ {
+  "group": "X",
+  "label": null,
+  "q": "Early gastric carcinoma is defined by invasion limited to which layers?",
+  "opts": [
+   "Mucosa and submucosa",
+   "Serosa only",
+   "Any depth if there are no symptoms",
+   "Muscularis propria only"
+  ],
+  "src": [
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 93
+ },
+ {
+  "group": "X",
+  "label": null,
+  "q": "Which electrolyte disturbance is listed as a risk factor for functional acute gastric dilatation?",
+  "opts": [
+   "Hypercalcemia only",
+   "Severe hypokalemia",
+   "Hypophosphatemia only",
+   "Isolated hypernatremia"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 94
+ },
+ {
+  "group": "X",
+  "label": null,
+  "q": "Which medication group may help relieve IBS-associated abdominal pain?",
+  "opts": [
+   "Proton pump inhibitors for every patient",
+   "Tricyclic antidepressants",
+   "Loop diuretics",
+   "Oral anticoagulants"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 95
+ },
+ {
+  "group": "X",
+  "label": null,
+  "q": "The core clinical presentation of irritable bowel syndrome is:",
+  "opts": [
+   "Persistent jaundice",
+   "Recurrent abdominal pain related to defecation with altered bowel habits",
+   "Painless rectal bleeding",
+   "Progressive dysphagia"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 96
+ },
+ {
+  "group": "Y",
+  "label": null,
+  "q": "Which stool test is especially useful as a marker of intestinal inflammation in suspected IBD?",
+  "opts": [
+   "Fecal occult fat",
+   "Fecal elastase",
+   "Fecal calprotectin",
+   "Stool pH"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 97
+ },
+ {
+  "group": "Y",
+  "label": null,
+  "q": "Which finding may indicate that conservative management of acute gastric dilatation is succeeding?",
+  "opts": [
+   "Pneumoperitoneum on CT",
+   "Persistent severe pain after NG decompression",
+   "New peritonitis",
+   "Pain resolves after NG decompression and imaging shows no ischemia or perforation"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 98
+ },
+ {
+  "group": "Y",
+  "label": null,
+  "q": "Which symptom is an alarm feature that warrants investigation in a patient with dyspepsia?",
+  "opts": [
+   "Progressive dysphagia",
+   "Intermittent flatulence",
+   "Belching",
+   "Occasional bloating"
+  ],
+  "src": [
+   "Digestive System — Chapter 01: GI Symptoms and Investigations",
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 99
+ },
+ {
+  "group": "Z",
+  "label": null,
+  "q": "Which finding is an indication for emergency laparotomy in acute gastric dilatation?",
+  "opts": [
+   "Failure of NG decompression",
+   "Successful NG decompression with pain relief",
+   "Mild isolated bloating",
+   "Normal gastric wall enhancement"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 100
+ },
+ {
+  "group": "Z",
+  "label": null,
+  "q": "Which drug class is represented by lubiprostone in IBS-C treatment?",
+  "opts": [
+   "Chloride channel activator",
+   "Proton pump inhibitor",
+   "Bile acid sequestrant",
+   "H2 receptor blocker"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 101
+ },
+ {
+  "group": "Z",
+  "label": null,
+  "q": "Which dietary approach is described in the GI book for managing IBS symptoms?",
+  "opts": [
+   "Exclusive parenteral nutrition",
+   "Low-FODMAP diet",
+   "Lifelong gluten elimination for every patient",
+   "High-FODMAP diet"
+  ],
+  "src": [
+   "Digestive System — Chapter 06: Constipation (including IBS)"
+  ],
+  "id": 102
+ },
+ {
+  "group": "Z",
+  "label": null,
+  "q": "The most common gross type of esophageal carcinoma described in the GI book is:",
+  "opts": [
+   "Exophytic",
+   "Scirrhous",
+   "Multicystic",
+   "Flat infiltrating"
+  ],
+  "src": [
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 103
+ },
+ {
+  "group": "AA",
+  "label": null,
+  "q": "How much fluid is delivered to the small intestine daily on a normal diet, according to the GI book?",
+  "opts": [
+   "About 1 L",
+   "About 3 L",
+   "About 20 L",
+   "About 9 L"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 104
+ },
+ {
+  "group": "AA",
+  "label": null,
+  "q": "A villous adenoma of the colon is typically:",
+  "opts": [
+   "A non-neoplastic inflammatory lesion",
+   "Multiple and pedunculated",
+   "Single, large, sessile, and broad-based",
+   "Always smaller than a tubular adenoma"
+  ],
+  "src": [
+   "Digestive System — Chapter 04: Pathology of GIT Tumours",
+   "Digestive System — Chapter 14: Polyposis of Colon"
+  ],
+  "id": 105
+ },
+ {
+  "group": "AA",
+  "label": null,
+  "q": "Which statement about fluid absorption in the small intestine is correct?",
+  "opts": [
+   "No fluid is absorbed before the colon",
+   "The small intestine normally absorbs only 10%",
+   "All fluid is excreted in stool",
+   "About 90% of the delivered fluid is absorbed there"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 106
+ },
+ {
+  "group": "AA",
+  "label": null,
+  "q": "Which gastric polyp type has essentially no carcinoma risk in the GI book?",
+  "opts": [
+   "Fundic gland polyp",
+   "Hyperplastic polyp",
+   "Villous polyp",
+   "Adenomatous polyp"
+  ],
+  "src": [
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 107
+ },
+ {
+  "group": "AA",
+  "label": null,
+  "q": "In acute gastric dilatation, contrast CT is especially useful to assess gastric dimensions and:",
+  "opts": [
+   "Portal vein pressure",
+   "Wall enhancement and the position of the NG tube",
+   "Appendiceal diameter",
+   "Gallbladder ejection fraction"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 108
+ },
+ {
+  "group": "AB",
+  "label": null,
+  "q": "Which medication group can contribute to functional acute gastric dilatation by suppressing GI motility?",
+  "opts": [
+   "Bile acid binders",
+   "Oral iron only",
+   "High-dose anticholinergics",
+   "Prokinetic agents"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 109
+ },
+ {
+  "group": "AB",
+  "label": null,
+  "q": "Difficulty swallowing is termed:",
+  "opts": [
+   "Dyspepsia",
+   "Odynophagia",
+   "Dysphagia",
+   "Regurgitation"
+  ],
+  "src": [
+   "Digestive System — Chapter 01: GI Symptoms and Investigations"
+  ],
+  "id": 110
+ },
+ {
+  "group": "AB",
+  "label": null,
+  "q": "A serious complication of acute gastric dilatation is:",
+  "opts": [
+   "Gastric perforation with hemodynamic collapse",
+   "Esophageal varices",
+   "Painless jaundice",
+   "Appendiceal rupture"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 111
+ },
+ {
+  "group": "AC",
+  "label": null,
+  "q": "Which mechanism best describes secretory diarrhea?",
+  "opts": [
+   "Mechanical bowel obstruction",
+   "Loss of pancreatic lipase",
+   "Increased intestinal chloride and water secretion",
+   "Unabsorbed solutes remaining in the lumen"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 112
+ },
+ {
+  "group": "AC",
+  "label": null,
+  "q": "The first supportive step for a patient with acute gastric dilatation is:",
+  "opts": [
+   "Immediate oral feeding",
+   "Elective colonoscopy",
+   "Long-term antacids alone",
+   "Nasogastric decompression and IV fluid resuscitation"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 113
+ },
+ {
+  "group": "AC",
+  "label": null,
+  "q": "Compared with acute diarrhea, most causes of chronic diarrhea are:",
+  "opts": [
+   "Always parasitic",
+   "Due to viruses only",
+   "Noninfectious",
+   "Due to food allergy only"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 114
+ },
+ {
+  "group": "AC",
+  "label": null,
+  "q": "What is the primary mechanism of osmotic diarrhea?",
+  "opts": [
+   "Reduced colonic motility",
+   "Active chloride secretion",
+   "Mucosal bleeding",
+   "Poorly absorbed osmotically active solutes in the bowel lumen"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 115
+ },
+ {
+  "group": "AD",
+  "label": null,
+  "q": "Treatment of early intussusception in children:",
+  "opts": [
+   "Antibiotics only",
+   "Immediate surgical resection always",
+   "IV fluids only",
+   "Conservative pneumatic/hydrostatic enema reduction (success rate >80% when treated early)"
+  ],
+  "src": [
+   "Digestive System — Chapter 13: Intestinal Obstruction"
+  ],
+  "id": 116
+ },
+ {
+  "group": "AD",
+  "label": null,
+  "q": "Why is acute appendicitis in elderly and children usually complicated?",
+  "opts": [
+   "The appendix is always retrocecal in them",
+   "The omentum and peritoneal cavity are less efficient in localizing the disease",
+   "Antibiotic response is poor in these ages",
+   "The appendix is less vascular in these age groups",
+   "They tolerate pain better and present late only"
+  ],
+  "src": [
+   "Digestive System — Chapter 12: Appendix"
+  ],
+  "id": 117
+ },
+ {
+  "group": "AD",
+  "label": null,
+  "q": "On an erect plain X-ray, air under the diaphragm indicates:",
+  "opts": [
+   "Normal",
+   "Ileus",
+   "Perforated viscus (pneumoperitoneum) → surgical exploration",
+   "Simple SBO"
+  ],
+  "src": [
+   "Digestive System — Chapter 01: GI Symptoms and Investigations",
+   "Digestive System — Chapter 38: Acute Abdomen"
+  ],
+  "id": 118
+ },
+ {
+  "group": "AD",
+  "label": null,
+  "q": "When assessing intestinal obstruction, what is the correct sequence?",
+  "opts": [
+   "No need to distinguish between types",
+   "CT, followed by anything else",
+   "Mechanical vs functional → cause → simple vs complicated → management",
+   "Immediate surgery"
+  ],
+  "src": [
+   "Digestive System — Chapter 13: Intestinal Obstruction"
+  ],
+  "id": 119
+ },
+ {
+  "group": "AD",
+  "label": null,
+  "q": "Which is NOT a barium enema finding in Ulcerative Colitis?",
+  "opts": [
+   "Loss of haustrations (lead-pipe colon)",
+   "Shortened colon",
+   "Granular mucosa",
+   "Skip lesions with cobblestoning",
+   "Pseudopolyps"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 120
+ },
+ {
+  "group": "AE",
+  "label": null,
+  "q": "In acute intestinal obstruction, signs of peritonitis indicate:",
+  "opts": [
+   "Sigmoid volvulus resolved",
+   "Strangulation",
+   "Pseudo-obstruction",
+   "Paralytic ileus",
+   "Simple obstruction"
+  ],
+  "src": [
+   "Digestive System — Chapter 13: Intestinal Obstruction"
+  ],
+  "id": 121
+ },
+ {
+  "group": "AE",
+  "label": null,
+  "q": "Infantile intussusception usually occurs during:",
+  "opts": [
+   "2–5 years",
+   "First year of life (esp. 6–12 months)",
+   "First month of life",
+   "Adolescence",
+   "School age"
+  ],
+  "src": [
+   "Digestive System — Chapter 13: Intestinal Obstruction"
+  ],
+  "id": 122
+ },
+ {
+  "group": "AE",
+  "label": null,
+  "q": "A 25-year-old man with recurrent discharging peri-anal opening, weight loss, bloody diarrhea, tenesmus, and normal-looking rectum on proctoscopy. Most likely diagnosis:",
+  "opts": [
+   "Cryptoglandular anal fistula",
+   "Crohn's disease",
+   "Ulcerative colitis",
+   "TB proctitis",
+   "Rectal cancer"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 123
+ },
+ {
+  "group": "AF",
+  "label": null,
+  "q": "Which is NOT a feature of generalized peritonitis?",
+  "opts": [
+   "Board-like abdomen",
+   "Silent abdomen on auscultation",
+   "Severe colicky abdominal pain",
+   "Diffuse tenderness and rigidity",
+   "Fever and tachycardia"
+  ],
+  "src": [
+   "Digestive System — Chapter 38: Acute Abdomen"
+  ],
+  "id": 124
+ },
+ {
+  "group": "AF",
+  "label": null,
+  "q": "The nature of pain in small-intestinal obstruction:",
+  "opts": [
+   "Constant dull ache",
+   "Colicky, sharp, periumbilical pain that coincides with peristaltic waves",
+   "Burning epigastric",
+   "Radiating to back"
+  ],
+  "src": [
+   "Digestive System — Chapter 13: Intestinal Obstruction"
+  ],
+  "id": 125
+ },
+ {
+  "group": "AF",
+  "label": null,
+  "q": "A corroborative sign of acute appendicitis is:",
+  "opts": [
+   "Rovsing's sign — RIF pain on LIF pressure",
+   "Cullen's sign",
+   "Relief of pain with thigh extension",
+   "Relief of pain with internal rotation of the right thigh",
+   "Decrease of pain with testicular elevation"
+  ],
+  "src": [
+   "Digestive System — Chapter 12: Appendix"
+  ],
+  "id": 126
+ },
+ {
+  "group": "AF",
+  "label": null,
+  "q": "Indication for total proctocolectomy in Ulcerative Colitis includes all EXCEPT:",
+  "opts": [
+   "Toxic megacolon not responding to medical therapy",
+   "Occasional bouts of colic and diarrhea",
+   "Evidence of malignancy/dysplasia",
+   "Massive uncontrolled hemorrhage",
+   "Failure of medical treatment"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 127
+ },
+ {
+  "group": "AG",
+  "label": null,
+  "q": "A child presents with colicky pain, a right iliac fossa mass, and red currant jelly stools:",
+  "opts": [
+   "Intussusception (ileocolic — the most common form in children)",
+   "Volvulus",
+   "Meckel's",
+   "Appendicitis"
+  ],
+  "src": [
+   "Digestive System — Chapter 13: Intestinal Obstruction"
+  ],
+  "id": 128
+ },
+ {
+  "group": "AG",
+  "label": null,
+  "q": "The usual presentation of uncomplicated diverticulosis is:",
+  "opts": [
+   "Fever and throbbing pain",
+   "Bleeding per rectum",
+   "Absolute constipation",
+   "Asymptomatic",
+   "Severe LIF pain with rigidity"
+  ],
+  "src": [
+   "Digestive System — Chapter 11: Diverticulosis of the Colon"
+  ],
+  "id": 129
+ },
+ {
+  "group": "AG",
+  "label": null,
+  "q": "The commonest cause of intestinal obstruction in children is:",
+  "opts": [
+   "Paralytic ileus",
+   "Neoplasm",
+   "Intussusception",
+   "Strangulated hernia",
+   "Adhesions"
+  ],
+  "src": [
+   "Digestive System — Chapter 13: Intestinal Obstruction"
+  ],
+  "id": 130
+ },
+ {
+  "group": "AG",
+  "label": null,
+  "q": "The best investigation for uncomplicated diverticular disease is:",
+  "opts": [
+   "Angiography",
+   "Colonoscopy",
+   "Abdominal US",
+   "Double-contrast barium enema",
+   "Plain X-ray"
+  ],
+  "src": [
+   "Digestive System — Chapter 11: Diverticulosis of the Colon"
+  ],
+  "id": 131
+ },
+ {
+  "group": "AG",
+  "label": null,
+  "q": "A finding consistent with Ulcerative Colitis on colonoscopy is:",
+  "opts": [
+   "Cobblestoning and deep fissures",
+   "Transmural (full-thickness) inflammation",
+   "Terminal ileum involvement",
+   "Confluent disease with rectal involvement and no skip areas",
+   "Rectal sparing with skip areas"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 132
+ },
+ {
+  "group": "AH",
+  "label": null,
+  "q": "Investigation of choice for CHPS (congenital hypertrophic pyloric stenosis):",
+  "opts": [
+   "Abdominal ultrasound (pyloric muscle >3 mm, length >15 mm)",
+   "Upper endoscopy",
+   "Plain X-ray",
+   "Barium meal"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 133
+ },
+ {
+  "group": "AH",
+  "label": null,
+  "q": "A 32-y-old with large-volume hematemesis. Most important FIRST step?",
+  "opts": [
+   "Nasogastric tube insertion",
+   "Fluid resuscitation (2 large-bore IV lines)",
+   "Full history and examination",
+   "Upper GI endoscopy"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 134
+ },
+ {
+  "group": "AH",
+  "label": null,
+  "q": "Which of the following is NOT true concerning bismuth subsalicylate?",
+  "opts": [
+   "It should be given for more than 4 months",
+   "It is used in quadruple anti-H. pylori regimen",
+   "It acts as mucosal protective agent",
+   "It may cause neurotoxicity & encephalopathy"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 135
+ },
+ {
+  "group": "AI",
+  "label": null,
+  "q": "Which of the following phases of acid secretion is most likely affected by H2 receptor antagonists?",
+  "opts": [
+   "Gastrin stimulated acid secretion",
+   "Both nocturnal and meal stimulated phases",
+   "Nocturnal acid secretion",
+   "Meal stimulated acid secretion"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 136
+ },
+ {
+  "group": "AI",
+  "label": null,
+  "q": "Which of the following is NOT correct concerning misoprostol?",
+  "opts": [
+   "Contraindicated during pregnancy as it may induce abortion",
+   "A cytoprotective agent used in all types of peptic ulcer if H2 blockers fail",
+   "Diarrhea and abdominal cramps are its most common adverse effects",
+   "PGE analog that increases mucosal blood flow, mucus & bicarbonate"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 137
+ },
+ {
+  "group": "AI",
+  "label": null,
+  "q": "Which of the following medications is mostly included in anti-H. pylori regimens?",
+  "opts": [
+   "Doxycycline",
+   "Misoprostol",
+   "Clarithromycin",
+   "Bismuth subcitrate"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 138
+ },
+ {
+  "group": "AI",
+  "label": null,
+  "q": "Which of the following is a key advantage of P-CABs compared to proton pump inhibitors (PPIs)?",
+  "opts": [
+   "P-CABs require less frequent dosing than PPIs",
+   "P-CABs are more effective antisecretory drugs regardless of food intake",
+   "P-CABs are less effective in treating Helicobacter pylori infections",
+   "P-CABs have a longer duration of action"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 139
+ },
+ {
+  "group": "AJ",
+  "label": null,
+  "q": "Which of the following mucosal protective agents has anti-H. pylori effect?",
+  "opts": [
+   "Sucralfate",
+   "Misoprostol",
+   "Bismuth subcitrate",
+   "Bicarbonate"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 140
+ },
+ {
+  "group": "AJ",
+  "label": null,
+  "q": "Systemic alkalosis could be an adverse effect of long term use of which of the following antacids?",
+  "opts": [
+   "Aluminum hydroxide",
+   "Magnesium oxide",
+   "Magnesium hydroxide",
+   "Sodium bicarbonate"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 141
+ },
+ {
+  "group": "AJ",
+  "label": null,
+  "q": "A 45-year-old woman with peptic ulcer disease is treated with misoprostol. Which of the following is a common adverse effect?",
+  "opts": [
+   "Hypertension",
+   "Diarrhea",
+   "Constipation",
+   "Headache"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 142
+ },
+ {
+  "group": "AJ",
+  "label": null,
+  "q": "Which of the following is correct concerning pharmacokinetics of H2-receptor antagonists?",
+  "opts": [
+   "50% of the dose of ranitidine is destroyed by gastric acidity",
+   "They are contraindicated in mild renal dysfunction due to renal excretion",
+   "50% of the dose of famotidine is lost by hepatic first pass effect",
+   "Most of them have low to moderate bioavailability except nizatidine"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 143
+ },
+ {
+  "group": "AJ",
+  "label": null,
+  "q": "A 50-year-old woman with GERD is prescribed famotidine. Which is the primary mechanism of action of famotidine?",
+  "opts": [
+   "Blocking histamine H2 receptors in the stomach",
+   "Inhibition of the proton pump",
+   "Blocking muscarinic receptors on parietal cells",
+   "Neutralization of gastric acid"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 144
+ },
+ {
+  "group": "AK",
+  "label": null,
+  "q": "Which of the following antacids has the most rapid and potent effect in hyperacidity?",
+  "opts": [
+   "Sodium bicarbonate",
+   "Magnesium oxide",
+   "Aluminum hydroxide",
+   "Magnesium hydroxide"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 145
+ },
+ {
+  "group": "AK",
+  "label": null,
+  "q": "Which of the following antacids is mostly preferred for hyperacidity?",
+  "opts": [
+   "Both Mg and Al salts together",
+   "Sodium bicarbonate",
+   "Aluminum hydroxide",
+   "Magnesium hydroxide"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 146
+ },
+ {
+  "group": "AK",
+  "label": null,
+  "q": "Regarding inguinal hernia and inferior epigastric vessels:",
+  "opts": [
+   "Both lateral",
+   "Both medial",
+   "Indirect is medial, Direct is lateral",
+   "Indirect is lateral, Direct is medial"
+  ],
+  "src": [
+   "Hernia book — Chapter 02: Inguinal Hernias"
+  ],
+  "id": 147
+ },
+ {
+  "group": "AL",
+  "label": null,
+  "q": "The coverings of a true umbilical hernia sac in adults include:",
+  "opts": [
+   "None",
+   "Rectus abdominis alone",
+   "Skin + external oblique aponeurosis only",
+   "Skin, umbilical fascia, fascia transversalis, extraperitoneal fat, peritoneum"
+  ],
+  "src": [
+   "Hernia book — Chapter 05: Umbilical Hernias"
+  ],
+  "id": 148
+ },
+ {
+  "group": "AL",
+  "label": null,
+  "q": "An elderly woman with a 'benign' ulcer on greater curvature 5 cm proximal to antrum, still with anemia + guaiac-positive stool after 3 months of medical therapy. Next step?",
+  "opts": [
+   "Partial gastrectomy (suspect malignancy)",
+   "Total gastrectomy",
+   "Continue medical therapy",
+   "H. pylori eradication only"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 149
+ },
+ {
+  "group": "AL",
+  "label": null,
+  "q": "The following is NOT a cause of para-umbilical hernia recurrence:",
+  "opts": [
+   "Wound infection",
+   "Inlay (sublay) mesh repair",
+   "Uncontrolled ascites / ↑ IAP",
+   "Absorbable sutures"
+  ],
+  "src": [
+   "Hernia book — Chapter 05: Umbilical Hernias"
+  ],
+  "id": 150
+ },
+ {
+  "group": "AL",
+  "label": null,
+  "q": "An 'incisura ulcer' of the stomach is classified as:",
+  "opts": [
+   "Type 2 (gastric + duodenal)",
+   "Type 3 (prepyloric)",
+   "Type 1 (lesser curve, normal acid)",
+   "Type 4 (near GE junction)"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 151
+ },
+ {
+  "group": "AM",
+  "label": null,
+  "q": "47-yo with bleeding DU, pulse 90, BP 100/70, failed medical + endoscopic control. Best surgical option:",
+  "opts": [
+   "Excision of ulcer alone",
+   "Total gastrectomy",
+   "Over-sewing of the bleeding vessel + truncal vagotomy + pyloroplasty",
+   "Continue transfusion only"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 152
+ },
+ {
+  "group": "AM",
+  "label": null,
+  "q": "Causes of hernia recurrence include all EXCEPT:",
+  "opts": [
+   "Repair under tension",
+   "Tissue (herniorrhaphy) repair",
+   "Wound infection",
+   "Tension-free Lichtenstein mesh"
+  ],
+  "src": [
+   "Hernia book — Chapter 06: Incisional and Recurrent Hernias"
+  ],
+  "id": 153
+ },
+ {
+  "group": "AM",
+  "label": null,
+  "q": "One of the following sites NEVER develops diverticulosis:",
+  "opts": [
+   "Rectum",
+   "Sigmoid colon",
+   "Cecum",
+   "Transverse colon"
+  ],
+  "src": [
+   "Digestive System — Chapter 11: Diverticulosis of the Colon"
+  ],
+  "id": 154
+ },
+ {
+  "group": "AM",
+  "label": null,
+  "q": "Heller's cardiomyotomy is best performed by:",
+  "opts": [
+   "None",
+   "Laparoscopy (with partial fundoplication)",
+   "Upper endoscopy",
+   "Open thoracotomy"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 155
+ },
+ {
+  "group": "AM",
+  "label": null,
+  "q": "Why is appendicitis more dangerous in old age?",
+  "opts": [
+   "Fever is always high",
+   "Omental ability to encapsulate is reduced + rapid vascular thrombosis",
+   "Pain is severe",
+   "Appendix is absent"
+  ],
+  "src": [
+   "Digestive System — Chapter 12: Appendix"
+  ],
+  "id": 156
+ },
+ {
+  "group": "AN",
+  "label": null,
+  "q": "The structure most commonly responsible for strangulation of a femoral hernia is:",
+  "opts": [
+   "Pectineus",
+   "Inguinal ligament",
+   "Lacunar (Gimbernat's) ligament",
+   "Cooper's ligament"
+  ],
+  "src": [
+   "Hernia book — Chapter 03: Femoral Hernia"
+  ],
+  "id": 157
+ },
+ {
+  "group": "AN",
+  "label": null,
+  "q": "Female on medical Tx for chronic DU develops GOO; endoscope can't pass duodenum. Best surgical option:",
+  "opts": [
+   "Vagotomy + pyloroplasty alone (usually inadequate for fibrotic stenosis)",
+   "Barium meal follow-up",
+   "Distal gastrectomy + gastro-jejunostomy (Billroth II) ± vagotomy",
+   "Endoscopic dilatation only"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 158
+ },
+ {
+  "group": "AN",
+  "label": null,
+  "q": "55-year-old on NSAIDs for arthritis develops severe epigastric pain with board-like rigidity; erect CXR shows air under the right dome of diaphragm. Diagnosis:",
+  "opts": [
+   "Ruptured hepatic abscess",
+   "Acute pancreatitis",
+   "Perforated peptic ulcer",
+   "Acute cholecystitis"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 159
+ },
+ {
+  "group": "AO",
+  "label": null,
+  "q": "Ivor Lewis operation refers to:",
+  "opts": [
+   "Laparotomy + right thoracotomy: gastric pull-up with intra-thoracic esophago-gastric anastomosis",
+   "POEM",
+   "Total gastrectomy",
+   "Transhiatal esophagectomy"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 160
+ },
+ {
+  "group": "AO",
+  "label": null,
+  "q": "'Bubonocele' refers to an inguinal hernia that:",
+  "opts": [
+   "Contains bladder",
+   "Is irreducible",
+   "Is confined to the inguinal canal (does not pass external ring)",
+   "Extends into the scrotum"
+  ],
+  "src": [
+   "Hernia book — Chapter 02: Inguinal Hernias"
+  ],
+  "id": 161
+ },
+ {
+  "group": "AO",
+  "label": null,
+  "q": "Billroth II operation means:",
+  "opts": [
+   "Highly selective vagotomy",
+   "Lower radical gastrectomy + gastro-duodenal anastomosis",
+   "Total gastrectomy + Roux-en-Y esophago-jejunostomy",
+   "Lower radical gastrectomy + gastro-jejunostomy"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 162
+ },
+ {
+  "group": "AO",
+  "label": null,
+  "q": "The lower third of the esophagus is supplied by:",
+  "opts": [
+   "Short gastric vessels",
+   "Right gastric vessels",
+   "Left gastro-epiploic vessels",
+   "Left gastric vessels"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 163
+ },
+ {
+  "group": "AP",
+  "label": null,
+  "q": "A hernia is called Littre's hernia when its contents include:",
+  "opts": [
+   "Meckel's diverticulum",
+   "Bladder wall",
+   "Ovary",
+   "Appendix"
+  ],
+  "src": [
+   "Hernia book — Chapter 09: Hernia Complications"
+  ],
+  "id": 164
+ },
+ {
+  "group": "AP",
+  "label": null,
+  "q": "Patient with long ulcer dyspepsia vomits large amounts of old undigested food; epigastric distension. Diagnosis:",
+  "opts": [
+   "Cancer stomach fungating",
+   "Gastric outlet obstruction due to chronic DU (fibrotic pyloric stenosis)",
+   "Acute gastritis",
+   "Achalasia"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 165
+ },
+ {
+  "group": "AP",
+  "label": null,
+  "q": "The most accurate investigation to diagnose Meckel's diverticulum is:",
+  "opts": [
+   "CT abdomen",
+   "Angiography",
+   "Tc-99m pertechnetate (Meckel's) scan",
+   "Abdominal US"
+  ],
+  "src": [
+   "Digestive System — Chapter 10: Small Intestine and Colon Surgery"
+  ],
+  "id": 166
+ },
+ {
+  "group": "AP",
+  "label": null,
+  "q": "Sliding hernia does NOT occur in:",
+  "opts": [
+   "Bubonocele (small hernia within canal)",
+   "Elderly patients",
+   "Large hernias",
+   "Scrotal hernia"
+  ],
+  "src": [
+   "Hernia book — Chapter 07: Sliding Hernia"
+  ],
+  "id": 167
+ },
+ {
+  "group": "AP",
+  "label": null,
+  "q": "Barium swallow does NOT show:",
+  "opts": [
+   "Anatomical distortion",
+   "Mucosal irregularity",
+   "Regional lymph nodes in cancer",
+   "Luminal narrowing"
+  ],
+  "src": [
+   "Digestive System — Chapter 01: GI Symptoms and Investigations"
+  ],
+  "id": 168
+ },
+ {
+  "group": "AQ",
+  "label": null,
+  "q": "Squamous cell carcinoma of the esophagus most commonly occurs in:",
+  "opts": [
+   "Upper thoracic esophagus",
+   "Cervical esophagus",
+   "Middle thoracic esophagus",
+   "Lower thoracic esophagus / GEJ"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 169
+ },
+ {
+  "group": "AQ",
+  "label": "Microbiology",
+  "q": "Salmonella spp. have the following biochemical reactions EXCEPT:",
+  "opts": [
+   "Ferment lactose",
+   "Urease negative",
+   "Indole negative",
+   "Ferment glucose"
+  ],
+  "src": [
+   "Digestive System — Chapter 07: Foodborne Infection"
+  ],
+  "id": 170
+ },
+ {
+  "group": "AQ",
+  "label": "Microbiology",
+  "q": "In a retirement-home outbreak, what is the primary reservoir of infection?",
+  "opts": [
+   "Birds",
+   "Cattle",
+   "Rodents",
+   "Human"
+  ],
+  "src": [
+   "Digestive System — Chapter 07: Foodborne Infection"
+  ],
+  "id": 171
+ },
+ {
+  "group": "AR",
+  "label": "Microbiology",
+  "q": "Which culture medium is used for curved gram-negative bacilli growing at 42°C?",
+  "opts": [
+   "Thayer-Martin medium",
+   "MacConkey agar",
+   "Skirrow's media",
+   "Lowenstein-Jensen medium"
+  ],
+  "src": [
+   "Digestive System — Chapter 07: Foodborne Infection"
+  ],
+  "id": 172
+ },
+ {
+  "group": "AR",
+  "label": "Microbiology",
+  "q": "Which organism would NOT benefit from prompt antibiotic treatment?",
+  "opts": [
+   "C. botulinum",
+   "C. perfringens",
+   "B. anthracis",
+   "C. difficile"
+  ],
+  "src": [
+   "Digestive System — Chapter 07: Foodborne Infection"
+  ],
+  "id": 173
+ },
+ {
+  "group": "AR",
+  "label": "Microbiology",
+  "q": "Bacillus cereus is the etiological agent of all of the following EXCEPT:",
+  "opts": [
+   "\"Long-incubation\" or diarrheal form of food poisoning",
+   "Non bloody diarrhea",
+   "Cutaneous anthrax",
+   "\"Short-incubation\" or emetic form of food poisoning"
+  ],
+  "src": [
+   "Digestive System — Chapter 07: Foodborne Infection"
+  ],
+  "id": 174
+ },
+ {
+  "group": "AR",
+  "label": "Microbiology",
+  "q": "Which stool study is specifically recommended for hospital-acquired diarrhea or diarrhea after recent antibiotics?",
+  "opts": [
+   "Fecal occult blood only",
+   "Ova and parasites only",
+   "Clostridioides difficile toxin testing",
+   "Stool elastase"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 175
+ },
+ {
+  "group": "AS",
+  "label": "Microbiology",
+  "q": "Rodents are reservoirs of Leptospira which colonize their:",
+  "opts": [
+   "Eye",
+   "Skin",
+   "Spleen",
+   "Kidneys"
+  ],
+  "src": [
+   "Digestive System — Chapter 07: Foodborne Infection"
+  ],
+  "id": 176
+ },
+ {
+  "group": "AS",
+  "label": "Microbiology",
+  "q": "Salmonella causing food poisoning include:",
+  "opts": [
+   "Salmonella typhi",
+   "Salmonella typhimurium",
+   "Salmonella paratyphi A",
+   "Salmonella paratyphi B"
+  ],
+  "src": [
+   "Digestive System — Chapter 07: Foodborne Infection"
+  ],
+  "id": 177
+ },
+ {
+  "group": "AS",
+  "label": "Microbiology",
+  "q": "The laboratory test of choice to diagnose brucellosis is:",
+  "opts": [
+   "Gram stain",
+   "Direct culture on nutrient agar",
+   "Blood film",
+   "Blood culture"
+  ],
+  "src": [
+   "Digestive System — Chapter 07: Foodborne Infection"
+  ],
+  "id": 178
+ },
+ {
+  "group": "AS",
+  "label": "Microbiology",
+  "q": "A 32-year-old has had diarrhea for two weeks, sometimes with dysentery, after taking antibiotics for sinusitis before symptoms began. Which organism is most likely?",
+  "opts": [
+   "Clostridium difficile",
+   "Staphylococcus aureus",
+   "Salmonella typhi",
+   "Campylobacter jejuni"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 179
+ },
+ {
+  "group": "AS",
+  "label": "Microbiology",
+  "q": "Culture of Campylobacter is done under the following condition:",
+  "opts": [
+   "Strict anaerobe",
+   "Micro-aerophilic and capnophilic",
+   "Strict aerobe",
+   "Facultative anaerobe"
+  ],
+  "src": [
+   "Digestive System — Chapter 07: Foodborne Infection"
+  ],
+  "id": 180
+ },
+ {
+  "group": "AT",
+  "label": "Microbiology",
+  "q": "What is the most common infectious cause of chronic diarrhea?",
+  "opts": [
+   "Shigella dysenteriae",
+   "Salmonella enterica",
+   "Giardia lamblia",
+   "Norovirus"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 181
+ },
+ {
+  "group": "AT",
+  "label": "Parasitology",
+  "q": "Which snail is the intermediate host of Schistosoma japonicum in the GI book's table?",
+  "opts": [
+   "Lymnaea species",
+   "Biomphalaria alexandrina",
+   "No snail host",
+   "Onchomelania species"
+  ],
+  "src": [
+   "Digestive System — Chapter 09: Parasitic GI Diseases"
+  ],
+  "id": 182
+ },
+ {
+  "group": "AT",
+  "label": "Parasitology",
+  "q": "Which Schistosoma life-cycle stage hatches from eggs in fresh water and penetrates the snail?",
+  "opts": [
+   "Cercaria",
+   "Miracidium",
+   "Adult female",
+   "Schistosomulum"
+  ],
+  "src": [
+   "Digestive System — Chapter 09: Parasitic GI Diseases"
+  ],
+  "id": 183
+ },
+ {
+  "group": "AU",
+  "label": "Parasitology",
+  "q": "What is the mode of infection of Taenia saginata?",
+  "opts": [
+   "Ingestion of undercooked meat",
+   "Ingestion of contaminated water",
+   "Ingestion of raw pork",
+   "Penetration of larvae through the skin"
+  ],
+  "src": [
+   "Digestive System — Chapter 09: Parasitic GI Diseases"
+  ],
+  "id": 184
+ },
+ {
+  "group": "AU",
+  "label": "Parasitology",
+  "q": "What is the diagnostic stage of Schistosoma mansoni detected in stool?",
+  "opts": [
+   "Eggs",
+   "Adult worms",
+   "Miracidia",
+   "Cercariae"
+  ],
+  "src": [
+   "Digestive System — Chapter 09: Parasitic GI Diseases"
+  ],
+  "id": 185
+ },
+ {
+  "group": "AU",
+  "label": "Parasitology",
+  "q": "Cysticercus bovis is the infective stage of which parasite?",
+  "opts": [
+   "Taenia saginata",
+   "Echinococcus granulosus",
+   "Diphyllobothrium latum",
+   "Taenia solium"
+  ],
+  "src": [
+   "Digestive System — Chapter 09: Parasitic GI Diseases"
+  ],
+  "id": 186
+ },
+ {
+  "group": "AU",
+  "label": "Parasitology",
+  "q": "Which stage of Schistosoma infects humans after exposure to contaminated fresh water?",
+  "opts": [
+   "Egg",
+   "Cercaria",
+   "Miracidium",
+   "Adult worm"
+  ],
+  "src": [
+   "Digestive System — Chapter 09: Parasitic GI Diseases"
+  ],
+  "id": 187
+ },
+ {
+  "group": "AV",
+  "label": "Parasitology",
+  "q": "A 12-year-old Egyptian boy with a history of swimming in irrigation canals presents with blood and mucus in the stool. Stool examination reveals parasitic eggs. What is the treatment?",
+  "opts": [
+   "Albendazole",
+   "Praziquantel",
+   "Niclosamide",
+   "Mebendazole"
+  ],
+  "src": [
+   "Digestive System — Chapter 09: Parasitic GI Diseases"
+  ],
+  "id": 188
+ },
+ {
+  "group": "AV",
+  "label": "Parasitology",
+  "q": "Where do adult Schistosoma haematobium worms reside?",
+  "opts": [
+   "Vesical venous plexus",
+   "Inferior mesenteric venous plexus",
+   "Pulmonary arteries",
+   "Bile ducts"
+  ],
+  "src": [
+   "Digestive System — Chapter 09: Parasitic GI Diseases"
+  ],
+  "id": 189
+ },
+ {
+  "group": "AV",
+  "label": "Parasitology",
+  "q": "What is the intermediate host of Schistosoma mansoni in the GI book's life-cycle table?",
+  "opts": [
+   "Mosquitoes",
+   "Humans",
+   "Biomphalaria alexandrina",
+   "Onchomelania species"
+  ],
+  "src": [
+   "Digestive System — Chapter 09: Parasitic GI Diseases"
+  ],
+  "id": 190
+ },
+ {
+  "group": "AV",
+  "label": "Extra",
+  "q": "Which is NOT a predisposing factor for esophageal cancer?",
+  "opts": [
+   "Achalasia",
+   "Columnar metaplasia (Barrett's)",
+   "Chronic reflux esophagitis",
+   "Long-standing esophageal varices"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 191
+ },
+ {
+  "group": "AV",
+  "label": "Extra",
+  "q": "In esophageal cancer, investigation for mediastinal + LN invasion:",
+  "opts": [
+   "Bronchoscopy",
+   "Endoluminal ultrasonography (EUS)",
+   "Esophagoscopy",
+   "Barium swallow"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 192
+ },
+ {
+  "group": "AW",
+  "label": "Extra",
+  "q": "Radiotherapy as 1st-line gives results similar to surgery in:",
+  "opts": [
+   "Pancreatic exocrine carcinoma",
+   "Barrett's adenocarcinoma",
+   "RCC",
+   "HCC",
+   "SCC of skin"
+  ],
+  "src": [
+   "General oncology — no specific matching chapter identified in the supplied Digestive System contents"
+  ],
+  "id": 193
+ },
+ {
+  "group": "AW",
+  "label": "Extra",
+  "q": "Which bariatric procedure induces MALABSORPTION?",
+  "opts": [
+   "Total gastrectomy",
+   "Sleeve gastrectomy",
+   "Roux-en-Y gastric bypass",
+   "Adjustable gastric band"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 194
+ },
+ {
+  "group": "AW",
+  "label": "Extra",
+  "q": "All the following predispose to stress ulceration of the stomach EXCEPT:",
+  "opts": [
+   "Acute pancreatitis",
+   "Major burn (Curling's ulcer)",
+   "Deep vein thrombosis",
+   "Head injury (Cushing's ulcer)",
+   "Septic shock"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 195
+ },
+ {
+  "group": "AX",
+  "label": "Extra",
+  "q": "The INCORRECT statement about secretory diarrhea is:",
+  "opts": [
+   "Diarrhea continues while fasting for 24–48 h",
+   "Lactose intolerance is a classic example",
+   "Stool volume is usually large (>1 L/day)",
+   "Stools do not contain pus or blood"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 196
+ },
+ {
+  "group": "AX",
+  "label": "Extra",
+  "q": "The most common benign tumor of the esophagus is:",
+  "opts": [
+   "Lipoma",
+   "Hemangioma",
+   "Fibroma",
+   "Leiomyoma"
+  ],
+  "src": [
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 197
+ },
+ {
+  "group": "AX",
+  "label": "Extra",
+  "q": "Features of ulcerative colitis include:",
+  "opts": [
+   "Mouth-to-anus distribution",
+   "Transmural inflammation",
+   "Marked pseudopolyps",
+   "Skip lesions"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 198
+ },
+ {
+  "group": "AX",
+  "label": "Extra",
+  "q": "Which is associated with exudative diarrhea?",
+  "opts": [
+   "Celiac disease",
+   "Salmonella infection",
+   "Lactase deficiency",
+   "Vibrio cholerae"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 199
+ },
+ {
+  "group": "AY",
+  "label": "Extra",
+  "q": "Indications for surgery in peptic ulcer include all EXCEPT:",
+  "opts": [
+   "Pyloric stenosis",
+   "Uncomplicated acute ulcer responsive to PPI",
+   "Perforation",
+   "Bleeding with failed endoscopic control"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 200
+ },
+ {
+  "group": "AY",
+  "label": "Extra",
+  "q": "Morphological features of Crohn's disease include:",
+  "opts": [
+   "Broad-based ulcers",
+   "Skip lesions",
+   "Marked pseudopolyps",
+   "Left-sided disease"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 201
+ },
+ {
+  "group": "AY",
+  "label": "Extra",
+  "q": "Which is NOT a relative indication for surgery in bleeding peptic ulcer?",
+  "opts": [
+   "Elderly patient",
+   "Recurrence of bleeding after endoscopic control",
+   "Long history of peptic ulcer",
+   "Patient with associated serious disease"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 202
+ },
+ {
+  "group": "AY",
+  "label": "Extra",
+  "q": "Regarding congenital hypertrophic pyloric stenosis, TRUE statement:",
+  "opts": [
+   "Presents in first 2 days of life",
+   "Bilious vomiting",
+   "Diagnosed by ultrasound",
+   "Metabolic acidosis",
+   "More common in females"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 203
+ },
+ {
+  "group": "AY",
+  "label": "Extra",
+  "q": "Patients with chronic pyloric stenosis characteristically develop:",
+  "opts": [
+   "Respiratory alkalosis",
+   "Hyperkalemia and hypernatremia",
+   "Hypochloremic hypokalemic metabolic alkalosis",
+   "Metabolic acidosis with hyperkalemia"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 204
+ },
+ {
+  "group": "AZ",
+  "label": "Extra",
+  "q": "Surgery for duodenal ulcer is indicated if:",
+  "opts": [
+   "Repeated ulcerative attacks more than twice per year",
+   "Repeated vomiting of partially digested food",
+   "Single attack of melena in a young patient",
+   "Failure to respond to medical treatment for three weeks"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 205
+ },
+ {
+  "group": "AZ",
+  "label": "Extra",
+  "q": "Regarding complications of gastroesophageal reflux, one of the following is FALSE:",
+  "opts": [
+   "Squamous cell carcinoma",
+   "Esophageal stricture",
+   "Shortening of esophagus",
+   "Metaplasia & dysplasia of lower esophageal mucosa"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 206
+ },
+ {
+  "group": "AZ",
+  "label": "Extra",
+  "q": "Complications of anti-reflux surgery for GERD include all the following EXCEPT:",
+  "opts": [
+   "Gas bloat syndrome",
+   "Pneumothorax",
+   "Dumping syndrome",
+   "Recurrent reflux",
+   "Dysphagia"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 207
+ },
+ {
+  "group": "BA",
+  "label": "Extra",
+  "q": "64-year-old diabetic on omeprazole, chronic oily diarrhea, macrocytic anemia, mild hypoalbuminemia. Most likely diagnosis?",
+  "opts": [
+   "Hemochromatosis",
+   "Crohn's disease",
+   "Bacterial overgrowth syndrome",
+   "Intestinal lymphoma",
+   "Chronic pancreatitis"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 208
+ },
+ {
+  "group": "BA",
+  "label": "Extra",
+  "q": "Gastrin-secreting G cells in the stomach are located in the:",
+  "opts": [
+   "Fundus",
+   "Pyloric canal only",
+   "Body",
+   "Pyloric antrum"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 209
+ },
+ {
+  "group": "BA",
+  "label": "Extra",
+  "q": "All the following about linitis plastica are true EXCEPT:",
+  "opts": [
+   "The stomach is stiff (leather-bottle appearance)",
+   "The stomach is narrowed",
+   "The prognosis is poor",
+   "The tumor may not be visible on the mucosa",
+   "It is a lymphoma of the stomach"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 210
+ },
+ {
+  "group": "BA",
+  "label": "Extra",
+  "q": "Which of the following is NOT a risk factor for the development of esophageal malignancy?",
+  "opts": [
+   "Excessive intake of alcoholic spirits",
+   "Esophageal metaplasia",
+   "Smoking",
+   "Blood group O"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 211
+ },
+ {
+  "group": "BB",
+  "label": "Extra",
+  "q": "All are useful to prevent PUD recurrence EXCEPT:",
+  "opts": [
+   "Avoid frequent small meals",
+   "Stop smoking",
+   "Avoid alcohol",
+   "Avoid NSAIDs"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 212
+ },
+ {
+  "group": "BB",
+  "label": "Extra",
+  "q": "NSAIDs cause acute gastritis through:",
+  "opts": [
+   "Decreased PGE2",
+   "Increased histamine",
+   "Decreased CCK",
+   "Increased PGE2"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 213
+ },
+ {
+  "group": "BB",
+  "label": "Extra",
+  "q": "Regarding Barrett's esophagus:",
+  "opts": [
+   "Occurs in 40% of cases of GERD",
+   "Regular endoscopic surveillance is mandatory",
+   "Best treated with proton pump inhibitors",
+   "Predisposes to squamous cell carcinoma",
+   "It is a squamous metaplasia of the lower third"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 214
+ },
+ {
+  "group": "BB",
+  "label": "Extra",
+  "q": "In bleeding per rectum, which is TRUE?",
+  "opts": [
+   "Meckel's is the commonest cause in adults >60 y",
+   "Massive bleeding never occurs in diverticular disease",
+   "Commonest cause is anal lesions e.g. hemorrhoids",
+   "Angiodysplasia usually affects the left side of the colon"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 215
+ },
+ {
+  "group": "BB",
+  "label": "Extra",
+  "q": "In malignant tumors of the esophagus, all are true EXCEPT:",
+  "opts": [
+   "Are commonest at the upper third",
+   "Occur most commonly in males",
+   "Spread commonly by lymphatics",
+   "Are mostly squamous cell carcinoma"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 216
+ },
+ {
+  "group": "BC",
+  "label": "Extra",
+  "q": "Which of the following conditions are precancerous?",
+  "opts": [
+   "Corrosive stricture",
+   "Barrett's esophagus",
+   "Achalasia",
+   "All of the above"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 217
+ },
+ {
+  "group": "BC",
+  "label": "Extra",
+  "q": "The following features characterize UC EXCEPT:",
+  "opts": [
+   "Crypt abscess and cryptitis",
+   "Pseudopolyps",
+   "Superficial mucosal ulceration",
+   "Stricture formation in chronic cases"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 218
+ },
+ {
+  "group": "BC",
+  "label": "Extra",
+  "q": "About complications of chronic peptic ulcers, all are true EXCEPT:",
+  "opts": [
+   "Posterior duodenal ulcers tend to cause substantial bleeding",
+   "Benign gastric ulcers have a 50% tendency to malignant transformation",
+   "Anterior duodenal ulcers tend to perforate",
+   "The primary treatment of bleeding ulcers is usually non-surgical",
+   "Fibrosis of a chronic duodenal ulcer can cause pyloric obstruction"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 219
+ },
+ {
+  "group": "BD",
+  "label": "Extra",
+  "q": "Which is the definitive treatment for a patient with actively bleeding esophageal varices?",
+  "opts": [
+   "Blood transfusion",
+   "Endoscopic band ligation",
+   "Balloon tamponade",
+   "Vasopressin"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum",
+   "Digestive System — Chapter 23: Portal Hypertension"
+  ],
+  "id": 220
+ },
+ {
+  "group": "BD",
+  "label": "Extra",
+  "q": "In perforated duodenal ulcer, all are true EXCEPT:",
+  "opts": [
+   "Produces abdominal tenderness most marked in the epigastrium",
+   "Usually accompanied by leukocytosis",
+   "Occurs most frequently in women",
+   "Usually preceded by exacerbation of ulcer symptoms"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 221
+ },
+ {
+  "group": "BD",
+  "label": "Extra",
+  "q": "About acute gastric dilatation, TRUE statement:",
+  "opts": [
+   "Treated by gastrectomy",
+   "Hypovolemia is prominent",
+   "Rare postoperative complication",
+   "Causes hyperkalemia",
+   "Stomach shows hyperperistalsis"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 222
+ },
+ {
+  "group": "BD",
+  "label": "Extra",
+  "q": "During exploration for acute abdomen a hole in the anterior wall of the duodenum with turbid bile is found. Surgical steps include all EXCEPT:",
+  "opts": [
+   "Sub-hepatic, sub-diaphragmatic and pelvic drains",
+   "Thorough peritoneal lavage",
+   "Vagotomy and gastric drainage in the acute setting",
+   "Omental patch over the hole (Graham patch)"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 223
+ },
+ {
+  "group": "BE",
+  "label": "Extra",
+  "q": "In Ulcerative colitis all are true EXCEPT:",
+  "opts": [
+   "Runs a steady progressive course with no remission",
+   "Presents with frequent watery blood-stained diarrhea",
+   "Incidence of malignancy is proportional to extent of colonic involvement",
+   "Toxic megacolon should be treated with surgical resection"
+  ],
+  "src": [
+   "Digestive System — Chapter 08: Inflammatory Bowel Disease"
+  ],
+  "id": 224
+ },
+ {
+  "group": "BE",
+  "label": "Extra",
+  "q": "As regards staging of cancer stomach, which is TRUE?",
+  "opts": [
+   "Invasion of up to 7 regional L.N. is considered N3",
+   "Metastases to bone and liver are of equal incidence in advanced stage",
+   "Serosa is invaded only in T4",
+   "Enlarged supraclavicular L.N. is evident in advanced cases"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 225
+ },
+ {
+  "group": "BE",
+  "label": "Extra",
+  "q": "A 47-year-old man presents with several hours of severe abdominal pain, board-like rigidity, shifting dullness and loss of liver dullness, after NSAID intake for backache. Best management is:",
+  "opts": [
+   "IV ranitidine and observation",
+   "Immediate surgery (after resuscitation)",
+   "Ryle tube insertion only",
+   "Immediate blood transfusion"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum",
+   "Digestive System — Chapter 38: Acute Abdomen"
+  ],
+  "id": 226
+ },
+ {
+  "group": "BE",
+  "label": "Extra",
+  "q": "The least common complication of ACUTE peptic ulcer disease is:",
+  "opts": [
+   "Pyloric stenosis",
+   "Microcytic hypochromic anemia",
+   "Hemorrhage",
+   "Perforation"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 227
+ },
+ {
+  "group": "BE",
+  "label": "Extra",
+  "q": "A 50-year-old man with 2-year dyspepsia has a small pyloric gastric ulcer on endoscopy. Biopsy shows chronic inflammation, and the ulcer is not responding to PPI. Most likely diagnosis:",
+  "opts": [
+   "Intestinal hyperplasia of the ulcer mucosa",
+   "Inherited APC gene mutation",
+   "Helicobacter pylori infection",
+   "Vitamin B12 deficiency"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 228
+ },
+ {
+  "group": "BF",
+  "label": "Extra",
+  "q": "Regarding corrosive esophageal injury:",
+  "opts": [
+   "Early corticosteroids are recommended",
+   "Acids cause more injuries than alkalies",
+   "Perforation is not a complication",
+   "Endoscopic dilatation should be started immediately"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 229
+ },
+ {
+  "group": "BF",
+  "label": "Extra",
+  "q": "For early carcinoma of the lower third of the esophagus, the best hope for cure is:",
+  "opts": [
+   "Gastrostomy",
+   "Radiotherapy",
+   "Chemotherapy",
+   "Esophagectomy and gastric pull-up",
+   "Endoscopic stenting"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 230
+ },
+ {
+  "group": "BF",
+  "label": "Extra",
+  "q": "Hematogenous spread of colonic adenocarcinoma is primarily to:",
+  "opts": [
+   "Lungs",
+   "Brain",
+   "Bones",
+   "Liver"
+  ],
+  "src": [
+   "Digestive System — Chapter 04: Pathology of GIT Tumours",
+   "Digestive System — Chapter 15: Colorectal Cancer"
+  ],
+  "id": 231
+ },
+ {
+  "group": "BG",
+  "label": "Extra",
+  "q": "Cell of origin of GIST:",
+  "opts": [
+   "G cells",
+   "Peptic cells",
+   "Cells of Cajal",
+   "Mucus cells",
+   "Parietal cells"
+  ],
+  "src": [
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 232
+ },
+ {
+  "group": "BG",
+  "label": "Extra",
+  "q": "Which structure does NOT pass through one of the three main diaphragmatic openings?",
+  "opts": [
+   "Left gastric artery",
+   "Esophagus",
+   "Aorta",
+   "Inferior vena cava",
+   "Left phrenic nerve"
+  ],
+  "src": [
+   "Diaphragm anatomy — no specific matching chapter identified in the supplied Digestive System contents"
+  ],
+  "id": 233
+ },
+ {
+  "group": "BG",
+  "label": "Extra",
+  "q": "Regarding gastrointestinal bleeding, one of the following is FALSE:",
+  "opts": [
+   "Hematemesis arises distal to the ligament of Treitz",
+   "Melena usually signifies upper GI bleeding",
+   "Endoscopy is the main investigation for upper GI bleeding",
+   "Hematemesis is due to bleeding proximal to the ligament of Treitz"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 234
+ },
+ {
+  "group": "BG",
+  "label": "Extra",
+  "q": "5-year survival after esophagectomy for EARLY esophageal cancer:",
+  "opts": [
+   "80–90%",
+   "60–70%",
+   "<40%",
+   "70–80%",
+   ">90%"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 235
+ },
+ {
+  "group": "BH",
+  "label": "Extra",
+  "q": "The carcinoma commonly arising in Barrett's esophagus is:",
+  "opts": [
+   "Squamous cell carcinoma",
+   "Adenocarcinoma",
+   "Adenosquamous carcinoma",
+   "Transitional cell carcinoma"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 236
+ },
+ {
+  "group": "BH",
+  "label": "Extra",
+  "q": "All the following about pyloric obstruction in adults are true EXCEPT:",
+  "opts": [
+   "Upper GI endoscopy is indicated",
+   "Vomiting is characteristically bilious",
+   "May cause tetany",
+   "May cause metabolic alkalosis"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 237
+ },
+ {
+  "group": "BH",
+  "label": "Extra",
+  "q": "In achalasia of the cardia, all are true EXCEPT:",
+  "opts": [
+   "There is impaired peristalsis at the lower esophageal sphincter",
+   "May be complicated by esophageal carcinoma",
+   "Characterized by 'bird's beak' appearance on contrast radiography",
+   "Dysphagia is equal for fluids and solids"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 238
+ },
+ {
+  "group": "BH",
+  "label": "Extra",
+  "q": "All increase risk of gastric cancer EXCEPT:",
+  "opts": [
+   "Smoking",
+   "H. pylori infection",
+   "Pernicious anemia",
+   "Prolonged H2 blocker intake",
+   "Distal gastrectomy (stump)"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 239
+ },
+ {
+  "group": "BH",
+  "label": "Extra",
+  "q": "Complications of duodenal ulcer include:",
+  "opts": [
+   "Hour-glass stomach",
+   "Malignant transformation",
+   "Gastric outlet obstruction",
+   "Obstructive jaundice"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 240
+ },
+ {
+  "group": "BI",
+  "label": "Extra",
+  "q": "About gastric lymphoma, all TRUE EXCEPT:",
+  "opts": [
+   "Better prognosis than adenocarcinoma",
+   "Chemotherapy improves outcome",
+   "Surgery when possible gives best results",
+   "Usually Hodgkin type",
+   "Less frequent than adenocarcinoma"
+  ],
+  "src": [
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 241
+ },
+ {
+  "group": "BI",
+  "label": "Extra",
+  "q": "Boerhaave's syndrome refers to:",
+  "opts": [
+   "Mucosal tear at GE junction after forceful vomiting",
+   "Iatrogenic perforation during endoscopy",
+   "Corrosive-induced perforation",
+   "Full-thickness spontaneous esophageal perforation after forceful vomiting"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 242
+ },
+ {
+  "group": "BI",
+  "label": "Extra",
+  "q": "Transcoelomic spread of gastric carcinoma goes mainly to:",
+  "opts": [
+   "Liver",
+   "Ovary (Krukenberg)",
+   "Intestine",
+   "Kidney"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 243
+ },
+ {
+  "group": "BJ",
+  "label": "Extra",
+  "q": "67-year-old with dysphagia + hoarseness. Endoscopy: middle 1/3 esophageal cancer + right vocal cord paralysis. Best management:",
+  "opts": [
+   "Tracheostomy",
+   "Esophagectomy through right 5th ICS",
+   "Esophagectomy through left thoraco-abdominal incision",
+   "Esophageal stent"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 244
+ },
+ {
+  "group": "BJ",
+  "label": "Extra",
+  "q": "Which drug increases the risk of GERD?",
+  "opts": [
+   "High-protein diet",
+   "Baclofen",
+   "β-blockers",
+   "Calcium channel blockers"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 245
+ },
+ {
+  "group": "BJ",
+  "label": "Extra",
+  "q": "All the following weaken the gastric mucosal barrier EXCEPT:",
+  "opts": [
+   "Prostaglandin analogues",
+   "Duodeno-gastric reflux",
+   "H. pylori",
+   "Smoking",
+   "Shock"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 246
+ },
+ {
+  "group": "BJ",
+  "label": "Extra",
+  "q": "Regarding gastric peptic ulcer classification (Modified Johnson), which is FALSE?",
+  "opts": [
+   "Type I ulcers occur in the lesser curve with normal or subnormal acid secretion",
+   "Type II ulcers are located in the antrum only",
+   "Malignant transformation is rare",
+   "Type II is usually associated with duodenal ulcer"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 247
+ },
+ {
+  "group": "BK",
+  "label": "Extra",
+  "q": "Complications of gastroesophageal reflux include:",
+  "opts": [
+   "Barrett's esophagus",
+   "Stricture",
+   "Reflux esophagitis",
+   "Hematemesis",
+   "All the above"
+  ],
+  "src": [
+   "Digestive System — Chapter 02: The Esophagus"
+  ],
+  "id": 248
+ },
+ {
+  "group": "BK",
+  "label": "Extra",
+  "q": "Which test is usually NORMAL in bacterial overgrowth syndrome?",
+  "opts": [
+   "D-Xylose absorption",
+   "Stage II Schilling test",
+   "Fecal fat (24h)",
+   "Jejunal aspirate culture",
+   "Lactulose breath test"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 249
+ },
+ {
+  "group": "BK",
+  "label": "Extra",
+  "q": "Disaccharidase deficiency is an example of:",
+  "opts": [
+   "Exudative diarrhea",
+   "Osmotic diarrhea",
+   "Motility diarrhea",
+   "Secretory diarrhea"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 250
+ },
+ {
+  "group": "BK",
+  "label": "Extra",
+  "q": "Regarding gastric carcinoma, all are true EXCEPT:",
+  "opts": [
+   "Rarely affects the antrum of the stomach",
+   "Troisier's sign carries a bad prognosis",
+   "May complicate pernicious anemia",
+   "May be associated with dietary nitrosamines and smoked foods"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 251
+ },
+ {
+  "group": "BK",
+  "label": "Extra",
+  "q": "A recent Japanese immigrant with 3-month indigestion + gastric mass. Most likely diagnosis:",
+  "opts": [
+   "Chronic peptic ulcer",
+   "Multiple acute stress ulcers",
+   "Peutz-Jeghers syndrome",
+   "Gastric adenocarcinoma",
+   "Chronic gastritis"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 252
+ },
+ {
+  "group": "BL",
+  "label": "Extra",
+  "q": "Which is NOT a predisposing factor for gastric cancer?",
+  "opts": [
+   "Foods with preservatives",
+   "Gastric polyp",
+   "H. pylori",
+   "Biliary gastritis",
+   "Iron deficiency anemia"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum",
+   "Digestive System — Chapter 04: Pathology of GIT Tumours"
+  ],
+  "id": 253
+ },
+ {
+  "group": "BL",
+  "label": "Extra",
+  "q": "What differentiates malabsorption in tropical sprue vs bacterial overgrowth?",
+  "opts": [
+   "Serum calcium",
+   "Serum folate",
+   "Serum B12",
+   "Serum iron"
+  ],
+  "src": [
+   "Digestive System — Chapter 05: Diarrhea and Malabsorption"
+  ],
+  "id": 254
+ },
+ {
+  "group": "BL",
+  "label": "Extra",
+  "q": "All are frequent complications of chronic PUD EXCEPT:",
+  "opts": [
+   "Carcinomatous change (only in gastric, very rare in duodenal)",
+   "Bleeding",
+   "Scarring deformity (stenosis)",
+   "Perforation"
+  ],
+  "src": [
+   "Digestive System — Chapter 03: The Stomach and Duodenum"
+  ],
+  "id": 255
+ },
+ {
+  "group": "BM",
+  "label": "Extra",
+  "q": "An extracellular virulence factor of Campylobacter is:",
+  "opts": [
+   "Flagella",
+   "Adhesins",
+   "Enterotoxins (LT)",
+   "Endotoxin (LPS)"
+  ],
+  "src": [
+   "Digestive System — Chapter 07: Foodborne Infection"
+  ],
+  "id": 256
+ },
+ {
+  "group": "BM",
+  "label": "Extra",
+  "q": "The diagnostic stage of Ascaris lumbricoides is:",
+  "opts": [
+   "Cercaria",
+   "Encysted metacercaria",
+   "Egg (in stool)",
+   "Egg and cercaria"
+  ],
+  "src": [
+   "Digestive System — Chapter 09: Parasitic GI Diseases"
+  ],
+  "id": 257
+ }
+]
