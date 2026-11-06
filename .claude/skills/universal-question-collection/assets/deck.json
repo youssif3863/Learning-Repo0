@@ -1,0 +1,23 @@
+{
+  "brand": "YMnotes",
+  "module_label": "MODULE NAME",
+  "file_prefix": "YMnotes_Questions",
+  "cover_title": "Questions — Answer Key & Study Guide",
+  "book_title": "",
+  "group_cycle": [3, 4, 5],
+  "compress_book": "auto",
+  "chapter_regex": null,
+  "tags": {
+    "S":  {"en": "Surgery",           "ar": "جراحة",          "fg": "#8A3B12", "bg": "#FCE9DA"},
+    "M":  {"en": "Internal Medicine", "ar": "باطنة",          "fg": "#1D4F91", "bg": "#E3ECFA"},
+    "MI": {"en": "Microbiology",      "ar": "ميكروبيولوجي",   "fg": "#6B2A8F", "bg": "#F0E5F8"},
+    "PA": {"en": "Parasitology",      "ar": "باراسيتولوجي",   "fg": "#7A5B00", "bg": "#FBF0CC"},
+    "PH": {"en": "Pharmacology",      "ar": "فارماكولوجي",    "fg": "#0B6B6B", "bg": "#D9F1F0"}
+  },
+  "parts": [
+    {"id": "main",   "tags": ["S", "M"], "title": "Internal Medicine & Surgery", "title_ar": "باطنة وجراحة"},
+    {"id": "micro",  "tags": ["MI"],     "title": "Microbiology",                "title_ar": "ميكروبيولوجي"},
+    {"id": "para",   "tags": ["PA"],     "title": "Parasitology",                "title_ar": "باراسيتولوجي"},
+    {"id": "pharma", "tags": ["PH"],     "title": "Pharmacology",                "title_ar": "فارماكولوجي"}
+  ]
+}

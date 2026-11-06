@@ -1,0 +1,18 @@
+[
+  {
+    "id": "e1-p7",
+    "answer": "C",
+    "tag": "M",
+    "page": "46",
+    "exact": true,
+    "anchor": "Competitive reversible PP inhibition",
+    "why":   {"en": "Vonoprazan is a P-CAB: it reversibly blocks the K+ site of the proton pump.", "ar": "Vonoprazan من فئة P-CAB: يحجب بشكل عكوس موقع البوتاسيوم في مضخة البروتون."},
+    "wrong": {
+      "A": {"en": "Irreversible = PPIs.",               "ar": "غير عكوس = PPIs."},
+      "B": {"en": "Prostaglandin inhibition = NSAIDs.", "ar": "تثبيط البروستاجلاندين = NSAIDs."},
+      "D": {"en": "H2 blockade = famotidine.",          "ar": "حجب H2 = famotidine."}
+    },
+    "pearl": {"en": "P-CAB: not a prodrug, acid-stable, works before or after meals.", "ar": "P-CAB: ليس دواءً سالفاً، ثابت في الحمض، يؤخذ قبل/بعد الأكل."},
+    "note": null
+  }
+]
