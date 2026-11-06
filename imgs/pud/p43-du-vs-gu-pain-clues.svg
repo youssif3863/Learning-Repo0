@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img"><style>text{font-family:Helvetica,Arial,sans-serif;fill:#1d2624} .m{fill:#5d6b68} .b{font-weight:700}</style><rect width="100%" height="100%" fill="#f3f5f4"/>
+<line x1="200" y1="20" x2="200" y2="220" stroke="#d5dddb" stroke-width="2"/>
+<text x="100" y="36" text-anchor="middle" font-size="18" class="b">DU</text>
+<text x="300" y="36" text-anchor="middle" font-size="18" class="b">GU</text>
+<path d="M78,62 a26,26 0 1,0 30,34 a20,20 0 1,1 -30,-34 Z" fill="#1f6f68"/>
+<text x="100" y="126" text-anchor="middle" font-size="13">night pain</text>
+<ellipse cx="100" cy="162" rx="34" ry="12" fill="none" stroke="#1d2624" stroke-width="2"/>
+<ellipse cx="100" cy="162" rx="18" ry="5" fill="none" stroke="#5d6b68" stroke-width="1.5"/>
+<text x="100" y="200" text-anchor="middle" font-size="13">worse when hungry</text>
+<g transform="translate(300,80)"><path d="M-8,-20 v14 M0,-20 v14 M8,-20 v14 M-8,-6 q8,8 16,0 M0,0 v24" stroke="#1d2624" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<line x1="-24" y1="-24" x2="24" y2="28" stroke="#e0505f" stroke-width="3"/></g>
+<text x="300" y="130" text-anchor="middle" font-size="13">anorexia</text>
+<rect x="272" y="146" width="56" height="30" rx="6" fill="none" stroke="#1d2624" stroke-width="2"/>
+<path d="M300,152 v14 m-6,-6 l6,7 6,-7" stroke="#e0505f" stroke-width="2.5" fill="none"/>
+<text x="300" y="200" text-anchor="middle" font-size="13">weight loss</text>
+<rect x="20" y="236" width="360" height="46" rx="8" fill="#e6efed"/>
+<text x="200" y="256" text-anchor="middle" font-size="13" class="b">Both: burning epigastric pain · eased by antacids</text>
+<text x="200" y="273" text-anchor="middle" font-size="11" class="m">link to food is variable, not reliable</text>
+</svg>
