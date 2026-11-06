@@ -1,0 +1,4 @@
+interface:
+  display_name: "Etymology — English & Arabic"
+  short_description: "Short part-by-part word meanings in English and Arabic, with context meaning — medical terms included"
+  default_prompt: "Use $etymology to break this word into its parts and give its literal meaning, definition, and meaning in my context, in English and Arabic."
