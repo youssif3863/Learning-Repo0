@@ -1,6 +1,6 @@
 ---
 name: ymnotes-register-students
-description: Register paid YMnotes students on e-teaching.site from the "[YMnotes]" emails in the ymnotes3864@gmail.com Gmail (full package → Medicine + Surgery lectures for 5 months; Mid Questions → Mid-Module Exam Questions for 2 weeks), label each handled thread "ymnotes-registered", and report. Use when asked to register / add / process YMnotes students or registration emails, and in the scheduled daily run. Parameter: window (hours of mail to scan, default 25).
+description: Register paid YMnotes students on e-teaching.site from the "[YMnotes]" emails in the ymnotes3864@gmail.com Gmail (full package → Medicine + Surgery lectures for 5 months; Mid Questions → Mid-Module Exam Questions for 2 weeks), label each handled thread "ymnotes-registered", and email the owner a run report. Use when asked to register / add / process YMnotes students or registration emails, and in the scheduled daily run. Parameter: window (hours of mail to scan, default 25).
 ---
 
 # YMnotes student registration
@@ -33,7 +33,8 @@ won't match the allow rule (2) and will be blocked in Auto mode.
 
 - **Credentials:** never print, echo, log, test, screenshot, write or summarize `ETEACHING_EMAIL` /
   `ETEACHING_PASSWORD`. Never ask for them in chat. Only `drive.js` reads them.
-- **Gmail:** read and label only. Never send, reply, forward, draft, trash, delete or mark spam.
+- **Gmail:** read and label, plus **one** report email per run to ymnotes3864@gmail.com (step 6). Never
+  email anyone else, and never reply, forward, draft, trash, delete or mark spam.
   Never read mail older than the window.
 - **n8n:** read-only. Only `search_workflows`, `search_workflow_executions`, `get_workflow_execution`,
   `get_workflow_details`. Never update, publish, unpublish, execute, archive or test a workflow.
@@ -46,9 +47,12 @@ won't match the allow rule (2) and will be blocked in Auto mode.
 ## Procedure (normal day: 3–6 tool calls)
 
 1. **One Gmail search.** `cutoff=$(( $(date -u +%s) - window*3600 ))`, then
-   `mcp__Gmail__search_threads` with query `subject:"[YMnotes]" after:<cutoff> -label:ymnotes-registered`
+   `mcp__Gmail__search_threads` with query
+   `from:youssif3863@gmail.com subject:"[YMnotes]" after:<cutoff> -label:ymnotes-registered`
    and `pageSize: 50` (page through if `nextPageToken`). If there are none: reply
-   **"No new YMnotes emails in the last <window> h."** and stop. Don't open the browser.
+   **"No new YMnotes emails in the last <window> h."**, email that line (step 6) and stop. Don't open the
+   browser. Keep every run cheap: don't re-read files, don't read REFERENCE.md unless something failed,
+   and use no extra tool calls beyond these steps.
 2. **Classify from subject + snippet.** Snippets carry the labeled fields in order. Call
    `get_thread` (`messageFormat: PLAIN_TEXT`) **only** when a field you need is cut off. Read
    fields by label: code = `Student Code` / `E-Teaching App Student Code`; amount = `Paid` (ACCEPTED)
@@ -94,3 +98,8 @@ won't match the allow rule (2) and will be blocked in Auto mode.
    Failed / unclear (left unlabeled): <code> — <why>
    ```
    Leave out empty sections. Registered MANUAL REVIEW students always get their own section.
+6. **Email the report: every run, exactly once,** including "no new emails" runs and runs that
+   stopped early (missing requirement, login failed). Use `mcp__Gmail__send_message` with
+   `to: ["ymnotes3864@gmail.com"]` (the owner, and nobody else) and plain-text `body` = the step 5 report
+   (or the one line). Subject: `Student registration report — <YYYY-MM-DD> — <N> registered`.
+   Never put "YMnotes" in the subject, because step 1's search would then match it. Send nothing else.
